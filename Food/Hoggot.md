@@ -1,0 +1,2 @@
+- See also: [[Lamb]] and [[Mutton]].
+- Lamb meat that was slaughtered between the age of 1 and 2 years of age.

@@ -1,0 +1,1 @@
+I don't know why I don't eat more toast. It's cheap and easy. And something as simple as butter and toast can be delicious. The only time I'll usually have toast is with [[baked beans]].

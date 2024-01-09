@@ -1,0 +1,7 @@
+Reading [["The King’s City - A History of London during The Restoration" by Don Jordan]] I came across this passage:
+
+> "London [in the 1660s] was one of a handful of 'world cities' scattered across the western hemisphere. Well-to-do Londoners drank tea from China and coffee from Arabia out of Chinese porcelain cups, enjoyed **sack from Spain** and the Canary Islands, put West Indian sugar in their drinks and syllabubs, smoked tobacco from Virginia, wore silks from Turkey and India, and flavoured their food with spices from Zanzibar and Indonesia. In the winter the wealthy kept their heads warm with hats made from beaver pelts from the far north of America. All this luxury was imported on English ships made watertight with tar and pitch from the Baltic, with sails hoisted aloft by ropes made with hemp from Russia to billow out from masts and spars made from Swedish pine. When Charles II returned from exile, he was instantly involved in the commercial life of the city, particularly investing in and encouraging the slave trade, an issue examined here in some depth."
+
+I had no idea what Sack was. But according to [Wikipedia](https://en.m.wikipedia.org/wiki/Sack_(wine)) it’s a lot like [[Sherry]]. But it doesn’t seem to be a thing anymore.
+
+Tags: [[London]] / [[Wine]]

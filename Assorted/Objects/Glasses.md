@@ -1,0 +1,3 @@
+I went quite a few years, not realising I needed glasses. I was walking around very blind apparently. It wasn’t till I tried on my friends glasses as a joke that I realised I was shortsighted.
+
+When I did get my glasses, long overdue), The main thing I noticed was actually How much uglier people were. I was rather shocked to see all the blemishes on peoples faces for the first time. The only thing I noticed was how much eye contact there is. Before I couldn’t tell often if I met eyes with people. So there was less awkwardness. Now with my glasses, I constantly realised I was locking eyes of people. I also realised after getting my glasses that I probably inadvertently blanked a few acquaintances and friends whilst out and about or at the gym. 

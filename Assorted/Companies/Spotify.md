@@ -1,0 +1,1 @@
+- In December, 2023 I was rather shocked to find out Spotify has over 9,000 people working for it‽ [Clowes.blog post](https://clowes.blog/2023/12/05/spotify-has-9000-people-working-for-it%e2%80%bd/).

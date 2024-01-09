@@ -1,0 +1,8 @@
+- The worlds first [[Wiki]].
+- Created in 1995 by [[Ward Cunningham]].
+- It's [still up today](https://wiki.c2.com/).
+- It's a really cool website to explore for any hour or two and I'm really glad it's still up.
+- It says it has a focus on software development.
+- And it's certainly less formal then [[Wikipedia]]. And discussion is a bigger part of it.
+- It think it used to use [[camelCase]], but it now uses [[PascalCase]]. Which can create ugly pages name links like "RichardDrakeInterviewsWardCunningham". But at least when you're browsing the wiki it makes it easy to spot which are internal and external links.
+	- Or maybe it's always used PascalCase. As some people use camelCase and PascalCase to describe the same naming convention. Whereas others (like me) see them as different.

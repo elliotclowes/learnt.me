@@ -1,0 +1,1555 @@
+#Netflix #Transcoding
+
+## Blog posts
+
+- 2023-11: [All of Netflix’s HDR video streaming is now dynamically optimized](https://netflixtechblog.com/all-of-netflixs-hdr-video-streaming-is-now-dynamically-optimized-e9e0cb15f2ba)[°](https://elliotclowes.com/cold/2023/screencapture-netflixtechblog-all-of-netflixs-hdr-video-streaming-is-now-dynamically-optimized-e9e0cb15f2ba-2023-12-19-21_15_20.png)
+- 2022-11: [For your eyes only: improving Netflix video quality with neural networks](https://netflixtechblog.com/for-your-eyes-only-improving-netflix-video-quality-with-neural-networks-5b8d032da09c)
+- 2021-03: [The Netflix Cosmos Platform](https://netflixtechblog.com/the-netflix-cosmos-platform-35c14d9351ad)
+- 2020-08: [Optimized shot-based encodes for 4K: Now streaming!](https://netflixtechblog.com/optimized-shot-based-encodes-for-4k-now-streaming-47b516b10bbb)[°](https://elliotclowes.com/cold/2023/screencapture-netflixtechblog-optimized-shot-based-encodes-for-4k-now-streaming-47b516b10bbb-2023-12-19-21_45_59.pdf)
+- 2018-03: [Dynamic optimizer — a perceptual video encoding optimization framework](https://netflixtechblog.com/dynamic-optimizer-a-perceptual-video-encoding-optimization-framework-e19f1e3a277f)[°](https://elliotclowes.com/cold/2023/screencapture-netflixtechblog-dynamic-optimizer-a-perceptual-video-encoding-optimization-framework-e19f1e3a277f-2023-12-19-21_49_27.pdf)
+
+## Videos
+
+- 2017-12: [AWS re:Invent 2017: How Netflix Encodes at Scale](https://youtu.be/JouA10QJiNc?si=qhEHkVDaiXFgti_6)
+
+## Movie Bitrates
+
+- AT = Already Transcoded
+- The Accountant
+	- HD H264 High: 7343 = 94
+	- HD VP9: 1818 = 93
+- U-571
+	- HD H264 High: 7337 = 95
+	- HD VP9: 1196 = 92
+- Venom: Let There Be Carnage
+	- HD VP9 HDR: 1260
+	- HD HEVC Dolby Vision: 2698 = 97
+- Bad Boys For Life
+	- H264 High: 2320 = 95
+- Ghostbusters: Afterlife
+	- HD HDR VP9: 1410
+	- HD HEVC Dolby Vision: 1821 = 97
+- Spider-Man: No Way Home
+	- HD H264 High: 2089 = 96
+	- HD HDR VP9: 2530
+- Uncharted
+	- HD HDR VP9: 3630
+	- HD HEVC Dolby Vision: 4272 = 97
+- Gosford Park: 3871 = 94
+	- VP9: 1005 = 91
+- Godzilla vs. Kong. VP9: 1131 = 93
+- Godzilla (2014). VP9: 1303 = 94
+- Edge of Tomorrow. VP9: 1914 = 95
+- The Hangover. VP9: 2185 = 94 
+- Hell or High Water. VP9: 911 = 95
+- The Talented Mr. Ripley. VP9: 4966 = 93
+- Logan Lucky. VP9: 960 = 96
+- In Time. VP9: 875 = 95
+- Wanted: 6190 = 95
+    - [[March 24th, 2023]]
+- Bad Boys
+    - VP9: 1968 = 90
+- Bad Boys II
+    - VP9: 1763 = 95
+- Daddy Day Camp
+    - VP9: 2096 = 95
+- Maid in Manhattan
+    - VP9: 899 = 93
+- Warrior
+    - VP9: 1202 = 91
+- [[Seventh Son]]: 3910 = 94
+- Safe House: 7202 = 92
+    - Old: 7150
+- 1334: The Invisible Man = 95
+- 3939: Emma = 94
+- 2858: Red Notice = 95
+    - VP9: 776 = 95
+- 5930: She's the Man = 95
+- 3355: Everest = 95
+    - Old: 4870
+- 6190: Planes, Trains and Automobiles = 94 [[January 16th, 2022]]
+- 5182: Shark Tale = 95 [[January 16th, 2022]]
+- 3122: Silver Linings Playbook = 93 [[January 16th, 2022]]
+- 7500: The Constant Gardener = 94
+- 4503: Last Christmas = 95
+- 2745: The Gentlemen = 94
+    - HD VP9: 682 = 94
+- 4640: Second Act = 96
+- Sweeney Todd
+    - VP9: 3296 = 90
+- 7500: Centurion = 95
+    - VP9: 1416 = 93
+- 4954: Troy = 94
+- The Talented Mr Ripley
+    - VP9: 4945 = 93
+- Once Upon a Time... In Hollywood: 
+    - VP9: 780 = 94
+    - 4K (non-HDR): 5500 (screenshooted from tv)
+        - ![](http://elliotclowes.com/cold/IMG_8039.JPG)
+- Cape Fear: 5360 = 94
+- 5360: Bridesmaids = 94
+- 1760: Fifty Shades of Grey = 94
+- 5484: Jaws = 94
+- 3223: Johnny English Reborn = 95
+- The Game: 3480 = 93
+- The Conjuring
+    - VP9: 1494 = 95
+- 6356: The Dawn Wall = 94
+    - VP9: 1425 = 93
+- 3830: The 12th Man = 96
+    - VP9: 827 = 96
+- 3907: American Assassin = 95
+- 4169: A Star Is Born = 94
+    - VP9: 1936 = 95
+- 4870: Rocketman = 96
+- 4859: The Italian Job = 94
+    - VP9: 872 = 92
+- 3891: The Adventures of Tintin = 97
+    - VP9: 1619 = 97
+- 7496: School of Rock = 92
+    - VP9: 6767 = 94
+- 4420: A Long Way Down = 96
+- 5318: Cast Away = 93
+- 5360: Collateral = 93
+- 4004: Baby Mama = 90
+- 3734: 47 Ronin = 95
+- 7500: Fighting = 91
+- 6490: In the Name of the Father = 91
+- 4799: Jane Eyre (2011) = 89
+- 3347: Kung Fu Panda 2 = 95
+- 6190: The Mexican = 96
+- 3745: Shrek 2 = 94
+- 4418: Shrek = 94
+- 2419: Wild Bill = 94
+- 7500: The Time Traveler's Wife = 95
+- 4782: Rampage = 94
+- 2870: The Best of Enemies = 96
+- 4220: The Sisters Brothers = 94
+- 1949: Pet Sematary = 93
+- 5290: Into the Wild = 94
+- 7500: The Switch = 93
+- 3244: The Longest Yard = 95
+- 2661: Blinded by the Light = 96
+- 1812: Molly's Game = 95
+- 7500: The Art of Self-Defense = 88
+- 2869: 3:10 to Yuma = 95
+- 2836: 2012 = 94
+- 7274: Ghostbusters = 91
+- 3401: S.W.A.T. = 95
+- 3301: Trial by Fire = 92
+- 3451: News of the World = 95
+    - VP9: 1036 = 94
+- 4420: The Sisters Brothers = 94
+- 7445: A Cinderella Story = 93
+- 4076: 2 Guns = 94
+- 3106: Game Night = 93
+- 2869: 3:10 to Yuma = 95
+- 7274: Ghostbusters = 91
+- 7500: A.I. Artificial Intelligence = 92
+- 3436: Anna Karenina = 93
+- 6303: Mamma Mia! = 95
+- 5028: O Brother, where art thou? = 95
+- 3160: The Debt = 94
+- 4640: RoboCop (2014) = 97
+    - VP9: 1109 = 97
+- 3451: News of the World = 95
+    - VP9: 1036 = 94
+- 7298: Glory = 89
+    - VP9: 4875 = 92
+- 7419: Mean Girls = 94em
+    - VP9: 7207 = 93
+- 3320: The Legend of Zorro = 94
+    - VP9: 1126 = 94
+- 6810: Zack and Miri Make a Porno = 92
+    - VP9: 1269 = 91
+- 4195: xXx: Return of Xander Cage = 96
+- 3913: Three Identical Strangers = 94
+- 3160: The Woman in Black = 94
+- 3647: The Wolf of Wall Street = 95
+- 3508: The Holiday = 90
+- 7500: Shoot 'Em Up = 95
+- 7500: Semi-Pro = 95
+- 6877: Saving Private Ryan = 89
+- 4420: Morning Glory = 96
+    - VP9: 966 = 95
+- 6190: My Sister's Keeper = 93
+- 6810: Dredd = 95
+- 6190: Around The World In 80 Days = 94
+- 4420: Mary, Queen of Scots = 95
+- 5620: The Last of the Mohicans = 94
+- 3480: The Prestige = 94
+- 3930: Jack Reacher = ?/?
+- 3309: Holmes & Watson = 95
+    - VP9: 1166 = 95
+    - Old: 4640
+- 7500: Road Trip = 94
+- 7500: Spider-Man: Into the Spider-Verse = 96
+- 7500: National Lampoon's Vacation = 90
+- 7500: Nativity 3 = 94. __VP9: 2254 = 93__
+- 6810: Nativity 2 = 94. __VP9: 1805 = 92__
+- 5800: [[Zombieland (2009)]] = 95
+- 7500: Blended = 95
+- 5800: Happy Feet Two = 96
+- 6490: Music and Lyrics = 93
+- 7500: Ninja Assassin = 90
+    - VP9: 7101 = 93
+- 3830: The Curious Case of Benjamin Button = 95
+- 4870: We're the Millers = 95
+    - VP9: 1889 = 95
+- 7150: The Bourne Legacy = 94
+- 5620: The Bourne Ultimatum = 95
+- 6190: The Bourne Supremacy = 94
+- 4220: The Bourne Identity = 94
+- 7500: Mr Bean's Holiday = 95
+- 7500: American Reunion = 91
+- 2748: Johnny English Strikes Again = 95
+    - Old: 4220 = 96
+- 7500: The Da Vinci Code = 93. 4K Non-HDR: 16.73 Mbps
+- 5662: Rise of the Guardians = 96
+- 4640: Corpse Bride = 94. VP9: 3.31 Mbps
+- 6490: Cowboys & Aliens = 96
+- 3650: Gangster Squad = 95
+- 4640: Hunger = 93
+- 3010: Selma = 96. VP9: 1.57 Mbps.
+- 4420: Super 8 = 94
+- 6490: The Three Musketeers = 96. 
+    - VP9: 1305 = 94
+- 7500: White Chicks = 94. VP9: 3.93 Mbps.
+- 4420: The Ugly Truth = 94
+- 3650: The Girl in the Spider's Web = 96
+- 5800: xXx: The Return of Xander Cage = 97
+- 7500: Early Man = 94
+- 5150: Kick-Ass = 95
+    - Old: 7150 = 96
+- 5360: Enola Holmes = 96 (AVC High: 2535 = 96)
+- 6190: Zoolander = 92
+- 4020: Watchmen = 94
+- 4870: Zodiac = 94
+- 5800: Dinner for Schmucks = 94
+- 3907: Charlie and the Chocolate Factory = 94
+    - Old: 5360 = 95
+- 5110: A Beautiful Mind = 93
+- 3223: Johnny English Reborn = 95
+    - Old: 4220 = 95
+- 7126: Johnny English = 92
+    - Old: 7500 = 93
+- 4640: Deadpool = 96.
+    - VP9: 1034 = 95
+- 5110: A Million Ways to Die in the West = 96
+- 5438: The Town = 94
+    - VP9: 1783 = 93
+    - Old: 7150 = 94
+- 7500: [[Robin Hood (2010)]] = 93.
+- 6490: Danger Close: The Battle of Long Tan = 97
+- 7500: American History X = 92
+- 7500: American Pie Presents: Band Camp = 93
+- 7500: Bad Grandpa .5 = 95
+- 7500: Jackass: Number Two = 95
+- 5360: Tammy = 90
+- 6190: Bulletproof (Adam Sandler) = 95
+- 6490: How to Lose a Guy in 10 Days = 92
+- 6190: Rumor Has It... = 90
+- 6392: [[Sex and the City 2 (2010)]] = 92
+    - VP9: 6478: 95
+    - Old: 7500 = 92
+- 4870: The Call (2013) = 94
+- 4020: The Imitation Game = 95
+    - VP9: 662 = 93
+- 4640: The Mask (1994) = 92
+- 7500: Twilight = 94
+- 6810: The Last Samurai (2003) = 94
+- 7500: Joy (2015) = 94
+- 6190: Searching (2018) = 97
+- 6190: Terminator Salvation (2009) = 96
+	- New, 2023-12-19: 3706 = 95
+- 7500: [[Bruno (2009)]] = 92
+- 3480: [[Dallas Buyers Club (2013)]] = 94
+- 6490: The Green Mile = 93
+- 7500: The Secret Garden = 92
+- 4420: The Equalizer 2 = 96
+- 5800: Don Jon = 93
+- 4640: A Simple Favour = 95
+- 5110: [[Mission: Impossible - Fallout (2018)]] = 95
+- 4547: Ali G Indahouse = 93
+    - Old: 5620 = 94
+- 7500: The Truman Show = 92
+- 7500: Torque = 96
+- 6329: You, Me and Dupree = 93
+    - Old: 7500 = 94
+- 4420: [[Puss in Boots (2011)]] = 96
+- 4420: American Wedding (2003) = 95
+- 4394: Inside Man (2006) = 94 [[January 16th, 2022]]
+    - 6190 = 95
+- 7500: Kindergarten Cop (1990) = 92
+- 4640: Oblivion (2013) = 95
+- 7500: Role Models (2008) = 94
+- 7500: The American (2010) = 93
+- 7150: The Perfect Man (2005) = 92
+- 3650: Book Club (2018) = 96
+- 3830: Ophelia (2018) = 95
+- 5800: Disturbia (2007) = 94
+- 7500: Blue Streak (1999) = 93
+- 5800: Faster (2010) = 94
+- 5110: Four Brothers = 95
+- 5110: Jupiter Ascending = 95
+- 6190: Matilda = 95
+- 5620: RED = 95
+- 5360: The Man from U.N.C.L.E. = 95
+- 5620: The Martian = 97
+- 4870: Extraction = 97
+- 5800: Crimson Peak = 93
+- 4640: Shrek Forever After = 96
+- 5630: Shrek the Third = 95
+- 4640: American Pie = 94
+- 5620: American Pie 2 = 92
+- 6810: Get Him to the Greek = 93
+- 3650: Maze Runner: The Scorch Trials = 97
+- 6190: The Perfect Storm = 93
+- 3830: She’s Out of My League = 94
+- 5620: Shutter Island = 95
+- 3830: Arrietty = 95
+- 6810: Castle in the Sky = 92
+- 7500: Nausicaä of the Valley of the Wind = 89
+- 6190: Princess Mononoke = 94
+- 7500: The Cat Returns = 96
+- 5110: Spirited Away = 95
+- 4220: The Dictator = 96
+- 3480: The Young Victoria = 95
+    - VP9: 692 = 94
+- 7500: The Fighter = 95
+- 6552: Kicking & Screaming = 94 [[January 16th, 2022]]
+    - Old: 7500 = 95
+- 6190: Tower Heist = 95
+- 5620: Hostiles = 95
+- 7150: Trainwreck = 93
+- 4420: The House Bunny = 94
+- 5360: The Promise = 96
+- 7500: Good Time = 90
+- 6190: Uncut Gems = 94
+- 6190: Lemmy = 92
+- 7500: Year One = 93
+- 7150: Rango = 96
+- 5110: No Strings Attached = 94
+    - VP9: 1024 = 93
+- 6190: Conan the Barbarian (2011) = 95
+- 7150: Clueless = 94
+- 6810: 50/50 = 92
+- 5800: 13 Hours: The Secret Soldiers of Benghazi = 97
+- 4420: Lady Bird =92
+- 6190: Dunkirk = 96
+- 4870: Kingsman: The Secret Service = 97
+- 6190: Spy = 96
+- 5800: Ted 2 = 97
+- 6490: The Last Witch Hunter = 96
+- 4870: Fifty Shades Freed = 96
+- 7500: Phantom Thread = 88
+- 3320: Darkest Hour = 94
+- 6190: Arthur Christmas = 97
+- 7500: Wonder Woman = 94
+- 2610: I Am Mother = 96
+- 5800: The Hustle = 96
+- 4420: The Death of Stalin = 96
+- 6810: Along Came Polly = 94
+- 7500: Drillbit Taylor = 94
+- 7500: Sense and Sensibility = 89
+- 4220: The Interview = 96
+- 7500: The Nutty Professor = 94
+- 7500: The Terminal = 94
+- 3320: True Romance = 94
+- 4420: Hellboy = 95
+    - VP9: 2929 = 94
+- 5620: John Wick: Chapter 3 - Parabellum = 96
+- 5360: La La Land = 95
+- 3650: Long Shot = 96
+- 5620: The Boxtrolls = 96
+- 4220: Missing Link = 96
+- 3320: Mrs. Lowry & Son = 95
+- 5800: The Great Escape = 91
+- 4870: Downsizing = 95
+- 5110: Fighting with My Family = 97
+- 6190: The Brothers Grimsby = 97
+- 6476: Jurassic World = 93
+- 7500: Black Death = 92
+- 7500: Nativity = 95. VP9: 1564 = 93.
+- 5360: The Dukes of Hazzard = 95
+- 5800: Jumanji: Welcome to the Jungle = 97
+- 5800: The King = 97
+- 7500: Bad Boys = 90
+- 4640: First Sunday = 92
+- 7500: Get Smart = 93
+- 7500: National Security = 04
+- 3650: Reservoir Dogs = 94
+- 3650: The Lincoln Lawyer = 97
+- 7500: Wedding Crashers = 96
+- 5620: Daddy’s Home 2 = 95
+- 7500: Kong: Skull Island = 94
+    - VP9: 2229 = 94
+- 5620: Hotel Transylvania = 97
+- 7500: Fist Fight = 95
+- 7150: Lawless = 93
+- 6490: The World’s End = 95
+- 3232: Paul = 94
+- 5800: Shrek = 95
+- 4640: Oblivion = 95
+- 6810: Meet Joe Black = 95
+- 4316: Les Misérables = 91
+    - Old: 6810 = 92
+- 5800: Kick-Ass 2 = 97
+- 7150: Kick-Ass = 96
+- 4420: Identity Thief = 95
+- 4020: Hanna = 95
+- 7500: Green Zone = 91
+- 3650: About Time = 96
+- 7150: American Pie Presents: The Naked Mile = 94
+- 5110: Did You Hear About the Morgans? - 95
+- 3160: Colossal - 95
+- 4220: Get Santa - 95 
+- 4020: He’s Just Not That Into You - 95
+- 7150: Sex and the City: The Movie - 94
+- 4640: Star Trek - 96
+- 5800: John Wick: Chapter Two - 95
+- 6190: Robin Hood - 96
+- 4020: David Brent: Life on the Road
+- 3650: The Snowman
+- 6490: The Lego Batman Movie
+- 3010: Suburbicon
+- 4020: Angels & Demons = 95
+- 2836: 2012 = 94
+    - Old: 4640
+- 3480: Arbitrage
+- 7500: The Pianist - 94
+- 3010: Blade Runner 2049 = 96
+    - VP9: 666 = 95
+- 7500: Are We Done Yet? - 95
+- 5110: Hunter Killer
+- 4870: 8 Mile
+- 7500: Charlie Wilson’s War - 94
+- 4220: Cirque du Freak: The Vampire’s Assistant
+- 7150: Funny People
+- 4220: It’s Kind of a Funny Story
+- 7500: Nanny McPhee - 94
+- 7500: Role Models - 94
+- 4220: The Dilemma
+- 5620: Due Date = 94
+- 5110: Valkyrie
+- 6190: The Other Guys
+- 4020: The King’s Speech
+- 7500: The Bounty - 93
+- 5110: Paul Blart: Mall Cop
+- 5800: [[Pineapple Express (2008)]] = 94
+- 7500: Midnight Cowboy - 89
+- 5110: Spotlight
+- 3064: Unbroken = 95
+    - Old: 5110
+- 7500: Are We There Yet? - 94
+- 5360: The Theory of Everything
+- 4020: Wildlife
+- 4640: That’s My Boy = 97
+    - VP9: 1454 = 97
+- 7500: The Lord of the Rings: The Return of the King = 94
+- 7500: The Lord of the Rings: The Two Towers = 95
+- 2: The Lord of the Rings: The Fellowship of the Ring = 94
+- 7500: The Mechanic = 93
+- 6490: Atomic Blonde
+- 5360: Bridesmaids
+- 7500: District 9 = 97
+- 6594: Jackass 3 = 95
+    - Old: 7150
+    - VP9: 2246 = 95
+- 4220: [[In Bruges (2008)]] = 93
+    - Chcked again [[September 28th, 2022]], bitrate and VMAF still the same.
+- 6490: The Adjustment Bureau
+- 7500: The Campaign = 94
+- 3320: The Hunger Games: Mockingjay - Part 2
+- 3010: The Hunger Games: Mockingjay - Part 1
+- 6190: The Hunger Games: Catching Fire
+- 6190: The Hunger Games
+- 5110: The Pursuit of Happyness
+- 7500: The Taking of Pelham 123 = 94
+- 5110: The Wolfman = 92
+- 6190: Wanted = 95
+    - [[May 31st, 2022]]
+- 4640: Zero Dark Thirty = 94
+- 5800: Creed II
+- 4020: Mission: Impossible - Ghost Protocol
+- 5800: The Raid
+- 3460: The Beguiled
+- 5110: Rush = 97
+    - VP9: 1300 = 97
+- 4870: Baby Driver
+- 4220: The Back-Up Plan
+- 6810: The Mummy (2017)
+- 5800: Blood Father
+- 5800: Shaun of the Dead = 94
+- 5360: Pirate Radio / The Boat That Rocked
+- 7500: Spartacus
+- 5800: The Eagle
+- 4640: A Royal Affair
+- 5360: Bad Teacher
+- 7500: From Paris with Love
+- 4220: Death at a Funeral
+- 5800: Horrible Bosses
+- 7500: Jumanji
+- 5620: How the Grinch Stole Christmas
+- 7500: Little Fockers
+- 5800: Snatch
+- 6490: Transformers: The Last Knight
+- 5620: The Fate of the Furious
+- 7500: The Hitman’s Bodyguard 
+- 3480: Norman: The Moderate Rise and Tragic Fall of a New York Fixer
+- 5800: Dark Shadows = 93
+    - VP9: 3801 = 95
+- 5360: Friends with Benefits
+- 6810: Ironclad
+- 5800: Snowpiercer
+- 7500: The Great Gatsby
+- 7500: The Infiltrator
+- 4420: Brawl in Cell Block 99
+- 4640: American Pie
+- 7500: American Reunion = 91
+- 6190: Bridget Jones: The Edge of Reason = 94
+- 4870: Bridget Jones’s Diary = 93
+- 6190: Hulk (2003)
+- 4640: This Is 40 = 96
+- 6490: The Incredible Hulk
+- 7500: Café Society
+- 7500: Ip Man
+- 3759: Dracula Untold = 93
+    - Old: 5360
+- 3830: 21 Jump Street
+- 3842: [[Gladiator (2000)]] = 94
+    - Old: 5800 = 96
+- 5620: 50 First Dates
+- 2992: Goosebumps = 95
+    - Old: 4870
+- 5800: Hall Pass
+- 5800: Legion
+- 6810: The International
+- 6190: [[Step Brothers (2008)]] = 94
+    - VP9: 924 = 92
+- 5800: The Mask of Zorro
+- 4220: [[This Is the End (2013)]]
+    - VP9: 1053 = 95
+- 7500: Walking Tall
+- 6190: Detroit = 93
+- 4220: Eddie the Eagle
+- 4420: Sicario 2: Soldado
+- 4640: The Spy Who Dumped Me
+- 4640: Trespass Against Us
+- 6490: Here Comes The Boom
+- 7500: Nativity
+- 5360: Guardians of the Galaxy Vol. 2
+- 6810: Moneyball = 93
+- 5360: A Cure for Wellness
+- 3320: The Riot Club
+- 3010: Gotti
+- 6490: Power Rangers
+- 5110: Suicide Squad
+- 6810: Batman v Superman: Dawn of Justice
+- 7500: Notting Hill = 94
+- 5800: Lucy = 97
+- 5800: Eat Pray Love
+- 4420: That’s My Boy
+- 3320: The Equalizer
+- 4640: Total Recall
+- 2736: Ghost in the Shell = 94
+    - Old: 5110 = 95
+- 4593: Just Go With It = 94
+    - VP9: 1526 = 94
+- 5620: Beauty and the Beast (2017)
+- 7500: Happy Feet Two
+- 4220: Johnny English Reborn
+- 7500: Johnny English
+- 5620: Rush Hour 3
+- 7500: Rush Hour 2
+- 6810: Snow White & the Huntsman
+- 5110: Ted
+- 7500: Daddy Day Care
+- 7500: Scooby-Doo 2: Monsters Unleashed
+- 7500: Scooby-Doo
+- 5040: The Break-Up = 92
+    - Old: 6490
+- 5553: Apollo 13 = 93
+    - Old: 7150
+- 7500: The Other Boleyn Girl = 94
+- 3650: I Feel Pretty = 96
+- 5110: Keanu
+- 7500: Mamma Mia
+- 3830: Get Out
+- 7500: Atonement = 93
+- 3480: Life
+- 7150: The Legend of Tarzan
+- 4420: American Wedding
+- 7500: Blow
+- 6810: Hellboy II: The Golden Army
+- 
+- 5110: The Five-Year Engagement = 94
+- 6490: Polar
+- 3650: Fifty Shades Darker
+- 5110: Inception = 95
+- 7500: Chitty Chitty Bang Bang
+- 6810: The Great Wall
+- 4640: Born to Be Blue
+- 5110: Bad Santa 2
+- 4220: The Interview
+- 4220: [[Office Christmas Party (2016)]]
+	- H264 High: 2300 = 96
+	- VP9: 1167 = 96
+- 3320: Belle
+- 4420: Split
+- 7500: Austin Powers: The Spy Who Shagged Me
+- 7500: Hitch
+- 7500: The Blind Side
+- 7500: Valentine's Day
+- 5800: Zookeeper
+- 7500: Silence of the Lambs
+- 2409: Fences = 94
+    - Old: 3320
+- 5800: xXx: The Return of Xander Cage
+- 6190: xXx: State of the Union
+- 6490: xXx
+- 4640: Resident Evil: The Final Chapter
+- 5620: Avengers: Age of Ultron
+- 7500: The Big Short = 94
+- 4420: Shaun the Sheep Movie
+- 7500: T2: Trainspotting
+- 6190: Aloha
+- 3830: Birdman
+- 406 / 2610: Gone Girl
+- 5800: Legally Blonde = 94
+    - VP9: 1293 = 93 [[January 16th, 2022]]
+    - Old: 5110
+- 7500: Noah
+- 5510: True Story
+- 4420: Northern Soul
+- 5360: In The Fade (Aus dem Nichts)
+- 6490: [[Tomb Raider (2018)]]
+- 7500: Carol
+- 7500: Centurion
+- 4220: Attack the Block
+- 5800: Our Kind of Traitor
+- 4640: The Tourist = 95
+- 5800: Vicky Cristina Barcelona
+- 7500: The Losers
+- 7500: Anthropoid
+- 7150: Big Fish
+- 4420: About a Boy
+- 4870: Bridget Jones's Baby
+- 4220: A Monster Calls
+- 6810: [[Love Actually (2003)]] = 95la
+- 7447: The 40-Year-Old Virgin = 92
+    - Old: 7500
+- 3858: The Big Lebowski = 94
+    - Old: 5110
+- 4143: The Change-Up = 92
+    - Old: 5620 = 93
+- 5620: A Million Ways to Die in the West
+- 5800: Riddick
+- 7500: Hellboy
+- 6810: Les Miserables
+- 3480: Bachelorette
+- 4220: Testament of Youth
+- 3160: Journey's End
+- 6810: Larry Crowne
+- 6955: Lord of War = 92
+    - VP9: 1187 = 92
+    - Old: 7500
+- 4420: Syriana
+- 3480: The Captive (2014)
+- 5800: The Hurt Locker
+- 4870: Training Day
+- 5800: Outlaw King
+- 7500: Deck the Halls
+- 7150: Jack Frost
+- 3830: Passengers (720p: 1400)
+- 7500: BASEketball
+- 5800: Outlaw King
+- 3830: The Light Between Oceans
+- 4870: The Good, the Bad and the Ugly
+- 3160: Allied
+- 7500: Children of Men
+- 7500: Hang 'Em High
+- 5800: In a Valley of Violence
+- 7150: Pawn Sacrifice
+- 3010: Selma
+- 5800: RoboCop (1987)
+- 7500: The Lord of the Rings: The Return of the King
+- 7500: The Lord of the Rings: The Two Towers
+- 5800: The Lord of the Rings: The Fellowship of the Ring
+- 5360: Anger Management
+- 7500: Billy Madison
+- 6190: Robin Hood: Prince of Thieves
+- 7500: The Free State of Jones
+- 6190: The Devil's Advocate
+- 7150: The Green Mile
+- 4420: V for Vendetta
+- 4870: Big Miracle
+- 6190: Pirates of the Caribbean: The Curse of the Black Pearl
+- 7500: Role Models
+- 6190: Scott Pilgrim vs. the World = 94
+- 7500: Click
+- 7500: Babe
+- 5800: Contraband
+- 5110: Hannibal
+- 6810: Get Him to the Greek
+- 4020: Priest
+- 5110: RED 2 = 95
+- 4870: Stronger
+- 7500: A Fistful of Dollars
+- 7500: Cloud Atlas
+- 5360: Four Weddings and a Funeral
+- 5800: Platoon
+- 4420: Thelma & Louise
+- 5800: Safe
+- 6490: Seven Psychopaths
+- 3650: The Grand Budapest Hotel
+- 7500: American Pie Presents: Band Camp
+- 5800: Kidulthood
+- 4870: Wonder
+- 4640: Doctor Strange
+- 6190: In the Heart of the Sea
+- 6190: Black Panther
+- 4220: Man Up
+- 3320: The Emperor’s New Groove
+- 4220: Pocahontas
+- 3480: Mulan
+- 6810: Atlantis: The Lost Empire
+- 5800: Hercules (1997)
+- 3830: Lilo & Stitch
+- 5446: The Hangover: Part III = 94
+    - VP9: 2138 = 94
+    - Old: 7500
+- 6490: The Hangover: Part II
+    - VP9: 2282 = 94
+- 6190: The Hangover
+    - VP9: 2156 = 94
+- 7500: Burn After Reading
+- 6804: Schindler’s List = 94
+    - Old: 7500
+- 3160: The Square
+- 6490: Nanny McPhee and the Big Bang = 94
+- 7500: Miami Vice
+- 3650: I Kill Giants
+- 7150: Inferno
+- 5620: The Hundred-Foot Journey
+- 4420: A Beautiful Mind
+- 6810: Groundhog Day
+- 7500: Year One
+- 5620: Train to Busan
+- 6810: Nacho Libre
+- 7500: Pearl Harbor
+- 7150: Searching for Sugar Man
+- 7150: [[Gangs of New York (2002)]] = 95 [[January 16th, 2022]]
+- 4420: Jack Reacher: Never Go Back
+- 7500: Popstar: Never Stop Never Stopping
+- 7500: The Mummy: Tomb of the Dragon Emperor
+- 5620: The Mummy Returns
+- 5110: The Mummy
+- 4420: Bad Moms
+- 6190: Kubo and the Two Strings
+- 6490: Charlie and the Chocolate Factory
+- 6810: Gravity
+- 3650: About Time
+- 7150: Jarhead = 96 [[January 16th, 2022]]
+- 3160: Hostiles
+- 3160: [[The Nice Guys (2016)]]
+- 3650: Nightcrawler
+- 3830: Pulp Fiction
+- 4491: Se7en = 93
+    - Old: 7150
+    - VP9: 1830 = 94 [[December 16th, 2022]]
+- 3563: No Country for Old Men
+    - VP9: 963 = 94
+    - Old: 5360
+- 4020: Seeking a Friend for the End of the World
+- 5800: The Way Back
+- 5800: Last Vegas
+- 7500: Lone Survivor = 98
+- 6190: Tower Heist
+- 6153: Pride & Prejudice = 93 [[January 16th, 2022]]
+    - Old: 7500
+- 6490: Everybody Wants Some
+- 6810: Boyhood (now 7500)
+- 5110: 13 Assassins
+- 3650: The Look of Love
+- 5110: Boogie Nights (AT)
+- 7500: St Vincent
+- 4640: Spy Game
+- 6190: Tucker and Dale vs. Evil (AT)
+- 4803: Hot Fuzz = 95
+    - Old: 6490 = 96
+- 5800: Ali G Indahouse (AT)
+- 5110: Catwoman
+- 3830: Changeling
+- 3480: The Founder (AT)
+- 3160: Cinderella Man
+- 6490: Eternal Sunshine of the Spotless Mind
+- 4674: Fear and Loathing in Las Vegas = 95
+    - Old: 6190 = 96
+- 4220: No Reservations
+- 6490: P.S. I Love You
+    - VP9: 3084 = 94
+- 4220: Magic Mike = 96
+- 7500: Out of Sight
+- 7500: The Constant Gardener
+- 5800: The Dark Knight
+- 3480: The Game = 93
+- 6810: The Golden Compass
+- 4640: The Informant!
+- 2610: Whiplash
+	- New, 2023-12-19: 2459 = 96
+- 4220: Breathe
+- 3160: The Gambler
+- 4870: Prisoners
+- 5820: Defiance = 92
+    - VP9: 3528 = 92
+- 7500: Full Metal Jacket
+- 6190: Amy
+- 3160: Ex Machina = 94
+- 7500: Slow West
+- 4870: The End of the Tour (AT)
+- 5620: An Education
+- 4870: Bolt
+- 5800: Room
+- 5800: Coco (AT)
+- 5800: Spring Breakers
+- 7500: Blue Valentine
+- 6810: Dazed and Confused
+- 5110: Mouse Hunt = 92
+- 5110: Shakespeare in Love
+- 7022: Jackie = 87
+- 5360: Home Again
+- 6190: The Impossible
+- 5800: Enemy
+- 5800: Locke
+- 5800: Under The Skin
+- 5620: Central Intelligence
+- 7500: Green Street = 93
+- 5110: Need for Speed
+- 4220: Warm Bodies
+- 6190: Fast Five
+- 5620: Fast & Furious
+- 6190: xXx: State of the Union
+- 6490: The Longest Yard
+- 3819: Chocolat = 91
+    - VP9: 2419 = 93
+- 2150: Finding Neverland
+- 7500: Get Smart
+- 6810: Happy Gilmore = 95
+- 4870: Interview with the Vampire
+- 6190: Jurassic Park
+- 7500: Scooby-Doo
+- 5800: Swordfish
+- 7500: The Princess Diaries
+- 3480: The Voices
+- 5849: Van Helsing = 93
+    - Old: 7500
+- 4870: Star Wars: Episode VIII: The Last Jedi
+- 3650: Denial
+- 6190: Masterminds
+- 5800: Star Trek Beyond
+- 4870: Valerian and the City
+- 6490: The World’s End
+- 7500: Land of the Lost = 93
+- 3830: Delivery Man
+- 7500: Warcraft = 96
+- 4220: The Interview
+- 5800: Nerve
+- 7500: The Beach
+- 4640: Oblivion
+- 7500: Black Hawk Down
+- 7500: Apocalypto
+- 5110: Mechanic: Resurrection
+- 4420: The Edge of Seventeen
+- 6190: Agora
+- 5360: Anger Management
+- 5620: Julie & Julia
+- 4870: Elysium
+- 6190: Seven Years in Tibet
+- 6190: 101 Dalmatians
+- 7500: Blue Jasmine
+- 4228: Just Friends = 93 [[February 1st, 2022]]
+    - Old: 6190
+    - VP9: 2270 = 94
+- 5110: Lara Croft: Tomb Raider
+- 4640: National Treasure
+- 7500: Nick and Norah's Infinite Playlist
+- 6190: Rumor Has It
+- 4640: Taking Lives
+- 4870: The Departed
+- 7500: The Intern
+- 2610: London
+- 7500: Taxi Driver
+- 5110: Bad Neighbours 2
+- 7500: Daddy Day Care
+- 7150: Cloudy with a Chance of Meatballs 2
+- 7500: The Angry Birds Movie
+- 5800: 13 Hours
+- 2870: Amelie
+- 6490: Hachi: A Dog's Tale
+- 4640: God's Own Country
+- 6810: Hellboy II: The Golden Army
+- 5800: Harold & Kumar Escape from Guantanamo Bay
+- 4020: Mr. Woodcock
+- 4528: Red Dragon = 93
+    - Old: 5620
+- 4420: Cirque du Freak: The Vampire's Assistant
+- 2870: Una
+- 4640: The Iron Giant
+- 3650: Heat = 94
+    - VP9: 617 = 93
+- 4220: L.A. Confidential
+- 7500: Life Is Beautiful
+- 7261: Scarface = 90
+    - Old: 7500
+- 7150: Seven
+- 4020: Sin City
+- 4020: The Duchess = 94
+    - VP9: 744 = 93
+    - Old: 3830
+- 5620: Despicable Me 3
+- 6810: Along Came Polly
+- 7500: Blood Diamond
+- 6490: Body of Lies
+- 4420: Cold Mountain
+- 5360: La La Land = 95
+- 7500: Jaws
+- 7500: Public Enemies
+- 6386: The Blues Brothers = 92
+- 7500: Big Momma's House
+- 7500: White Chicks
+- 6190: Paul Blart: Mall Cop 2
+- 5110: The Lady in the Van
+- 4220: Captain America: The Winter Soldier
+- 4420: Captain America: Civil War
+- 7150: The Other Guys
+- 7500: Get Hard
+- 7500: Vacation = 95
+- 6810: American Pie Presents: The Book of Love
+- 7150: American Pie Presents: The Naked Mile
+- 7150: Grown Ups
+- 5110: The Night Before
+- 6810: Couples Retreat = 93
+- 7500: The 40-Year-Old Virgin
+- 4020: Sex Tape
+- 4020: Calvary
+- 5800: Chalet Girl
+- 7500: Charlie Bartlett
+- 7500: Downfall
+- 7500: Milk
+- 7500: Season of the Witch
+- 2740: 10 Cloverfield Lane
+- 3480: Victoria
+- 6490: 300
+- 6490: Beerfest = 94 (VP9 2360 = 95)
+- 5639: [[Forgetting Sarah Marshall (2008)]] = 90
+    - Old: 7500 = 91
+- 5110: Ghostbusters 2
+- b: Moon
+- 3650: The Brothers Grimm
+- 5800: The Bucket List
+- 5110: The Fifth Estate
+- 4420: Wind River
+- 4288: The Revenant = 95
+    - Old: 7500 = 97
+- 4220: Lincoln
+- 6190: Solomon Kane
+- 7500: Muru
+- 5360: Big Daddy
+- 7150: The Edge of Love
+- 3830: Snitch
+	- New, 2023-12-19: 1290 = 96
+- 6490: What Happens in Vegas
+- 7500: The Zero Theorem
+- 5800: Small Apartments
+- 3320: Son of Saul
+- 2610: Gone Baby Gone
+- 6490: The Young Offenders
+- 7500: 127 Hours
+- 3650: Eye in the Sky
+- 6810: The Avengers
+- 4420: Thor: The Dark World
+- 4020: David Brent: Life on the Road
+- 6810: After Earth
+- 3320: The Boy in the Striped Pyjamas
+- 7500: Precious
+- 5766: It's Complicated = 91
+    - Old: 7500
+- 7500: Out of Africa
+- 6810: Sense and Sensibility
+- 4420: Me Before You
+- 5110: The Notebook
+- 7500: When Harry Met Sally
+- 4020: American Gangster = 94
+- 5110: Donnie Brasco
+- 4870: Mean Streets
+- 2740: From Dusk Till Dawn
+- 5800: The Shawshank Redemption
+- 5800: Rain Man
+- 7500: Scent of a Woman
+- 7500: Fargo
+- 3160: Good Will Hunting
+- 5360: As Good as It Gets
+- 5110: What Women Want
+- 3830: Creed
+- 7500: Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb
+- 5360: The Emoji Movie
+- 4640: The Railway Man
+- 5620: Kick-Ass 2
+- 4220: Zoolander 2
+- 3010: The Danish Girl
+- 7500: Tinker, Tailor, Soldier, Spy = 90
+    - VP9: 404 = 86
+- 7500: Alexander: The Ultimate Cut
+- 5630: The Inbetweeners 2
+- 7500: Rust and Bone
+- 7500: Stop at Nothing: The Lance Armstrong Story
+- 6810: The Armstrong Lie
+- 7500: The Hurt Locker
+- 4870: Walk Hard: The Dewey Cox Story
+- 7500: Ocean’s Thirteen
+- 5110: Lara Croft: Tomb Raider
+- 7500: Meet the Fockers
+- 6190: Men in Black
+- 5360: Aeon Flux
+- 3320: Ella Enchanted
+- 2260: Extract
+- 7500: Goodfellas
+- 6810: American Pie Presents: The Naked Mile
+- 6810: American Pie Presents: The Book of Love
+- 7500: American Pie Presents: Band Camp
+- 5360: American Pie 2
+- 6810: Meet Joe Black
+- 6190: Fantastic 4 (2007)
+- 4220: It’s Kind of a Funny Story
+- 3830: Last Knights (2015)
+- 3830: Bullet To The Head
+- 5110: Shakespeare In Love
+- 6190: Death Race
+- 4870: 8 Mile
+- 7500: Role Models
+- 4640: Accepted (2006)
+- 6490: Envy
+- 5110: Ride Along 2
+- 5620: I Love You, Man
+- 5800: Howard’s End
+- 7500: Joy
+- 6190: The Brothers Grimsby
+- 5800: Casa de mi Padre
+- 4420: The Men Who Stare At Goats
+- 7500: How to Steal A Million
+- 7500: Willy Wonka & The Chocolate Factory
+- 6810: The Godfather Pt II
+- 7500: Blood Diamond
+- 4200: Chappie = 97
+    - VP9: 1352 = 97
+    - Old: 5360
+- 6490: xXx
+- 7500: Alice Through The Looking Glass
+- 5360: Paddington
+- 4875: Stardust = 94
+    - Old: 6490
+- 7500: Cloud Atlas
+- 7500: Midnight in Paris = 93
+- 3650: The Hateful Eight
+- 7500: King Kong
+- 7500: The Godfather
+- 4220: Batman Begins
+- 7500: [[Tropic Thunder (2008)]]
+- 6190: Moana
+- 7150: Pirates of the Caribbean: Dead Mean Tell No Tales
+- 4420: Rogue One
+- 6190: Viceroy’s House
+- 7500: Lord of War
+- 5800: The Lord the Rings: Fellowship
+- 7500: Troy
+- 7500: Wedding Crashers
+- 7150: Gold
+- 7150: Marie Antoinette
+- 4640: Deepwater Horizon ✔
+- 6490: The Hobbit: An Unexpected Journey = 96 [[January 16th, 2022]]
+    - VP9: 1441 = 93
+- 6490: The Hobbit: The Desolation of Smaug = 96 [[January 16th, 2022]]
+    - VP9: 1404 = 94
+- 7150: The Hobbit: The Battle of the Five Armies = 97 [[January 16th, 2022]]
+    - VP9: 2048 = 95
+- 7500: Teenage Mutant Ninja Turtles ✔ (720p)
+- 5800: Looper ✔
+- 4420: The Expendables 3 ✔
+- 6810: The Expendables 2 ✔
+- 4870: The Expendables ✔
+- 4020: Iron Man 3 ✔
+- 6190: Iron Man 2 ✔
+- 5620: Iron Man ✔
+- 7500: Bruno = 92 ✔
+- 6490: Senna ✔
+- 3650: Paranorman ✔
+- 6190: Watchmen ✔
+- 7500: Source Code
+- 3010: Christine ✔
+- 5110: The Other Woman ✔
+- 4020/1449: Hurricane ✔ (720p)
+- 4870: [[Sherlock Holmes: A Game of Shadows (2011)]] = 93 ✔
+- 2870: Miss Sloane ✔
+- 4870: We’re the Millers ✔
+- 2370: The Limehouse Golem (AT) = 
+- 1780: Arrival = 95
+- 6810: Zack and Miri Make a Porno (AT)
+- 3508: Limitless = 95
+    - VP9: 962 = 95
+    - Used to be 5360.
+- 3173: Patriots Day = 94
+    - VP9: 745 = 93
+    - Old: 4640
+    - [[March 2nd, 2022]]
+- 7150: [[Sherlock Holmes (2009)]] = 92 ✔
+- 4870: Jason Bourne ✔
+- 5620: Dawn of the Planet of the Apes (AT)
+- 7500: Teenage Mutant Ninja Turtles 2: Out of the Shadows (AT)
+- 6190: Superbad (AT)
+    - VP9: 1325 = 93
+- 2870: Lion ✔
+- 2194: Annihilation = 94
+    - Old: 3650
+    - VP9: 889 = 95
+- 6190: Bad Boys ✔
+- 5620: Layer Cake ✔
+	- New, 2023-12-19: 4839 = 96
+- 4870: The Wolf of Wall Street ✔
+- 4020: World War Z ✔
+- 7150: Pacific Rim
+- 4640: American Pie ✔
+- 7150: Funny People ✔
+- 5620: Fast & Furious 6 ✔
+- 5360: Death at a Funeral (2007) ✔
+- 4020: Nocturnal Animals ✔
+- 7500: Crazy, Stupid, Love ✔
+- 7500: Employee of the Month ✔
+- 4640: The Holiday = 90 ✔
+- 7150: Talladega Nights: The Ballad of Ricky Bobby ✔
+	- New, 2023-12-19: 6598 = 96
+- 5360: Bad Neighbors ✔
+- 3010: The Man Who Invented Christmas ✔
+- 7500: Your Highness ✔
+- 4020: The King's Speech = 92
+    - Old: 4420
+- 830 / 1620 / 4870: Casino ✔
+- 5110: Magic Mike XXL \[720p =1780] ✔
+- 5110: [[Fight Club (1999)]] ✔
+- 5800: District 9 ✔
+- 4420: Drive = 96
+    - VP9: 677 = 95
+- 4420: Bean ✔
+- 2440: American Psycho = 94
+    - VP9: 893 = 95
+    - Old: 3010
+- 6190: Knocked Up = 93 ✔
+- 3480: Fury ✔
+- 3830: Her ✔
+- 2740: The Aviator ✔
+- 4420: Million Dollar Baby ✔
+- 5360: Gran Torino ✔
+- 7500: Chatty Chatty Bang Bang ✔ (720p)
+- 7500: The Mechanic ✔
+- 4020: Jack Ryan: Shadow Recruit ✔
+- 4870: Hacksaw Ridge ✔
+- 4640: Law Abiding Citizen ✔
+- 5787: Zombieland = 95
+    - Old: 6190
+- 7150: Jack and Jill ✔
+- 5110: The BFG = 96 ✔
+- 4640: Bridge of Spies ✔
+- 4020: Final Portrait ✔
+- 2152: Inglourious Basterds = 94
+    - Old: 3010 = 95
+- 7500: Robin Hood ✔
+- 5360: Fast and Furious: Tokyo Drift ✔
+- 7500: 2 Fast 2 Furious ✔
+- 7150: The Fast and the Furious ✔
+- 2050: The Social Network
+    - VP9: 616 = 96
+- 5360: Megamind ✔
+- 5800: Shrek ✔
+- 7500: Pirates of the Caribbean: Dead Man's Chest ✔
+- 5360: The Man from U.N.C.L.E. ✔
+- 4870: Daddy's Home = 95 ✔
+- 7500: Barfly ✔
+- 4640: Deadpool
+    - VP9: 1034 = 95
+- 3010: The Two Faces of January ✔
+- 5360: The Inbetweeners ✔
+- 7500: Ocean’s Twelve ✔
+- 7150: Ocean’s Eleven ✔
+- 6910: Meet the Parents ✔
+- 7150: Adventureland ✔
+- 5800: The Italian Job (new) ✔
+- 4220: The Imitation Game ✔
+- 4640: National Treasure ✔
+- 6490: Wild Hogs ✔
+- 5360: Dukes of Hazzard ✔
+- Old Ladder Style Org
+    - **7500**
+        - The Fighter
+        - Warrior
+        - The Hunt for the Wilderpeople
+        - A Knight’s Tale
+        - Grown Ups 2
+        - Philomena
+        - Transporter 3
+        - Sex Drive
+        - The Mechanic
+        - Your Highness
+        - Rescue Dawn
+        - Mamma Mia
+        - Big Momma’s House
+        - The Lobster
+        - Charlie Bartlett
+        - Barfly
+        - Minions
+        - 13 Going on 30
+        - Schindlers List
+        - White Chicks
+        - Mr. Bean's Holiday
+        - Minions
+        - Ace Ventura: Pet Detective
+        - Ace Ventura: When Nature Calls
+        - Inherent Vice
+        - Somm: Into The Bottle
+        - Mamma Mia
+        - Robin Hood: Prince of Thieves
+        - Get Hard
+        - Girl With a Pearl Earing
+        - Green Zone
+        - It’s Complicated
+        - Steve Jobs
+        - The Benchwarmers
+        - Young Frankenstein
+        - Mad Max
+        - The Spy Who Came in From the Cold
+        - Good Time
+        - Wedding Crashers
+        - Troy
+        - Lord of War
+        - [[Tropic Thunder (2008)]]
+        - The Godfather
+        - King Kong
+        - Midnight in Paris
+        - Cloud Atlas
+        - Alice Through The Looking Glass
+        - Blood Diamond
+        - Willy Wonka & The Chocolate Factory
+        - How to Steal A Million
+        - Joy
+        - Tinker, Tailor, Soldier, Spy
+        - Alexander: The Ultimate Cut
+        - Rust and Bone
+        - Stop at Nothing: The Lance Armstrong Story
+        - The Hurt Locker
+        - Walk Hard: The Dewey Cox Story
+        - Ocean’s Twelve
+        - Meet the Fockers
+        - Extract
+        - American Pie Presents: Band Camp
+        - Role Models
+        - Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb
+    - **7150**
+        - Grown Ups
+        - Cloudy with a Chance of Meatballs 2
+        - Madagascar
+        - Clueless
+        - The Edge of Love
+        - Snowden
+        - Robin Hood: Men In Tights
+        - Focus
+        - Movie 43
+        - Into The Wild
+        - Marie Antoinette
+        - Gold
+        - Pirates of the Caribbean: Dead Mean Tell No Tales
+        - Ocean’s Eleven
+        - Adventureland
+        - American Pie
+        - Adventureland
+    - **6810**
+        - Moneyball
+        - Cuban Fury
+        - Transformers: Age of Extinction
+        - Pain & Gain
+        - Austin Powers in Goldmember
+        - Les Miserables
+        - 50/50
+        - Filth
+        - Couples Retreat
+        - Love Actually
+        - The Godfather Pt II
+        - The Armstrong Lie
+        - Meet the Fockers
+        - American Pie Presents: The Naked Mile
+        - American Pie Presents: The Book of Love
+        - Meet Joe Black
+    - # 6490
+        - Captain Phillips
+        - The Last Witch Hunter
+        - The Man In The Iron Mask
+        - Hot Fuzz
+        - Eastern Promises
+        - What We Do In The Shadows
+        - Miles Ahead
+        - The Longest Yard
+        - Sour Grapes
+        - What Happens In Vegas
+        - Wild Hogs
+        - Stardust
+        - xXx
+        - Envy
+    - **6190**
+        - Django Unchained
+        - The Magnificent Seven
+        - Under The Skin
+        - Titanic
+        - Fast & Furious 7
+        - Welcome to the Jungle
+        - Waynes World 2
+        - Pixels
+        - Spy
+        - Matilda
+        - Shooter
+        - Wanted ✔
+        - Viceroy’s House
+        - Moana
+        - Men in Black
+        - Fantastic 4 (2007)
+    - **6190**
+        - Jurassic World
+        - xXx: The Next Level
+        - Arthur Christmas
+        - Men in Black
+        - Network (1976)
+        - Scott Pilgrim vs. the World
+        - Victor Frankenstein
+        - The Brothers Grimsby
+        - Death Race
+    - **5800**
+        - The Best Exotic
+        - Tucker and Dale vs Evil
+        - Looper
+        - Star Trek Into Darkness
+        - Shrek
+        - Hancock
+        - District 9
+        - Ted 2
+        - Capote
+        - Crimson Peak
+        - What to Expect When You're Expecting
+        - Kick-Ass
+        - Sisters
+        - 12 Hours
+        - Pride
+        - The Lord the Rings: Fellowship
+        - The Italian Job
+        - Casa de mi Padre
+        - Howard’s End
+    - **5620**
+        - RED
+        - RED 2
+        - Avengers Age of Ultron
+        - Snatch
+        - Mission Impossible: Rouge Nation
+        - Shrek 2
+        - Hotel Transylvania
+        - The Martian
+        - Julie & Julia
+        - I Love You, Man
+        - The Inbetweeners 2
+        - Kick-Ass 2
+    - **5360**
+        - Limitless
+        - The Theory of Everything
+        - Megamind
+        - Into The Woods
+        - Ant-Man
+        - Home Alone
+        - Shrek 3
+        - American Sniper
+        - La La Land
+        - [[Star Wars: The Force Awakens (2015)]]
+        - Bridesmaids
+        - 2 Guns
+        - Dukes of Hazzard
+        - Guardians of the Galaxy Vol. 2
+        - Paddington
+        - Chappie
+        - The Inbetweeners
+        - Aeon Flux
+    - **5110**
+        - How To Train Your Dragon
+        - Kung Fu Panda
+        - The Pirates! Band of Misfits
+        - Did You Hear About the Morgans?
+        - The Big Lebowski
+        - [[Fight Club (1999)]]
+        - Spectre
+        - The Night Before
+        - The Iron Lady
+        - Jupiter Ascending
+        - Hannibal
+        - Spotlight
+        - Goon
+        - Black Knight
+        - Ride Along 2
+        - Lara Croft: Tomb Raider
+        - Shakespeare In Love
+    - **4870**
+        - Chicken Run
+        - Wallace & Gromit: The Curse of the Were-Rabbit
+        - Closer
+        - The Green Hornet
+        - Elysium
+        - Dear John
+        - Kingsman: The Secret Service
+        - Anchorman 2
+        - SWAT
+        - Daddy’s Home
+        - Goosebumps
+        - Die Hard 4.0
+        - Walk Hard: The Dewey Cox Story
+        - 8 Mile
+    - **4640**
+        - Stranger than Fiction
+        - Hunger
+        - This Is 40
+        - Madame Bovary
+        - Bridge of Spies ✔
+        - National Treasure
+        - American Pie 2
+        - American Pie
+        - Accepted (2006)
+    - **4420**
+        - Puss in Boots
+        - That’s My Boy
+        - The Joneses
+        - Trance
+        - Drive
+        - The Expendables 3
+        - Blue Is The Warmest Colour
+        - Horrible Bosses 2
+        - Guilt Trip
+        - White House Down
+        - In Bruges
+        - Rogue One
+        - The Men Who Stare At Goats
+    - **4220**
+        - Walk of Shame
+        - Unfinished Business
+        - The Interview
+        - Trumbo
+        - The Dictator
+        - Eddie the Eagle
+        - John Wick
+        - Batman Begins
+        - The Imitation Game
+        - It’s Kind of a Funny Story
+        - Zoolander 2
+    - **4020**
+        - Iron Man 3
+        - The Duchess
+        - World War Z
+        - Hotel Transylvania 2
+    - **3830**
+        - Dorian Gray
+        - Their Finest
+        - Last Knights (2015)
+        - Bullet To The Head
+    - **3650**
+        - The Hateful Eight
+    - **3480**
+        - Margin Call (Avg QP:13.44)
+        - The King's Speech
+        - [[Dallas Buyers Club (2013)]]
+        - Chef
+        - Concussion
+        - Fury
+    - **3320**
+        - Finest Hours
+        - Ella Enchanted
+    - **3160**
+        - Side Effects
+    - **3010**
+        - Flight
+        - Shame
+        - Selma
+        - The Danish Girl
+    - **2740**
+        - Burnt
+        - Kill Bill: Vol. 2
+    - 2740
+        - Kill Bill Vol. 2
+        - From Dusk Til Dawn
+    - 2490
+        - A Most Violent Year
+        - Kill Bill Vol. 1
+        - The Road
+        - Kill Bill: Vol. 1
+    - 2260
+        - The D Train
+        - Extract
+    - 1960
+        - Green Room
+    - Other
+        - Sicario: 3650
+        - Ex Machina: 3320
+        - [[The Nice Guys (2016)]]: 3160
+        - The Girl With The Dragon Tattoo: 2150
+- NETFLIX TV
+- Fargo S02E01: 7500
+- Fargo S02E02: 5110
+- Fargo S02E03: 5110
+- Fargo S02E04: 5360
+- Fargo S02E05: 7150
+- Fargo S02E06: 3650
+- Fargo S02E07: 7150
+- Fargo S02E08: 5360
+- Fargo S02E09: 5360
+- Fargo S02E10: 7190
+- Sherlock S01E01: 4220
+- Sherlock S01E02: 3650
+- Sherlock S01E03: 4020
+- Sherlock S02E01: 5800
+- Sherlock S02E02: 5800
+- Sherlock S02E03: 5800
+- Sherlock S03E01: 4640
+- Sherlock S03E02: 4640
+- Sherlock S03E03: 4870
+**- Sky Stream**
+	- Straight Outta Compton: 5000Kbps
+	- STRANGER THINGS
+	- 4420 = 6630
+	- 4420 = 6630
+	- 4420 = 6630
+	- 3650 = 5475
+	- 5110 = 7665
+	- 6490 = 9735
+	- 5360 = 8040
+	- 3830 = 5745
+**- Netflix Ladder**
+	- 480p Low
+		- 300
+	- 480p High
+		- 440
+	- 480p Medium
+		- 620
+	- 480p High
+		- 870
+	- 720p High
+		- 1210
+	- 1080p Low
+		- 1540
+	- 1080p Medium
+		- 2150
+	- 1080p Top
+		- 3160
+- Netflix Video Downloads (iPad Pro, 06/2019)
+	- The Big Short: 1.65 GB = 1680 Kbps
+	- Moneyball: 2.05 GB = 2100 Kbps
+	- Brawl in Cell Block 99: 1.66 GB = 1680 Kbps
+	- Top Gear S21E06 (Burma Special): 1.94 GB = 2160 Kbps

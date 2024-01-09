@@ -1,0 +1,1 @@
+![[samuel-johnson.jpg|250]]

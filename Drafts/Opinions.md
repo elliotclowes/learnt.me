@@ -1,0 +1,2 @@
+- Eating meat is quite plainly immoral.
+- Bisexuality – especially in men – is hugely underrepresented.

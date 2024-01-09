@@ -1,0 +1,4 @@
+- I don't tend to eat breakfast. 
+- Skipping breakfast is an easy way to reduce your calories.
+- I find my energy is better when I don't eat breakfast.
+- The only time I tend to eat breakfast is when I'm on holiday.
