@@ -1,13 +1,22 @@
 ---
 id: 0021c967-2635-4855-ad3f-80ed36fc89f4
+site_name: Medium
+author: Colin Wren
+date_published: 2021-04-17
+date_saved: 2024-01-09
+date_read: 2024-01-09
+date_archived: 2024-01-09T09:18:23.000Z
+original_url: https://colinwren.medium.com/johnny-decimal-ising-my-life-82ee453f79a4
+omnivore_url: https://omnivore.app/me/https-colinwren-medium-com-johnny-decimal-ising-my-life-82-ee-45-18ced48bd90
 ---
 
+ - Site: Medium
  - By: Colin Wren
  - Date published: 2021-04-17
  - Date read: [[2024-01-09]]
  - [Read Original](https://colinwren.medium.com/johnny-decimal-ising-my-life-82ee453f79a4)
  - [Read on Omnivore](https://omnivore.app/me/https-colinwren-medium-com-johnny-decimal-ising-my-life-82-ee-45-18ced48bd90)
- - Tags:  [[File_System]]  [[Johnny.Decimal]]  [[PIM]] 
+ - Tags:  #File_System  #Johnny.Decimal  #PIM 
  - Notes: 
 
 **Note:** Below is the text from the article, with any ==highlights== done by me. None of the writing below is by me.

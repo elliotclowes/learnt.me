@@ -17,6 +17,20 @@ But in reality it doesn't always work like this. And I am getting too much cogni
 
 ![[Article — They Want You To Forget What A Film Looks Like - Aftermath#My Notes]]
 
+### Todo list view
+
+My todo list software of choice is [[Todoist]]. I've been using 'board' view for my work stuff. I've realised that I think I need to go to the 'list' view instead. There's something about the board view that just feels overwhelming to my brain and I don't know where start.
+
+Also, sub-tasks are hidden until you click on the main task in the board view. This makes it a bit easier for me to forgot about them. They're out of sight, out of mind.
+
+I decided to give the board view a go as that way I can have all my work todos in one Todoist project. And it did have its benefits. But overall I think I prefer list view.
+
+**Board view:**
+![](https://res.cloudinary.com/imagist/image/fetch/q_auto/f_auto/c_scale,w_2624/https%3A%2F%2Ftdinspiration.wpengine.com%2Fwp-content%2Fuploads%2F2020%2F10%2Ftodoist-board-todays-work-1.png)
+
+**List view:**
+![](https://res.cloudinary.com/imagist/image/fetch/q_auto/f_auto/c_scale,w_2624/https%3A%2F%2Ftdinspiration.wpengine.com%2Fwp-content%2Fuploads%2F2021%2F05%2F5_block-wide.png)
+
 ### Too many backup locations
 
 - MacBook
