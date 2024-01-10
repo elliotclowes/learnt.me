@@ -17,6 +17,8 @@ But in reality it doesn't always work like this. And I am getting too much cogni
 
 ![[Article — They Want You To Forget What A Film Looks Like - Aftermath#My Notes]]
 
+## Tuesday
+
 ### Todo list view
 
 My todo list software of choice is [[Todoist]]. I've been using 'board' view for my work stuff. I've realised that I think I need to go to the 'list' view instead. There's something about the board view that just feels overwhelming to my brain and I don't know where start.
@@ -31,9 +33,40 @@ I decided to give the board view a go as that way I can have all my work todos i
 **List view:**
 ![](https://res.cloudinary.com/imagist/image/fetch/q_auto/f_auto/c_scale,w_2624/https%3A%2F%2Ftdinspiration.wpengine.com%2Fwp-content%2Fuploads%2F2021%2F05%2F5_block-wide.png)
 
+## Wednesday
+
 ### Too many backup locations
 
-- MacBook
-- Mac mini
-- Unraid
-- Synology
+I've been thinking about how I need to condense my backups. At the moment they're spread over too many places and use too many bits of software to do.
+
+These are my current devices
+- MacBook Pro: my main computer.
+- Mac mini: essentially a server with some external hard drives attatched.
+- Unraid: my main storage server where my media files live.
+- Synology: this was replace by my Unraid server. However it currently isn't powering on, for some reason.
+
+The software I use:
+- [ChronoSync](https://www.econtechnologies.com/chronosync/overview.html): I use this to automate moving files from one device to another. But I've never been a big fan of it and I think half of the things it does it currently broken.
+- rclone: this is a command line tool I use to manually move certain folders from Unraid to the Mac mini.
+- [Arq](https://www.arqbackup.com/): this backups files from the MacBook and Mac mini to Amazon S3 and Google Drive.
+- [Backblaze](https://www.backblaze.com/): this backups the hard drives attached to the Mac mini.
+- [Dropbox](https://www.dropbox.com/): installed on my MacBook and Mac mini. The Mac mini's internal hard drive isn't large enough to store all my Dropbox files, so it only has some. So my Macbook is where all the Dropbox files live (as well as on the Dropbox servers of course).
+
+The problem is that things are backed up all over the place. And some backups are automated and some aren't. I think the main issue is that I have too much data. Although I would say I have three 'kinds' of data, which should make things easier:
+- Non-personal media files: things like movies, TV and music. 
+- Personal media files: photos and videos.
+- 'Documents': this is personal things like documents, notes, backups of software, and audio recordings.
+
+'Non-personal media files' makes up probably 95% of storage used. It's BluRays and CDs I've ripped and things like that. If I loose them it's not the end of the world. But I'd avoid it if possible.
+
+'Personal media files'. This is probably about 1TB of data. I can never lose this stuff.
+
+'Documents'. This is about 160GB of data. To be honest, my life wouldn't end if this disappeared. But again, I'd like to avoid it.
+
+
+I won't go into how it's currently all stored and backed up. But this is my current plan.
+
+- 'Documents'
+	- Main location: MacBook Pro.
+	- Local backups: Unraid
+	- Cloud backups: Dropbox + Google Drive (via Arq) + 
