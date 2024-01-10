@@ -40,8 +40,8 @@ I decided to give the board view a go as that way I can have all my work todos i
 I've been thinking about how I need to condense my backups. At the moment they're spread over too many places and use too many bits of software to do.
 
 These are my current devices
-- MacBook Pro: my main computer.
-- Mac mini: essentially a server with some external hard drives attatched.
+- MacBook Pro (MBP): my main computer.
+- Mac mini (MM): essentially a server with some external hard drives attatched.
 - Unraid: my main storage server where my media files live.
 - Synology: this was replace by my Unraid server. However it currently isn't powering on, for some reason.
 
@@ -63,10 +63,17 @@ The problem is that things are backed up all over the place. And some backups ar
 
 'Documents'. This is about 160GB of data. To be honest, my life wouldn't end if this disappeared. But again, I'd like to avoid it.
 
-
 I won't go into how it's currently all stored and backed up. But this is my current plan.
 
-- 'Documents'
-	- Main location: MacBook Pro.
+- **'Documents'**
+	- Main location: MacBook Pro
 	- Local backups: Unraid
-	- Cloud backups: Dropbox + Google Drive (via Arq) + 
+	- Cloud backups: Dropbox + Google Drive (via Arq on MBP) + Amazon S3 (via Arq on MBP) + Backblaze (on MM)
+- **'Personal media files'**
+	- Main location: Mac mini (external hard drive)
+	- Local backups: Unraid
+	- Cloud backups: Dropbox (on MM) + Backblaze (on MM) + Google Drive (via Arq on MM) + Amazon S3 (via Arq on MM)
+- **'Non-personal media files'**
+	- Main location: Unraid
+	- Local backups: Mac mini (external hard drive)
+	- Cloud backups: Backblaze (on MM)
