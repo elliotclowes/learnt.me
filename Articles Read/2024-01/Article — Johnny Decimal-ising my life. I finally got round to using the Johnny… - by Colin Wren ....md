@@ -5,7 +5,7 @@ author: Colin Wren
 date_published: 2021-04-17
 date_saved: 2024-01-09
 date_read: 2024-01-09
-date_archived: 2024-01-09T09:18:23.000Z
+date_archived: 2024-01-09T17:26:25.000Z
 original_url: https://colinwren.medium.com/johnny-decimal-ising-my-life-82ee453f79a4
 omnivore_url: https://omnivore.app/me/https-colinwren-medium-com-johnny-decimal-ising-my-life-82-ee-45-18ced48bd90
 ---

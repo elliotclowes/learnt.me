@@ -204,6 +204,34 @@ The decor of English coffeehouses were fairly spartan compared to the rich inter
 
 ***
 
+Like nearly all new substances, tea was demonised by a subset of the population.
+
+Tea was only for the very rich at first. As the tax on it was 119%. Until William Pitt the Younger slashed it to 12.5% and overnight it was more affordable. During the high tax era most people drank smuggled tea. P111
+
+One of the reasons tea took off more than coffee in England was that coffee and the coffeehouses were associated with men and nearly only men. P112
+
+The strength of your tea could show your class. Lower class people would make it weak or with tea alternatives. Whereas high class people would make it strong.
+
+Originally China had a monopoly on tea. But around the 1840s tea was discovered in India and began to be grown on a large scale. Though it wasn’t until the 1930s that Indians themselves took to tea.
+
+Teabags didn't make their to England from America until the 1930s. And even in the 1970s teabags only had 10% of the market. But now they are dominant.
+
+Tea sales peaked in 2010 and have suffered a 13% decline since then. P115
+
+***
+
+Distilling gin is so easy that soldiers in German prisoner of war camps could do it. P116
+
+Gin shops were often just someone’s front room. And often run by poor women. The poor drank like they ate. Quickly, on the go, or standing up. P118
+
+The high classes consumed gin whilst demonising the working class for their usage. A lot of the fears were around the next generation. The powers to be feared that children were being aborted, abdanoned and made infirm via gin. They also feared that the working classes were becoming less interested in working as their reliance and addiction to gin took over.
+
+It took eight act of Parliament to get gin consumption under control.
+
+By the 1820s gin wasn’t really consumed in the old, squalid gin shops but in gin palaces. These were gaudy places. P122
+
+The modern image of a pub essentially comes from gin palaces. As beer tax was lowered and gin tax was increased beer and pubs become more popular. Pubs took inspiration from gin 
+
 
 
 
