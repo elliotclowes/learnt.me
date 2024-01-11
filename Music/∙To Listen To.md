@@ -13,4 +13,56 @@
 - [Allmusic 5 Star Electronic Albums](https://redacted.ch/collages.php?id=7351)
 - [Audiophile picks by Faunts](https://redacted.ch/collages.php?id=8204)
 - [Rare Groove A to Z](https://redacted.ch/collages.php?id=2912)
-- 
+
+## Artists
+- Otis Redding
+- The Monkees
+- Rick Kemp
+- Joan Baez
+- Ry Cooder
+- Vanilla Fudge
+- The Byrds
+- The Flying Burrito Brothers
+- The Mamas and the Papas
+- The Beach Boys
+- Paul Revere & the Raiders
+- Family
+- Hank Wangford
+- Gene Clark
+- Jefferson Airplane
+- Bill Withers
+- Carl Perkins
+- Emmylou Harris
+- Jim Croce
+- Creedence
+- Poco
+- Buffalo Springfield
+- The Jefferson Airplane
+- ELO
+- Harry Nilsson
+- John Mayall
+- Dusty Springfield
+- Stevie Ray Vaughan
+- Bonnie Raitt
+- Buddy Guy
+- Jeff Healey
+- The Moody Blues
+- Climax Blues Band
+- Love
+- The Zombies
+- The Supremes
+- George Jones
+- Maggie Rogers
+- Traveling Wilbury's
+- Grateful Dead
+- The Smiths
+
+## Albums
+- Richard Thompson - Rumor and Sigh
+- Thelonious Monk - Monk's Dream
+- Miles Davis - Miles Smiles
+- **Frank Sinatra** - No One Cares (MOFI version)
+- **Frank Sinatra** - Where Are You? MOFI Versoin
+- **Bill Withers** - Live at Carnegie Hall (MOFI version)
+- [https://old.reddit.com/r/Jazz/comments/kpzt3q/happy_birthday_to_me/](https://old.reddit.com/r/Jazz/comments/kpzt3q/happy_birthday_to_me/)
+- Red headed stranger willie nelson album
