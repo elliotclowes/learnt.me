@@ -77,3 +77,19 @@ I won't go into how it's currently all stored and backed up. But this is my curr
 	- Main location: Unraid
 	- Local backups: Mac mini (external hard drive)
 	- Cloud backups: Backblaze (on MM)
+
+### Online clothes
+
+Some clothes I've recently purchased online:
+- ASOS
+	- Carhartt trousers: too small (especially around the groin) and low quality for the price.
+	- Carhartt cap: too small. To the point that I feel it's for children.
+- Ralph Lauren
+	- Shirt: way too small. Despite ordering it in the same size as my other shirt from them.
+	- Boxers: too small.
+- Uniqlo
+	- Slim fit jeans: too small.
+	- Denim utility jacket: this one is okay. It is oversized. But it said it was oversized.
+	- Linen utility jacket: this one is okay. It is oversized. But it said it was oversized.
+
+Maybe it's my fault for getting the wrong size. But

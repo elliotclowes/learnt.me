@@ -28,7 +28,7 @@ People are often bad at *knowing* what they like and dislike. Let alone then *do
 
 ***
 
-You're likely either too self-aware or not self-aware enough. Being prone to the former can burden you more than others. Lack of self-awareness does  the opposite. So ask yourself and those around you which of the two you are and then work on being just *aware*.
+You're likely either too self-aware or not self-aware enough. Being prone to the former can burden you more than others. Lack of self-awareness does the opposite. So ask yourself and those around you which of the two you are and then work on being just *aware*.
 
 ***
 
@@ -40,11 +40,11 @@ Seek not just knowledge, but the wisdom to question it. Challenge what you read;
 
 ***
 
-Think of each of your beliefs as a brick. Ideally, your collection of beliefs should be organized like a short, wide wall. This way, if you find that one belief is incorrect, you can easily remove and replace it without affecting the overall structure. But many people structure their beliefs like a tall, narrow tower. In this case, removing a single belief might cause the entire structure to become unstable, as each belief is heavily dependent on the others. So they are reluctant to change any belief, knowing it might topple their entire belief system."
+Think of each of your beliefs as a brick. Ideally, your collection of beliefs should be organised like a short, wide wall. This way, if you find that one belief is incorrect, you can easily remove and replace it without affecting the overall structure. But many people structure their beliefs like a tall, narrow tower. In this case, removing a single belief might cause the entire structure to become unstable, as each belief is heavily dependent on the others. So they are reluctant to change any belief, knowing it might topple their entire belief system.
 
 ### Health
 
-Don’t eat too much. Know the human who cooks your food. Avoid sugar and processed food. And focus on having lots of vegetables, plenty of fruit, fats from non-mammal flesh, wholegrain carbs, and make meat part of the meal, not the whole. Also, alcohol is far worse for you than you think.
+Don’t eat too much. Know the human who cooks your food. Avoid sugar and processed food. And focus on having lots of vegetables, plenty of fruit, fats from non-mammal flesh, wholegrain carbs, and make meat part of the meal, not the whole. Alcohol is far worse for you than you think.
 
 Aside from that, all the rest is just details and only worth worrying about unless you’re doing the above *very* well. 
 
