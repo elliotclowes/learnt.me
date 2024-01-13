@@ -1,2 +1,4 @@
 - Gattaca
-- Wind Rive
+- Wind River
+- Pride
+- 
