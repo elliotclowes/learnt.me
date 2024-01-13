@@ -8,4 +8,4 @@ A gorgeous album. I'm always on the look out for jazz that has vocals too, and t
 
 ***
 
-#Jazz #Music 
+Tags: #Jazz_Musician

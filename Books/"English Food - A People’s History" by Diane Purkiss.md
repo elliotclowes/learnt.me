@@ -230,7 +230,9 @@ It took eight act of Parliament to get gin consumption under control.
 
 By the 1820s gin wasn’t really consumed in the old, squalid gin shops but in gin palaces. These were gaudy places. P122
 
-The modern image of a pub essentially comes from gin palaces. As beer tax was lowered and gin tax was increased beer and pubs become more popular. Pubs took inspiration from gin 
+The modern image of a pub essentially comes from gin palaces. As beer tax was lowered and gin tax was increased beer and pubs become more popular. Pubs took inspiration from gin palaces and made their establishments more refined and decorative. P123
+
+
 
 
 

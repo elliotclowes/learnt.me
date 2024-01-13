@@ -76,6 +76,11 @@ There are some among us who are deeply damaged and profoundly broken, often due 
 
 If you’ve been tasked with breaking down a conspiracy – and time is not of the essence – start at the lowest point of the ladder. If you go straight to the highest it will spook everyone below and get the high ups to ‘tidy up’ and also give away you’re onto them. And starting low makes everyone think you’re not onto much. (Triggered by a passage in [["Grant" by Ron Chernow]], p799-800).
 
+***
+
+Voltaire said that ”those who can make you believe absurdities, can make you commit atrocities.” Be wary of the followers of ideologies, political groups or religions who have them buy into the absurd. Don’t rest on your laurels. Do your best to ensure the second part doesn’t come to fruition.
+
+Most religions by definition require belief in the absurd. So don’t be surprised by their predisposition for atrocities. [[2024-01-13]]
 
 ## Morals
 
