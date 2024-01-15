@@ -11,7 +11,7 @@
 
 ### Week 1
 
-Shopping list week 1
+Shopping list week 1 (£80-£90)
 - **Monday**
 	- **Lunch**
 		- [Hovis Granary Wholemeal Bread 800G](https://www.tesco.com/groceries/en-GB/products/254944133)
@@ -51,6 +51,7 @@ Shopping list week 1
 	- **Lunch**
 		-  Already got
 	- **Dinner**
+		- [Tesco Wholemeal Pitta Bread 6 Pack](https://www.tesco.com/groceries/en-GB/products/254945610)
 		- [Tesco British Chicken Thigh Fillets 1Kg](https://www.tesco.com/groceries/en-GB/products/304380429) (maybe less)
 		- [Yamas! Authentic Cypriot Halloumi Pdo 200G](https://www.tesco.com/groceries/en-GB/products/314313697)
 		- [Tiptree Caramelised Red Onion Chutney 220G](https://www.tesco.com/groceries/en-GB/products/287873903)

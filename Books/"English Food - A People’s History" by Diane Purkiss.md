@@ -232,12 +232,33 @@ By the 1820s gin wasn’t really consumed in the old, squalid gin shops but in g
 
 The modern image of a pub essentially comes from gin palaces. As beer tax was lowered and gin tax was increased beer and pubs become more popular. Pubs took inspiration from gin palaces and made their establishments more refined and decorative. P123
 
+***
 
+When chocolate first arrived in Britain in the middle 1600s it was never eaten in bar form. Only as a drink. 
 
+The Aztec's drank their chocolate cold. In Britain and elsewhere it was drank hot. P126
 
+The first person to combine chocolate with milk was Hans Sloane, Queen Anne’s physician. It was a closely guarded secret remedy, later sold to an apothecary. The secret was then bought in 1824 by the Quaker Cadbury brothers.
 
+In 1828 “a Dutch chemist found a way to make powdered chocolate by removing around half the natural fat (cacao butter) from chocolate liquor, pulverising what remained and treating it with alkaline salts to cut the bitter taste.” It soon led to the creation of the solid chocolate bar. P128
 
+In the Royal Navy sailors would recieve a one ounce block of chocolate in their rations. The book says this was started in 1824. But how can this be if chocolate bars weren’t invented until around 1828? P128
 
+“Let it ever be remembered, that it is the direct influence of commerce to make the interval between the richest and the poorest man wider and more unconquerable.” – Shelley. P129
+
+## Fishes
+
+In ancient Europe, trout enjoyed cult status. P131
+
+What is doggerland?
+
+Nam pla Indonesian fermented fish sauce?
+
+“The normans toook to the larger fish available in the sea in part because of their tradition of wanting to share a single beast between diners.” P135
+
+Saint Blaise is the patron saint of throats. P137
+
+Some large households had wet larders with a water source or well so that fish could be kept alive until needed. They were usually transported their on the back of 
 
 
 
