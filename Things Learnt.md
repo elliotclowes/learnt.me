@@ -1,9 +1,21 @@
 
-## November
+# 2023
 
+## January
 
+Nearly every restaurant in the West does [[Russian Service]] where the food is put on plates and served to diners. [[French Service]] is where each course is brought out one at a time and put on platter for diners to self-serve. [[English Service]] is where all courses are brought out at once for diners to self-serve.
 
 ***
+
+Private jets actually often fly higher than commercial aircraft. According to [this commenter](https://aviation.stackexchange.com/a/67378) on StackExchange it's because:
+- Private jets actually have a better power-to-weight ratio.
+- It's easier to pressurize smaller cabins.
+- Flying higher can help you avoid bad weather.
+- There is less traffic high up so they take a more direct route.
+
+# 2022
+
+## November
 
 Lots of retailers change their price based off of Amazon's price. So Amazon created an algorithm that would raise prices of products and see if others raised their prices too. If they did then Amazon would keep the new higher price. If not they would lower it again. There is a [lawsuit against them](https://techcrunch.com/2023/11/02/unredacted-ftc-suit-shows-project-nessie-price-raising-algorithm-made-amazon-1-4b/?utm_source=ceoreport.beehiiv.com&utm_medium=newsletter&utm_campaign=thursday-november-2nd&guccounter=1) over this anti-consumer practise.
 
