@@ -258,7 +258,9 @@ Nam pla Indonesian fermented fish sauce?
 
 Saint Blaise is the patron saint of throats. P137
 
-Some large households had wet larders with a water source or well so that fish could be kept alive until needed. They were usually transported their on the back of 
+Some large households had wet larders with a water source or well so that fish could be kept alive until needed. They were usually transported there on the back of pack horses. P137
+
+
 
 
 
