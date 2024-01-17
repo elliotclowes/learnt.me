@@ -42,7 +42,7 @@ There’s a passing reference to the number of people involved in a single meal.
 
 ***
 
-> [[Virginia Woolf]], on the other hand, was in the [[1920s]] treated, if that is the right word, by the then recommended regime of complete rest not even books were allowed, lest they excite the brain - milk, weight gain, fresh air and early nights. One of her doctors, Sir George Savage, was especially keen to treat neurasthenic women by excessive feeding and complete rest. Woolf was given four or five pints of milk every day, half a pint every two hours. After five days of [[milk]] on this scale, she was allowed to add a cutlet, malt extract, cod liver oil and beef tea. The rather brainless thinking behind the regime was that since patients like Woolf stopped eating and lost weight when depressed, they could be forced back into wellness by being made to gain weight. P7
+> [[Virginia Woolf]], on the other hand, was in the [[1920s]] treated, if that is the right word, by the then recommended regime of complete rest not even books were allowed, lest they excite the brain - milk, weight gain, fresh air and early nights. One of her doctors, Sir George Savage, was especially keen to treat neurasthenic women by excessive feeding and complete rest. Woolf was given four or five pints of milk every day, half a pint every two hours. After five days of [[Milk]] on this scale, she was allowed to add a cutlet, malt extract, cod liver oil and beef tea. The rather brainless thinking behind the regime was that since patients like Woolf stopped eating and lost weight when depressed, they could be forced back into wellness by being made to gain weight. P7
 
 Imagine having [[Depression]] and your ‘treatment’ is being forced to do nothing and drink loads of milk. [Clowes.blog post](https://clowes.blog/2023/12/05/1920s-depression-treatment-lots-of-milk-and-lots-of-nothing/).
 
@@ -52,19 +52,19 @@ Imagine having [[Depression]] and your ‘treatment’ is being forced to do not
 
 ***
 
-The English word for the first meal of the day, “[[breakfast]]”, is different to the French and German versions in that both of those have in the name that it’s a minimal lunch in the former and a “bit” or “piece” in the later. This helped the English breakfast expand in size. P11
+The English word for the first meal of the day, “[[Breakfast]]”, is different to the French and German versions in that both of those have in the name that it’s a minimal lunch in the former and a “bit” or “piece” in the later. This helped the English breakfast expand in size. P11
 
 ***
 
 ### Toast is very English
 
-[[Toast]] is a very English thing. “No other country does toast”. And believe it or not toast was actually a [[middle class]] dish. Firstly, the bread had to be high quality – made with fine flour – as coarse bread “would have fallen apart on the toasting fork”. And also because the lower classes would have likely had a more a grain-based liquid like [[gruel]].
+[[Toast]] is a very English thing. “No other country does toast”. And believe it or not toast was actually a [[middle class]] dish. Firstly, the bread had to be high quality – made with fine flour – as coarse bread “would have fallen apart on the toasting fork”. And also because the lower classes would have likely had a more a grain-based liquid like [[Gruel]].
 
 Toast was labour intensive before the invention of the toaster in [[1909]]. The maid or cook would have to pierce bread with a fork. The bread was meant to be thin, but couldn’t be so thin that it would break. Then it had to be held in front of the embers of the range. Close enough to toast but not close enough to get smoke all over it. And this all has to be done whilst other parts of breakfast might be cooked. This meant you either had one very over worked cook, or the house had to hire more cooks. P17
 
 ***
 
-The [[full English]] came a bit after the full Scottish. 
+The [[Full English]] came a bit after the full Scottish. 
 
 In the [[1700s]] the Scots were known for their breakfasts. They were bigger and more varied. [[Samuel Johnson]] on his tour of the Hebrides was impressed when instead of the usual tea, rolls and butter was given those plus coffee, marmalade, conserves and honey. P18
 
@@ -78,7 +78,7 @@ It’s hard to date personal [[Cookbook]]s. As they were rarely books. They were
 
 ***
 
-For a century or two a common middle class ‘[[full English]]’ would likely be egg and bacon, followed by toast and marmalade. P24
+For a century or two a common middle class ‘[[Full English]]’ would likely be egg and bacon, followed by toast and marmalade. P24
 
 ***
 
@@ -276,7 +276,7 @@ Some large households had wet larders with a water source or well so that fish c
 
 ***
 
-> Reading seventeenth-century recipes, one is struck by how dark people's taste was - dark, slow-cooked meats, especially old meats like [[mutton]], game and offal; rich spicing; heavy [[wine]] and meat-based sauces; relatively few salads or vegetables. They had a taste for sourness or bitterness, as in the nowadays-none-too-edible tansies they ate, and the frequent use of [[vinegar]]. Palates were really intense. Added to which, they were drinking a lot of very strong ale strong in both senses and also wine that had been spiced and sugared. p51
+> Reading seventeenth-century recipes, one is struck by how dark people's taste was - dark, slow-cooked meats, especially old meats like [[Mutton]], game and offal; rich spicing; heavy [[wine]] and meat-based sauces; relatively few salads or vegetables. They had a taste for sourness or bitterness, as in the nowadays-none-too-edible tansies they ate, and the frequent use of [[vinegar]]. Palates were really intense. Added to which, they were drinking a lot of very strong ale strong in both senses and also wine that had been spiced and sugared. p51
 
 ***
 

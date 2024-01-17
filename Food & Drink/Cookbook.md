@@ -1,3 +1,9 @@
+---
+aliases:
+  - Cook book
+  - Cookbooks
+---
+
 - I like the *idea* of a cookbook.
 - But for me they're not worth it.
 - They take up a lot of space.

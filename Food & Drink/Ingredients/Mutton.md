@@ -1,3 +1,3 @@
-I remember being shocked to find out that mutton is the name for the meat from a  [[lamb]] that's older than 2 years old. Because I suddenly realised that I'd never eaten a lamb that was older than that. Such a short life. Eating meat is immoral.
+I remember being shocked to find out that mutton is the name for the meat from a  [[Lamb]] that's older than 2 years old. Because I suddenly realised that I'd never eaten a lamb that was older than that. Such a short life. Eating meat is immoral.
 
 Actually, I *thought* mutton was any lamb that was over 1 years old before I had a quick Google before writing this entry. Apparently there's a type of lamb meat called [[hogget]] that is for a lamb that was slaughtered between the age of 1 and 2. I'd never heard of it before.
