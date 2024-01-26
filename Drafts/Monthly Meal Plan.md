@@ -183,6 +183,7 @@ Shopping list week 1 (£80-£90)
 - Ham and vegetable omelette (WEEK 4)
 - Vegetable omelette
 - Greek yogurt granola bowl ✔ ✔
+- Greek yogurt, nuts, berries
 - Overnight oats (for work)
 - Eggs on toast with turkey bacon
 - Peanut butter toast/sandwich ✔
@@ -196,6 +197,7 @@ Shopping list week 1 (£80-£90)
 - Jacket potato, spam, beans
 - Tuna jacket ✔
 - [[Black Bean Soup]]
+- Halloumi, smoked salmon, avocado, eggs, toast
 
 **Snacks**
 - Smoothie ✔ ✔ ✔ ✔ ✔
