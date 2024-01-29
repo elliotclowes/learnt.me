@@ -4,7 +4,7 @@ site_name: The Guardian
 author: Adrienne Matei
 date_published: 2022-05-12
 date_saved: 2024-01-24
-date_read: 2024-01-24
+date_read: 2024-01-29
 date_archived: 2024-01-24T17:52:31.000Z
 original_url: https://www.theguardian.com/commentisfree/2022/may/12/heres-another-reason-to-donate-blood-it-reduces-forever-chemicals-in-your-body
 omnivore_url: https://omnivore.app/me/here-s-another-reason-to-donate-blood-it-reduces-forever-chemica-18d3929ead0
@@ -13,10 +13,10 @@ omnivore_url: https://omnivore.app/me/here-s-another-reason-to-donate-blood-it-r
  - Site: The Guardian
  - By: Adrienne Matei
  - Date published: 2022-05-12
- - Date read: [[2024-01-24]]
+ - Date read: [[2024-01-29]]
  - [Read Original](https://www.theguardian.com/commentisfree/2022/may/12/heres-another-reason-to-donate-blood-it-reduces-forever-chemicals-in-your-body)
  - [Read on Omnivore](https://omnivore.app/me/here-s-another-reason-to-donate-blood-it-reduces-forever-chemica-18d3929ead0)
- - Tags:  #Health 
+ - Tags:  #Health  #Blood 
  - Notes: 
 
 **Note:** Below is the text from the article, with any ==highlights== done by me. None of the writing below is by me.
