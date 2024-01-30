@@ -13,6 +13,8 @@ What's the best time of day to take?
 - Zinc (20mg – 10-15 mg is ideal)
 - Rhodiola Rosea (300 mg)
 - Pterostilbene (100 mg – 50 mg is ideal)
+- Tongkat Ali (2 capsules, 400 mg)
+- Fadogia Agrestis (2 tablets, 1000 mg – 600 mg is ideal) [phasing out]
 
 ## Dinner
  - Hyaluronic Acid (100 mg)
@@ -21,3 +23,7 @@ What's the best time of day to take?
 
 ## Before bed
  - Glycine (2000mg)
+ - Sunflower Lecithin (10 g powder)
+ - Creatine (5 grams)
+ - Magnesium (2 tablets, 2000 mg, 230 mg pure magnesium)
+ - Apigenin (50 mg) [phasing out]

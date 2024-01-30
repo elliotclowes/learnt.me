@@ -137,20 +137,22 @@ Shopping list week 1 (£80-£90)
 ### Week 4
 
 - **Monday (office)**
-	- 
-	- 
+	- Oatmeal with almond milk, topped with berries and chia seeds
+	- Chilli con carne, brown rice, avocado, broccoli, cauliflower, kimchi
 - **Tuesday (wfh)**
-	- 
-	- 
+	- Roasted Veggie Glow Bow
+	- [[The General Smoothie]]
+	- [[Sesame Glazed Salmon]], kimchi
 - **Wednesday (office)**
-	- 
+	- Roasted Veggie Glow Bow
 	- 
 - **Thursday (wfh)**
-	- 
-	- 
+	- Roasted Veggie Glow Bow
+	- [[The General Smoothie]]
+	- Stir-Fried Tofu and Peppers
 - **Friday (office)**
-	- 
-	- 
+	- Roasted Veggie Glow Bow
+	- Chicken burrito
 - **Saturday**
 	- 
 	- 

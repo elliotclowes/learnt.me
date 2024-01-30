@@ -4,7 +4,7 @@ site_name: NOVOS
 author: NOVOS
 date_published: 2021-03-24
 date_saved: 2024-01-24
-date_read: 2024-01-29
+date_read: 2024-01-30
 date_archived: 2024-01-29T09:30:56.000Z
 original_url: https://novoslabs.com/what-is-the-best-diet-for-longevity/
 omnivore_url: https://omnivore.app/me/the-best-diet-for-longevity-and-weight-loss-it-s-not-keto-or-pal-18d393edf25
@@ -13,7 +13,7 @@ omnivore_url: https://omnivore.app/me/the-best-diet-for-longevity-and-weight-los
  - Site: NOVOS
  - By: NOVOS
  - Date published: 2021-03-24
- - Date read: [[2024-01-29]]
+ - Date read: [[2024-01-30]]
  - [Read Original](https://novoslabs.com/what-is-the-best-diet-for-longevity/)
  - [Read on Omnivore](https://omnivore.app/me/the-best-diet-for-longevity-and-weight-loss-it-s-not-keto-or-pal-18d393edf25)
  - Tags:  #Health  #Longevity  #Diet 
