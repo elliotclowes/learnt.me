@@ -145,13 +145,14 @@ Shopping list week 1 (£80-£90)
 	- [[Sesame Glazed Salmon]], kimchi
 - **Wednesday (office)**
 	- Roasted Veggie Glow Bow
-	- 
+	- [[The General Smoothie]]
 - **Thursday (wfh)**
 	- Roasted Veggie Glow Bow
 	- [[The General Smoothie]]
 	- Stir-Fried Tofu and Peppers
 - **Friday (office)**
 	- Roasted Veggie Glow Bow
+	- [[The General Smoothie]]
 	- Chicken burrito
 - **Saturday**
 	- 
