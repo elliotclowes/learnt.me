@@ -1,3 +1,6 @@
+## Best Songs
+- "warmth" on "０：２２" (2020) is simply gorgeous
+
 ## Album Reviews
 
 ### [水に流す](https://open.spotify.com/album/104mIyvioPTTtw2u08FB5C?si=eh13XggBQ66c8xHgWKl9ng) (2019)
