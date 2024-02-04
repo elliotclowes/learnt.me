@@ -1,2 +1,3 @@
 - [Hairy Bikers' sausage casserole](https://www.bbc.co.uk/food/recipes/great_sausage_casserole_73010)
 - [Vegan tofu katsu curry](https://www.bbcgoodfood.com/recipes/vegan-katsu-curry) ([alternate](https://www.lazycatkitchen.com/vegan-katsu-curry-tofu/))
+- [Lemon Herb Chicken & Potatoes](https://somethingnutritiousblog.com/lemon-herb-chicken-potatoes/)
