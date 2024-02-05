@@ -1,5 +1,9 @@
 
-# 2023
+# 2024
+
+## Febuary
+
+"[Goblin mode](https://www.theguardian.com/science/2022/dec/05/goblin-mode-new-oxford-word-of-the-year)" was the Oxford 2022 word of the year.
 
 ## January
 
