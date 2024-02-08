@@ -1,4 +1,9 @@
 
+> **"Everything you've ever wanted is sitting on the other side of fear."**
+> - George Addair
+
+***
+
 > **"A decent provision for the poor is the true test of civilisation."** 
 – Samuel Johnson
 

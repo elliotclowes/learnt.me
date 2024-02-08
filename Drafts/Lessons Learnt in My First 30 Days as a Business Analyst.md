@@ -3,12 +3,9 @@
 
 **Verbal decisions are meaningless**
 
-A verbal agreement or understanding is a dangerous thing. It promotes misunderstandings and forgetfulness. Sure, small things can remain verbal. But as a rule the written word is king.
+A verbal agreement or understanding is a dangerous thing. It promotes misunderstandings and forgetfulness. Sure, small things can remain verbal. But the written word is king. So write things down and formalise them. Writing it down adds a second layer of agreement. You can send it the stakeholder(s) and ask them to confirm that what's written down matches what they had in their head. Text is a lot more sharable than speech too.
 
-- Writing it down makes you distill and understand it.
-- It adds a second layer of agreement. You can send it the stakeholder(s) and ask them to confirm that what's written down matches what they had in their head.
-- Speech isn't very shareable. You can put a written decision into a public Slack channel, ticket, email or internal Confluence and it can inform satelite stakeholders or they can offer up their opinon (that can be a good and bad thing).
-
+***
 
 **Know what to spend your time on**
 
