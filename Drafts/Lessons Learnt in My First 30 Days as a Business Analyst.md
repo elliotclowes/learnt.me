@@ -11,8 +11,11 @@ A verbal agreement or understanding is a dangerous thing. It promotes misunderst
 
 A lot of the tasks you'll be working on are elastic. You could spend a little bit of time on it or a lot. Determining which tasks to dedicate your time and energy too is important. You need to know when the diminishing returns threshold is met.
 
+***
 
 **Take the intiative**
+
+
 
 
 
@@ -22,7 +25,8 @@ A lot of the tasks you'll be working on are elastic. You could spend a little bi
 
 
 **Embrace the Art of Listening**
-The act of truly listening has become a rare commodity.  As a BA, your ability to listen—really listen—is a vital asset. So much communication is still verbal.
+
+The act of truly listening is a rare commodity. As a BA, your ability to listen—really listen—is a vital asset. So much communication is still verbal.
 
 You will often be in meetings that drag or that are mostly made up of content that isn't relevant to you. If you don't stay engaged you'll miss information that is relevant to you. Stay tuned in. Also the irelevent information might one day be relevent. You want to always be learning (more on that later).
 
