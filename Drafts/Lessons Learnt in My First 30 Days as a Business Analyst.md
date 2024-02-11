@@ -26,7 +26,11 @@ A lot of the tasks you'll be working on are elastic. You could spend a little bi
 
 **Embrace the Art of Listening**
 
-The act of truly listening is a rare commodity. As a BA, your ability to listen—really listen—is a vital asset. So much communication is still verbal.
+The act of truly listening is a rare commodity. As a BA, your ability to listen—really listen—is a vital asset. So much of your work will be an offshoot of something someone delivered verbally. You’ll have to refine a ticket, create documentation, understand a problem or forward on knowledge. All from spoken communication.
+
+
+
+Part of your job is take the verbal and turn it into something actionable. 
 
 You will often be in meetings that drag or that are mostly made up of content that isn't relevant to you. If you don't stay engaged you'll miss information that is relevant to you. Stay tuned in. Also the irelevent information might one day be relevent. You want to always be learning (more on that later).
 
@@ -37,24 +41,25 @@ It's obvious, but you have to listen in order to reply. And reply well. Lots of 
 
 **Document Meticulously** 
 
-Verbal agreements are decisions  
-
 > Effective documentation is key to ensuring that stakeholders are on the same page and that there is a clear record of what has been agreed upon. This can prevent misunderstandings and provide a foundation for future project work and analysis.
 
 > Documentation is your ally. It ensures clarity, provides a reference point for future projects, and maintains a narrative of decisions and processes. Develop a systematic approach to documentation, and you'll find it pays dividends in clarity and efficiency.
 
+***
 
+**Be Adaptable**
 
-
-
-
-
-
-
+Your role and responsibilities as a BA can be fluid. Every different project or team will need different things from you. And a good BA has to be an all rounder who is adaptable and can be given a wide variety of tasks and have the wherewithal to get the job done. If you’re good at your job your colleagues should know they can give you *anything*, and you’d find a way to do it.
 
 ****
 
+**Stop fires, don’t fight them**
 
+**Be the bridge**
+
+A lot of your team members and stakeholders are on different “islands”. They’re unaware of each other but they’re part of the same world. And they need to often “trade” with each other. Your job is to help these t 
+
+***
 
 - Ask lots of questions. Don't say "ah, I see" until you really do "see".
 - If there's something I've learnt it's that other BA's are often curious, widely read and smart people. They're a good 'guild' to be a part of.

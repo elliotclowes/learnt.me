@@ -24,15 +24,15 @@ omnivore_url: https://omnivore.app/me/the-best-foods-to-slow-aging-according-to-
 # Article text
 ![broccoli sprouts sulforaphanes](https://proxy-prod.omnivore-image-cache.app/770x0,siLeWTEURcA-1eLrQeTYqjv4lauAR204HmR3BNVs0jJk/https://blog.insidetracker.com/hs-fs/hubfs/broccoli%20sprouts%20sulforaphanes.jpg?width=770&name=broccoli%20sprouts%20sulforaphanes.jpg)In the last five years, scientists have made significant breakthroughs in the field of aging and longevity. Aging is a complex, multi-factorial process that starts in our cells, resulting in a gradual decline of the larger systems in the body. Scientists have proposed various theories for the reason we age, including **mitochondrial dysfunction, inflammation, DNA damage, cell senescence,** and **telomere reduction—**all of which will be discussed throughout this article. Fortunately, longevity scientists are discovering the power of certain fruits and vegetables to slow down the aging process. 
 
-## Broccoli Sprouts
+## [[Broccoli Sprouts]]
 
-It’s hard to research aging and longevity without coming across **Dr. Rhonda Patrick PhD,** a biochemist with extensive knowledge in aging, cancer, and nutrition.
+It’s hard to research aging and longevity without coming across **Dr. [[Rhonda Patrick]] PhD,** a biochemist with extensive knowledge in aging, cancer, and nutrition.
 
 Dr. Patrick praises ==broccoli sprouts as being “very powerful for anti-aging”—and for good reason! In our society, we are constantly exposed to toxins that stress our body, from those we breathe in (like== _==benzenes==_==, common in exhaust), to those we consume in our food (like pesticides). These stressors affect our bodies at the cellular level, ultimately causing damage to our mitochondria (the "powerhouse of the cell"), and inflammation throughout our body, all of which contribute to aging over time.== 
 
 ==Our bodies have a stress-response pathway, known as== _==NRF2==_==, which controls over 200 genes responsible for anti-inflammatory and antioxidant processes. When this pathway is activated, the body suppresses inflammation, activates detoxification, and promotes antioxidants to exert their effects. [1] And what impact does this have? Well, Dr. Patrick claims, "suppression of inflammation is believed to be the single most important predictor of successful aging." [2]== 
 
-==So where do broccoli sprouts come in?== **==The cruciferous vegetable family—broccoli, broccoli sprouts, Brussels sprouts, etc.—contain a critical compound, called== _==sulforaphanes==_==, that potently activate the NRF2 pathway (more than any other compound)==**==. [3] Sulforaphanes, therefore, allow us to cope with the stressors and harmful compounds we are exposed to daily.==
+==So where do [[broccoli]] sprouts come in?== **==The cruciferous vegetable family—broccoli, broccoli sprouts, Brussels sprouts, etc.—contain a critical compound, called== _==sulforaphanes==_==, that potently activate the NRF2 pathway (more than any other compound)==**==. [3] Sulforaphanes, therefore, allow us to cope with the stressors and harmful compounds we are exposed to daily.==
 
 ==When put to the test in both animals and human studies, sulforaphanes slowed the rate of cancer and cardiovascular biomarkers, reduced inflammation markers, and significantly removed toxins from the body. [2] For an extensive breakdown about the research on sulphoranes, you can watch Dr. Patrick discuss it== ==[here](https://www.youtube.com/watch?v=zz4YVJ4aRfg)====.==
 
@@ -44,7 +44,7 @@ Dr. Patrick praises ==broccoli sprouts as being “very powerful for anti-aging�
 
 ## [Take a tour of the InsideTracker platform.](https://blog.insidetracker.com/cs/c/?cta%5Fguid=0bb78715-6509-4c9a-b1ca-f65127c22e81&signature=AAH58kHI1KWqdz3lDzJNuRSyVL1rRaMf5Q&pageId=23748595710&placement%5Fguid=146e8389-97c8-4ff6-9077-ced079acc443&click=808476ed-2819-454e-9414-7956ee14c8c8&hsutk=&canon=https%3A%2F%2Fblog.insidetracker.com%2Ffoods-slow-aging-according-longevity-experts&portal%5Fid=419889&redirect%5Furl=APefjpE3UTYuretzxVhEV8vVC6IqYn4jqeKEESbLIiDK2ZvATPqjhidJWZ12PADWJ6KpS2Ec8ixcb2VEDe3LrIvJZE9-lSdPvKGXjx48Y%5FE1jPBKZan1OP5BsUgNTb6k6YyvEzzJHtYM "Take a tour of the InsideTracker platform.")
 
-## ==Pomegranate== 
+## ==[[Pomegranate]]== 
 
 ==Mitochondria act as the cell’s powerhouse by turning nutrients into energy. A healthy cell relies on healthy mitochondria. When mitochondria become damaged or defective, cells remove them to prevent their accumulation—a process known as== _==mitophagy==_**==.==** ==However, with age, our cells become less effective at this process, leading to a build-up of dysfunctional mitochondria. Over time, this results in the degeneration and weakening of cells and tissues, including muscles. Scientists believe this accumulation may also play a role in some age-related diseases like Parkinson’s disease. [5]==
 
@@ -56,7 +56,7 @@ Dr. Patrick praises ==broccoli sprouts as being “very powerful for anti-aging�
 
 ==Another added benefit: pomegranates may also help prevent skin aging. In a 2013 study, punicalagin, a compound found in pomegranates, showed that it prevented the degradation of collagen in cells. [8] Collagen is fundamental in delaying skin aging.==
 
-## Spinach
+## [[Spinach]]
 
 Folate is an essential B vitamin found in food. It helps with the production of DNA—without folate new, healthy DNA cannot be created. Dr. Rhonda Patrick claims that "a deficiency in folate is equivalent to standing under ionizing radiation due to the DNA damage.” \[9\] And as we’ve discussed, DNA damage is a contributor to aging.
 
@@ -68,7 +68,7 @@ But too much folate isn’t necessarily a good thing either, though. Scientists 
 
 ![Folate](https://proxy-prod.omnivore-image-cache.app/603x0,soudgSvB50-afdgENjhXc0_zFJ-n5zv9yzC54YNzL1jQ/https://blog.insidetracker.com/hs-fs/hubfs/Folate.png?width=603&name=Folate.png)
 
-## Strawberries 
+## [[Strawberries]] 
 
 Researchers have been studying _fisetin_, a plant compound, for years for its capacity to act as an antioxidant and reduce inflammation in the body. However, in more recent years, scientists have discovered it also works by killing **senescent cells**—one of the hallmarks of aging. Cell senescence is when cells lose their ability to divide but do not die, leading them to accumulate and inflame surrounding cells.
 
@@ -78,7 +78,7 @@ These promising results drove Mayo Clinic to sponsor a clinical trial examining 
 
 ![Fisetin content of foods](https://proxy-prod.omnivore-image-cache.app/423x0,scGeyoPM0SGV9ZtVD8Pkq2jZO0iXqVUMLhy9IW9AbpZ0/https://blog.insidetracker.com/hs-fs/hubfs/Fisetin%20content%20of%20foods.png?width=423&name=Fisetin%20content%20of%20foods.png)
 
-## Mushrooms
+## [[Mushrooms]]
 
 Scientists **Robert Beelman, PhD**, **Michael Kalaras, PhD** and **John Richie, PhD** have been leading the research on mushrooms and their anti-aging properties. In 2017, the trio discovered mushrooms contain exceptionally high levels of two powerful antioxidants—_glutathione_ and _L-ergothioneine (Ergo)_.
 

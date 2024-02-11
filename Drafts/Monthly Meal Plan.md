@@ -4,10 +4,6 @@
 - All-Bran + Banana
 - [[Sesame Glazed Salmon]] + [[The General Smoothie]]
 
-### Tuesday
-
-
-## 1800 calories
 
 ### Week 1
 
@@ -159,7 +155,30 @@ Shopping list week 1 (£80-£90)
 	- 
 - **Sunday**
 	- 
-	- 
+
+### Week 5
+
+- **Monday (office)**
+	- Lunch at office
+	- Salmon, med veg
+- **Tuesday (wfh)**
+	- Toast, smoked salmon, eggs, avocado
+	- Smoothie
+	- Chicken thigh fillets, med veg
+- **Wednesday (office)**
+	- Lunch at office
+	- Toast, smoked salmon, eggs, avocado
+- **Thursday (wfh)**
+	- Mackerel and rice
+	- Chicken thigh fillet wrap (batch)
+- **Friday (office)**
+	- Lunch at office
+	- Mackerel and rice
+- **Saturday**
+	- Hummus
+	- [[Chorizo and Butter Bean Stew]] (batch)
+- **Sunday**
+	- Hummus
 
 
 **Dinner**

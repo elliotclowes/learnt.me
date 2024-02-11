@@ -26,7 +26,7 @@ omnivore_url: https://omnivore.app/me/are-caffeine-and-coffee-good-for-my-health
 
 #### All Categories
 
-**Caffeine is a stimulant that has been shown to improve mental alertness, cognitive function, and physical performance. Caffeine may reduce the risk of certain diseases, including Parkinson’s disease, type II diabetes, and liver disease.** 
+**[[Caffeine]] is a stimulant that has been shown to improve mental alertness, cognitive function, and physical performance. Caffeine may reduce the risk of certain diseases, including Parkinson’s disease, type II diabetes, and liver disease.** 
 
 Caffeine is one of the most commonly consumed psychoactive substances in the world (Shima et al., 2022). Caffeine is a bitter, white crystalline alkaloid that is found in the seeds, leaves, and fruit of plants such as coffee, tea, cacao, and cola). Caffeine is a stimulant that has been shown to improve mental alertness, cognitive function, and physical performance (McLellan et al., 2016). It is also a diuretic that can increase urine production and frequency (Alwis et al., 2020).
 
