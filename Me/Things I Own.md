@@ -8,7 +8,10 @@
 - Logitech - Harmony Ultimate Remote Control and Hub (£130 | 2017-10)
 
 ### Music
-- [Denon - Home 250](https://www.denon.com/en-gb/product/wireless-speakers/denon-home-250/DENONHOME250GB.html)[°](https://elliotclowes.com/cold/2024/https__www.denon.com_en-gb_product_wireless-speakers_denon-home-250_DENONHOME250GB.html.html) x 2 (£165 each on 2023-12)
+- **[Denon - Home 250](https://www.denon.com/en-gb/product/wireless-speakers/denon-home-250/DENONHOME250GB.html)[°](https://elliotclowes.com/cold/2024/https__www.denon.com_en-gb_product_wireless-speakers_denon-home-250_DENONHOME250GB.html.html)** x 2 (£165 each on 2023-12)
+	- A good alternative to Sonos. Though to be honest the main reason I went the Denon route was because they're speakers are heavily discounted from time to time. If I had to pay full price I would probably go with Sonos as I'm always scarred Denon is going to discontinue their smart speakers. So please buy some Denon ones to lower that chance!
+	- 
+	- The app you use to control the speakers
 - Bose Computer Speakers
 
 ## Kitchen

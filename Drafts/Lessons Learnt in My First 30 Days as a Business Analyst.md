@@ -57,7 +57,7 @@ Your role and responsibilities as a BA can be fluid. Every different project or 
 
 **Be the bridge**
 
-A lot of your team members and stakeholders are on different “islands”. They’re unaware of each other but they’re part of the same world. And they need to often “trade” with each other. Your job is to help these t 
+A lot of your team members and stakeholders are on different “islands”. They’re unaware of each other but they’re part of the same world. And they need to often “trade” with each other. Your job is to help these trades. 
 
 ***
 
