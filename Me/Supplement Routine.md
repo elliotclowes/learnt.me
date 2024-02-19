@@ -1,7 +1,3 @@
-Should you take vitamin D with food?
-
-What's the best time of day to take?
-
 
 ## Lunch
 
