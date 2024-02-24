@@ -1,0 +1,158 @@
+---
+id: 4c138fac-05cd-4594-9d2f-0eeeaec1eaaf
+site_name: thewritetoroam.com
+author: Ethan
+date_published: 2024-02-02
+date_saved: 2024-02-13
+date_read: 2024-02-21
+date_archived: 2024-02-21T08:00:19.000Z
+original_url: https://thewritetoroam.com/2024/02/five-key-hires-that-took-morning-brew-to-40m
+omnivore_url: https://omnivore.app/me/five-key-hires-that-took-morning-brew-to-40-m-the-write-to-roam-18da18c56a6
+---
+
+ - Site: thewritetoroam.com
+ - By: Ethan
+ - Date published: 2024-02-02
+ - Date read: [[2024-02-21]]
+ - [Read Original](https://thewritetoroam.com/2024/02/five-key-hires-that-took-morning-brew-to-40m)
+ - [Read on Omnivore](https://omnivore.app/me/five-key-hires-that-took-morning-brew-to-40-m-the-write-to-roam-18da18c56a6)
+ - Tags:  #Technology  #Marketing  #Newsletters  #Business 
+ - Notes: 
+
+**Note:** Below is the text from the article, with any ==highlights== done by me. None of the writing below is by me.
+
+# Article text
+Often times, when we talk about how a newsletter grew or made money, we talk about the tactics they used. But it’s easy to forget there were _people_ behind those tactics. People who, day in and day out, thought about the problems, tried stuff, found solutions.
+
+I’m not talking about founders and CEOs. I’m talking about the people behind the scenes, who actually have their hands in things.
+
+Sometimes they’re well-known. Most of the time, they’re not. But they’re out there, and if you track ‘em down, you can learn a lot from them.
+
+Here’s how I like to do it…
+
+First, I read a few old interviews with the founders of a company, and news stories going back the last few years, jotting down milestones as I find them.
+
+**Pro Tip:** Founders are typically very slow to talk about this year’s numbers. But they’re almost always happy to talk about last year, so if you just read a few interviews over several years, you can piece together a really interesting picture.
+
+For example, I’m working on a case study for Morning Brew. After just four short articles, I find myself with something like this👇
+
+![](https://proxy-prod.omnivore-image-cache.app/629x692,sYSJrk-AaNs-phjBWPDRCOuZg61ja0x8PjlY3TuW9f-8/https://i0.wp.com/thewritetoroam.com/wp-content/uploads/2024/02/Screenshot-2024-02-01-at-12.42.21-PM.png?resize=629%2C693&ssl=1)
+
+Ugly, right? This doesn’t have to be pretty
+
+Right away, you can see there were a few fascinating turning points in the company’s audience, revenue, and team size:
+
+* 2017-2018: They 10X’d the audience, crossing 1M subscribers
+* 2018-2019: Revenue more than quadrupled from $3 to $13 million
+* 2020-2021: They added \~100 people to the team, two per week for a year
+
+Why? How? Most important, who were the people that actually did the work to make this happen, and what have they shared about it? That’s where my mind goes.
+
+![](https://proxy-prod.omnivore-image-cache.app/629x692,s6n5c8ufnNju92T_VTpgNsr7rRFLBc3vZIpGly-0TmDw/https://i0.wp.com/thewritetoroam.com/wp-content/uploads/2024/02/Screenshot-2024-02-01-at-12.42.21-PM-2.png?resize=629%2C693&ssl=1)
+
+I’ve got a process for finding these “keystone employees“, but it’s a bit involved. So to keep this short, I’m going to cut straight to the chase.
+
+If you want me to write it up, [click this](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PWRRdzR3OVdnWGNRIiwicG9zdF9pZCI6IjZiYjM3MDU2LWU5ZjUtNDZkNi04YmEyLTk0YjYzZDQwYWYzNiIsInB1YmxpY2F0aW9uX2lkIjoiNzhhNzA1MDctOGVmNy00Y2M1LTlhMjQtNjk5ZDRmOTE2ZjU2IiwidmlzaXRfdG9rZW4iOiI5MTBhYmY5Yy1kYzhlLTQ1ODAtYTM1ZC1lNDY1M2JiODJkNzgiLCJpYXQiOjE3MDc1MDM3ODcsImlzcyI6Im9yY2hpZCJ9.3BCj%5F6GzXSEEQu7jCNctizMbnnZ8bz0Pj3TOxDOtJJ0).
+
+I’ll check the data and if enough people click it, I’ll do a tutorial on exactly the tools and steps I use to reverse engineer some of the most important hires companies make.
+
+At any rate, the rest of this email is a look at a few people you may _not_ know who played pivotal roles in growing Morning Brew to $40m+, along with some of the insights hey’ve shared about how they did it.
+
+We’ll look at four key areas of growth:
+
+1. Audience
+2. Content
+3. Revenue
+4. Staffing
+
+If you’re hoping to build, _“The Morning Brew for XYZ,”_ think about when you’re going to hire for these roles, where you might find your version of these people, and what you can learn from the ones who did it first.
+
+### 1\. Audience
+
+If you’re deep in the newsletter space, you may actually know of **[Tyler Denk](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5saW5rZWRpbi5jb20vaW4vdHlsZXItZGVuay8iLCJwb3N0X2lkIjoiNmJiMzcwNTYtZTlmNS00NmQ2LThiYTItOTRiNjNkNDBhZjM2IiwicHVibGljYXRpb25faWQiOiI3OGE3MDUwNy04ZWY3LTRjYzUtOWEyNC02OTlkNGY5MTZmNTYiLCJ2aXNpdF90b2tlbiI6IjkxMGFiZjljLWRjOGUtNDU4MC1hMzVkLWU0NjUzYmI4MmQ3OCIsImlhdCI6MTcwNzUwMzc4NywiaXNzIjoib3JjaGlkIn0.6n1%5FxkFY3La5iraoIzms1BXpr2yI8knh87O4WW6BpE0)**. Today, he’s the founder of [Beehiiv](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5iZWVoaWl2LmNvbS8iLCJwb3N0X2lkIjoiNmJiMzcwNTYtZTlmNS00NmQ2LThiYTItOTRiNjNkNDBhZjM2IiwicHVibGljYXRpb25faWQiOiI3OGE3MDUwNy04ZWY3LTRjYzUtOWEyNC02OTlkNGY5MTZmNTYiLCJ2aXNpdF90b2tlbiI6IjkxMGFiZjljLWRjOGUtNDU4MC1hMzVkLWU0NjUzYmI4MmQ3OCIsImlhdCI6MTcwNzUwMzc4NywiaXNzIjoib3JjaGlkIn0.ro65XExDnf1Nizm2ZNAyu1%5F4iHXiLzGEB%5F3X-eBHRHs), the very platform this email was written on.
+
+But before that, he was a growth engineer at Morning Brew, and specifically, he was the guy who built the technology behind their world-famous referral program (along with many other things).
+
+He was one of the first two employees\* and was there through the acquisition, working on product and growth, and managing 6-figure marketing budgets.
+
+**Learn From Him:** Back in the day, he wrote two excellent pieces on [how the referral program works](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL21lZGl1bS5jb20vdGhlLW1pc3Npb24vaG93LW1vcm5pbmctYnJld3MtcmVmZXJyYWwtcHJvZ3JhbS1idWlsdC1hbi1hdWRpZW5jZS1vZi0xLTUtbWlsbGlvbi1zdWJzY3JpYmVycy0zMzE1NDgyYzFhYTUiLCJwb3N0X2lkIjoiNmJiMzcwNTYtZTlmNS00NmQ2LThiYTItOTRiNjNkNDBhZjM2IiwicHVibGljYXRpb25faWQiOiI3OGE3MDUwNy04ZWY3LTRjYzUtOWEyNC02OTlkNGY5MTZmNTYiLCJ2aXNpdF90b2tlbiI6IjkxMGFiZjljLWRjOGUtNDU4MC1hMzVkLWU0NjUzYmI4MmQ3OCIsImlhdCI6MTcwNzUwMzc4NywiaXNzIjoib3JjaGlkIn0.ZI86q%5FnsdhkFYPA1R33eGj6294K28VREW9owpGVprMM), and [the tech that powered the newsletter](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL21lZGl1bS5jb20vdGhlLW1pc3Npb24vdGhlLXRlY2gtcG93ZXJpbmctdGhlLW1vcm5pbmctYnJldy1tYWNoaW5lLWI3ZThjZDgyMTIxIiwicG9zdF9pZCI6IjZiYjM3MDU2LWU5ZjUtNDZkNi04YmEyLTk0YjYzZDQwYWYzNiIsInB1YmxpY2F0aW9uX2lkIjoiNzhhNzA1MDctOGVmNy00Y2M1LTlhMjQtNjk5ZDRmOTE2ZjU2IiwidmlzaXRfdG9rZW4iOiI5MTBhYmY5Yy1kYzhlLTQ1ODAtYTM1ZC1lNDY1M2JiODJkNzgiLCJpYXQiOjE3MDc1MDM3ODcsImlzcyI6Im9yY2hpZCJ9.HH5ZHPS2blVZps8%5FZdbCe01NClWXmkNpt8lGsFKCX18). He also did a great written interview on the [early days of the brew](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3ZpcmFsLWxvb3BzLmNvbS9ibG9nL21pbGxpb25zLW9mLXN1YnNjcmliZXJzLXJlZmVycmFsLXByb2dyYW0vIiwicG9zdF9pZCI6IjZiYjM3MDU2LWU5ZjUtNDZkNi04YmEyLTk0YjYzZDQwYWYzNiIsInB1YmxpY2F0aW9uX2lkIjoiNzhhNzA1MDctOGVmNy00Y2M1LTlhMjQtNjk5ZDRmOTE2ZjU2IiwidmlzaXRfdG9rZW4iOiI5MTBhYmY5Yy1kYzhlLTQ1ODAtYTM1ZC1lNDY1M2JiODJkNzgiLCJpYXQiOjE3MDc1MDM3ODcsImlzcyI6Im9yY2hpZCJ9.2ADdpt5zffPrcGwfiRiwCyhLEblp3DZ809LoL47pluQ), and has appeared on several podcasts, to talk about various aspects of the journey…
+
+* [From scaling Morning Brew to Building Newsletter Platform](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PVJnczVERy1kS2dvIiwicG9zdF9pZCI6IjZiYjM3MDU2LWU5ZjUtNDZkNi04YmEyLTk0YjYzZDQwYWYzNiIsInB1YmxpY2F0aW9uX2lkIjoiNzhhNzA1MDctOGVmNy00Y2M1LTlhMjQtNjk5ZDRmOTE2ZjU2IiwidmlzaXRfdG9rZW4iOiI5MTBhYmY5Yy1kYzhlLTQ1ODAtYTM1ZC1lNDY1M2JiODJkNzgiLCJpYXQiOjE3MDc1MDM3ODcsImlzcyI6Im9yY2hpZCJ9.XvqS1maRQXDA79dI0W-fWLVBWJZI0dlsrHA%5F-O0HxYc)
+* [How MB Generates 365K Referrals Per Year](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5raWVyYW5mbGFuYWdhbi5pby9ibG9nL2hvdy1tb3JuaW5nLWJyZXctYnVpbHQtYS1yZWZlcnJhbC1wcm9ncmFtLXRoYXQtZ2VuZXJhdGVkLTM2NTAwMC1uZXctc3Vic2NyaWJlcnMtaW4tYS15ZWFyIiwicG9zdF9pZCI6IjZiYjM3MDU2LWU5ZjUtNDZkNi04YmEyLTk0YjYzZDQwYWYzNiIsInB1YmxpY2F0aW9uX2lkIjoiNzhhNzA1MDctOGVmNy00Y2M1LTlhMjQtNjk5ZDRmOTE2ZjU2IiwidmlzaXRfdG9rZW4iOiI5MTBhYmY5Yy1kYzhlLTQ1ODAtYTM1ZC1lNDY1M2JiODJkNzgiLCJpYXQiOjE3MDc1MDM3ODcsImlzcyI6Im9yY2hpZCJ9.651KeFPyWux2oIQNe6cl9sHt%5FEYB2Yf2XktX0rmLp0M)
+* [Inside Morning Brew’s Referral Program](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2tpbmdzb2Zjb252ZXJzaW9uLmNvbS9pbnNpZGUtbW9ybmluZy1icmV3cy1yZWZlcnJhbC1wcm9ncmFtLyIsInBvc3RfaWQiOiI2YmIzNzA1Ni1lOWY1LTQ2ZDYtOGJhMi05NGI2M2Q0MGFmMzYiLCJwdWJsaWNhdGlvbl9pZCI6Ijc4YTcwNTA3LThlZjctNGNjNS05YTI0LTY5OWQ0ZjkxNmY1NiIsInZpc2l0X3Rva2VuIjoiOTEwYWJmOWMtZGM4ZS00NTgwLWEzNWQtZTQ2NTNiYjgyZDc4IiwiaWF0IjoxNzA3NTAzNzg3LCJpc3MiOiJvcmNoaWQifQ.s%5FUtcRUUSFH1%5F3DzngJjhCWWdfCAcX%5FkJLsC873f8AM)
+* [Grow Your Newsletter in Less Than 1 Hour](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PUxCTnBCeHRBSnk4IiwicG9zdF9pZCI6IjZiYjM3MDU2LWU5ZjUtNDZkNi04YmEyLTk0YjYzZDQwYWYzNiIsInB1YmxpY2F0aW9uX2lkIjoiNzhhNzA1MDctOGVmNy00Y2M1LTlhMjQtNjk5ZDRmOTE2ZjU2IiwidmlzaXRfdG9rZW4iOiI5MTBhYmY5Yy1kYzhlLTQ1ODAtYTM1ZC1lNDY1M2JiODJkNzgiLCJpYXQiOjE3MDc1MDM3ODcsImlzcyI6Im9yY2hpZCJ9.A-fOabzrVTcJcUyJULNzzCnX-8Zp%5FFZ5jlXkMjtauNw)
+
+_\*_[_Michael Schwartz_](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5saW5rZWRpbi5jb20vaW4vbWljaGFlbC1zY2h3YXJ0ei0zN2E5OWI2NS8iLCJwb3N0X2lkIjoiNmJiMzcwNTYtZTlmNS00NmQ2LThiYTItOTRiNjNkNDBhZjM2IiwicHVibGljYXRpb25faWQiOiI3OGE3MDUwNy04ZWY3LTRjYzUtOWEyNC02OTlkNGY5MTZmNTYiLCJ2aXNpdF90b2tlbiI6IjkxMGFiZjljLWRjOGUtNDU4MC1hMzVkLWU0NjUzYmI4MmQ3OCIsImlhdCI6MTcwNzUwMzc4NywiaXNzIjoib3JjaGlkIn0.lyjP7r9yz-Al-SFdjH4Mjor9%5FLjgo3xs1%5FuM-yzHn9Y) _was their first employee._ _Both he and Tyler are building at Beehiiv now, which goes to show how these companies can become talent incubators that launch other successful businesses._ [_Smooth Media_](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5zbW9vdGhtZWRpYS5jby8iLCJwb3N0X2lkIjoiNmJiMzcwNTYtZTlmNS00NmQ2LThiYTItOTRiNjNkNDBhZjM2IiwicHVibGljYXRpb25faWQiOiI3OGE3MDUwNy04ZWY3LTRjYzUtOWEyNC02OTlkNGY5MTZmNTYiLCJ2aXNpdF90b2tlbiI6IjkxMGFiZjljLWRjOGUtNDU4MC1hMzVkLWU0NjUzYmI4MmQ3OCIsImlhdCI6MTcwNzUwMzc4NywiaXNzIjoib3JjaGlkIn0.Nezq-BViaVHRM-Z53XJ2J9ljlcKz2tFk1KqFnxZJfH8) _is another company founded and led by several by Brew alums._
+
+**Big Takeaway:** Lightning doesn’t strike twice. Rather than strictly copying the Brew’s referral program, you should try to learn from their hiring strategy. Early on, find someone who’s scrappy, independent, can try a lot, and will find/build the thing that becomes your uniquely effective growth lever.
+
+![](https://proxy-prod.omnivore-image-cache.app/629x393,sXUHDZVuZJB7xdQC9TuZMYPpL337U5l1BgiE09yNiv10/https://i0.wp.com/thewritetoroam.com/wp-content/uploads/2024/02/Screenshot-2024-02-02-at-12.03.31-AM-2.png?resize=629%2C393&ssl=1)
+
+### 2\. Content
+
+**[Neal Freyman](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5saW5rZWRpbi5jb20vaW4vbmVhbC1mcmV5bWFuLTIwMzg3NDY2LyIsInBvc3RfaWQiOiI2YmIzNzA1Ni1lOWY1LTQ2ZDYtOGJhMi05NGI2M2Q0MGFmMzYiLCJwdWJsaWNhdGlvbl9pZCI6Ijc4YTcwNTA3LThlZjctNGNjNS05YTI0LTY5OWQ0ZjkxNmY1NiIsInZpc2l0X3Rva2VuIjoiOTEwYWJmOWMtZGM4ZS00NTgwLWEzNWQtZTQ2NTNiYjgyZDc4IiwiaWF0IjoxNzA3NTAzNzg3LCJpc3MiOiJvcmNoaWQifQ.HSWwQKph8ReIbFVz59rDA9DWUhELD%5FSfa5SgSFPNihc)** was hired as a writer in June of 2017, which makes him another one of the earliest-ever employees of the company. He quickly became managing editor, and has now been there through the rise of eleven publications, hundreds of employees, and millions of readers.
+
+I don’t think I can name anyone else in the industry with that kind of editorial experience.
+
+**Learn From Him:** While he writes regularly for various Brew properties, you have to dig a little deeper to find him talking about _how_ he does his job. Still, it’s out there. He’s appeared on several podcasts to discuss…
+
+* [Creating Content for 3M+ Readers](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5zb3RoaXNpc215d2h5LmNvbS9uZWFsLWZyZXltYW4tbWFuYWdpbmctZWRpdG9yLW1vcm5pbmctYnJldy1uZXdzbGV0dGVyLW1lZGlhLWNvbXBhbnkvIiwicG9zdF9pZCI6IjZiYjM3MDU2LWU5ZjUtNDZkNi04YmEyLTk0YjYzZDQwYWYzNiIsInB1YmxpY2F0aW9uX2lkIjoiNzhhNzA1MDctOGVmNy00Y2M1LTlhMjQtNjk5ZDRmOTE2ZjU2IiwidmlzaXRfdG9rZW4iOiI5MTBhYmY5Yy1kYzhlLTQ1ODAtYTM1ZC1lNDY1M2JiODJkNzgiLCJpYXQiOjE3MDc1MDM3ODcsImlzcyI6Im9yY2hpZCJ9.-IAQTK8rJQNZia8ez3Xy015QGtJ59oUHima3%5FrWNI6k)
+* [Pitch a Daily Newsletter](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy53ZWVhcm5tZWRpYS5jb20vZXBpc29kZXMvbmVhbC1mcmV5bWFuIiwicG9zdF9pZCI6IjZiYjM3MDU2LWU5ZjUtNDZkNi04YmEyLTk0YjYzZDQwYWYzNiIsInB1YmxpY2F0aW9uX2lkIjoiNzhhNzA1MDctOGVmNy00Y2M1LTlhMjQtNjk5ZDRmOTE2ZjU2IiwidmlzaXRfdG9rZW4iOiI5MTBhYmY5Yy1kYzhlLTQ1ODAtYTM1ZC1lNDY1M2JiODJkNzgiLCJpYXQiOjE3MDc1MDM3ODcsImlzcyI6Im9yY2hpZCJ9.WhFbGvnl0OVTv0cXg1t%5FRVqDNbNvNT2ZxI0yVnZCyIg)
+* [The Future of Editorial Newsletters](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3BvZGNhc3RzLmFwcGxlLmNvbS9kZS9wb2RjYXN0L21vcm5pbmctYnJldy1tYW5hZ2luZy1lZGl0b3ItbmVhbC1mcmV5bWFuLW9uLXRoZS9pZDExODE5OTg0MDI%5FaT0xMDAwNTY2MTk1NzQ2IiwicG9zdF9pZCI6IjZiYjM3MDU2LWU5ZjUtNDZkNi04YmEyLTk0YjYzZDQwYWYzNiIsInB1YmxpY2F0aW9uX2lkIjoiNzhhNzA1MDctOGVmNy00Y2M1LTlhMjQtNjk5ZDRmOTE2ZjU2IiwidmlzaXRfdG9rZW4iOiI5MTBhYmY5Yy1kYzhlLTQ1ODAtYTM1ZC1lNDY1M2JiODJkNzgiLCJpYXQiOjE3MDc1MDM3ODcsImlzcyI6Im9yY2hpZCJ9.iCauJKM6dc9OtzJitarxclUe3AvQYANgNKIlODfEmg4)
+* [How to Grow Your Newsletter](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PXJrMGZIWU9ueTdRIiwicG9zdF9pZCI6IjZiYjM3MDU2LWU5ZjUtNDZkNi04YmEyLTk0YjYzZDQwYWYzNiIsInB1YmxpY2F0aW9uX2lkIjoiNzhhNzA1MDctOGVmNy00Y2M1LTlhMjQtNjk5ZDRmOTE2ZjU2IiwidmlzaXRfdG9rZW4iOiI5MTBhYmY5Yy1kYzhlLTQ1ODAtYTM1ZC1lNDY1M2JiODJkNzgiLCJpYXQiOjE3MDc1MDM3ODcsImlzcyI6Im9yY2hpZCJ9.sUG21W3ldrB-csshxczFIcOQiMf1YlF5WnA74E4rq-Q)
+
+He’s also done written interviews on [Balancing the Grind](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2JhbGFuY2V0aGVncmluZC5jby9pbnRlcnZpZXdzL25lYWwtZnJleW1hbi1tYW5hZ2luZy1lZGl0b3ItYXQtbW9ybmluZy1icmV3LyIsInBvc3RfaWQiOiI2YmIzNzA1Ni1lOWY1LTQ2ZDYtOGJhMi05NGI2M2Q0MGFmMzYiLCJwdWJsaWNhdGlvbl9pZCI6Ijc4YTcwNTA3LThlZjctNGNjNS05YTI0LTY5OWQ0ZjkxNmY1NiIsInZpc2l0X3Rva2VuIjoiOTEwYWJmOWMtZGM4ZS00NTgwLWEzNWQtZTQ2NTNiYjgyZDc4IiwiaWF0IjoxNzA3NTAzNzg3LCJpc3MiOiJvcmNoaWQifQ.ophVmATMUnGVh1k3sGFFTqw1GVkeu9y9vIXsddtCvHQ) and [Thrive Global](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2NvbW11bml0eS50aHJpdmVnbG9iYWwuY29tL2EtZGF5LWluLXRoZS1saWZlLW9mLWEtbmV3c2xldHRlci13cml0ZXItd2l0aC1tb3JuaW5nLWJyZXdzLW5lYWwtZnJleW1hbi8iLCJwb3N0X2lkIjoiNmJiMzcwNTYtZTlmNS00NmQ2LThiYTItOTRiNjNkNDBhZjM2IiwicHVibGljYXRpb25faWQiOiI3OGE3MDUwNy04ZWY3LTRjYzUtOWEyNC02OTlkNGY5MTZmNTYiLCJ2aXNpdF90b2tlbiI6IjkxMGFiZjljLWRjOGUtNDU4MC1hMzVkLWU0NjUzYmI4MmQ3OCIsImlhdCI6MTcwNzUwMzc4NywiaXNzIjoib3JjaGlkIn0.YQL7S%5FP9YVjRKHYRYM1snrbctw385-SzHb%5FJj9oNjzU), and interestingly, used to [publish on Quora](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5xdW9yYS5jb20vcHJvZmlsZS9OZWFsLUZyZXltYW4iLCJwb3N0X2lkIjoiNmJiMzcwNTYtZTlmNS00NmQ2LThiYTItOTRiNjNkNDBhZjM2IiwicHVibGljYXRpb25faWQiOiI3OGE3MDUwNy04ZWY3LTRjYzUtOWEyNC02OTlkNGY5MTZmNTYiLCJ2aXNpdF90b2tlbiI6IjkxMGFiZjljLWRjOGUtNDU4MC1hMzVkLWU0NjUzYmI4MmQ3OCIsImlhdCI6MTcwNzUwMzc4NywiaXNzIjoib3JjaGlkIn0.Gzqx%5FK67he6PzYg6X72D4vIUMU4qDNTuS8klCK-K-6U) before the brew. It’s pretty cool, you can see the style taking shape there.
+
+**Big Takeaway:** Content benefits from committed guidance. Are you building an environment where someone can and wants to A) rise up through the ranks and B) stick around for a long time?
+
+### 3\. Revenue
+
+The first major jump in revenue came between 2018 and 2019, when the company more than quadrupled from $3m to $13m in a year. From there, they roughly doubled every year until 2022 (my most recent data) when they did [$36 million](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5zYWlsdGhydS5jb20vY3VzdG9tZXIvbW9ybmluZy1icmV3LyIsInBvc3RfaWQiOiI2YmIzNzA1Ni1lOWY1LTQ2ZDYtOGJhMi05NGI2M2Q0MGFmMzYiLCJwdWJsaWNhdGlvbl9pZCI6Ijc4YTcwNTA3LThlZjctNGNjNS05YTI0LTY5OWQ0ZjkxNmY1NiIsInZpc2l0X3Rva2VuIjoiOTEwYWJmOWMtZGM4ZS00NTgwLWEzNWQtZTQ2NTNiYjgyZDc4IiwiaWF0IjoxNzA3NTAzNzg3LCJpc3MiOiJvcmNoaWQifQ.hlzTFfJbLMJlGDml9rBmBBW7MZVS0Cq2GNhRM9b7cHI) in the first _half_ of the year.
+
+Wild.
+
+A key person behind this was **[Jason Schulweis](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5saW5rZWRpbi5jb20vaW4vanNjaHVsd2Vpcy8iLCJwb3N0X2lkIjoiNmJiMzcwNTYtZTlmNS00NmQ2LThiYTItOTRiNjNkNDBhZjM2IiwicHVibGljYXRpb25faWQiOiI3OGE3MDUwNy04ZWY3LTRjYzUtOWEyNC02OTlkNGY5MTZmNTYiLCJ2aXNpdF90b2tlbiI6IjkxMGFiZjljLWRjOGUtNDU4MC1hMzVkLWU0NjUzYmI4MmQ3OCIsImlhdCI6MTcwNzUwMzc4NywiaXNzIjoib3JjaGlkIn0.0uIsSS2shwYEJX86Lyiv6a8d6U1u6KFReJYBJhdPmvk)**, who joined as head of brand partnerships in mid-2019 and helped completely restructure the sales team.
+
+**Learn From Him:** He moved on in 2022, but left behind a great body of work outlining what that period looked like.
+
+Every year, he did an annual review ([Year 1](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5saW5rZWRpbi5jb20vcHVsc2UvbXktZmlyc3QteWVhci1icmV3LXBhdGgtZnJvbS1uZXdzbGV0dGVyLXN0YXJ0dXAtbWVkaWEtamFzb24tc2NodWx3ZWlzLyIsInBvc3RfaWQiOiI2YmIzNzA1Ni1lOWY1LTQ2ZDYtOGJhMi05NGI2M2Q0MGFmMzYiLCJwdWJsaWNhdGlvbl9pZCI6Ijc4YTcwNTA3LThlZjctNGNjNS05YTI0LTY5OWQ0ZjkxNmY1NiIsInZpc2l0X3Rva2VuIjoiOTEwYWJmOWMtZGM4ZS00NTgwLWEzNWQtZTQ2NTNiYjgyZDc4IiwiaWF0IjoxNzA3NTAzNzg3LCJpc3MiOiJvcmNoaWQifQ.WEvDqpPaHns3G2IB3iy9tQ%5FlxNgncM4nkkWjVgu3BOM), [Year 2](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5saW5rZWRpbi5jb20vcHVsc2UvbXktc2Vjb25kLXllYXItYnJldy1wYXRoLWZyb20tbWVkaWEtY29tcGFueS1hdWRpZW5jZS1qYXNvbi1zY2h1bHdlaXMvIiwicG9zdF9pZCI6IjZiYjM3MDU2LWU5ZjUtNDZkNi04YmEyLTk0YjYzZDQwYWYzNiIsInB1YmxpY2F0aW9uX2lkIjoiNzhhNzA1MDctOGVmNy00Y2M1LTlhMjQtNjk5ZDRmOTE2ZjU2IiwidmlzaXRfdG9rZW4iOiI5MTBhYmY5Yy1kYzhlLTQ1ODAtYTM1ZC1lNDY1M2JiODJkNzgiLCJpYXQiOjE3MDc1MDM3ODcsImlzcyI6Im9yY2hpZCJ9.5odbNlRZbvURrgsD087mBfNJyna1D-JlJpqJZ3amLf0), [Year 3](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5saW5rZWRpbi5jb20vcHVsc2UvbXktdGhpcmQteWVhci1icmV3LXBhdGgtZnJvbS1ncm93dGgtc2NhbGUtamFzb24tc2NodWx3ZWlzLyIsInBvc3RfaWQiOiI2YmIzNzA1Ni1lOWY1LTQ2ZDYtOGJhMi05NGI2M2Q0MGFmMzYiLCJwdWJsaWNhdGlvbl9pZCI6Ijc4YTcwNTA3LThlZjctNGNjNS05YTI0LTY5OWQ0ZjkxNmY1NiIsInZpc2l0X3Rva2VuIjoiOTEwYWJmOWMtZGM4ZS00NTgwLWEzNWQtZTQ2NTNiYjgyZDc4IiwiaWF0IjoxNzA3NTAzNzg3LCJpc3MiOiJvcmNoaWQifQ.nV4S41I0%5FToWoRFJh%5FTlLF3iLAYvMOgzW1Zo-g2wogA)) that not only included major strategic decisions and their outcomes, but also linked off to lots of other posts he wrote along the way explaining his decision-making, hypotheses, and lessons learned (from [hiring](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3R3aXR0ZXIuY29tL2pzY2h1bHdlaXMvc3RhdHVzLzEzMzYyOTUzNjkxMTkwNTE3NzYiLCJwb3N0X2lkIjoiNmJiMzcwNTYtZTlmNS00NmQ2LThiYTItOTRiNjNkNDBhZjM2IiwicHVibGljYXRpb25faWQiOiI3OGE3MDUwNy04ZWY3LTRjYzUtOWEyNC02OTlkNGY5MTZmNTYiLCJ2aXNpdF90b2tlbiI6IjkxMGFiZjljLWRjOGUtNDU4MC1hMzVkLWU0NjUzYmI4MmQ3OCIsImlhdCI6MTcwNzUwMzc4NywiaXNzIjoib3JjaGlkIn0.DgAmpskdSQIfVsKOqJOZabGiks-7Pmw6jtr%5Fa6GkEHA), to [B2B advertising](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3R3aXR0ZXIuY29tL2pzY2h1bHdlaXMvc3RhdHVzLzEzNTM0MzQyMDgyOTE3MDg5MjgiLCJwb3N0X2lkIjoiNmJiMzcwNTYtZTlmNS00NmQ2LThiYTItOTRiNjNkNDBhZjM2IiwicHVibGljYXRpb25faWQiOiI3OGE3MDUwNy04ZWY3LTRjYzUtOWEyNC02OTlkNGY5MTZmNTYiLCJ2aXNpdF90b2tlbiI6IjkxMGFiZjljLWRjOGUtNDU4MC1hMzVkLWU0NjUzYmI4MmQ3OCIsImlhdCI6MTcwNzUwMzc4NywiaXNzIjoib3JjaGlkIn0.7sbSKg-huR3RSfCEbAw-bLo7-EkqyOX0jcuxpxs9J0g), to [connecting the dots](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5saW5rZWRpbi5jb20vcHVsc2UvcG93ZXItY29sbGVjdGluZy1kb3RzLXBhcnQtMS1pbnRyby1qYXNvbi1zY2h1bHdlaXMvIiwicG9zdF9pZCI6IjZiYjM3MDU2LWU5ZjUtNDZkNi04YmEyLTk0YjYzZDQwYWYzNiIsInB1YmxpY2F0aW9uX2lkIjoiNzhhNzA1MDctOGVmNy00Y2M1LTlhMjQtNjk5ZDRmOTE2ZjU2IiwidmlzaXRfdG9rZW4iOiI5MTBhYmY5Yy1kYzhlLTQ1ODAtYTM1ZC1lNDY1M2JiODJkNzgiLCJpYXQiOjE3MDc1MDM3ODcsImlzcyI6Im9yY2hpZCJ9.Wh-PYaVcyDjhDYEHwi3RcGxyWQNKVp6ZEQfSQscjAyA)).
+
+He also appeared on several industry podcasts, including…
+
+* [You Should Talk To](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PWF3RlJ6aHJ0Y0MwIiwicG9zdF9pZCI6IjZiYjM3MDU2LWU5ZjUtNDZkNi04YmEyLTk0YjYzZDQwYWYzNiIsInB1YmxpY2F0aW9uX2lkIjoiNzhhNzA1MDctOGVmNy00Y2M1LTlhMjQtNjk5ZDRmOTE2ZjU2IiwidmlzaXRfdG9rZW4iOiI5MTBhYmY5Yy1kYzhlLTQ1ODAtYTM1ZC1lNDY1M2JiODJkNzgiLCJpYXQiOjE3MDc1MDM3ODcsImlzcyI6Im9yY2hpZCJ9.W9TQ-8VAvfn4y3lCOHmWNolBEPCeezTO8%5F4V7z3pVmE)
+* [Radicle Insights](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PUkzMjIwWDBKN0ZBIiwicG9zdF9pZCI6IjZiYjM3MDU2LWU5ZjUtNDZkNi04YmEyLTk0YjYzZDQwYWYzNiIsInB1YmxpY2F0aW9uX2lkIjoiNzhhNzA1MDctOGVmNy00Y2M1LTlhMjQtNjk5ZDRmOTE2ZjU2IiwidmlzaXRfdG9rZW4iOiI5MTBhYmY5Yy1kYzhlLTQ1ODAtYTM1ZC1lNDY1M2JiODJkNzgiLCJpYXQiOjE3MDc1MDM3ODcsImlzcyI6Im9yY2hpZCJ9.RJmVMZc%5Fc2PqZOW8EpnKWTp80rw48xg7KLji0eV0ZVk)
+* [Motivated Podcast](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3BvZGNhc3RlcnMuc3BvdGlmeS5jb20vcG9kL3Nob3cvdGhlbW90aXZhdGVkcG9kY2FzdC9lcGlzb2Rlcy9MYXctb2YtQXR0cmFjdGlvbi12cy1BY3Rpb24td2l0aC1KYXNvbi1TY2h1bHdlaXMtLUhlYWQtb2YtQnJhbmQtUGFydG5lcnNoaXBzLWF0LU1vcm5pbmctQnJldy1ldWJkY3AvYS1hNTVtdWNjIiwicG9zdF9pZCI6IjZiYjM3MDU2LWU5ZjUtNDZkNi04YmEyLTk0YjYzZDQwYWYzNiIsInB1YmxpY2F0aW9uX2lkIjoiNzhhNzA1MDctOGVmNy00Y2M1LTlhMjQtNjk5ZDRmOTE2ZjU2IiwidmlzaXRfdG9rZW4iOiI5MTBhYmY5Yy1kYzhlLTQ1ODAtYTM1ZC1lNDY1M2JiODJkNzgiLCJpYXQiOjE3MDc1MDM3ODcsImlzcyI6Im9yY2hpZCJ9.f5sUXiNz4s0Bb0R6lD3awZfKo8Q6xV%5F1glsul5RzSrk)
+* [Leagueside Podcast](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PVpaR3N4aHNPdlh3IiwicG9zdF9pZCI6IjZiYjM3MDU2LWU5ZjUtNDZkNi04YmEyLTk0YjYzZDQwYWYzNiIsInB1YmxpY2F0aW9uX2lkIjoiNzhhNzA1MDctOGVmNy00Y2M1LTlhMjQtNjk5ZDRmOTE2ZjU2IiwidmlzaXRfdG9rZW4iOiI5MTBhYmY5Yy1kYzhlLTQ1ODAtYTM1ZC1lNDY1M2JiODJkNzgiLCJpYXQiOjE3MDc1MDM3ODcsImlzcyI6Im9yY2hpZCJ9.KlB2Z98BX6tzCbDP%5FdbkGqGXPIe8sEKnWEgt8aq-y%5FQ)
+* [The Media Roundtable](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3BvZGNhc3RzLmFwcGxlLmNvbS91cy9wb2RjYXN0L2JlY29tZS1zbWFydGVyLWluLTUtbWludXRlcy1qYXNvbi1zY2h1bHdlaXMtZW1wb3dlcnMvaWQxNTEwNjQ5Nzk5P2k9MTAwMDU1NzUwMTE1NSIsInBvc3RfaWQiOiI2YmIzNzA1Ni1lOWY1LTQ2ZDYtOGJhMi05NGI2M2Q0MGFmMzYiLCJwdWJsaWNhdGlvbl9pZCI6Ijc4YTcwNTA3LThlZjctNGNjNS05YTI0LTY5OWQ0ZjkxNmY1NiIsInZpc2l0X3Rva2VuIjoiOTEwYWJmOWMtZGM4ZS00NTgwLWEzNWQtZTQ2NTNiYjgyZDc4IiwiaWF0IjoxNzA3NTAzNzg3LCJpc3MiOiJvcmNoaWQifQ.0v6tAITg3PEOUR7D4l4QyOaxkHYmWa3qS9ztoxlmHak)
+* [The Business of Newsletters](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3BvZC5saW5rL2Zsb29yOS9lcGlzb2RlLzQxYjQ0OThlMTM1MzlkNDg1ZjU0OTI1YTg3YTZiNjhkIiwicG9zdF9pZCI6IjZiYjM3MDU2LWU5ZjUtNDZkNi04YmEyLTk0YjYzZDQwYWYzNiIsInB1YmxpY2F0aW9uX2lkIjoiNzhhNzA1MDctOGVmNy00Y2M1LTlhMjQtNjk5ZDRmOTE2ZjU2IiwidmlzaXRfdG9rZW4iOiI5MTBhYmY5Yy1kYzhlLTQ1ODAtYTM1ZC1lNDY1M2JiODJkNzgiLCJpYXQiOjE3MDc1MDM3ODcsImlzcyI6Im9yY2hpZCJ9.Vs5WkT3I3toJ5yIlUCBWtac7p04Kc9Ax2Hve4zDl9CY)
+
+**Big Takeaway:** Experience pays. Before the Brew, Schulweis had led teams at Yahoo, Thrillist, Live Nation, and Media Link. He was able to see the structural problems holding the initial team back, and fix them quickly. If growth and content benefitted from having young, scrappy go-getters, revenue seems like the corollary – pay to bring in someone who’s been there.
+
+![](https://proxy-prod.omnivore-image-cache.app/629x391,snqNqZxb9Hh3G-N41kf6QIfRkYs_eAytkbMjXCD8Aqxo/https://i0.wp.com/thewritetoroam.com/wp-content/uploads/2024/02/Screenshot-2024-02-02-at-12.14.42-AM.png?resize=629%2C391&ssl=1)
+
+### 4\. Staffing
+
+Probably the most overlooked part of growing a company, but crucial to building a cohesive team.
+
+Morning Brew made its first HR hire, **[Kate Noel](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5saW5rZWRpbi5jb20vaW4va2F0ZS1ub2VsLTJiODk1MjQyLyIsInBvc3RfaWQiOiI2YmIzNzA1Ni1lOWY1LTQ2ZDYtOGJhMi05NGI2M2Q0MGFmMzYiLCJwdWJsaWNhdGlvbl9pZCI6Ijc4YTcwNTA3LThlZjctNGNjNS05YTI0LTY5OWQ0ZjkxNmY1NiIsInZpc2l0X3Rva2VuIjoiOTEwYWJmOWMtZGM4ZS00NTgwLWEzNWQtZTQ2NTNiYjgyZDc4IiwiaWF0IjoxNzA3NTAzNzg3LCJpc3MiOiJvcmNoaWQifQ.dltsFaVRZXWNqUwfWb7NVBfRiOLWDebAoHAr1zyEJ44)**, in January of 2020, when the company had \~30 employees, and was doing 8-figures in revenue. She’s still there as of this writing, serving as SVP, head of people ops, and has helped the company grow to 300+ employees.
+
+Similarly impressive is their second HR hire, **[Lily Mittman](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5saW5rZWRpbi5jb20vaW4vbGlseW1pdHRtYW4vIiwicG9zdF9pZCI6IjZiYjM3MDU2LWU5ZjUtNDZkNi04YmEyLTk0YjYzZDQwYWYzNiIsInB1YmxpY2F0aW9uX2lkIjoiNzhhNzA1MDctOGVmNy00Y2M1LTlhMjQtNjk5ZDRmOTE2ZjU2IiwidmlzaXRfdG9rZW4iOiI5MTBhYmY5Yy1kYzhlLTQ1ODAtYTM1ZC1lNDY1M2JiODJkNzgiLCJpYXQiOjE3MDc1MDM3ODcsImlzcyI6Im9yY2hpZCJ9.0ctWcpCD8VwxwilVzouR9s19G4j0r8UGQplDf-dYMa0)**. She joined as senior director of talent acquisition immediately after the brew was acquired by Business Insider in late 2020, and was the first person in the company to sit in a talent acquisition role.
+
+Over the course of her first year, she helped take the team from \~75 to \~175 people. Two hires a week. Every week. For. A. Year.
+
+**Learn From Them:** I can’t imagine the stories these two could tell (although I suppose the first rule of HR is you don’t talk about what goes on in HR). Perhaps for that reason, they haven’t published a ton of inside baseball. But they have appeared in some places…
+
+* [Kate led this panel on attracting and retaining talent](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2RyaXZlLmdvb2dsZS5jb20vZmlsZS9kLzFVQWZEV2dnU2RxNDFPTDRlbWVUbFM4N2V1UWU4Q3U4Yy92aWV3P3BsaT0xIiwicG9zdF9pZCI6IjZiYjM3MDU2LWU5ZjUtNDZkNi04YmEyLTk0YjYzZDQwYWYzNiIsInB1YmxpY2F0aW9uX2lkIjoiNzhhNzA1MDctOGVmNy00Y2M1LTlhMjQtNjk5ZDRmOTE2ZjU2IiwidmlzaXRfdG9rZW4iOiI5MTBhYmY5Yy1kYzhlLTQ1ODAtYTM1ZC1lNDY1M2JiODJkNzgiLCJpYXQiOjE3MDc1MDM3ODcsImlzcyI6Im9yY2hpZCJ9.RMQo0zGYnTjXTAvgrsqyN-6rC2QRRgcWp3%5F7AfxGet0)
+* [Lily appeared on the HR Impact Podcast](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2hyLWltcGFjdC1wb2RjYXN0LmNhcHRpdmF0ZS5mbS9lcGlzb2RlL2JyZXdpbmctYS1zdHJvbmctZW1wbG95ZXItYnJhbmQtdGhlLWtleS10by1hdHRyYWN0aW5nLWFuZC1yZXRhaW5pbmctZWxpdGUtdGFsZW50IiwicG9zdF9pZCI6IjZiYjM3MDU2LWU5ZjUtNDZkNi04YmEyLTk0YjYzZDQwYWYzNiIsInB1YmxpY2F0aW9uX2lkIjoiNzhhNzA1MDctOGVmNy00Y2M1LTlhMjQtNjk5ZDRmOTE2ZjU2IiwidmlzaXRfdG9rZW4iOiI5MTBhYmY5Yy1kYzhlLTQ1ODAtYTM1ZC1lNDY1M2JiODJkNzgiLCJpYXQiOjE3MDc1MDM3ODcsImlzcyI6Im9yY2hpZCJ9.PfLyxb1xY7T7gmYJRU4NLTG9e3SLM0lijhSstQQ-aIY)
+
+Someone really needs to sit down with these two though and talk about what it’s like to handle the people side of a media company going through sustained hyper-growth.
+
+**Big Takeaway:** Brew co-founder Alex Lieberman once wrote that, “I’ve realized that it’s very difficult to ever hire too early for HR,” which on its own is an interesting insight for people who are scaling.
+
+### Wrapping Up
+
+Scaling a newsletter is about more than tactics. It’s about the people _behind_ the tactics, how they looked at the problem of growth, and what they learned from what they went through.
+
+The founders, yes. But increasingly as it grows, the people lower down who are closer to the work.
+
+Find those people, talk to them or learn from their work, and you end up with a much higher-fidelity understanding of what you’re going to encounter, and how to deal with it.
