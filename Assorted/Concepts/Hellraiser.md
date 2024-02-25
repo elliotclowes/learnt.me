@@ -5,6 +5,8 @@
 
 A hellraiser is someone who likes to drink and get up to rebellious and mischievous behaviour. For a long time if a British tabloid published a story on a "hellraiser" you knew exactly what that word meant. But in the public consciousness they're not really a thing anymore. Famous hellraisers include [[Richard Burton]], [[Richard Harris]], [[Peter O'Toole]], [[Oliver Reed]], [[Keith Moon]], [[George Best]], [[Hunter S. Thompson]].
 
+
+
 ***
 
 Created: [[2024-02-25]]  
