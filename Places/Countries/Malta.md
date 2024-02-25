@@ -1,7 +1,7 @@
 
 I've been to Malta twice now, so I'm certainly no expert and this list isn't anything close to exhaustive. It's just a personal list of things I liked when over there.
 
-## Notes [[Future Elliot]]
+## Notes for [[Future Elliot]]
 - Bring a notebook for book notes. It's often too much of a pain to use phone. Too hot too.
 - Bring iPad, not laptop. I don't use it. Make sure to bring iPad mount for watching things though.
 - I only used New Balance and Converse, didn’t bother with the black Clark’s dessert boots.
