@@ -1,6 +1,8 @@
 
 [MyFitnessPal entry](https://www.myfitnesspal.com/food/diary/ejclowes?date=2024-01-17) (chickpea variety)
 
+[[Shakshouka]]
+
 ## Ingredients (7 servings)
 
 - 2 tablespoons olive oil
