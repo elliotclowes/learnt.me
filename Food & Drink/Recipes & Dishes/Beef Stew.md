@@ -32,7 +32,7 @@ Add the flour and tomato paste to the Dutch oven with the onions, carrots and ce
 
 Add the wine and beef with the remaining juices.
 
-Bring to the bowl and then lower the heat to medium. Leave at a strong simmer until the wine is reduced by half. Around 25 minutes.
+Bring to the boil and then lower the heat to medium. Leave at a strong simmer until the wine is reduced by half. Around 25 minutes.
 
 Turn on the oven at 175°c.
 
