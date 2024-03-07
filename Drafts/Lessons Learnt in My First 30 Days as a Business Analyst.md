@@ -1,3 +1,9 @@
+- active listening
+	- you need to be listening so that you can action an off-hand comment
+- stragic thinking
+	- set aside time for it.
+	- stop just being reactive and fighting fires
+- start and end your day with a summary
 
 *****
 
@@ -27,6 +33,10 @@ A lot of the tasks you'll be working on are elastic. You could spend a little bi
 **Embrace the Art of Listening**
 
 The act of truly listening is a rare commodity. As a BA, your ability to listen—really listen—is a vital asset. So much of your work will be an offshoot of something someone delivered verbally. You’ll have to refine a ticket, create documentation, understand a problem or forward on knowledge. All from spoken communication.
+
+And so much knowledge can only be accessed verbally. It's locked in peoples heads and you need to get to it.
+
+Often someone will make an off-hand comment in something like a stand-up that you realise has large implications on another teams and neither parties might not be aware of it. So pay close attention.
 
 
 
