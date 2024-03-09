@@ -11,6 +11,7 @@
 - ChatGPT: $20/mo
 	- I use ChatGPT a lot and I think GPT-4 is worth paying for.
 - Dropbox: £10/mo
+- Feral: £10/mo
 - iCloud+: £9/mo
 - Readwise: $9/mo
 - Linode: $8.40/mo
