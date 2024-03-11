@@ -1,6 +1,7 @@
 - active listening
 	- you need to be listening so that you can action an off-hand comment
-	- You need to be vigilant in this WFH age. You have a distraction device in front of you. It’s to
+	- You need to be vigilant in this WFH age. You have a distraction device in front of you. It’s tough to resist checking that email that just came in.
+		- I struggle with this.
 - stragic thinking
 	- set aside time for it.
 	- stop just being reactive and fighting fires

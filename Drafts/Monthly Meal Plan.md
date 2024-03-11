@@ -197,6 +197,8 @@ Shopping list week 1 (£80-£90)
 - Pasta dish with bacon and egg
 - Steak pie
 - Chicken thigh fillets and med veg ✔
+- Lamb shank
+- Chicken burger (frozen Iceland southern fried)
 
 **Breakfast/lunch**
 - Beans on toast ✔
