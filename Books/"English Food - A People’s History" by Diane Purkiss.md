@@ -260,6 +260,25 @@ Saint Blaise is the patron saint of throats. P137
 
 Some large households had wet larders with a water source or well so that fish could be kept alive until needed. They were usually transported there on the back of pack horses. P137
 
+***
+
+The term of something being a “red herring” comes from hunting. A red herring (which is smoked herring) is smelly and the scent would throw a hound off the scent. P140
+
+***
+
+The English have never really been into preserved fish. They were always a lower-class food and eaten by that class due to having little other choice. The English taste seemed to always find the taste too strong and the smell too powerful. Smoked salmon did catch on with the upper classes. But as a rule the English prefer their fish fresh. P140-141
+
+***
+
+A “bloater” is a cold smoked and ungutted herring. P141
+
+***
+
+Because the English liked their fish fresh they would try and keep them alive as long as possible. They were transported alive in wooden barrels. Ultra rich households would have ponds to keep them. They would usually have these ponds right be their gates or on the edge of their estates within the fences and walls to show off how rich they were. P142. They were often more for showing off wealth than eating. The bishops of Winchester had 400 acres of ponds but ate barely a tenth of the fish they produced. Another reason the fish weren’t eaten was because freshwater fish aren’t that tasty. Bream, pike, perch, tench, roach and dace are “bony, slow-growing, muddy-tasting
+
+***
+
+In the 1200s people saw the pike as a religious fish. They felt that the marks on its body resembled the marks that a crucified Christ would have: the marks of nails, whip, cross and thorns. To eat it was a status symbol and a mark of religiosity. P142
 
 
 

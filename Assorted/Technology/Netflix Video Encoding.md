@@ -15,6 +15,9 @@
 ## Movie Bitrates
 
 - AT = Already Transcoded
+- Dune
+	- H264 High: 3777 = 95
+	- VP9: 483 = 94
 - The Accountant
 	- HD H264 High: 7343 = 94
 	- HD VP9: 1818 = 93
