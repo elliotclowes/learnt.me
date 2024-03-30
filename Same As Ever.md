@@ -24,4 +24,7 @@ Martin Luther King Jr. went off script for his “Dream” speech. For the start
 “Leverage squeezes the full potential out of something with less effort. Stories leverage ideas in the same way that debt leverages assets.” P58
 
 ***
+“World War II began on horseback in 1939 and ended with nuclear fission in 1945.” P96
 
+***
+“NASA was created in 1958… and landed on the moon just eleven years later”.
