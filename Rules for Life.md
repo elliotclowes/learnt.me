@@ -55,6 +55,12 @@ But if you are then you can also focus on including nuts, lots of fatty fish, le
 
 Getting a great deal on something you don't need is far costlier than overpaying for something you do need.
 
+***
+
+The wealthy utilise debt to make more money. The poor abuse debt to lose money. Taking on debt can be a useful tool, but outside of large essential purchases likes homes and cars or for sensible business investing, it’s best avoided.
+
+And be extra wary when interest lates are low. Because of the differences in how classes use debt, times of low interest rates can cause huge divides in equality and even lead to national/global financial issues or societal issues. (2024-03-20)
+
 
 ## Others
 

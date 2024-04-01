@@ -22,6 +22,7 @@
 
 ## Money
 - "The Psychology of Money: Timeless Lessons on Wealth, Greed, and Happiness" by Morgan Housel
+- "Antifragile: Things That Gain from Disorder" by Nassim Nicholas Taleb
 - "The Richest Man In Babylon" by George S. Clason
  
 ## Fiction

@@ -8,7 +8,7 @@ Also the search box at the top left will only search for pages or headings withi
 
 ## How this site works
 
-This website isn't essentially just a collection of plain text notes that I have written in a piece of software called Obsidian. Obsidian has an add-on service which turns your notes into a website. That's how *Learnt.me* is made.
+This website is essentially just a collection of plain text notes that I have written in a piece of software called Obsidian. Obsidian has an add-on service which turns your notes into a website. That's how *Learnt.me* is made.
 
 ### Backlinks
 
