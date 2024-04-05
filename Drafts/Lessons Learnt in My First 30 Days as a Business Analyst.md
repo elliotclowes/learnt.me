@@ -73,6 +73,13 @@ A lot of your team members and stakeholders are on different “islands”. They
 
 ***
 
+**Meetings are more than just their length**
+
+ - prep
+ - notes after
+ - context switching
+ - tiring
+
 - Ask lots of questions. Don't say "ah, I see" until you really do "see".
 - If there's something I've learnt it's that other BA's are often curious, widely read and smart people. They're a good 'guild' to be a part of.
 - Find you weak points and focus on them.
