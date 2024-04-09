@@ -14,3 +14,7 @@
 		- I like to think my workplace is supportive. But I still think most people would be a little annoyed if I said “sorry can we rearrange this meeting, as I have ADHD and am in a rare moments of flow”.
 - Back to back meetings can be ideal
 	- Some people build in 15 minute buffers between meetings. I like to do this if I’m going to have meeting notes to write up. But if not I hate it. People without ADHD might be able to get some work in during that 15 minutes. But I very rarely can.
+- Remove notifications
+	- Only DM's on on Slack
+	- Hide the Gmail favicon that shows unread count
+- It's always best if to-dos can avoid your todo list altogether.

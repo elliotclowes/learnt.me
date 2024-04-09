@@ -91,3 +91,8 @@ Most religions by definition require belief in the absurd. So don’t be surpris
 ## Morals
 
 Eating meat is quite plainly immoral. Unless it will be detrimental to your health, eat as little as possible.
+
+## General
+
+One of the biggest takeaways you’ll learn from reading history is the constant cycles. 
+
