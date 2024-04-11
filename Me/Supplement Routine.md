@@ -23,3 +23,13 @@
  - Creatine (5 grams)
  - Magnesium (2 tablets, 2000 mg, 230 mg pure magnesium)
  - Apigenin (50 mg) [phasing out]
+
+B12
+magnesium
+multi-vitamin
+hippocampus - memory
+zinc
+lithium oxidate - for dimentia
+	you can buy 5mg
+is protein?
+ASMR
