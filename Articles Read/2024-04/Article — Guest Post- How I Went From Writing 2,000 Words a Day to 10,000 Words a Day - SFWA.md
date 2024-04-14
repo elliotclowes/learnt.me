@@ -4,7 +4,7 @@ site_name: SFWA
 author: Jeremiah Tolbert
 date_published: 2011-12-14
 date_saved: 2024-04-07
-date_read: 2024-04-07
+date_read: 2024-04-14
 date_archived: 2024-04-07T07:01:50.000Z
 original_url: https://www.sfwa.org/2011/12/14/guest-post-how-i-went-from-writing-2000-words-a-day-to-10000-words-a-day/
 omnivore_url: https://omnivore.app/me/guest-post-how-i-went-from-writing-2-000-words-a-day-to-10-000-w-18eb7540eaf
@@ -13,7 +13,7 @@ omnivore_url: https://omnivore.app/me/guest-post-how-i-went-from-writing-2-000-w
  - Site: SFWA
  - By: Jeremiah Tolbert
  - Date published: 2011-12-14
- - Date read: [[2024-04-07]]
+ - Date read: [[2024-04-14]]
  - [Read Original](https://www.sfwa.org/2011/12/14/guest-post-how-i-went-from-writing-2000-words-a-day-to-10000-words-a-day/)
  - [Read on Omnivore](https://omnivore.app/me/guest-post-how-i-went-from-writing-2-000-words-a-day-to-10-000-w-18eb7540eaf)
  - Tags:  #Productivity  #Writing  #Routine 
@@ -75,7 +75,7 @@ I’d actually broken it before. Using Knowledge and Time, I’d already managed
 
 The answer was head-slappingly obvious. Those days I broke 10k were the days I was writing scenes I’d been dying to write since I planned the book. They were the candy bar scenes, the scenes I wrote all that other stuff to get to. By contrast, my slow days (days where I was struggling to break 5k) corresponded to the scenes I wasn’t that crazy about.
 
-This was a duh moment for me, but it also brought up a troubling new problem. If I had scenes that were boring enough that I didn’t want to write them, then there was no way in hell anyone would want to read them. This was my novel, after all. If I didn’t love it, no one would.
+This was a duh moment for me, but it also brought up a troubling new problem. ==If I had scenes that were boring enough that I didn’t want to write them, then there was no way in hell anyone would want to read them.== This was my novel, after all. If I didn’t love it, no one would.
 
 Fortunately, the solution turned out to be, yet again, stupidly simple. Every day, while I was writing out my little description of what I was going to write for the knowledge component of the triangle, I would play the scene through in my mind and try to get excited about it. I’d look for all the cool little hooks, the parts that interested me most, and focus on those since they were obviously what made the scene cool. If I couldn’t find anything to get excited over, then I would change the scene, or get rid of it entirely. I decided then and there that, no matter how useful a scene might be for my plot, boring scenes had no place in my novels.
 
