@@ -182,6 +182,9 @@ Shopping list week 1 (£80-£90)
 
 
 **Dinner**
+- Turkey breast and bacon salad with coleslaw and roast potatoes
+- Minced meat in a pitta (Greek thing)
+- Chicken burger and home made chips
 - Chicken fajitas 
 - [[Sesame Glazed Salmon]] ✔ ✔ ✔
 - Turkey chili con carne and rice/jacket ✔ ✔ ✔

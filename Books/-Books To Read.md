@@ -1,3 +1,7 @@
+To add
+- Joseph Anton
+	- From Times’ Book newsletter on 12 April 2024. Meant to be good. Gossipy, witty and about life under constant theat.
+
 Book | Recommended by
 -- | --
 <a href="https://www.amazon.co.uk/dp/0374525706?tag=mostrecomme0e-21&geniuslink=true"><img src="https://m.media-amazon.com/images/M/MV5BZjVhZDkxMTgtMjBjZC00N2ZiLTgxNTItNGViYzY3ZjMxYzM4XkEyXkFqcGdeQXVyODAyNDE3Mw@@._V1_.jpg" alt="drawing" width="125"/></a> | [[Stephen Fry]]. "A masterpiece". Note: currently out of print, so will have to be bought second hand.

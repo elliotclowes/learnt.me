@@ -64,5 +64,4 @@
 - **Frank Sinatra** - No One Cares (MOFI version)
 - **Frank Sinatra** - Where Are You? MOFI Versoin
 - **Bill Withers** - Live at Carnegie Hall (MOFI version)
-- [https://old.reddit.com/r/Jazz/comments/kpzt3q/happy_birthday_to_me/](https://old.reddit.com/r/Jazz/comments/kpzt3q/happy_birthday_to_me/)
 - Red headed stranger willie nelson album
