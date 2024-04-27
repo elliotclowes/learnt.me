@@ -1,4 +1,9 @@
 
+> “Early feedback is usually better than late criticism.”
+> - James Clear
+
+***
+
 > **"Everything you've ever wanted is sitting on the other side of fear."**
 > - George Addair
 

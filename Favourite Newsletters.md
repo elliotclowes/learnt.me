@@ -1,0 +1,6 @@
+- Rahul from Hulry
+	- Nicely designed and not too long.
+	- It often recommends a book, some apps/services and then some articles.
+		- It’s the apps/services section that I look forward to the most. I’ve discovered so many cool apps from it.
+- The Friday Five by Sahil Bloom
+	- Productivity hacks.

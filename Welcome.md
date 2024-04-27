@@ -4,7 +4,7 @@ I like technology, reading and walking. You can also see my favourite [[Favourit
 
 ## What is this site?
 
-Think of *Learnt.me* as my personal Wikipedia. It's essentially a collection of my notes turned into a website. And I'm constantly adding and removing notes as I learn and discover new things. So this site will forever be a work in progress. It's as close to a digital version of my brain as you can get. [[About This Site|More in-depth info here]].
+*Learnt.me* is a collection of my notes turned into a website. But it’s much more than that. It’s me and my brain in digital form. On this website I add things I’ve learn, book highlights that inspire me, great articles I’ve read, a ‘life log’, and my personal preferences on everything from furniture to living life. This site will forever be a work in progress. [[About This Site|More in-depth info here]].
 
 ## What am I up to right now?
 

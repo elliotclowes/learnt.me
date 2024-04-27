@@ -1,6 +1,11 @@
 To add
+- Super-communicators by Charles Duhigg
+	- From the Hulry newsletter on 2024-04-19
 - Joseph Anton
 	- From Times’ Book newsletter on 12 April 2024. Meant to be good. Gossipy, witty and about life under constant theat.
+- Cognitive Gadgets
+	- Tyler Cohen - https://marginalrevolution.com/marginalrevolution/2018/03/cognitive-gadgets.html
+	- RobinHanse
 
 Book | Recommended by
 -- | --
