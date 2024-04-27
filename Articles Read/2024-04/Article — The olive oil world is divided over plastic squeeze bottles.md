@@ -4,7 +4,7 @@ site_name: Modern Retail
 author: Melissa Daniels
 date_published: 2024-04-16
 date_saved: 2024-04-17
-date_read: 2024-04-18
+date_read: 2024-04-27
 date_archived: 2024-04-18T07:15:27.000Z
 original_url: https://www.modernretail.co/operations/to-squeeze-or-not-to-squeeze-the-olive-oil-world-is-divided-over-plastic-packaging/
 omnivore_url: https://omnivore.app/me/https-www-modernretail-co-operations-to-squeeze-or-not-to-squeez-18eeafa6f4b
@@ -13,7 +13,7 @@ omnivore_url: https://omnivore.app/me/https-www-modernretail-co-operations-to-sq
  - Site: Modern Retail
  - By: Melissa Daniels
  - Date published: 2024-04-16
- - Date read: [[2024-04-18]]
+ - Date read: [[2024-04-27]]
  - [Read Original](https://www.modernretail.co/operations/to-squeeze-or-not-to-squeeze-the-olive-oil-world-is-divided-over-plastic-packaging/)
  - [Read on Omnivore](https://omnivore.app/me/https-www-modernretail-co-operations-to-squeeze-or-not-to-squeez-18eeafa6f4b)
  - Tags:  #Food  #Olive_Oil  #Plastic 
