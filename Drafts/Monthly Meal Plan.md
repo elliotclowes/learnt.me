@@ -32,7 +32,7 @@ Shopping list week 1 (£80-£90)
 		- [Tesco Smoked Salmon 150g](https://www.tesco.com/groceries/en-GB/products/314596516)
 	- **Dinner**
 		- [Tesco Boneless Half Salmon Side 500G](https://www.tesco.com/groceries/en-GB/products/277160996)
-		- [Tesco Green Beans 220G](https://www.tesco.com/groceries/en-GB/products/313168567)
+		- [Tesco Green Beans 220G](https://www.tesco.com/groceries/en-GB/products/313168567) No
 		- [Tesco Root Ginger Loose](https://www.tesco.com/groceries/en-GB/products/253559297)
 		- For ingredients for marinade see recipe.
 		- [Fage Total 0%Fat Greek Recipe Yogurt 450G](https://www.tesco.com/groceries/en-GB/products/311229525)
