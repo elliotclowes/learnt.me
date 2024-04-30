@@ -5,7 +5,7 @@ To add
 	- From Times’ Book newsletter on 12 April 2024. Meant to be good. Gossipy, witty and about life under constant theat.
 - Cognitive Gadgets
 	- Tyler Cohen - https://marginalrevolution.com/marginalrevolution/2018/03/cognitive-gadgets.html
-	- RobinHanse
+	- RobinHansen - https://www.overcomingbias.com/p/hail-cecilia-heyes?publication_id=1245641&post_id=143794708&isFreemail=true&r=234bj&triedRedirect=true
 
 Book | Recommended by
 -- | --
