@@ -280,7 +280,9 @@ Because the English liked their fish fresh they would try and keep them alive as
 
 In the 1200s people saw the pike as a religious fish. They felt that the marks on its body resembled the marks that a crucified Christ would have: the marks of nails, whip, cross and thorns. To eat it was a status symbol and a mark of religiosity. P142
 
+## Apples
 
+It appears that eating raw apples is a fairly new thing. [[Medieval]] cookbooks only mention cooked apples. Apples would have been a lot more bitter in the past, but medieval palates were fine with bitter foods. In fact our palates demand many times more sweetness from our foods compared to them. But despite this there simply isn’t mention of eating apples raw. The author speculates that maybe apple’s crispness might be to do with it. To us its crispness is a good thing, a sign of freshness. But to medieval people, who associated crispness with bread that’s gone stale, they might have found apples to taste unprepared.
 
 
 ## Highlights

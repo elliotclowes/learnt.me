@@ -4,7 +4,7 @@ site_name: tonyisola.com
 author: Posted by Anthony Isola
 date_published: 2024-04-24
 date_saved: 2024-04-30
-date_read: 2024-05-01
+date_read: 2024-05-05
 date_archived: 2024-05-01T06:43:57.000Z
 original_url: https://tonyisola.com/2024/04/dollar-cost-average-into-your-health/
 omnivore_url: https://omnivore.app/me/dollar-cost-average-into-your-health-a-teachable-moment-18f2d97c217
@@ -13,7 +13,7 @@ omnivore_url: https://omnivore.app/me/dollar-cost-average-into-your-health-a-tea
  - Site: tonyisola.com
  - By: Posted by Anthony Isola
  - Date published: 2024-04-24
- - Date read: [[2024-05-01]]
+ - Date read: [[2024-05-05]]
  - [Read Original](https://tonyisola.com/2024/04/dollar-cost-average-into-your-health/)
  - [Read on Omnivore](https://omnivore.app/me/dollar-cost-average-into-your-health-a-teachable-moment-18f2d97c217)
  - Tags:  #Health  #Money 

@@ -4,7 +4,7 @@ site_name: sahilbloom.com
 author: written bySahil BloomFrameworks & Tools
 date_published: 2024-02-14
 date_saved: 2024-04-18
-date_read: 2024-04-20
+date_read: 2024-05-05
 date_archived: 2024-04-20T06:54:07.000Z
 original_url: https://www.sahilbloom.com/newsletter/how-to-change-your-life-in-30-days
 omnivore_url: https://omnivore.app/me/how-to-change-your-life-in-30-days-the-curiosity-chronicle-18eefff2594
@@ -13,7 +13,7 @@ omnivore_url: https://omnivore.app/me/how-to-change-your-life-in-30-days-the-cur
  - Site: sahilbloom.com
  - By: written bySahil BloomFrameworks & Tools
  - Date published: 2024-02-14
- - Date read: [[2024-04-20]]
+ - Date read: [[2024-05-05]]
  - [Read Original](https://www.sahilbloom.com/newsletter/how-to-change-your-life-in-30-days)
  - [Read on Omnivore](https://omnivore.app/me/how-to-change-your-life-in-30-days-the-curiosity-chronicle-18eefff2594)
  - Tags:  #Better_Living  #Habits  #Productivity 
