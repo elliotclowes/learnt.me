@@ -1,4 +1,6 @@
 To add
+- The Fortress: The Great Siege of Przemysl by Alexander Watson
+	- Literary Re
 - Super-communicators by Charles Duhigg
 	- From the Hulry newsletter on 2024-04-19
 - Joseph Anton
