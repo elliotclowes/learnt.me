@@ -1,6 +1,6 @@
 To add
 - The Fortress: The Great Siege of Przemysl by Alexander Watson
-	- Literary Re
+	- Literary Review: https://literaryreview.co.uk/graveyard-of-empires
 - Super-communicators by Charles Duhigg
 	- From the Hulry newsletter on 2024-04-19
 - Joseph Anton
