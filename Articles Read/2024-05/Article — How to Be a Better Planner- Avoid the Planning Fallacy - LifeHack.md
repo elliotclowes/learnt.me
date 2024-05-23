@@ -189,29 +189,3 @@ So, the next time you’re about to finalize a plan, invite someone with a fresh
 The planning fallacy is a lot like that rudderless ship. It’s easy to get caught in its current. But now, armed with insights and strategies, you’ve got a fighting chance to steer clear and navigate with purpose.
 
 Remember, it’s not about pessimism but realism. It’s about balancing our big dreams with the nitty-gritty of execution. It’s about recognizing our blind spots and inviting others in to illuminate them. Because, at the end of the day, a plan is merely a guide. What matters is the journey, the adaptability, and the resilience to keep moving, even when winds change.
-
-## Ready to Regain Control of Your Time?
-
-LifeHack's All-Access Toolkit  is designed on the bedrock principles of the Time Flow System: 
-
-![](https://proxy-prod.omnivore-image-cache.app/0x0,saPTMRgm1E1YRBEFxlW-0I1e9A_WwY812-t7plyQvkQc/https://ce.lifehack.org/b31f5e723597d1bfe6bd.png)
-
-Unlock exclusive courses, time-saving hacks and meditation tools
-
-![](https://proxy-prod.omnivore-image-cache.app/0x0,saPTMRgm1E1YRBEFxlW-0I1e9A_WwY812-t7plyQvkQc/https://ce.lifehack.org/b31f5e723597d1bfe6bd.png)
-
-Join a community of like-minded achievers
-
-![](https://proxy-prod.omnivore-image-cache.app/0x0,saPTMRgm1E1YRBEFxlW-0I1e9A_WwY812-t7plyQvkQc/https://ce.lifehack.org/b31f5e723597d1bfe6bd.png)
-
-Get expert guidance from productivity coaches
-
-Master your Time with the toolkit!
-
-![](https://proxy-prod.omnivore-image-cache.app/0x0,sqgcmpmIxxTnRC21vY1qfcnO5ncemxxrexDfosiDVlUs/https://ce.lifehack.org/31a701722784b68de862.png) 
-
-[Master My Time](https://g.lifehack.org/get-all-access?utm%5Fsource=blog&utm%5Fmedium=cta+to+product+page&utm%5Fcampaign=start+here&utm%5Fterm=start+here+below+article&utm%5Fcontent=global) 
-
-## Reference
-
-⌄ Scroll down to continue ⌄

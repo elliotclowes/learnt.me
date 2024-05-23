@@ -22,7 +22,7 @@ omnivore_url: https://omnivore.app/me/https-www-thetimes-co-uk-article-d-37-c-82
 **Note:** Below is the text from the article, with any ==highlights== done by me. None of the writing below is by me.
 
 # Article text
-Cambridge University has launched a new approach to capitalising on the research of its academics as it seeks to become the “world leader in creating science-backed businesses”.
+[[Cambridge University]] has launched a new approach to capitalising on the research of its academics as it seeks to become the “world leader in creating science-backed businesses”.
 
 Diarmuid O’Brien, who heads the university’s efforts to commercialise the innovation that emerges from academia, said it aims to double the number of start-ups it creates by making it easier for entrepreneurs to work with the institution. 
 

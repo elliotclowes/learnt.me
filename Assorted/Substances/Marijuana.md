@@ -1,3 +1,12 @@
+---
+aliases:
+  - cannabis
+  - weed
+  - ganja
+---
+
+## [[2024-05-22]]
+
 - I don’t partake myself.
 - It shouldn’t be illegal.
 - I “lost” a few friends to it in my teenage years. They didn’t die or anything. They just become rather boring. Sitting around all day giggling to children’s TV programs.

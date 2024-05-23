@@ -85,7 +85,7 @@ _img html -w3_
 
 [22.](https://www.lesswrong.com/posts/PhXENjdXiHhsWGfQo/lifestyle-interventions-to-increase-longevity) Exercise is the most important lifestyle intervention you can do. Even the bare minimum (15 minutes a week) has a huge impact. Start small.
 
-[23.](https://www.nytimes.com/2009/02/17/health/17well.html) (\~This is not medical advice\~). Don’t waste money on multivitamins, they don’t work. Vitamin D supplementation does seem to work, which is important because deficiency is common.
+[23.](https://www.nytimes.com/2009/02/17/health/17well.html) (\~This is not medical advice\~). Don’t waste money on multivitamins, they don’t work. [[Vitamin D]] supplementation does seem to work, which is important because deficiency is common.
 
 24\. Phones have gotten heavier in the last decade and they’re actually pretty hard on your wrists! Use a computer when it’s an alternative or try to at least prop up your phone.
 

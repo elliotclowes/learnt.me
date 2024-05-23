@@ -25,7 +25,7 @@ omnivore_url: https://omnivore.app/me/three-books-about-muji-18f8fb4b8c8
 
 ![Three books about Muji](https://proxy-prod.omnivore-image-cache.app/0x0,sRIlQlI0JlRCNu6wff96iqB1qyt_VKKPZFc_eK3YO-tI/https://arun.is/static/d2fd29655cb90ed318bea2ccdc186731/cover.jpg)
 
-This is the second in a series of essays about inspiring books in my library. The focus this time is on MUJI.
+This is the second in a series of essays about inspiring books in my library. The focus this time is on [[MUJI]].
 
 MUJI is short for 無印良品 (Mujirushi Ryōhin), meaning brandless quality goods. It’s a Japanese purveyor of household products, and one of my favorite brands.
 

@@ -38,7 +38,7 @@ Yet, what happens? Within a few days, you get more emails, are invited, and expe
 
 One or two of these new commitments may just be about manageable, but it rarely stops at just one or two. Within a few weeks, 80% of your time is spent in meetings and dealing with emails and Teams messages. You no longer have time to do the work you were originally asked to do.
 
-In his book [Slow Productivity](https://amzn.to/4ahmYtz), Cal Newport offers an interesting way of handling these requests that avoids saying no.
+In his book [Slow Productivity](https://amzn.to/4ahmYtz), [[Cal Newport]] offers an interesting way of handling these requests that avoids saying no.
 
 Create a Word or Google Doc; at the top, list all the things you are currently committed to working on. Then draw a line and, underneath, allow other people to add the tasks/projects they would like you to do.
 

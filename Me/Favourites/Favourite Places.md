@@ -1,3 +1,5 @@
+VERY MUCH A DRAFT RIGHT NOW
+
 ## Countries
 
 - I wouldn't really say I have a favourite country yet. I think Italy could be a contender. But I haven't visited it enough yet to know for sure.

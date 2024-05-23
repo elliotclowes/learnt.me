@@ -8,9 +8,9 @@ I like technology, reading and walking. You can also see my favourite [[Favourit
 
 ## What am I up to right now?
 
-Updated: **December 5th, 2023**
+Updated: **May 23rd, 2024**
 
-- Still getting to grips with my new job at [News UK](https://en.wikipedia.org/wiki/News_UK) as a Business Analyst.
+- I'm about  [News UK](https://en.wikipedia.org/wiki/News_UK) as a Business Analyst.
 	- There's a lot to learn and I've hit my first 'blocks' after being there for two months now.
 	- I'm really enjoying working from home two days a week. I find an office a distracting environment. So when I work from home I can get more work done. It doesn't always work like this. But I like my office days to be my meetings days and my WFH ones my deep work days.
 - I'm still trying to get my health of track.

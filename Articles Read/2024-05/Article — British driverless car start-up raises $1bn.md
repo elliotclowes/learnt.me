@@ -16,7 +16,7 @@ omnivore_url: https://omnivore.app/me/https-www-thetimes-co-uk-article-34714037-
  - Date read: [[2024-05-15]]
  - [Read Original](https://www.thetimes.co.uk/article/34714037-2abe-40be-a42f-57873d7c2e41?shareToken=f0956a016c8aaa9b931f130ed5f37b31)
  - [Read on Omnivore](https://omnivore.app/me/https-www-thetimes-co-uk-article-34714037-2-abe-40-be-a-42-f-578-18f51dc2029)
- - Tags:  #Cars 
+ - Tags:  #Cars #AI 
  - Notes: 
 
 **Note:** Below is the text from the article, with any ==highlights== done by me. None of the writing below is by me.
@@ -24,13 +24,13 @@ omnivore_url: https://omnivore.app/me/https-www-thetimes-co-uk-article-34714037-
 # Article text
 Wayve, a British driverless car company, has raised over a billion dollars from three of the world’s most influential tech companies to commercialise its products.
 
-Led by investor SoftBank, with contributions from Nvidia and Microsoft, the funds will help develop the start-up’s artificial intelligence software, which can make any vehicle hands-free. 
+Led by investor SoftBank, with contributions from [[Nvidia]] and [[Microsoft]], the funds will help develop the start-up’s artificial intelligence software, which can make any vehicle hands-free. 
 
 It is the biggest venture investment to date in a European AI start-up. 
 
 The $1.05 billion series C funding round could value the London headquartered company at several billion dollars, although the business and investors would not discuss the figures. 
 
-Wayve was founded in 2017 by Cambridge University PhD students Alex Kendall, 31, and Amar Shah in a garage. The pair, who researched machine learning, computer vision and robotics, wanted to explore a different approach to developing [driverless cars](https://www.thetimes.co.uk/article/driverless-cars-uk-roads-2026-transport-vehicles-gkwdq9j9m). 
+Wayve was founded in 2017 by [[Cambridge University]] PhD students Alex Kendall, 31, and Amar Shah in a garage. The pair, who researched machine learning, computer vision and robotics, wanted to explore a different approach to developing [driverless cars](https://www.thetimes.co.uk/article/driverless-cars-uk-roads-2026-transport-vehicles-gkwdq9j9m). 
 
 ## Advertisement
 
@@ -60,7 +60,7 @@ Kentaro Matsui, managing partner at SoftBank Investment Advisers, who has taken 
 
 The company complements others in the investor’s portfolio, which reads: “Ride hailing, mapping, telematics, we have so many companies in this sector. We also have an extensive network of technology companies and we are already making introductions to help accelerate its growth.”
 
-Wayve has offices in London, California and Vancouver and employs 290 people, its headquarters are in Kings Cross, London,which has become a magnet for some of the world’s leading AI companies including Google DeepMind and [Meta](https://www.thetimes.co.uk/topic/meta). 
+Wayve has offices in London, California and Vancouver and employs 290 people, its headquarters are in Kings Cross, London,which has become a magnet for some of the world’s leading [[AI]] companies including Google DeepMind and [Meta](https://www.thetimes.co.uk/topic/meta). 
 
 ## Advertisement
 

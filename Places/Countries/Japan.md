@@ -1,0 +1,6 @@
+---
+aliases:
+  - Japanese
+  - japanese
+  - japan
+---

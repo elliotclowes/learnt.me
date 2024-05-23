@@ -48,7 +48,7 @@ It can hurt sometimes, but even when it does, you feel good after.
 
 ==A physical practice doesn’t have to be running. “If an action tires your body and puts your heart at ease,” Xunxi said, “do it.”== As I said, I like to swim. I like riding my bike. I do weights sometimes. But for you, maybe it’s jujitsu. Maybe it’s yoga. Maybe it’s stand up paddle boarding. But it’s got to be _something._
 
-==In one of his little books,== [​_Painting as a Pastime_​](https://geni.us/Go4c2t)_==,==_ ==Churchill talks about how he discovered painting after a nervous breakdown following the Great War. This little pastime changed his life, got him outside, got him to slow down. “The cultivation of a hobby and new forms of interest is therefore a policy of first importance to a public man,” he explains==_==.==_ ==“To be really happy and really safe, one ought to have at least two or three hobbies, and they must all be real.”==
+==In one of his little books,== [​_Painting as a Pastime_​](https://geni.us/Go4c2t)_==,==_ ==[[Churchill]] talks about how he discovered painting after a nervous breakdown following the Great War. This little pastime changed his life, got him outside, got him to slow down. “The cultivation of a hobby and new forms of interest is therefore a policy of first importance to a public man,” he explains==_==.==_ ==“To be really happy and really safe, one ought to have at least two or three hobbies, and they must all be real.”==
 
 Hobbies are great, but I do think there is something insufficient about scrapbooking. Photography is cool. So is baking and fantasy football. But in addition to his more cerebral hobbies, Churchill would have also benefited from golf or cycling or tennis, as his famously rotund figure indicates. (He liked to dabble in bricklaying, which I guess counts, but it’s hard to recommend).
 
@@ -72,6 +72,6 @@ If greatness is our aim, if we want to be productive, if we want to be capable o
 
 [![](https://proxy-prod.omnivore-image-cache.app/100x100,sgWGM5KmfoX1aRckvmfeeByE1uZa9U1fAxeRnpj2lBtU/https://secure.gravatar.com/avatar/e648f091e363c104a13b45322259e6ec?s=100&d=retro&r=g)](https://ryanholiday.net/author/ryanholiday/) 
 
- Written by Ryan Holiday 
+ Written by [[Ryan Holiday]] 
 
 Ryan Holiday is the bestselling author of Trust Me, I’m Lying, The Obstacle Is The Way, Ego Is The Enemy, and other books about marketing, culture, and the human condition. His work has been translated into thirty languages and has appeared everywhere from the Columbia Journalism Review to Fast Company. His company, Brass Check, has advised companies such as Google, TASER, and Complex, as well as Grammy Award winning musicians and some of the biggest authors in the world. He lives in Austin, Texas.
