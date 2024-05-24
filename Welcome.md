@@ -4,17 +4,13 @@ I like technology, reading and walking. You can also see my favourite [[Favourit
 
 ## What is this site?
 
-*Learnt.me* is a collection of my notes turned into a website. But it’s much more than that. It’s me and my brain in digital form. On this website I add things I’ve learn, book highlights that inspire me, great articles I’ve read, a ‘life log’, and my personal preferences on everything from furniture to living life. This site will forever be a work in progress. [[About This Site|More in-depth info here]].
+*Learnt.me* is a collection of my notes turned into a website. It's essentially my brain in digital form. Within these pages are things I’ve learnt, book highlights that inspire me, great articles I’ve read, a ‘life log’, and my personal preferences on everything from furniture to living life. This site will forever be a work in progress. [[About This Site|More in-depth info here]].
 
 ## What am I up to right now?
 
 Updated: **May 23rd, 2024**
 
-- I'm about  [News UK](https://en.wikipedia.org/wiki/News_UK) as a Business Analyst.
-	- There's a lot to learn and I've hit my first 'blocks' after being there for two months now.
-	- I'm really enjoying working from home two days a week. I find an office a distracting environment. So when I work from home I can get more work done. It doesn't always work like this. But I like my office days to be my meetings days and my WFH ones my deep work days.
-- I'm still trying to get my health of track.
-	- I've been failing though.
-	- This is is probably the longest continuous time I've spent 'unhealthy'. And it's starting to show I think. I've had some stomach pain and I feel nausea sometimes. Not a good sign! I'm currently going through the healthcare system to look into it more.
+- I'm about 7 or so months in at [News UK](https://en.wikipedia.org/wiki/News_UK), working as a Business Analyst.
+- I continue to fail to improve my health. These bad habits are *sticky*. I'm hoping my trip to [[Seville, Spain|Seville]] at the end of May will give me a bit of a 'reset' and when I get back to the UK I can start afresh.
 
 *You can see previous 'what am I up to right now' entries in the [[What am I up to - Archive|archive]].*
