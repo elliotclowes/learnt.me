@@ -3,6 +3,7 @@ id: ff06e62c-ea6c-4170-9efa-7a1f436784de
 site_name: ScienceDaily
 date_published: 2024-05-24
 date_saved: 2024-05-24
+date_read: 2024-05-24
 date_archived: 2024-05-24T12:38:51.000Z
 original_url: https://www.sciencedaily.com/releases/2024/05/240522130405.htm
 omnivore_url: https://omnivore.app/me/one-in-two-children-with-adhd-experience-emotional-problems-scie-18faa9a3b79
@@ -11,7 +12,7 @@ omnivore_url: https://omnivore.app/me/one-in-two-children-with-adhd-experience-e
  - Site: ScienceDaily
  - By: 
  - Date published: 2024-05-24
- - Date read: [[]]
+ - Date read: [[2024-05-24]]
  - [Read Original](https://www.sciencedaily.com/releases/2024/05/240522130405.htm)
  - [Read on Omnivore](https://omnivore.app/me/one-in-two-children-with-adhd-experience-emotional-problems-scie-18faa9a3b79)
  - Tags:  #Mental_Health  #ADHD  #Study  #Children 
@@ -20,10 +21,11 @@ omnivore_url: https://omnivore.app/me/one-in-two-children-with-adhd-experience-e
 **Note:** Below is the text from the article, with any ==highlights== done by me. None of the writing below is by me.
 
 # Article text
+FULL STORY
 
 ---
 
-Cambridge scientists have shown that problems regulating emotions -- which can manifest as depression, anxiety and explosive outbursts -- may be a core symptom of attention deficit hyperactivity disorder ([[ADHD]]).
+Cambridge scientists have shown that problems regulating emotions -- which can manifest as depression, anxiety and explosive outbursts -- may be a core symptom of attention deficit hyperactivity disorder (ADHD).
 
 In research published in _Nature Mental Health_, the team found that as many as one in two children with ADHD show signs of emotional dysregulation, and that Ritalin -- the commonly-prescribed drug to help the condition -- appears to be less effective at treating this symptom.
 
@@ -57,7 +59,7 @@ Professor Sahakian hopes that acknowledging emotion dysregulation as a key part 
 
 The findings may also point to potential ways to help the child manage their emotions, for example by using cognitive behavioural techniques to learn to stop and think before they react and to express their feelings verbally, or use techniques such as exercise or relaxation to calm themselves or alleviate symptoms of depression and anxiety.
 
-==This may be particularly important as the researchers found that [[Ritalin]], the drug used to help manage ADHD symptoms, does not appear to fully treat symptoms of emotion dysregulation.== Identifying the problem earlier would allow for alternative, more effective interventions to help the child better manage their emotions, potentially helping the individual in adulthood.
+==This may be particularly important as the researchers found that Ritalin, the drug used to help manage ADHD symptoms, does not appear to fully treat symptoms of emotion dysregulation.== Identifying the problem earlier would allow for alternative, more effective interventions to help the child better manage their emotions, potentially helping the individual in adulthood.
 
 Professor Qiang Luo from Fudan University and a Life Member at Clare Hall, Cambridge, said: "If you're having trouble controlling your emotions, this can lead to problems with social interactions, which further exacerbates any depression or anxiety that you might have. It also might mean that you're saying things or doing things that exacerbate a situation rather than calming it down. Teaching vulnerable individuals from an early age how to manage your emotions and express yourself could help them overcome such problems further down the line."
 
