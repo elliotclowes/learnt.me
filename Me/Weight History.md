@@ -1,0 +1,38 @@
+- **Weight Chart**
+    - 12st 04lb: 78.01
+    - 12st 03lb: 77.56
+    - 12st 02lb: 77.11
+    - 12st 01lb: 76.65
+    - 12st 00lb: 76.20
+    - 11st 13lb: 75.74
+    - 11st 12lb: 75.29
+    - 11st 11lb: 74.84
+    - 11st 10lb: 74.38
+- 12st 02lb - [[December 25th, 2022]]
+- 11st 12lb - [[September 1st, 2022]]
+- 11st 13lb - [[August 28th, 2022]]
+- 11st 10lb - [[August 22nd, 2022]]
+- 11st 12lb - [[August 16th, 2022]]
+- 11st 12lb - [[August 8th, 2022]]
+- 12st 0lb - [[July 27th, 2022]]
+- 12st 01lb - [[June 25th, 2022]]
+- 12st 07lb - [[April 30th, 2022]]
+- 12st 09lb - [[April 7th, 2022]]
+- 12st 08lb - [[March 16th, 2022]]
+- 13st 01lb - [[March 3rd, 2022]]
+- 13st 00lb - [[February 7th, 2022]]
+- 12st 13lb - [[February 5th, 2022]]
+- 13st 01lb - [[January 22nd, 2022]]
+- 12st 07lb - [[January 15th, 2022]]
+- 14st - [[February 13th, 2021]]
+- 15st 01lb - [[February 1st, 2021]]
+- 14st 02lb - [[October 25th, 2020]]
+- 13st 01lb - [[September 26th, 2020]]
+- 13st 08lb - [[September 10th, 2020]]
+- 13st 06lb - [[August 4th, 2020]]
+- 13st 09lb - [[June 27th, 2020]]
+    - I guess the reason there's such a large discrepancy between this and last week is because I weighed myself last week after many days of heavy eating and I guess I was carry a full stomach and a lot of water weight. There's no way I've lost 10lb of fat/muscle in a single week.
+- 14st 05lb - [[June 20th, 2020]]
+- 12st 05lb - [[December 12th, 2019]]
+- 14st 08lb - [[January 8th, 2019]]
+- 15st 05lb - [[October 4th, 2018]]
