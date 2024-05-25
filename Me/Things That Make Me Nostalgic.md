@@ -1,7 +1,7 @@
 **Note:** this page is very much in its infancy.
 
 - The sound of a mourning dove
-- Going to the 24 hour Asda to buy Call of Duty at midnight.
+- Going to the 24 hour Asda to buy the new Call of Duty at midnight.
 
 ### [[Top Gear]]
 

@@ -1,5 +1,11 @@
 
-# 2024
+# May
+
+### Old boy
+
+Was curious about the phrase “old boy”. It’s often used in old time-y English shows and books by posh men. “How did the tennis tournament go, old boy?” 
+
+[I asked Perplexity](https://www.perplexity.ai/search/Where-does-the-RtVDl281SdiryNt0yNfrdA). Apparently the “boy” refers to the person being an alumni 
 
 ## Febuary
 

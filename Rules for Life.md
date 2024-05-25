@@ -16,7 +16,7 @@ Default to kindness. But know when to be firm.
 
 ***
 
-Expect no applause for telling the truth. It's a rightful, but often thankless task.
+Expect no applause for telling the truth. It's a rightful, but often thankless task. And sometimes doing the right thing carries a heavy price.
 
 ***
 
