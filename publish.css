@@ -510,20 +510,10 @@
   }
   
   @media screen and (max-width: 500px) {
-  
-	.right,
-	.left {
-	  float: none;
-	  clear: both;
-	  width: 95%;
-	  margin-left: auto;
-	  margin-right: auto;
-	}
-  
-	.hideSmall {
-	  display: none;
-	}
-  }
+    .published-container .markdown-rendered {
+        padding: 0px 10px 20px 10px;
+    }
+}
   
   /* graph view */
   .graph-view-container {
