@@ -18,7 +18,7 @@
 
 ### Cooking
 - **★ [Le Creuset - Cast Iron Classic Round Casserole](https://www.lecreuset.co.uk/en_GB/p/cast-iron-classic-round-casserole/CI5001.html?dwvar_CI5001_color=ocean&dwvar_CI5001_size=26cm-l5-3)[°](https://elliotclowes.com/cold/2024/https__www.lecreuset.co.uk_en_GB_p_cast-iron-classic-round-casserole_CI5001.html_dwvar_CI5001_color=ocean&dwvar_CI5001_size=26cm-l5-3.html) **(£219 | 2023-12)
-	- Surprised by how much I like this, considering the high cost. Somehow things just taste nicer from it. I think it might be due to how hot it gets or how the heat is distributed. Though that  heat can get a annoying when trying to move it whilst cooking as the handles are scolding. I love this though. Nice and big. You can use it in the oven or on the hob. It cleans nicely. And it should last a long time. Worth the investment. The only downside is it's a model with a plastic handle on the lid. So there's a heat limit in the oven.
+	- Surprised by how much I like this, considering the high cost. Somehow things just taste nicer from it. I think it might be due to how hot it gets or how the heat is distributed. Though that heat can get a annoying when trying to move it whilst cooking as the handles are scolding. I love this though. Nice and big. You can use it in the oven or on the hob. It cleans nicely. And it should last a long time. Worth the investment. The only downside is it's a model with a plastic handle on the lid. So there's a heat limit in the oven.
 
 ### Utensils
 - **★ [Sori Yangi - Cutlery set](https://store.moma.org/en-gb/products/yanagi-flatware-set-of-5)** (£46 | 2011-11)

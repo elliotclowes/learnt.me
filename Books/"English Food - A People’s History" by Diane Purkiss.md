@@ -181,7 +181,7 @@ In [[Medieval|mediaeval]] England most beer was made in the home and consumed th
 
 ***
 
-The first [[coffeehouse]] in England opened in [[1650]] in Oxford. [[1652]] was the first in London. By [[1663]] there was 82 coffeehouses in London. Most of them near the Exchange. There’s been a long association between business and [[coffee]] drinking. P102
+The first [[coffeehouse]] in England opened in [[1650]] in Oxford. [[1652]] was the first in London. By [[1663]] there was 82 coffeehouses in London. Most of them near the Exchange. There’s been a long association between business and [[Coffee]] drinking. P102
 
 ***
 
