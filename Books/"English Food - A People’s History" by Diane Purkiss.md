@@ -18,7 +18,6 @@
 	- showy but cheap or badly made.
 - Argot
 	- the jargon or slang of a particular group or class
-- 
 
 ## Mentions
 - [[Virginia Woolf]]
@@ -152,7 +151,7 @@ Samuel Pepys write in his diary that his wife “cut me a slice of brawn… good
 
 ***
 
-Samuel Pepys notes in his diary in March 1664 France is the “best place for bread in the world”. P94
+[[Samuel Pepys]] notes in his diary in March 1664 France is the “best place for bread in the world”. P94
 
 ***
 
@@ -178,11 +177,11 @@ There was a lot of pressure for women to provide dinner. And they were often at 
 
 ***
 
-In mediaeval England most beer was made in the home and consumed there (even it was made by a different home). There were pubs, but they were a bit of a novelty and not common. P100
+In [[Medieval|mediaeval]] England most beer was made in the home and consumed there (even it was made by a different home). There were pubs, but they were a bit of a novelty and not common. P100
 
 ***
 
-The first coffeehouse in England opened in 1650 in Oxford. 1652 was the first in London. By 1663 there was 82 coffeehouses in London. Most of them near the Exchange. There’s been a long association between business and coffee drinking. P102
+The first [[coffeehouse]] in England opened in [[1650]] in Oxford. [[1652]] was the first in London. By [[1663]] there was 82 coffeehouses in London. Most of them near the Exchange. There’s been a long association between business and [[coffee]] drinking. P102
 
 ***
 

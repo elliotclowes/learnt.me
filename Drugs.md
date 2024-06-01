@@ -1,0 +1,6 @@
+---
+aliases:
+  - drugs
+  - drug
+  - Drug
+---

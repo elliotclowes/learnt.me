@@ -6,6 +6,7 @@ aliases:
   - Medieval
   - Mediæval
   - Mediaeval
+  - mediaeval
 ---
 
 ## When was it?
