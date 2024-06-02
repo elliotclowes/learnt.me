@@ -1,0 +1,3 @@
+- Visit the [Dolomite Mountains](https://en.wikipedia.org/wiki/Dolomites).
+- Go on a multi-day walking trip.
+- Visit Hobbiton and other [[The Lord of the Rings]] filming locations.

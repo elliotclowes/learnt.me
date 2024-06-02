@@ -1,4 +1,5 @@
-![]()
+![](https://m.media-amazon.com/images/I/61WY2NtY6TL._SL1500_.jpg)
+**[How Romantics and Victorians Organized Information: Commonplace Books, Scrapbooks, and Albums](https://www.amazon.com/How-Romantics-Victorians-Organized-Information/dp/0192896075?&linkCode=sl1&tag=markbernsteinchi&linkId=d2e0af1de85c5e140254fc7d44c47f75&language=en_US&ref_=as_li_ss_tl)**. [Via Mark Bernstein](https://www.markbernstein.org/May24/LuhmansZettelkastern.html).
 
 ![](https://f.media-amazon.com/images/I/81jXruY1IKL._SL1500_.jpg)
 **[Alexander at the End of the World: The Forgotten Final Years of Alexander the Great.](https://www.amazon.co.uk/dp/006286968X?p_45=7&p_46=During&p_47=2024&language=en_US&unfiltered=1&refinements=p_n_condition-type:1294423011,p_n_feature_browse-bin:2656020011,p_20:English&s=books&dib_tag=se&ref_=as_li_ss_tl&Adv-Srch-Books-Submit.y=6&dib=eyJ2IjoiMSJ9.pigirSpRpGO1-3dcWBONbomLQpJ8qhX2Zcm89_e86h5kMYOpmqWFdUAYzlPhjUnqH-R-M-iRuMCyipBwKJBzewdeCgw9Vb61_XSq5_bNL3XEpFRih3lHIPvkS9wug80g6xFTQfZD7kbhe4KwiwKRw8QpOuvYZNw6MElD6GpOAY4.cqgHFziza-HQVzsJ7J0AdR97ISg8mbXfpCXLz2FddVo&Adv-Srch-Books-Submit.x=34&sr=1-83&linkCode=gs2&linkId=566240a31d7ab77177c1fd31f447600e&tag=bpbuk01-21)** Not recommended as such, but listed as upcoming [here](https://thebestbiographies.com/upcoming-releases/).
