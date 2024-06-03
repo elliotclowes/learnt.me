@@ -5,6 +5,10 @@
 - Full Title: Chip War
 - Category: #books
 
+## Review
+
+I didn't finish this. It wasn't a bad book. I just wasn't in the mood for it I think. And currently it's propping up my computer monitor. So I won't be picking it up and giving it another go again for a while.
+
 ## Highlights
 ***
 

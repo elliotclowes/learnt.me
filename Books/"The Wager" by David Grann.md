@@ -5,6 +5,10 @@
 - Full Title: The Wager
 - Category: #books
 
+## Review
+
+I did not finish this. I was very excited to read this. I like the books and articles of David Grann and I like books about the high seas, but this just didn't grab me. I gave up about 1/3 on the way through.
+
 ## Highlights
 ***
 
