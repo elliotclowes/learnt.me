@@ -11,6 +11,7 @@
     - Seventh Son
     - **TV**
         - Wolf Hall
+        - Shardlake
 - **Ill/Sick**
     - David Holmes: The Boy Who Lived
     - Whatever is on BBC1
@@ -102,7 +103,7 @@
     - Fantastic Beasts: The Secrets of Dumbledore
     - Jack & Jill
     - Blithe Spirit
-- **Pizza Movies**
+- **Pizza Films**
     - Super Troopers
     - Little Nicky
     - Cirque du Freak
@@ -121,6 +122,7 @@
         - Rick and Morty
         - Peacemaker
         - The Mandolorian
+- **Airplane Films**
 - **Treasure/Adventure**
     - The Da Vinci Code
     - Angels & Demons
