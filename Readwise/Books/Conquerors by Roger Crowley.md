@@ -32,5 +32,15 @@ So I guess *technically* they measured longitude from the Canary Islands. But it
 
 **Note**: According to my GPT-4 research it wasn't a capital offence to build a ship with more than two masts. That appears to be wrong. However there was strict laws about shipbuilding (part of a broader policy known as the "haijin" (海禁)). And the penalties for violating these maritime restrictions were firm. You might be given the death penalty if you violated these laws *as well as* carried out piracy or treason.
 
+***
 
+> The royal household projected these voyages to the pope as crusades – continuations of war with Islam. The Portuguese had expelled the Arabs from their territory far earlier than their neighbours in Castile and established a precocious sense of national identity, but the appetite for holy war remained undimmed. As Catholic monarchs the royal house of Aviz sought legitimacy and parity on the European stage as warriors for Christ. In a Europe that felt itself increasingly threatened by militant Islam, particularly after the fall of Constantinople in 1453, they obtained from the papacy spiritual and financial concessions and territorial rights over explored lands in the name of Christ. The crusading remit from Rome was 'to invade, search out, capture, vanquish and subdue all Saracens and pagans whatsoever, and other enemies of Christ petual slavery'. (Page 14)
+
+***
+
+> They were impelled too by a desire to do great deeds. Henrique and his brothers were half English - their mother was Philippa of Lancaster, granddaughter of Edward III; their cousin was Henry V, the victor at Agincourt. An atmosphere of knightly chivalry, fuelled by their Anglo-Norman ancestry and medieval romances, hung heavily around the royal court and infused its restless nobility with a high-octane mixture of prickly pride, reckless courage and a desire for glory, linked to crusading fever (Page 14)
+
+***
+
+> Black-bearded and long-faced, well-built, and somewhat melancholy in expression, with 'an air of such gravity and authori ty that everyone recognised him as king', João was 'a man who commanded others and who was commanded by no one'. He was perhaps the most remarkable European monarch of the early modern age. To the Portuguese people he would pass into history as the Perfect Prince. His rival Isabella, queen of Castile and then the unified kingdom of Spain, gave him the ultimate accolade. She simply referred to him as "The Man'. João was preoccupied with 'the deep desire to do great things', and the first of the great things to which he stretched out his hand was the exploration of Africa. On his accession he embarked on an intense fiveyear period of state-funded exploration in which he hoped to fulfil two objectives: find a route to the Indies and reach the fabled kingdom of Prester John. It was Diogo Cão, erecting pillars along the west coast of Africa, to whom he had entrusted this task. (Page 18)
 
