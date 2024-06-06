@@ -53,4 +53,4 @@ In the Middle Ages, Europe had less context with the Orient that during the Roma
 
 ***
 
-On one expedition in 1487 to get to the bottom of Africa they had on board two men and four women who had been kidnapped on an earlier mission and taught Portuguese. Th 
+On one expedition in 1487 to get to the bottom of Africa they had on board two men and four women who had been kidnapped on an earlier mission and taught Portuguese. The plan was to drop them off down the coast finely dressed and supplied with gold and silver to show off the wealth of Portugal and encourage the Africans to engage with them. P29 
