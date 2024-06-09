@@ -17,6 +17,10 @@ Prince Henry the Navigator. Following on from[[John II of Portugal]]. He sponsor
 
 Pêro da Covilhã. 
 > He was about forty years old; a quick-witted, multi-talented adventurer of lowly birth, an adept swordsman, a loyal servant of  the Portuguese kings, and a spy. As well as Portuguese he spoke Castilian fluently, and, more valuably, Arabic, which he had probably learned from the Arab population of Spain. He had performed undercover operations for João there, and undertaken secret negotiations in Morocco with the king of Fez. p28
+
+He spent four years exploring the trading routes to India, learning lots. [[John II of Portugal]] sent other spies to track him down and they found him in Cairo. He was told to return to Portugal with his findings. He decided to travel on though. And eventually he did track down the mythical Christian “Prester John”, the Christian emperor in Ethiopia. The current ruler of the kingdom, Eskender, received him, but wouldn’t let him leave. He remained there for 30 years until another Portuguese expedition reached him.
+
+Pêro Dias. Explorer and captain of an expedition to reach India. He was the first to get to the bottom of Africa and start going up its east side. He never reached India though. His discoveries were quickly implemented into Portuguese maps, but his achievement wasn’t really recognised at the time. For quite a few years anyway. P33-P35
 ## Notes
 
 Portugal announced themselves to the other European powers via an attach of Ceuta, Morocco in 1415. https://en.m.wikipedia.org/wiki/Portuguese_conquest_of_Ceuta
@@ -53,4 +57,18 @@ In the Middle Ages, Europe had less context with the Orient that during the Roma
 
 ***
 
-On one expedition in 1487 to get to the bottom of Africa they had on board two men and four women who had been kidnapped on an earlier mission and taught Portuguese. The plan was to drop them off down the coast finely dressed and supplied with gold and silver to show off the wealth of Portugal and encourage the Africans to engage with them. P29 
+On one expedition in 1487 to get to the bottom of Africa they had on board two men and four women who had been kidnapped on an earlier mission and taught Portuguese. The plan was to drop them off down the coast finely dressed and supplied with gold and silver to show off the wealth of Portugal and encourage the Africans to engage with them. P29-30 
+
+*** 
+
+In 1492 the Jews were expelled from Spain. Large numbers fled to Portugal. P37
+
+*** 
+
+The Portuguese and Spanish split up the world to avoid conflict. In 1479 this line was horizontal, running through the americas roughly where the US-Mexican border is today and where Morocco meets Western Sahara today. However in 1484 and the Treaty of Tordesillas it became a vertical line. See below.
+
+![[2024-06-06 14.09.05.png]]
+
+
+***
+
