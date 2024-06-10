@@ -1,3 +1,5 @@
 - Visit the [Dolomite Mountains](https://en.wikipedia.org/wiki/Dolomites).
 - Go on a multi-day walking trip.
 - Visit Hobbiton and other [[The Lord of the Rings]] filming locations.
+- Visit the filming location from [[Gladiator (2000)]] where he’s walking through the field as he dies.
+	- https://vm.tiktok.com/ZGeqGPHDk/
