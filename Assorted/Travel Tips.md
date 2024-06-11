@@ -40,9 +40,31 @@ Don’t bring much cash unless it’s a big cash country like Japan. In [[Sevill
 
 ## Other
 
+Unless you’re going to a place with nothing but sun, you should bring a waterproof. It’s crippling being in a place with no rain protection.
+
+Bring something warm like a jumper. Not only for when you land back in the UK, but also because you never know if they’ll be a cold snap on holiday. Or some countries crank up the air conditioning.
+
 Fly and travel with a [chronograph](https://en.wikipedia.org/wiki/Chronograph). I like timing things.
 
 A bottle of [[aftershave]] can be heavy and I'm always scared it will leak into my suitcase. But just bring one. But spraying some aftershave on yourself once you're all dressed up and ready to go for dinner feels *good*.
+
+### Film and TV
+
+Stuff I like to watch before holiday or on the plan.
+
+- Pirates of the Caribbean
+- Master and Commander
+- The Rum Diary
+
+## Reading
+
+Things that are great to read on holiday.
+
+- Literary Review magazine.
+- Monocle magazine.
+- “The Rum Diary” by [[Hunter S. Thompson]].
+- James Bond book series by Ian Fleming.
+
 
 *Created: [[2024-06-02]]*
 

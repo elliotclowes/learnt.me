@@ -122,3 +122,4 @@ Once they were past the Cape of Good Hope they were running very low on water. E
 
 ***
 
+The Indian Ocean is thirty times the size of that Mediterranean ocean. P64
