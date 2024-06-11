@@ -1,7 +1,4 @@
 **Note:** this page is very much in its infancy.
-
-- The sound of a mourning dove
-- Going to the 24 hour Asda to buy the new Call of Duty at midnight.
 ## TV
 
 ### [[Top Gear]]
@@ -14,11 +11,20 @@ And now when I watch them I am starting to feel that nostalgic feeling in my bon
 
 ### Viva la Bam
 
+![[viva-la-bam.jpg]]
+
 Viva la Bam (and Jackass) was a staple of my teenage years. It fit me well. It was silly and often had skateboarding. And I had a particular love of Viva la Bam, watching it all the time on MTV. I loved how 'epic' it was. It went beyond just pranks. Bam Margera would do things like build a skatepark in his Mom's house, do a full [[US Civil War]] reenactment in his garden, or spend 24 hours in the Mall of America. When he got his own place, "Castle Bam", I wanted nothing more than to live like him. Unlimited money, time and fun, surrounded by friends. To teenage me it was utopia.
 
-I haven't watched the show for quite a while, and I'm not sure if I will aga
+I haven't watched the show for quite a while, and I'm not sure if I will again. I caught a few minutes of it about five years ago and it was a bit of a shock to adult me. It just felt silly and scripted and Bam seems like a dick. So unlike a lot of my other nostalgic TV shows and films which I often love to rewatch I think this one will largely remain a memory. But who knows.
 
-- I wanted to live like Bam
+### Assorted others that I might write about at some point
 
-Gumball Rally
-Haggard
+**Films**
+- Haggard
+
+**TV**
+- Gumball 3000
+
+**Others**
+- The sound of a mourning dove
+- Going to the 24 hour Asda to buy the new Call of Duty at midnight.
