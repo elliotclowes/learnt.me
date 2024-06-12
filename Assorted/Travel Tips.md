@@ -12,7 +12,7 @@ Take a codeine before the flight. You don't need a prescription and it will just
 
 ## Hotel
 
-A centrally located hotel is worth the extra cost.
+A centrally located hotel is worth the extra cost. ^573ef1
 
 A pool is important. Even on a city break. Unless it’s going to be cold, get a place with a pool. I will visit once or twice and it’s nice in the morning.
 
@@ -55,6 +55,7 @@ Stuff I like to watch before holiday or on the plan.
 - Pirates of the Caribbean
 - Master and Commander
 - The Rum Diary
+- After the Sunset
 
 ## Reading
 
