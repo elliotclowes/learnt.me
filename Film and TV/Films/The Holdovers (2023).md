@@ -1,3 +1,4 @@
+![[the-holdovers.jpg]]
 ## 2023-10-05
 
 Wow, this was delightful and probably my favourite film of the year.
