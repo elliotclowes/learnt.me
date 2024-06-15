@@ -6,4 +6,4 @@ A lot of the [[1980]]’s classic American films aren’t actually for me though
 
 Well, if you’re okay with some boobs. One of the things I didn’t like with the film was how Jamie Lee Curtis’s character jumps straight into bed with Dan Aykroyd (**literally!**). I know she’s a prostitute, but blimey. But yes there’s also a really random, gratuitous shot of Curtis topless which felt in poor taste.
 
-Overall this is a charming film. **7.5/10**
+Overall this is a charming film.

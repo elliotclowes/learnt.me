@@ -11,3 +11,5 @@ So, I was excited for "[The Ministry of Ungentlemanly Warfare](https://www.justw
 Well for the first hour or so. As the second half of the film doesn't quite stick the landing. The villain feels underutilised and not quite menacing enough. The fight scenes, which initially impressed with their stylish effortlessness, start to feel a bit repetitive and lack any real tension. You never doubt that our heroes will come out on top, which saps the stakes from the numerous altercations and yhr final *big* fight. The last hour just drags a bit, and I found my attention wandering.
 
 Despite these issues, "The Ministry of Ungentlemanly Warfare" is still a really solid film. It's a fun, old-fashioned adventure that feels like a throwback in the best way. It reminded of a combination of "[Raiders of the Lost Ark](https://www.justwatch.com/uk/movie/raiders-of-the-lost-ark)", "[Operation Mincemeat](https://www.justwatch.com/uk/movie/operation-mincemeat)" and "[The Wild Geese](https://www.justwatch.com/uk/movie/the-wild-geese)".
+
+**58%**

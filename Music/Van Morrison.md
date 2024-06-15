@@ -10,7 +10,7 @@ We rushed to get there for when the ticket said it was starting (7 PM) only to f
 
 Oh, another mixup. I was _certain_ I purchased standing tickets at the stage level. So I was rather surprised that we were guided by staff to seats up in the heavens. Maybe I got confused as the tickets were down as "Seated/Standing"? Anyho it worked out okay. There was a _tiny_ little bar on this level that was only a few steps away, and I got a comfortable end seat at the front of the balcony.
 
-It was a concert for Morrison to promote his new album _"[Accentuate the Positive](https://en.wikipedia.org/wiki/Accentuate_the_Positive_(Van_Morrison_album))"_ (a dull album). So as expected he played the whole album (I think). But as it's only an hour-long album he had time to do other stuff. I was hopeful he was going to do some of his older, frankly better, songs too. But alas he just did some songs from his second to last album (which was actually his best for quite a few years).
+It was a concert for Morrison to promote his new album _"[Accentuate the Positive](https://www.vanmorrison.com/news/2023/new-album-accentuate-the-positive)"_ (a dull album). So as expected he played the whole album (I think). But as it's only an hour-long album he had time to do other stuff. I was hopeful he was going to do some of his older, frankly better, songs too. But alas he just did some songs from his second to last album (which was actually his best for quite a few years).
 
 Other notes:
 

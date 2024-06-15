@@ -6,6 +6,6 @@ I was annoyed at first when the couple got ‘split up’. How can you have a ro
 
 Though I freely admit that if this wasn’t a Christmas film I wouldn’t have rated it as high and probably wouldn’t have even given it a go at all. And is it good enough to make the Christmas film yearly rewatch list? Unless it particularly speaks to you, probably not.
 
-**59%**.
+**53%**.
 
 _Streaming on [Amazon Prime](https://www.justwatch.com/uk/movie/your-christmas-or-mine)._
