@@ -28,3 +28,4 @@ I haven't watched the show for quite a while, and I'm not sure if I will again. 
 **Others**
 - The sound of a mourning dove
 - Going to the 24 hour Asda to buy the new Call of Duty at midnight.
+- [Frutiger Aero](https://www.theguardian.com/fashion/2023/dec/14/frutiger-aero-the-windows-screen-saver-design-trend-taking-tiktok-by-storm)
