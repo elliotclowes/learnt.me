@@ -1,3 +1,6 @@
+
+Creative Selection: Inside Apple's Design Process During the Golden Age of Steve Jobs. Via John Gruber: https://daringfireball.net/linked/2024/06/15/kocienda-humane
+
 ![](https://m.media-amazon.com/images/I/61WY2NtY6TL._SL1500_.jpg)
 **[How Romantics and Victorians Organized Information: Commonplace Books, Scrapbooks, and Albums](https://www.amazon.com/How-Romantics-Victorians-Organized-Information/dp/0192896075?&linkCode=sl1&tag=markbernsteinchi&linkId=d2e0af1de85c5e140254fc7d44c47f75&language=en_US&ref_=as_li_ss_tl)**. [Via Mark Bernstein](https://www.markbernstein.org/May24/LuhmansZettelkastern.html).
 
