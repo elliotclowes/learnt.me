@@ -3,7 +3,7 @@ id: 1d8d83cf-a401-42fe-9267-b675c30ef8cf
 site_name: Ben Tsai
 date_published: 2024-05-14
 date_saved: 2024-06-12
-date_read: 2024-06-13
+date_read: 2024-06-18
 date_archived: 2024-06-13T05:18:28.000Z
 original_url: https://bentsai.org/posts/why-i-write
 omnivore_url: https://omnivore.app/me/why-i-write-ben-tsai-1900babb2a7
@@ -12,7 +12,7 @@ omnivore_url: https://omnivore.app/me/why-i-write-ben-tsai-1900babb2a7
  - Site: Ben Tsai
  - By: 
  - Date published: 2024-05-14
- - Date read: [[2024-06-13]]
+ - Date read: [[2024-06-18]]
  - [Read Original](https://bentsai.org/posts/why-i-write)
  - [Read on Omnivore](https://omnivore.app/me/why-i-write-ben-tsai-1900babb2a7)
  - Tags: 

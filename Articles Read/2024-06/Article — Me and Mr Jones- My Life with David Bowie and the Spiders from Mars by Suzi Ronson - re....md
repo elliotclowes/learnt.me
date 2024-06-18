@@ -3,7 +3,7 @@ id: afc6ee64-0901-4a88-9b5d-20b03a75e698
 site_name: Literary Review
 author: Deborah Levy
 date_saved: 2024-06-11
-date_read: 2024-06-11
+date_read: 2024-06-18
 date_archived: 2024-06-11T09:58:35.000Z
 original_url: https://literaryreview.co.uk/lady-stardust
 omnivore_url: https://omnivore.app/me/me-and-mr-jones-my-life-with-david-bowie-and-the-spiders-from-ma-19006bbdac6
@@ -12,7 +12,7 @@ omnivore_url: https://omnivore.app/me/me-and-mr-jones-my-life-with-david-bowie-a
  - Site: Literary Review
  - By: Deborah Levy
  - Date published: 
- - Date read: [[2024-06-11]]
+ - Date read: [[2024-06-18]]
  - [Read Original](https://literaryreview.co.uk/lady-stardust)
  - [Read on Omnivore](https://omnivore.app/me/me-and-mr-jones-my-life-with-david-bowie-and-the-spiders-from-ma-19006bbdac6)
  - Tags:  #Book_Review  #Books  #David_Bowie  #Literary_Review  #Music 
