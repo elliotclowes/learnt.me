@@ -2,6 +2,15 @@ I have it. I wasn't diagnosed until I was about [[30]]. Like all people who are 
 
 As I'm getting older I dislike having ADHD more and more. It's hard to ignore the many, many that it negatively impacts my life. In particular I hate the [[ADHD Tax]].
 
+## Tips
+- Set reasonable expectations for yourself. You're might never cook dinner from scratch every night. You're never going to be a productivity beast. If you ask too much of yourself you're always going to feel down about yourself.
+- Utilise time blocking.
+- Ask just three tasks for yourself each day. A small, medium and large one.
+- Make yourself a coffee and _then_ start cleaning. You will move **fast** knowing that coffee is getting cold, and will get the task done in no time at all. (via [clowes.blog](https://clowes.blog/2024/06/14/cleaning-tip-for.html))
+
+## Links
+- /r/ADHD - [What is your recommendations in terms of diet for ADHD ?](https://old.reddit.com/r/ADHD/comments/6ttnbb/what_is_your_recommendations_in_terms_of_diet_for/)
+
 ***
 
 Created: [[2024-05-24]]  
