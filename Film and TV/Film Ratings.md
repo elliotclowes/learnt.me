@@ -12,7 +12,7 @@
 
 ## Notes
 - If a film is ==highlighted== in means it’s a particular favourite of mine or I consider it underrated/under-watched.
-- These are personal ratings, not objective ones. There are plenty of films here with an equal rating to an obviously technically superior film. But because they connected with me they have been given a high score.
+- These are personal ratings, not objective ones. There are plenty of films no here with an equal rating to an obviously technically superior film. But because they connected with me they have been given a high score.
 
 ## Ratings
 
@@ -43,6 +43,7 @@
 - [[Bullet Train (2022)]] - 64%
 - [[Jackass Forever (2022)]] - 62%
 - [[The Fall Guy (2024)]] - 60%
-- [[The Ministry of Ungentlemanly Warfare (2024)]] - 58%
+- [[Dumb Money (2024)]] - 58%
+- [[The Ministry of Ungentlemanly Warfare (2024)]] - 54%
 - [[Your Christmas Or Mine? (2022)]] - 53%
-- Avatar: The Way of Water - 48%
+- Avatar: The Way of Water - 34%
