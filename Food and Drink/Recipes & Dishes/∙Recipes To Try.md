@@ -1,3 +1,5 @@
 - [Hairy Bikers' sausage casserole](https://www.bbc.co.uk/food/recipes/great_sausage_casserole_73010)
 - [Vegan tofu katsu curry](https://www.bbcgoodfood.com/recipes/vegan-katsu-curry) ([alternate](https://www.lazycatkitchen.com/vegan-katsu-curry-tofu/))
 - [Lemon Herb Chicken & Potatoes](https://somethingnutritiousblog.com/lemon-herb-chicken-potatoes/)
+- [Chicken Burritos](https://www.jocooks.com/recipes/chicken-burritos/)
+	- [How to reheat](https://www.reddit.com/r/foodhacks/comments/1823kdk/what_is_the_best_way_to_reheat_my_burrito/kag5oi4/) a [[burrito]]

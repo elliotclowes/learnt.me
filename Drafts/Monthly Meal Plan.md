@@ -180,6 +180,33 @@ Shopping list week 1 (£80-£90)
 - **Sunday**
 	- Hummus
 
+### Week 6
+
+- **Monday (office)**
+	- Protein shake + fibre bar
+	- Chicken burrito
+	- 
+- **Tuesday (wfh)**
+	- Nuts, greek yogurt
+	- Eggs, smoked salmon, toast
+	- 
+- **Wednesday (office)**
+	- Protein shake + fibre bar
+	- Chicken burrito
+	- 
+- **Thursday (wfh)**
+	- Nuts, greek yogurt
+	- 
+- **Friday (office)**
+	- Protein shake + fibre bar
+	- Chicken burrito
+	- Spaghetti bolognese
+- **Saturday**
+	- 
+	- 
+- **Sunday**
+	- 
+
 
 **Dinner**
 - Turkey breast and bacon salad with coleslaw and roast potatoes
@@ -217,7 +244,7 @@ Shopping list week 1 (£80-£90)
 - Ham and cheese toastie (HAVE WEEK 4)
 - Tuna sandwich ✔
 - Smoked salmon bagel ✔
-- Eggs, smoked salmon, eggs ✔ ✔
+- Eggs, smoked salmon, toast ✔ ✔
 - Jacket potato, cheese, beans ✔
 - All-bran  ✔ ✔
 - Feta salad ✔ ✔
