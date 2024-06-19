@@ -1,0 +1,4 @@
+- The ability to add notes to books on the 'Bookshelves'
+	- I like to include who or where I got the recommendation from.
+- Option to have 'Show Categories' and 'Show Cross-posting' on by default.
+	- It's annoying having to click on them both each time.
