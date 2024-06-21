@@ -2,3 +2,5 @@
 	- I like to include who or where I got the recommendation from.
 - Option to have 'Show Categories' and 'Show Cross-posting' on by default.
 	- It's annoying having to click on them both each time.
+- In the Micro.blog app it doesn’t show if a post has had replies to it or not.
+- When I changed the domain of my blog auto cross-posting stopped working.

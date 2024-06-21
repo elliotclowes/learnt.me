@@ -13,7 +13,7 @@ omnivore_url: https://omnivore.app/me/another-productivity-hack-commonweal-magaz
  - Site: Commonweal Magazine
  - By: Jonathan Malesic
  - Date published: 2024-06-08
- - Date read: [[2024-06-19]]
+ - Date read: [[2024-06-19 1]]
  - [Read Original](https://www.commonwealmagazine.org/another-productivity-hack)
  - [Read on Omnivore](https://omnivore.app/me/another-productivity-hack-commonweal-magazine-1902f3af884)
  - Tags: 

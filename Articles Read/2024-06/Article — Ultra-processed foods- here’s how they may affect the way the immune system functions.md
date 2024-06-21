@@ -13,7 +13,7 @@ omnivore_url: https://omnivore.app/me/ultra-processed-foods-here-s-how-they-may-
  - Site: The Conversation
  - By: Samuel J. White
  - Date published: 2024-06-18
- - Date read: [[2024-06-19]]
+ - Date read: [[2024-06-19 1]]
  - [Read Original](https://theconversation.com/ultra-processed-foods-heres-how-they-may-affect-the-way-the-immune-system-functions-231884)
  - [Read on Omnivore](https://omnivore.app/me/ultra-processed-foods-here-s-how-they-may-affect-the-way-the-imm-19030774099)
  - Tags:  #Diet  #Health  #Food  #Gut_Health 
