@@ -4,3 +4,4 @@
 	- It's annoying having to click on them both each time.
 - In the Micro.blog app it doesn’t show if a post has had replies to it or not.
 - When I changed the domain of my blog auto cross-posting stopped working.
+- The photos in the 'Uploads' section of the app are slow to load. It seems like they're not thumbnails, but maybe the full-size images?

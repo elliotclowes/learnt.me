@@ -123,3 +123,28 @@ Once they were past the Cape of Good Hope they were running very low on water. E
 ***
 
 The Indian Ocean is thirty times the size of that Mediterranean ocean. P64
+
+***
+
+At one point in their expedition the men were so weak they couldn’t lift one of the anchors. They had to cut it instead.
+
+*** 
+
+When the Portuguese did finally reach India the first place they went to was Calicut (Kingdom of Kozhikode).
+
+It was centre of spice trading along the Malabar coast. It was a trade dominated place where Muslim’s and Hindu’s lived in relative harmony (there was still the caste system). If you were a trader, they would trade with you, no matter where you were from or your religion. P77
+
+*** 
+
+The Portuguese seemed so desperate to find other Christians that whenever they came across a peoples that weren’t overtly Muslim they presumed them be some sort of Christian sect. This happened with the Hindu’s in Calicut. They even went into a Hindu temple and thought it was a church. P78-79
+
+*** 
+
+When Vasco da Gama met the samudri (the Hindu monarch) he abided to one of their customs, which was to cover his mouth with his hand whilst talking to him. P80
+
+*** 
+
+The Portuguese gifts were not impressive to the Calicut and their king (samudri). They were things like clothes, honey, sugar and oil. They might be impressive to an African tribal king. But to a king of a place that’s part of the wealthy spice trade they were very unimpressive. P81-82
+
+*** 
+
