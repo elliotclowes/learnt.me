@@ -1,3 +1,9 @@
+---
+aliases:
+  - Edinburgh
+  - edinburgh
+---
+
 I thought I was going to love Edinburgh. It’s right up my alley. Perfect winter/autumn location and it’s full of gothic looking buildings. But I didn’t have a massively great time.
 
 ## Notes

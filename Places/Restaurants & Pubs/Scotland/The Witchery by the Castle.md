@@ -1,4 +1,4 @@
-Pricey restaurant in [[Edinburgh]]. But worth it just because of the amazing interior.
+Pricey restaurant in [[Edinburgh, Scotland 1]]. But worth it just because of the amazing interior.
 
 ![[IMG_5186.JPG]]
 

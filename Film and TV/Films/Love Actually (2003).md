@@ -5,7 +5,7 @@ A film I watch every [[Christmas]].
 
 ![[love-actually-live-at-usher-hall.jpg|500]]
 
-My girlfriend knew I liked the film so when in [[Edinburgh]] she surprised me by booking a screening of it with a live orchestra doing the music.
+My girlfriend knew I liked the film so when in [[Edinburgh, Scotland 1]] she surprised me by booking a screening of it with a live orchestra doing the music.
 
 I'd never seen it with an audience before. It enhanced the experience actually, hearing peoples laughter.
 
