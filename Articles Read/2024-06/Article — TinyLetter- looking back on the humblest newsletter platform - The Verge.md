@@ -3,8 +3,8 @@ id: 400ee7b8-06ff-4100-b738-ae08e8bf955a
 site_name: The Verge
 date_published: 2024-02-29
 date_saved: 2024-06-17
-date_read: 2024-06-20
-date_archived: 2024-06-20T06:24:11.000Z
+date_read: 2024-06-26
+date_archived: 2024-06-26T07:10:18.000Z
 original_url: https://www.theverge.com/24085737/tinyletter-mailchimp-shut-down-email-newsletters
 omnivore_url: https://omnivore.app/me/tiny-letter-looking-back-on-the-humblest-newsletter-platform-the-19026728265
 ---
@@ -12,10 +12,10 @@ omnivore_url: https://omnivore.app/me/tiny-letter-looking-back-on-the-humblest-n
  - Site: The Verge
  - By: 
  - Date published: 2024-02-29
- - Date read: [[2024-06-20]]
+ - Date read: [[2024-06-26]]
  - [Read Original](https://www.theverge.com/24085737/tinyletter-mailchimp-shut-down-email-newsletters)
  - [Read on Omnivore](https://omnivore.app/me/tiny-letter-looking-back-on-the-humblest-newsletter-platform-the-19026728265)
- - Tags:  #Newsletters  #Technology  #The_Web  #Writing 
+ - Tags:  #Newsletters  #Technology  #The_Web 
  - Notes: 
 
 **Note:** Below is the text from the article, with any ==highlights== done by me. None of the writing below is by me.

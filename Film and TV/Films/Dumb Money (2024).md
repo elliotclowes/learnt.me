@@ -10,4 +10,4 @@ The ‘dumb’ bad guys were comically dumb. And the ‘scary’ bad guys weren�
 
 However, the reviews for this are strong and my girlfriend really enjoyed it, so I’m in a minority. 
 
-And this _was_ weirdly watchable and fun. And I always enjoy seeing Paul Dano on screen. He always brings the human to his roles, and this one is no different. **58%**
+And this _was_ weirdly watchable and fun. And I always enjoy seeing Paul Dano on screen. He always brings the human to his roles, and this one is no different. **59%**

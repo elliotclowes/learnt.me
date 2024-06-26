@@ -16,11 +16,12 @@
 
 ## Ratings
 
-- 12 Angry Men - 92%
-- The Green Mile - 90%
-- ==The Girl with the Dragon Tattoo - 85%==
+- The Green Mile - 93%
+- 12 Angry Men - 93%
+- [[The Matrix (1999)]] - 91%
 - Schindler’s List - 86%
-- ==Ex Machina - 84%==
+- ==The Girl with the Dragon Tattoo - 85%==
+- ==Ex Machina - 83%==
 - ==[[The Holdovers (2023)]] - 82%==
 - A Star is Born (2018) - 82%
 - L.A. Confidential - 82%
@@ -40,10 +41,12 @@
 - Looper - 75%
 - Bridge of Spies - 74%
 - Role Models - 68%
-- [[Bullet Train (2022)]] - 64%
+- [[Bullet Train (2022)]] - 66%
 - [[Jackass Forever (2022)]] - 62%
-- [[The Fall Guy (2024)]] - 60%
-- [[Dumb Money (2024)]] - 58%
-- [[The Ministry of Ungentlemanly Warfare (2024)]] - 54%
+- [[Road House (2024)]] - 62%
+- [[Green Street Hooligans (2005)]] - 62%
+- [[The Fall Guy (2024)]] - 61%
+- [[Dumb Money (2024)]] - 59%
+- [[The Ministry of Ungentlemanly Warfare (2024)]] - 58%
 - [[Your Christmas Or Mine? (2022)]] - 53%
 - Avatar: The Way of Water - 34%
