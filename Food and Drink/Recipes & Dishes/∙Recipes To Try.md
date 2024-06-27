@@ -6,3 +6,6 @@
 - [Easy Mexican Shredded Chicken - What's Gaby Cooking](https://whatsgabycooking.com/easy-mexican-shredded-chicken/)
 	- via [What Easy Dinners Do You Make After a Long Day? | Cup of Jo](https://cupofjo.com/2024/06/19/what-easy-dinners-do-you-make-after-a-long-day/)
 - Pitta with Quorn chicken nuggets, red onion, tomatoes, cucumber, and some sort of condiment
+
+### Ingredients
+- [BORDIER BUTTER – La Fromagerie](https://lafromagerie.co.uk/products/bordier-butter)
