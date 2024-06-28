@@ -46,7 +46,7 @@
 - Bonnie Raitt
 - Buddy Guy
 - Jeff Healey
-- The Moody Blues
+- [[The Moody Blues]]
 - Climax Blues Band
 - Love
 - The Zombies
@@ -56,6 +56,7 @@
 - Traveling Wilbury's
 - Grateful Dead
 - The Smiths
+- The Bee Gee’s
 
 ## Albums
 - Richard Thompson - Rumor and Sigh
