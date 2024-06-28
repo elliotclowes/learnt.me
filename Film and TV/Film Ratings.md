@@ -49,4 +49,5 @@
 - [[Dumb Money (2024)]] - 59%
 - [[The Ministry of Ungentlemanly Warfare (2024)]] - 58%
 - [[Your Christmas Or Mine? (2022)]] - 53%
+- [[Wonka (2023)]] - 48%
 - Avatar: The Way of Water - 34%
