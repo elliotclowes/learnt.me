@@ -9,10 +9,11 @@
 - iCloud+: £9/**mo** | £108/yr
 - Readwise: $9/**mo** | $108/yr
 - Backblaze: $8.25/mo | $99/**yr**
+- [Tinylytics](https://tinylytics.app/): $6/**mo** | $72/yr
+- Narwhal 2: £4/**mo** | £48/yr
 - FastMail: $3.83/mo | $46/**yr**
 	- My email provider. I'm not a huge fan of Gmail. And I'm happy to pay for email.
 	- Technically I pay $138 once every three years.
-- Narwhal 2: £4/**mo** | £48/yr
 - AWS: £3-£6/**mo** | £36-£72/yr
 - BACchus: £1/**mo** | £12/yr
 - Overcast: £0.75/mo | £9/**yr**
