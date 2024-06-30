@@ -18,6 +18,8 @@
 - BACchus: £1/**mo** | £12/yr
 - Overcast: £0.75/mo | £9/**yr**
 
+**1Password**
+
 ## Old
 
 - [[2024-06-15]] - Linode: $8.40/mo
