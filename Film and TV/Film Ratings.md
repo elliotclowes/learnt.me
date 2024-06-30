@@ -10,6 +10,18 @@
 20% = Terrible: Really don’t watch it.  
 10% = Awful: Please, do not watch this garbage.
 
+## Translated into stars
+
+★★★★★ = 90%+
+★★★★1/2 = 82%
+★★★★ = 72%
+★★★1/2 = 65%
+★★★ = 57%
+★★1/2 = 50%
+★★ = 40%
+★1/2 = 30%
+★ = 10%
+
 ## Notes
 - If a film is ==highlighted== in means it’s a particular favourite of mine or I consider it underrated/under-watched.
 - These are personal ratings, not objective ones. There are plenty of films no here with an equal rating to an obviously technically superior film. But because they connected with me they have been given a high score.
@@ -28,6 +40,7 @@
 - L.A. Confidential - 82%
 - Nightcrawler - 81%
 - Titanic - 81%
+- [[The Lobster (2015)]] - 81%
 - Swiss Army Man - 81%
 - Birdman - 80%
 - Gangs of New York - 79%
