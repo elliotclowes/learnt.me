@@ -16,11 +16,12 @@
 
 ## Ratings
 
-- The Green Mile - 93%
-- 12 Angry Men - 93%
-- [[The Matrix (1999)]] - 91%
-- Schindler’s List - 86%
+- The Green Mile - 95%
+- Schindler’s List - 95%
+- 12 Angry Men - 92%
+- [[The Matrix (1999)]] - 90%
 - ==The Girl with the Dragon Tattoo - 85%==
+- ==Sicario - 85%==
 - ==Ex Machina - 83%==
 - ==[[The Holdovers (2023)]] - 82%==
 - A Star is Born (2018) - 82%
@@ -29,13 +30,13 @@
 - Titanic - 81%
 - Swiss Army Man - 81%
 - Birdman - 80%
-- ==Sicario - 79%==
 - Gangs of New York - 79%
 - The Nice Guys - 79%
 - The Martian - 78%
 - [[Challengers (2024)]] - 77%
 - The Thin Red Line - 77%
 - Spotlight - 77%
+- Napoleon Dynamite - 76%
 - Tim’s Vermeer - 76%
 - Hellboy - 76%
 - Looper - 75%
