@@ -19,6 +19,7 @@
 - Overcast: £0.75/mo | £9/**yr**
 
 **1Password**
+Trakt
 
 ## Old
 
