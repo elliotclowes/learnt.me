@@ -18,8 +18,10 @@
 - BACchus: £1/**mo** | £12/yr
 - Overcast: £0.75/mo | £9/**yr**
 
-**1Password**
-**Trakt**
+- **1Password**
+- **Trakt**
+- **Obsidian**
+- **Micro.blog**
 
 ## Old
 
