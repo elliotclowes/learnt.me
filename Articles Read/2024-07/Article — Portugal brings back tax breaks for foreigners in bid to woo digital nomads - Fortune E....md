@@ -22,7 +22,7 @@ omnivore_url: https://omnivore.app/me/portugal-brings-back-tax-breaks-for-foreig
 **Note:** Below is the text from the article, with any ==highlights== done by me. None of the writing below is by me.
 
 # Article text
-Portugal’s will-they-won’t-they relationship with foreign workers has just taken another twist, as the country plans to bring back contentious tax breaks that its old Prime Minister called a “fiscal injustice.”
+[[Portugal]]’s will-they-won’t-they relationship with foreign workers has just taken another twist, as the country plans to bring back contentious tax breaks that its old Prime Minister called a “fiscal injustice.”
 
 The country’s Prime Minister Joaquim Miranda Sarmento told the [_Financial Times_](https://www.ft.com/content/5ea5c082-b32c-403d-8462-cd471a997c21)that his center-right government would bring legislation on Thursday to reintroduce tax breaks to lure foreigners to Portugal.
 
@@ -40,7 +40,7 @@ The move marks the latest twist in the country’s complicated relationship with
 
 ## Portugal’s migrant mixup
 
-The country has sought to attract young, skilled foreigners since its economy was devastated by the global financial crisis in 2009\. As the COVID-19 pandemic shifted working patterns, Portugal’s capital of Lisbon became the homeland of newly coined “Digital Nomads.”
+The country has sought to attract young, skilled foreigners since its economy was devastated by the global financial crisis in 2009\. As the COVID-19 pandemic shifted working patterns, Portugal’s capital of [[Lisbon]] became the homeland of newly coined “[[Digital Nomad]]s.”
 
 Opponents of these inflows regard them as devastating to the cost of living of Portuguese residents, among the EU’s lowest-income workers. They also blame the knock-on effect of that higher income on spiraling house prices in the country, adding to unaffordability. 
 
