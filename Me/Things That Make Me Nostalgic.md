@@ -36,3 +36,21 @@ I haven't watched the show for quite a while, and I'm not sure if I will again. 
 - The sound of a mourning dove
 - Going to the 24 hour Asda to buy the new Call of Duty at midnight.
 - [Frutiger Aero](https://www.theguardian.com/fashion/2023/dec/14/frutiger-aero-the-windows-screen-saver-design-trend-taking-tiktok-by-storm)
+
+## Assorted Nostalgic Images
+
+![[IMG_2668.webp]]
+
+![[IMG_2669.webp]]
+
+![[IMG_2670.webp]]
+
+![[IMG_2671.webp]]
+
+![[IMG_2672.webp]]
+
+![[IMG_2673.webp]]
+
+## Assorted videos
+
+http://elliotclowes.com/cold/2024/bond-game.mp4

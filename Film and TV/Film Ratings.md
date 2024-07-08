@@ -28,10 +28,11 @@
 
 ## Ratings
 
-- The Green Mile - 95%
-- Schindler’s List - 95%
-- 12 Angry Men - 92%
-- [[The Matrix (1999)]] - 90%
+- The Green Mile - 97%
+- Schindler’s List - 97%
+- 12 Angry Men - 93%
+- [[The Matrix (1999)]] - 91%
+- [[Good Will Hunting (1997)]] - 91%
 - ==The Girl with the Dragon Tattoo - 85%==
 - ==Sicario - 85%==
 - ==Ex Machina - 83%==
