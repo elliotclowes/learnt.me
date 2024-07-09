@@ -1,3 +1,5 @@
+![[crooner.jpg|300]]
+
 I had never heard of this word before. And I have to admit it's not a word I like. It sounds a bit like an insult.
 
 But a "crooner" is:
@@ -8,7 +10,7 @@ But a "crooner" is:
 
 Some notable crooners are [[Bing Crosby]], [[Frank Sinatra]], [[Dean Martin]] and [[Nat King Cole]].
 
-I'm not sure what I what have described this style of music as before discovering the word crooner. Easy listening? Romantic?
+I'm not sure what I what have described this style of music as before discovering the word crooner. Easy listening? Romantic? Old-timey?
 
 Either way, it's a style of music I really like.
 
