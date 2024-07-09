@@ -4,7 +4,7 @@ But a "crooner" is:
 
 > a singer that performs with a smooth, intimate style that originated in the [[1920s]]. The style was made possible by better microphones that picked up quieter sounds and a wider range of frequencies, allowing the singer to access a more dynamic range. This suggestion of intimacy was supposedly wildly attractive to women, especially younger ones such as teenage girls, known at the time as "bobby soxers". The crooning style developed out of singers who performed with big bands, and reached its height in the [[1940s]] to late 1960s.
 
-("booby soxers" is almost as silly a name as "crooners")
+("[[booby soxers]]" is almost as silly a name as "crooners")
 
 Some notable crooners are [[Bing Crosby]], [[Frank Sinatra]], [[Dean Martin]] and [[Nat King Cole]].
 
