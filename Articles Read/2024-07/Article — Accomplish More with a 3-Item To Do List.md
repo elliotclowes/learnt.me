@@ -54,4 +54,6 @@ Additionally, and equally important, the 3-Item List provides a sense of accompl
 
 The importance of identifying the three most important things to accomplish in a day is revolutionary regardless of where you apply it. It is a helpful productivity hack at work. It can be used equally well by a stay-at-home mom or dad. It can be uniquely tailored for a hobby or side-business.
 
+![](https://proxy-prod.omnivore-image-cache.app/1024x684,s5dvY5XDRaLwHoLqmJLO7mBbOK6dGmKkEcmDtZSwUlYo/https://www.becomingminimalist.com/wp-content/uploads/2024/07/the-zeigarnik-effect-1024x684.jpg)
+
 In order to accomplish our most important tasks, it is essential to remain focused on them. The 3-Item To Do List accomplishes that _and_ requires you to identify them anew each morning.
