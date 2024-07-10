@@ -2,7 +2,7 @@ Hello there! My name is [Elliot Clowes](https://elliotclowes.com) and welcome to
 
 ## What is this?
 
-This site is made up of my notes (currently 439 of them). There's notes for all sorts. Things I’ve learnt, [[-Book Notes|book highlights that inspire me]], [[Favourite Articles|great articles I’ve read]], ‘life logs’, and my personal preferences and opinions on everything from furniture to living life. *Learnt.me* is essentially my brain in digital form. None of the notes are ever finished. They're constantly being updated as I learn new things and have new thoughts.
+This site is made up of my notes (currently 818 of them). There's notes for all sorts. Things I’ve learnt, [[-Book Notes|book highlights that inspire me]], [[Favourite Articles|great articles I’ve read]], ‘life logs’, and my personal preferences and opinions on everything from furniture to living life. *Learnt.me* is essentially my brain in digital form. None of the notes are ever finished. They're constantly being updated as I learn new things and have new thoughts.
 
 There's more in-depth info about the site [[About This Site|here]].
 
