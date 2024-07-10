@@ -20,7 +20,7 @@ omnivore_url: https://omnivore.app/me/a-generative-film-about-brian-eno-18fed1dd
 **Note:** Below is the text from the article, with any ==highlights== done by me. None of the writing below is by me.
 
 # Article text
-![A Generative Film About Brian Eno](https://proxy-prod.omnivore-image-cache.app/0x0,sbubAfTlF7VLPyh19DyV5IvQMvRipUDOiCNpaUAEAUIA/https://arun.is/static/be64bc8f20985487db846c9b888896c2/cover.jpg)
+![[cover.jpg]]
 
 I discovered [Gary Hustwit](https://www.hustwit.com/)’s films when I watched[Helvetica](https://www.hustwit.com/helvetica). The film not only attracted me to design, but also made me a loyal follower of his work.
 
@@ -54,7 +54,7 @@ Each showing of Eno is unique, exploring different themes and weaving together v
 
 The machine powering it all is the[Teenage Engineering-designed B-1](https://teenage.engineering/now#B-1) (Brain One, an anagram of Brian Eno). It takes hundreds of hours of footage (some shot by Gary, some by others over decades) that Gary and Maya edited and curated as input. It generates the film as we watch.
 
-![brain one](https://proxy-prod.omnivore-image-cache.app/0x0,sAHiRbG55OfpHMcjPZPW50_9blK7fUCHaLfVjDEpJWKo/https://arun.is/static/f59359ffb607865237ff9eea1f1b5637/20801/brain_one.jpg) Brain One ([image credit](https://teenage.engineering/now#B-1))
+![[3808c3dfcd38a8d63f3989f1619d70c7.jpg]]
 
 There are some key scenes common between showings. Everything else differs, including footage shown and explored themes. This helps avoid a rosy or orderly picture of Brian’s life. Additionally, the editors are relieved of the pressure to remove parts they like in order to stay within time constraints.
 
@@ -72,7 +72,7 @@ What’s great about this film is that more footage keeps getting added to B-1\.
 
 [Anamorph](https://www.anamorph.com/), founded by Gary with[Brendan Dawes](https://brendandawes.com/), aims to expand generative film. Eno is just the first of many to come.
 
-![anamorph](https://proxy-prod.omnivore-image-cache.app/0x0,s8OR90bI0WwxIEJeg9a-WYZvoAd-qEJ_KvJENa3_kGVM/https://arun.is/static/66239c7824d20ba9863cebfa3443c1f7/20801/anamorph.jpg) Anamorph founders ([image credit](https://www.anamorph.com/))
+![[4c0512ed80878c0911e5c2858a5958a8.jpg]]
 
 There are many questions to be answered, like how this film could be streamed or archived for posterity. Gary and Maya joked about how cool it would be to continuously stream an ever-changing film on the web. B-1 can output a single[ProRes](https://en.wikipedia.org/wiki/Apple%5FProRes) file if needed, but Gary suggested that there may be other ways of archiving the film.
 
@@ -88,10 +88,9 @@ As society grapples with the impact of LLM-based technologies on our work and li
 
 ### Camera setup
 
-![Camera setup](https://proxy-prod.omnivore-image-cache.app/0x0,sFA5XdpKm3kSFd3vWo0jxJO72ek1XRUREHOZaNDl2bVc/https://arun.is/images/gear/cl_18-50_56.png)
+![[cl_18-50_56.png]]
 
 [Cover illustration by Studio Build](https://garyhustwit.substack.com/p/more-eno-screening-events-and-new). Thanks to Q for reading drafts of this.
 
 ## Subscribe to the newsletter
 
----

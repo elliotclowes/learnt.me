@@ -64,7 +64,7 @@ One potential reason could be that if you take large doses of beta carotene, you
 
 ## **4\. Vitamin E**
 
-![](https://proxy-prod.omnivore-image-cache.app/871x581,sAM5WauaIG15MzNkIOPNyR-AiC-iySVcaSXIdbhP4xtA/https://i0.wp.com/novoslabs.com/wp-content/uploads/2021/08/shutterstock_155430902_1600x1067.jpg?resize=1024%2C683&ssl=1)
+![[63e879ad79f5103c73cf85c9319f0016.jpg]]
 
 Vitamin E is a much touted anti-aging substance. However, it’s an antioxidant, and as we have seen, most antioxidant supplements do not extend lifespan.
 
@@ -92,7 +92,7 @@ Too much niacinamide (vitamin B3) can actually inhibit the activity of sirtuins 
 
 ## **6\. Co-enzyme Q10**
 
-![](https://proxy-prod.omnivore-image-cache.app/871x544,sgg8J2KXJ4tTLDgEPfBj9So58D_hTVyeh5M4rJZ-ytNo/https://i0.wp.com/novoslabs.com/wp-content/uploads/2021/08/shutterstock_388445656_1600x1067-edited.jpg?resize=1455%2C909&ssl=1)
+![[82fdc3d5ae32779604cb674c8a276a0e.jpg]]
 
 Despite the innumerable companies selling co-enzyme Q10 as an anti-aging supplement, co-enzyme Q10 is also not a good anti-aging substance. 
 
@@ -134,7 +134,7 @@ Too much growth hormone can also accelerate [hair loss](https://novoslabs.com/wh
 
 ## **9\. Testosterone or Testosterone Boosters**
 
-![](https://proxy-prod.omnivore-image-cache.app/644x483,sZLko4-pzCHgSaCCE_qy0k6drw8QXzFkOoBfS29o77dY/https://i0.wp.com/novoslabs.com/wp-content/uploads/2021/08/shutterstock_764024665_1600x1200.jpg?resize=644%2C482&ssl=1)
+![[6ccdcc49bc32b379dd14f7dc7a73e881.jpg]]
 
 Most male hormones shorten lifespan. If you give male animals extra testosterone, they age and die faster ([R](https://pubmed.ncbi.nlm.nih.gov/9140897/)). 
 
@@ -172,4 +172,3 @@ Patent-pending and designed with the help of top scientists in the longevity fie
 
 [Learn more about the anti-aging supplement NOVOS Core](https://novoslabs.com/product/novos-core?utm%5Fmedium=referral&utm%5Fsource=novoslabs.com&utm%5Fcampaign=blog)
 
-[![](https://proxy-prod.omnivore-image-cache.app/871x581,sY_NngZe3x2f64wdj2LIboFXHSZVr-AXtZK2h_Tj075w/https://i0.wp.com/novoslabs.com/wp-content/uploads/2022/03/CREATIVE_SHOT_04_CARE-BOOST-BOX-BOOTLE_0086-v02.jpg?resize=1024%2C683&ssl=1)](https://novoslabs.com/novos-anti-aging-longevity-supplement/)

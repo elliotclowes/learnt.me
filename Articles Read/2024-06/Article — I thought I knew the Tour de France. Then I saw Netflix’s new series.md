@@ -28,7 +28,7 @@ I haven’t been to every Tour since then, just most of them. The race is less i
 
 For any film director, it’s not difficult to make the Tour look good. La belle France takes care of that. It is the storytelling that is extraordinary, explaining as it does the mystery of the Tour to those coming to it for the first time while providing compelling insight for those who think they know the race. Most of all, the eight episodes explore the humanity of those involved. These are young athletes prepared to tell us what they’re thinking, sometimes seeming immature, uncool, but always real.
 
-![Tadej Pogacar and the eventual 2023 champion Jonas Vingegaard ascend the Col du Grand Combier on stage 13 — but the Netflix series is not fixated on the stars](https://proxy-prod.omnivore-image-cache.app/0x0,sPYxfTmXDI0pkfIlNKFSPsBSc2lrJlhxnddpTMgJEBrY/https://www.thetimes.com/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F84323572-19f5-476c-a5ad-146f7d182d9c.jpg?crop=4680%2C3121%2C0%2C0&resize=1180)
+![[a03275b58df9b2a5b202bd525396d1d8.jpg]]
 
 Tadej Pogacar and the eventual 2023 champion Jonas Vingegaard ascend the Col du Grand Combier on stage 13 — but the Netflix series is not fixated on the stars
 
@@ -46,7 +46,7 @@ Alaphilippe tries, but doesn’t have the legs. Then, on a wondrous but bizarre 
 
 Netflix eloquently tells the story of Pello Bilbao’s emotional victory into Issoire, inspired by the death of his close friend and Bahrain Victorious team-mate Gino Mäder after a crash at the Tour of Switzerland three weeks before. Crossing the line and pointing to the sky, Bilbao said he just let go “all of the anger that was inside” and remembered “the reason for this win, the special one, for Gino”.
 
-![The story behind Bilbao’s emotional win in Issoire, inspired by the death of his team-mate Mäder, is told in the Netflix series](https://proxy-prod.omnivore-image-cache.app/0x0,sdiZVKSDoCN486B27UpfNVtjBNtVbcwNCUqk8mgQ7qUE/https://www.thetimes.com/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fcdff824a-5800-4fab-bb48-c2445cac6618.jpg?crop=2632%2C3296%2C0%2C322&resize=1180)
+![[d56476fafbbede4a03330d465ca79027.jpg]]
 
 The story behind Bilbao’s emotional win in Issoire, inspired by the death of his team-mate Mäder, is told in the Netflix series
 
@@ -60,7 +60,7 @@ The conversation takes place during the rider’s massage.
 
 Cummings explains the reason for the change in strategy. The rider’s reluctance to agree is obvious. The team director says he needs to commit and invites him to say he will. Pidcock tells the camera to stop filming, which made plain his response. “Tom, you can use a lot of adjectives to describe,” Rodriguez says with thinly veiled disapproval. Pidcock rides his own race when he should have been helping Rodriguez and then, a day later, he cracks and drops like an anchor down the classification table. “I was targeting everything and I came away with nothing,” Pidcock says. “It kind of felt like a waste of two weeks.”
 
-![The Netflix cameras captured Pidcock being asked to agree to ride for Rodriguez — with the Briton’s reluctance clear](https://proxy-prod.omnivore-image-cache.app/0x0,sIDf7w9Amv8zHVOJDZvR-3mVQAM4pNQir6_P8NjvKP3M/https://www.thetimes.com/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fa332b0a3-d8c8-4f45-a9f8-f914ecadb0ba.jpg?crop=5000%2C3333%2C0%2C0&resize=1180)
+![[d38ec723131920fc70209a62a23ca17f.jpg]]
 
 The Netflix cameras captured Pidcock being asked to agree to ride for Rodriguez — with the Briton’s reluctance clear
 
@@ -74,4 +74,3 @@ These insights are precious. And, thankfully, the film-makers were never going t
 
 The Tour begins in Florence on Saturday. It’s the waiting that’s hard.
 
-### Related articles

@@ -83,13 +83,13 @@ Though alternative investments play a large role in the portfolios of the ultra-
 
 My favorite example of this comes from Blackstone’s Real Estate Income Trust (BREIT), which according to Blackstone’s own data, had nearly a 10% _positive_ return from January 2022 to October 2022\. The only problem is that this positive return occurred while the rest of the real estate sector was getting hammered ([as pointed out by @EconomPic](https://x.com/EconomPic/status/1598411875191955456)):
 
-[![YTD returns for various public RE funds and Blackstone's BREIT.](https://proxy-prod.omnivore-image-cache.app/700x624,syi44wNLZM6YSkcsfjMZJ82sGt4giqBJK6ZGoB427UHo/https://ofdollarsanddata.com/wp-content/uploads/2024/05/econompic_blackstone_2022_breit.jpeg)](https://ofdollarsanddata.com/wp-content/uploads/2024/05/econompic%5Fblackstone%5F2022%5Fbreit.jpeg)
+![[e8ff8af83a5386b8471b5620c3514c6a.jpg]]
 
 How is it possible that BREIT was _up_ 10% while the rest of the real estate sector was down double digits? Is Blackstone really that good at selecting properties? Or could something else be going on?
 
 I don’t know with certainty, but when you look at the volatility of their fund (BREIT) compared to the rest of the industry, things seem off. Another gem [from @EconomPic](https://x.com/EconomPic/status/1715494020389159330):
 
-[![BREIT vs all Public traded REIT funds from Sept 2021 to Sept 2023.](https://proxy-prod.omnivore-image-cache.app/700x452,sg9-kxUufcfJl_6kEeP2hK04bEMnX_MzRHq8QH6OC3VQ/https://ofdollarsanddata.com/wp-content/uploads/2024/05/econompic_breit_vs_others_2021_2023.jpeg)](https://ofdollarsanddata.com/wp-content/uploads/2024/05/econompic%5Fbreit%5Fvs%5Fothers%5F2021%5F2023.jpeg)
+![[5f15af1a4cadd1c68d72f13ecf17b111.jpg]]
 
 Yes, this is just one example, but I am inclined to believe that many alternatives are more correlated with traditional investments than the industry wants to admit. After all, if the economy isn’t doing well, it’s highly unlikely that your private equity, real estate, and venture capital investments will be thriving.
 
@@ -109,4 +109,3 @@ This is post 400\. Any code I have related to this post can be found here with t
 
 ---
 
-## Now go talk about it.

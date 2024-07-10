@@ -64,4 +64,3 @@ Anti-aging trends have become increasingly popular in recent years. From people'
 
  Sign up for notifications from Insider! Stay up to date with what you want to know.
 
-Subscribe to push notifications

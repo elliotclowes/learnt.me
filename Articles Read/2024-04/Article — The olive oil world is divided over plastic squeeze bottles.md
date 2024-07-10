@@ -22,7 +22,7 @@ omnivore_url: https://omnivore.app/me/https-www-modernretail-co-operations-to-sq
 **Note:** Below is the text from the article, with any ==highlights== done by me. None of the writing below is by me.
 
 # Article text
-![](https://proxy-prod.omnivore-image-cache.app/0x0,sjrmKi5-VG2irvzxoP3UyNz22y4ypyADTryJJOL1IkLM/https://www.modernretail.co/wp-content/uploads/sites/5/2024/04/Copy-of-California_Olive_Ranch_Salad_Pizza_8167_2x3-e1713207182538.jpg?w=1050&h=592&crop=1)
+![[6ef50dbf263f18b67b1da4e3111c351c.jpg]]
 
 The latest product launch at California Olive Ranch may look familiar to some olive oil fans. It’s a squeezable plastic 500 mL bottle, a design that encourages customers to “channel their inner chef” by squeezing the extra virgin olive oil into their pots, pans or recipes.
 
@@ -56,4 +56,3 @@ She admits she received some flack for her stance from others within the olive o
 
 For its part, California Olive Ranch is looking at product innovation as one of the key growth strategies for the company. The company, founded in 1998, has already added an avocado oil blend, sauces and vinaigrettes to its roster.But selling its staple olive oil in other forms is also a business driver. Its glass bottles come in a variety of sizes, plus it has a two-liter “bag in a box” format meant to cater to heavy users. Its aluminum tin came out in September 2022, and the chef’s bottle debuted in March.
 
-“Plastic is very polarizing,” Fox said. “You get a lot of people who love the plastic and love the squeeze bottle because it’s fun and versatile., And then you have very vocal groups of people who hate it. We believe we have a wide portfolio of options for our consumer, and you’re going to us continue to stretch that as we go into different adjacencies.” 

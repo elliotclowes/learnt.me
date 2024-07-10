@@ -22,7 +22,7 @@ omnivore_url: https://omnivore.app/me/how-i-built-a-minimal-jira-alternative-in-
 **Note:** Below is the text from the article, with any ==highlights== done by me. None of the writing below is by me.
 
 # Article text
-![Notion](https://proxy-prod.omnivore-image-cache.app/0x0,sPK_UOF0pygkaoGcgV9KRs899Lw9tEqzl9RO93Ooe8rQ/https://hulry.com/content/images/2024/06/notion-logo-themed.png)
+![[notion-logo-themed.png]]
 
 Get this project tracker as a ready-to-use Notion template at the end of this post.
 
@@ -78,7 +78,7 @@ The basic project structure I needed was to have a list of projects I wanted to 
 
 Something like this:
 
-![](https://proxy-prod.omnivore-image-cache.app/1200x443,sizuDf1HIzvY6hNOk6ev83gXQddZi4za0ut4E9W9xbn8/https://hulry.com/content/images/2024/06/notion-project-tracker-overview.png)
+![[notion-project-tracker-overview.png]]
 
 But, as discussed in an earlier [blog post on goal gradients](https://hulry.com/goal-gradient-effect/), dividing a project into meaningful milestones increases the probability of finishing it.
 
@@ -100,17 +100,17 @@ So, with the requirements sorted, it was time to get my hands dirty and build th
 
 The first step was to create a blank page in my Notion workspace to reflect the planning for the current year:
 
-![](https://proxy-prod.omnivore-image-cache.app/1730x572,sMG39Ym79Ks6uEF0My3kge94JQhKAqc9qmXtRAlD2O80/https://hulry.com/content/images/2024/06/notion-yearly-plans-page.png)
+![[notion-yearly-plans-page.png]]
 
 Now, since I've divided my year into quarters of work, I wanted the same structure on the yearly plans page.
 
 I created a subpage called **Mid-May to July** to house all the plans for that quarter like this:
 
-![](https://proxy-prod.omnivore-image-cache.app/1740x620,sanOjARYkAlli0sNt650xQn1e6SSHN_lWcGjgICHc0lY/https://hulry.com/content/images/2024/06/notion-mid-may-july-plan-page.png)
+![[notion-mid-may-july-plan-page.png]]
 
 In that new page, I added an inline database to store and list all the projects for the quarter:
 
-![](https://proxy-prod.omnivore-image-cache.app/1750x1100,s2EmQECM6RgYFg0cqhD7p-ShRm_an9NXxxwaRVy43FPM/https://hulry.com/content/images/2024/06/notion-may-july-plan-blank-projects-db.png)
+![[notion-may-july-plan-blank-projects-db.png]]
 
 Then, I edited the pre-made **Tags** property of the database to a **Select** property with a couple of project priority types:
 
@@ -118,21 +118,21 @@ Then, I edited the pre-made **Tags** property of the database to a **Select** pr
 * **Should Do:** This project is essential, but it's not necessary to finish it this quarter.
 * **Can Do:** This project is more of a wishlist and should be done only if I can spare extra time for it without disrupting my critical projects.
 
-![](https://proxy-prod.omnivore-image-cache.app/1450x874,st78GSoiFO4H1z20EN-3bQWHsE3jAD32WTrIDj4yoHRY/https://hulry.com/content/images/2024/06/notion-project-type-property-config.png)
+![[notion-project-type-property-config.png]]
 
 This distinction is crucial because it helps me [identify what to work on now and what to postpone](https://hulry.com/todoist-priority-levels-moscow/).
 
 After sorting the types, I added a new **Date** property to the table to set a timeline for the project:
 
-![](https://proxy-prod.omnivore-image-cache.app/1750x708,sml-fT8UTkFZ1lFU5ZdHaBXQdQ3pW6Pf-2k_sQuPJwjU/https://hulry.com/content/images/2024/06/notion-project-timeline-property.png)
+![[notion-project-timeline-property.png]]
 
 Instead of picking a single completion date here, I picked a date range by toggling the **End Date** switch on the date picker:
 
-![](https://proxy-prod.omnivore-image-cache.app/1250x896,sCfrukTkip9wQj0faSeOi-IX7OVTIOzVQNHqIeSIO03A/https://hulry.com/content/images/2024/06/notion-choosing-end-date-switch.png)
+![[notion-choosing-end-date-switch.png]]
 
 This set a timeline for the project indicating when to start and when to end so that I can visualise each project in a neat timeline view like this:
 
-![](https://proxy-prod.omnivore-image-cache.app/1750x748,sAtpnytT8woa3jRkGtff_-3-I9aCETJASTPdV7bdqmHY/https://hulry.com/content/images/2024/06/notion-projects-timeline-view.png)
+![[notion-projects-timeline-view.png]]
 
 Not every project starts and ends at the same time, so visualising the lifecycle of each project and how they overlap with the timings of one another helps [efficiently allocate tasks](https://hulry.com/productive-to-do-list/) from each project into a weekly schedule.
 
@@ -142,7 +142,7 @@ You can create a timeline view for your Projects database by adding a new view a
 
  /0:12 
 
-![](https://proxy-prod.omnivore-image-cache.app/0x0,sUNapBkrTcQiv8WkMe0LyOklNG0ITCReRSwOpOrct6mE/https://hulry.com/content/media/2024/06/create-timeline-view-notion_thumb.jpg)
+![[create-timeline-view-notion_thumb.jpg]]
 
 Now:
 
@@ -152,7 +152,7 @@ For listing tasks, I had two options.
 
 Since each item in the Projects database is an individual Notion page, I could add a simple checklist of tasks for each project inside this page:
 
-![](https://proxy-prod.omnivore-image-cache.app/1430x736,sfZsQHsMgSg-4BLlQQx-WTJG7nl18KdyaAszxfF7n4AI/https://hulry.com/content/images/2024/06/notion-simple-page-checklist.png)
+![[notion-simple-page-checklist.png]]
 
 However, this format creates a barebones, flat list which I can't use to calculate the progress of the project.
 
@@ -162,7 +162,7 @@ To be able to calculate a project's progress, I needed to be able to count each 
 
 To store tasks across all projects in my plan, I created another inline database in the same Mid-May to July page with two properties — checkbox and name:
 
-![](https://proxy-prod.omnivore-image-cache.app/1760x720,seKW7YDhvwMIjVbuL6gvyuaY1OF7ed_4Wc5A2mePW2aY/https://hulry.com/content/images/2024/06/notion-tasks-database-overview.png)
+![[notion-tasks-database-overview.png]]
 
 The checkbox property indicates whether a task is complete and will help calculate a project's progress.
 
@@ -186,29 +186,29 @@ To associate a task with a project, I added a **Relation** property to the Tasks
 
  /0:09 
 
-![](https://proxy-prod.omnivore-image-cache.app/0x0,s48rz8Zw6HJWNw4psI1MBQMq6NyfsdCPovFqZl_QwUIA/https://hulry.com/content/media/2024/06/add-relation-notion-database_thumb.jpg)
+![[add-relation-notion-database_thumb.jpg]]
 
 I also toggled the **Show on Projects** switch to make this relation accessible to the Projects database where I could calculate a project's progress:
 
-![](https://proxy-prod.omnivore-image-cache.app/1370x890,s5eDSKhm-YiLqNZ3-L_tm-LiiqbG7qQCFlaZSpytdy54/https://hulry.com/content/images/2024/06/notion-show-relation-projects-tasks.png)
+![[notion-show-relation-projects-tasks.png]]
 
 With the relationship between tasks and projects set up, I assigned each task on my list to a project by clicking the Project cell on a task database item and selecting the project:
 
-![](https://proxy-prod.omnivore-image-cache.app/1630x570,sNvE0OsLvxPQUWFzQPSy7_9IqmcXoeD77LC6plzuWhlQ/https://hulry.com/content/images/2024/06/notion-add-relation-database-item.png)
+![[notion-add-relation-database-item.png]]
 
 Like other values in a Notion database, you can drag the bottom-right handle of a cell to copy over its value to the subsequent cells:
 
-![](https://proxy-prod.omnivore-image-cache.app/1680x564,sFjVDFMgfmwCUawlpwunKH1R9LveGjt70dumWO_YQ2gE/https://hulry.com/content/images/2024/06/notion-drag-fill-relation-database.png)
+![[notion-drag-fill-relation-database.png]]
 
 This makes bulk assigning tasks to a project easier.
 
 Once I was done, I had all tasks assigned to their respective projects like this:
 
-![](https://proxy-prod.omnivore-image-cache.app/1634x574,s2zrm4s6tChermIaRDQbQh7WDRL_l0lhccd2c-3mRoVY/https://hulry.com/content/images/2024/06/notion-tasks-projects-relations-overview.png)
+![[notion-tasks-projects-relations-overview.png]]
 
 Also, since I toggled on the Show on Projects database switch, the Projects database automatically got a new Tasks property showing all assigned tasks:
 
-![](https://proxy-prod.omnivore-image-cache.app/1960x528,sFUI-xSJphhxSMRlMIRS-A7tvKMUoHmJXgLHvSKEXmMs/https://hulry.com/content/images/2024/06/notion-projects-tasks-relation-column.png)
+![[notion-projects-tasks-relation-column.png]]
 
 Now:
 
@@ -220,7 +220,7 @@ To tidy the view, I created a **Toggle Heading 2** on the page and moved the Tas
 
  /0:07 
 
-![](https://proxy-prod.omnivore-image-cache.app/0x0,stqNYxm269JRWV1-5rlq4tZXPo8lAjCBMfE_QsD5zJ10/https://hulry.com/content/media/2024/06/collapsible-tasks-toggle-heading-notion_thumb.jpg)
+![[collapsible-tasks-toggle-heading-notion_thumb.jpg]]
 
 Now:
 
@@ -236,17 +236,17 @@ Since each project item on the Projects database is a full-fledged page, a bette
 
  /0:09 
 
-![](https://proxy-prod.omnivore-image-cache.app/0x0,sFKUVzFRy5S1xa32Squk8Er_bMbjMRbZdB7-eIVyuUp0/https://hulry.com/content/media/2024/06/add-table-view-tasks-projects_thumb.jpg)
+![[add-table-view-tasks-projects_thumb.jpg]]
 
 What we now have is an unfiltered view of all tasks in the database, regardless of which project it's assigned to.
 
 To show tasks relevant to an open project page, we can add a filter to the table view to show tasks only for a project:
 
-![](https://proxy-prod.omnivore-image-cache.app/1576x674,sviyC3A2ETackkU7rFqagB29ZFQ2aBlRUa9zwLNGJvEs/https://hulry.com/content/images/2024/06/notion-filter-tasks-projects-database.png)
+![[notion-filter-tasks-projects-database.png]]
 
 With the filter added, we can now see all tasks relevant to a specific project:
 
-![](https://proxy-prod.omnivore-image-cache.app/1540x558,s6COcuJFH90ruAmYuzlS1DZhgItrNV7VwTlWbVrFCBb0/https://hulry.com/content/images/2024/06/notion-filtered-tasks-by-projects-database.png)
+![[notion-filtered-tasks-by-projects-database.png]]
 
 This is a handy addition because now, opening a project page would list all tasks related to that project instead of having to tweak filters on a top-level Tasks database repeatedly.
 
@@ -254,7 +254,7 @@ This is a handy addition because now, opening a project page would list all task
 
  /0:05 
 
-![](https://proxy-prod.omnivore-image-cache.app/0x0,so11wrQH0kYNTR4Oe_cRmiF7ARKfZEkHssaVfH3mMqgo/https://hulry.com/content/media/2024/06/filtered-tasks-projects-page_thumb.jpg)
+![[filtered-tasks-projects-page_thumb.jpg]]
 
 The project tracker was already taking shape and was ready for use.
 
@@ -280,23 +280,23 @@ Here's how:
 
 First, I added a new property of type Rollup to the Projects database:
 
-![](https://proxy-prod.omnivore-image-cache.app/1450x686,se5tGGuDNH_f6XPH5w17Dc51Ba5Aj-0xGOi1iRfQm-OU/https://hulry.com/content/images/2024/06/notion-rollup-new-property.png)
+![[notion-rollup-new-property.png]]
 
 Then, I set the relation to use for this rollup to the Tasks relation setup earlier:
 
-![](https://proxy-prod.omnivore-image-cache.app/1412x968,smMK2QwpBWaMWqxSdtIf6rtXL5pzyJZ_U5NdueqBAK-8/https://hulry.com/content/images/2024/06/notion-rollup-by-tasks-relation.png)
+![[notion-rollup-by-tasks-relation.png]]
 
 This revealed a couple of more options to choose from, such as a property to fetch data from, and how to calculate the retrieved data:
 
-![](https://proxy-prod.omnivore-image-cache.app/1410x978,s5WMVtHOoo6kJgYgsWvT0NA1NYTuNhBJwWN_lZMauxkI/https://hulry.com/content/images/2024/06/notion-rollup-properties.png)
+![[notion-rollup-properties.png]]
 
 I selected the Status property for calculation:
 
-![](https://proxy-prod.omnivore-image-cache.app/1452x928,s6n9mezE0H0I4nBk29dkxIiMQ6ITTR2pk-t89k2vLcRM/https://hulry.com/content/images/2024/06/notion-rollup-status-property.png)
+![[notion-rollup-status-property.png]]
 
 And chose to calculate the percentage of checked items:
 
-![](https://proxy-prod.omnivore-image-cache.app/1506x948,s9tYhUKrV8Pb_Mr6b1et9dwgYt3Ohal1Df82jNXK1-yk/https://hulry.com/content/images/2024/06/notion-rollup-calculate-percentage-checked.png)
+![[notion-rollup-calculate-percentage-checked.png]]
 
 With this setup, I already had a percentage progress in the new Progress column which changed as I checked off a task in the list:
 
@@ -304,13 +304,13 @@ With this setup, I already had a percentage progress in the new Progress column 
 
  /0:05 
 
-![](https://proxy-prod.omnivore-image-cache.app/0x0,sOSchTRu5lBtDTYGPfGXGcgeJKn170k5akAcSDdQMCpc/https://hulry.com/content/media/2024/06/notion-rollup-progress-change_thumb.jpg)
+![[notion-rollup-progress-change_thumb.jpg]]
 
 This gets the job done, but I wanted to make this column a bit more visual and fun.
 
 To do that, I edited the Progress column property to show the calculated percentage as an orange progress bar instead of a simple number:
 
-![](https://proxy-prod.omnivore-image-cache.app/1498x1010,sMUuR6cR9FK8FhsxkEkQk8Bfor3LIpNbFls9EedeVrs0/https://hulry.com/content/images/2024/06/notion-show-percentage-progress-bar.png)
+![[notion-show-percentage-progress-bar.png]]
 
 This created a beautiful progress bar that updates as I check off tasks from the project:
 
@@ -318,7 +318,7 @@ This created a beautiful progress bar that updates as I check off tasks from the
 
  /0:03 
 
-![](https://proxy-prod.omnivore-image-cache.app/0x0,s1Kqkv774xEbsPlKDc7Yye7-2ac5hByfja92NWjhvcxU/https://hulry.com/content/media/2024/06/notion-rollup-progress-bar-change_thumb.jpg)
+![[notion-rollup-progress-bar-change_thumb.jpg]]
 
 Now, while the Tasks column in the Projects database is a nice indicator of all tasks added to a project, the database view quickly gets messy as more and more tasks are added to each project.
 
@@ -330,11 +330,11 @@ To make the Projects database look cleaner and compact, I hid the Tasks column f
 
  /0:09 
 
-![](https://proxy-prod.omnivore-image-cache.app/0x0,s_BPFlqb5l3NM0X1SuRLxuRo0kOMe8GRmujIwOhMWeEA/https://hulry.com/content/media/2024/06/notion-hide-tasks-column-projects_thumb.jpg)
+![[notion-hide-tasks-column-projects_thumb.jpg]]
 
 While on the subject of making the Projects database look visually appealing, I switched over the Timeline view and chose to show the Progress property on each timeline element:
 
-![](https://proxy-prod.omnivore-image-cache.app/2000x697,sIvzXo4j3HVddrL0MdYLMihJSJkA6I6YhnZdhpqYNRvc/https://hulry.com/content/images/2024/06/notion-timeline-show-progress.png)
+![[notion-timeline-show-progress.png]]
 
 I now had a well-oiled, functional project tracker ready to be used for planning live projects.
 
@@ -352,25 +352,25 @@ Therefore, each milestone needs to be a separate row on a database, linked to a 
 
 To do this, I created a new database called **Milestones** with two Relation properties linking each milestone to a project and many tasks:
 
-![](https://proxy-prod.omnivore-image-cache.app/1590x660,siJ0VtZIXbwmaXZCHeOFagcX1WknmPyGUy_oWqfR_Lf8/https://hulry.com/content/images/2024/06/notion-blank-milestones-database.png)
+![[notion-blank-milestones-database.png]]
 
 Similar to the Projects → Tasks relation, I chose to show the milestones relation on both the Projects and the Tasks database so that I could use this relation on those databases:
 
-![](https://proxy-prod.omnivore-image-cache.app/1430x692,s5sCdGlwIM1RhtuhMcyaLeeDalbppPOzc8DZxpM76gXs/https://hulry.com/content/images/2024/06/notion-show-milestones-on-tasks.png)
+![[notion-show-milestones-on-tasks.png]]
 
 With the basic setup done, I created a few milestones and linked them to a project and some tasks:
 
-![](https://proxy-prod.omnivore-image-cache.app/1570x698,spN2OQ4sf7yajzDLLtOlclkrmZK6qDiBYzLaMbdoOskc/https://hulry.com/content/images/2024/06/notion-milestones-linked-tasks-projects.png)
+![[notion-milestones-linked-tasks-projects.png]]
 
 Now, although I had an overall project progress setup, I wanted to go granular and see the progress of each milestone as I finished tasks in it.
 
 Using the same process as before, I added a Rollup property to the Milestones database and configured it to show the percentage of checked tasks in a progress bar style:
 
-![](https://proxy-prod.omnivore-image-cache.app/1570x834,sm0oqe2b433RaCET8fhCMXhjlBndV7nws3u0UdbKuv-8/https://hulry.com/content/images/2024/06/notion-milestones-progress-bar.png)
+![[notion-milestones-progress-bar.png]]
 
 The beauty of this setup is that now, each project progress reflects the progress of the entire project, across milestones, whereas each milestone reflects granular phase-wise progress:
 
-![](https://proxy-prod.omnivore-image-cache.app/1770x1222,sSlKszSggv4HBcQ_anEnczSZHVv0r6U1GRu6Roz2d0x8/https://hulry.com/content/images/2024/06/notion-projects-milestones-progress.png)
+![[notion-projects-milestones-progress.png]]
 
 The project is only done when all tasks across all milestones are finished.
 
@@ -378,7 +378,7 @@ With this last workflow setup, I had a fully functioning project tracker built u
 
 But before calling it a wrap, I wanted to add one more tiny visual indicator — the milestone in progress beside each project:
 
-![](https://proxy-prod.omnivore-image-cache.app/1560x364,sbaI_qtufG9y3vO8Ov6mhkb6IYxtRTpSwVHoeCIqiBfw/https://hulry.com/content/images/2024/06/notion-active-milestone-example.png)
+![[notion-active-milestone-example.png]]
 
 This wasn't a massively helpful feature, but it was a good quality-of-life improvement that would help me understand which phase of a project I'm currently working on.
 
@@ -388,13 +388,13 @@ To do this I added a:
 
 In the Projects database, I added a new property of type **Formula**:
 
-![](https://proxy-prod.omnivore-image-cache.app/1310x504,sHoqK6Lh9JnxcfhfQ3FjoVNv8T4YMpWKFDXSaeD6-6bY/https://hulry.com/content/images/2024/06/notion-new-formula-property.png)
+![[notion-new-formula-property.png]]
 
 Then, edited the property to run this formula:
 
 prop("Milestones").filter(current.prop("Progress") < 1).first() 
 
-![](https://proxy-prod.omnivore-image-cache.app/1686x668,sGK2Z0g8T0XvtvKp1rH-kFwFL6MiONwIzjzeq2dyrgkg/https://hulry.com/content/images/2024/06/notion-milestones-formula.png)
+![[notion-milestones-formula.png]]
 
 This is how the formula works:
 
@@ -406,7 +406,7 @@ Once we have a trimmed list of all pending Milestones, we limit the list to show
 
 If you've sorted your milestones according to order in the Milestones database, this formula will always show the next unfinished milestone:
 
-![](https://proxy-prod.omnivore-image-cache.app/1358x670,siAd3hK5UBW1_TflNynX0H9WVqmv2Uxj35CRDxN4b0Bo/https://hulry.com/content/images/2024/06/notion-sorted-next-milestone-active.png)
+![[notion-sorted-next-milestone-active.png]]
 
 With this final detail implemented, the project tracker was ready.
 
@@ -428,7 +428,7 @@ A small starting step could be changing the icons in your database properties to
 
 You can do this by clicking on a property name and choosing a new icon for the property like this:
 
-![](https://proxy-prod.omnivore-image-cache.app/1230x534,sjpzRp7mXx_I12RKamVw-VlsSXGE_qkpHpveYl38ANps/https://hulry.com/content/images/2024/06/notion-customise-property-icon.png)
+![[notion-customise-property-icon.png]]
 
 To serve as a ready-to-use project tracker, or a quick starter to building your custom project tracker, I've enhanced and polished this entire tracker into a Notion template that you can [buy for $2.99 and get started right away](https://store.hulry.com/l/jbugj?ref=hulry.com).
 
@@ -451,4 +451,3 @@ Join 3,889 others & continue your Workflow journey with more articles like this 
 * Apps
 * Books
 * Videos
-* Keyboard Shortcuts

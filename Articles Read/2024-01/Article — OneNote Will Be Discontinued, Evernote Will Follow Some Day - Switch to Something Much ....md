@@ -64,4 +64,3 @@ Trust me: you are not going to regret it. No product discontinue news may surpri
 
 Of course, there are other nice solutions out there but Org mode is what I have found for myself and [I am very picky](https://karl-voit.at/tags/pim).
 
-See also [this discussion on reddit](https://www.reddit.com/r/OneNote/comments/8dujsh/onenote%5F2016%5Fwill%5Fbe%5Fdiscontinued%5Fevernote%5Fwill/).

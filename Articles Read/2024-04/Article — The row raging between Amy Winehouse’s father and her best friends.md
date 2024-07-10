@@ -30,7 +30,7 @@ The chaos has continued more than a decade after her death. One posthumous chapt
 
 Mitch is driving the case against the two women. Last year he accused them both of selling valuable property — principally clothes and other collectables that, he says, belong to the Amy Winehouse Estate, which he administers. The fight is all the more toxic for the fact that Mitch, Catriona and Naomi were once close — all committed to Amy’s welfare at a time in her life when she was especially vulnerable. 
 
-![Amy with her father, Mitch, and mother, Janis, in 2008](https://proxy-prod.omnivore-image-cache.app/0x0,sUFOXqcJyQfhHhBeD21jO12Md_gZRc5VocBQmEwMCl0I/https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F6de740d0-7f50-4c6a-a4bb-cbf7772e9361.jpg?crop=2393%2C2107%2C0%2C154&resize=1533)
+![[51218f6762356a756e26b7088b88fe18.jpg]]
 
 Amy with her father, Mitch, and mother, Janis, in 2008
 
@@ -50,7 +50,7 @@ The women spent their days working or studying and hanging out at Amy’s flats 
 
 Naomi — who had her own problems and was in the throes of an abusive relationship — was invited by Amy to move into her first house in Jeffrey’s Place in Camden, which she had bought outright with the proceeds of her first album, _Frank,_ in 2005\. Naomi designed a number of Amy’s stage clothes, including the bamboo-motif dress she wore for what would be her final concert — a shambolic gig in Belgrade, Serbia, in June 2011, that Amy was too drunk to complete. Just over a month later she was dead. 
 
-![With Naomi Parry at the Brit awards in 2008](https://proxy-prod.omnivore-image-cache.app/0x0,saYy4ZJY6eYKXUISynwV8Agt0thASzSUMvRf4sP3shxo/https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F888f20ca-d901-4ba3-9dd8-391b07a42980.jpg?crop=716%2C959%2C0%2C0&resize=1533)![With Naomi Parry at the Brit awards in 2008](https://proxy-prod.omnivore-image-cache.app/0x0,s3XgaKKTbWUWRpFpMHITAxktsYLAhRK36LweJVTFddIQ/https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F888f20ca-d901-4ba3-9dd8-391b07a42980.jpg?crop=716%2C959%2C0%2C0&resize=400&quality=3)
+![[782e8cdd6a5b67ec8a7a2e4a68350ba6.jpg]]
 
 With Naomi Parry at the Brit awards in 2008
 
@@ -76,19 +76,19 @@ Naomi, meanwhile, says she was never the curator and that Mitch was well aware o
 
 Among the items sold at the first auction was the bamboo-motif dress Naomi had designed that Amy wore at that final concert in Belgrade. It sold for $243,200 (£193,000) — 16 times its original estimate, and more than any other item in the sale. A Moschino custom-made bag that Naomi says was given to her by Amy was bought by a collector for more than £150,000\. “We had no idea that these items were so valuable,” Naomi says. “And we were astonished and shocked when Mitch launched the legal action. We just didn’t believe it. Amy had given us all those items and they were ours to keep. She would not have minded us selling them at all. They were culturally relevant pieces and the responsibility of looking after them properly was beyond my ability. Museo de la Moda, which bought most of my collection, store their items in temperature-controlled rooms.”
 
-![The bamboo dress Amy wore at her last concert in Belgrade in 2011 sold for $243,200 at auction](https://proxy-prod.omnivore-image-cache.app/0x0,sLI8ZZPgDf_039iAhdmzAcdrvcSug9qWkHe_9TMnalUc/https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Ffe5a7bb4-c5de-49bb-89fd-4643b827002d.jpg?crop=1500%2C1000%2C0%2C0&resize=1533)![The bamboo dress Amy wore at her last concert in Belgrade in 2011 sold for $243,200 at auction](https://proxy-prod.omnivore-image-cache.app/0x0,sF3Y1gYxxtaGA3rwHyv-9Na8E17kr-qklRzU8l_WnROM/https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Ffe5a7bb4-c5de-49bb-89fd-4643b827002d.jpg?crop=1500%2C1000%2C0%2C0&resize=400&quality=3)
+![[56cc2de9b14d66350b77513f50ff4711.jpg]]
 
 The bamboo dress Amy wore at her last concert in Belgrade in 2011 sold for $243,200 at auction
 
 GETTY IMAGES
 
-![Other items included a heart-shaped Moschino bag](https://proxy-prod.omnivore-image-cache.app/0x0,sBulFG_1zWFpkyjMEqzT_nKHC_wjoD6dZoRuLu0O5XQs/https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F33aaff69-123d-47d1-ae60-ff8b68519ce6.jpg?crop=4800%2C3318%2C0%2C0&resize=1533)![Other items included a heart-shaped Moschino bag](https://proxy-prod.omnivore-image-cache.app/0x0,sYZ7BP6WLArvLzLIpUhfIQb1SP__JH32rPKf4BGmrMbk/https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F33aaff69-123d-47d1-ae60-ff8b68519ce6.jpg?crop=4800%2C3318%2C0%2C0&resize=400&quality=3)
+![[8a050bfc384cf8c8c8bb0ab09521ec7b.jpg]]
 
 Other items included a heart-shaped Moschino bag
 
 AFP
 
-![A leopard-print dress and street signs from Camden were also in the auction](https://proxy-prod.omnivore-image-cache.app/0x0,sSpzPJUk4sNwLncFpUMeXonbH3cQp9hO2Kpys1T4sFL8/https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F16eb0297-d745-4408-a9f1-ccc3a523e07a.jpg?crop=4992%2C3328%2C0%2C0&resize=1533)![A leopard-print dress and street signs from Camden were also in the auction](https://proxy-prod.omnivore-image-cache.app/0x0,sRCBAaKWYG0rShHL51XYNvbSVkMaDKgL-EeH5VGCwynI/https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F16eb0297-d745-4408-a9f1-ccc3a523e07a.jpg?crop=4992%2C3328%2C0%2C0&resize=400&quality=3)
+![[8d094c2a603a3261d9908b488a56a0d8.jpg]]
 
 A leopard-print dress and street signs from Camden were also in the auction
 
@@ -108,7 +108,7 @@ When she died her parents were left with £3 million after tax — largely the v
 
 “What she did has set her whole family up,” Mitch says. “But a large proportion is used to fund the Amy Winehouse Foundation. About £4 million so far has gone to the foundation and other charities.” 
 
-![Amy with her grandmother Cynthia in Cyprus, 1997](https://proxy-prod.omnivore-image-cache.app/0x0,sdbCH2Wmfgv7gOrzqcWGJvVGgIuymtHcF_mQWXoQyUu8/https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F1c170e8d-06cb-44d0-8918-1c6f4ad9c725.jpg?crop=5000%2C3333%2C0%2C0&resize=1533)![Amy with her grandmother Cynthia in Cyprus, 1997](https://proxy-prod.omnivore-image-cache.app/0x0,s4f5svuIn6cjQTxIWuNDYH97qDfsl5lcPCmtNn0I6_6E/https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F1c170e8d-06cb-44d0-8918-1c6f4ad9c725.jpg?crop=5000%2C3333%2C0%2C0&resize=400&quality=3)
+![[12d6799d2c835e707b56c4abd70920ed.jpg]]
 
 Amy with her grandmother Cynthia in Cyprus, 1997
 
@@ -136,7 +136,7 @@ The auctions were run by Julien’s Auctions, a respected business based in Beve
 
 She also needed the money. “Amy’s death took a heavy toll on me both personally and professionally, and I spent years trying to rebuild my career, living hand to mouth. Most of the items I sold were either my own designs, my own original possessions borrowed by Amy, or items gifted by brands through me that she had decided she didn’t want. This collection sat at my mum’s house for ten to fifteen years and I couldn’t afford to properly insure it or preserve it.”
 
-![](https://proxy-prod.omnivore-image-cache.app/0x0,sa4S7spC2y0qBD4aZlIkgQ4Wj2sUkCbs6YLdRA6IHKlk/https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F9a830061-91ac-4c4d-aec2-ede3f6f66a6d.jpg?crop=2929%2C3661%2C0%2C0&resize=1533)![](https://proxy-prod.omnivore-image-cache.app/0x0,sITpnUwFLTApMFe79F2e9TebWt_hDxUpBN4tgVaTd7Rc/https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F9a830061-91ac-4c4d-aec2-ede3f6f66a6d.jpg?crop=2929%2C3661%2C0%2C0&resize=400&quality=3)
+![[093c04baaf05b327e1a220a38774274b.jpg]]
 
 Did she consider giving some of the proceeds of the sale to charity, or to the Amy Winehouse Foundation? 
 
@@ -158,7 +158,7 @@ Hundreds of items were cleared out of Amy’s Camden house and kept in a lock-up
 
 The case may take years to unravel. 
 
-![The tombstone in Edgware, north London, where Amy and her grandmother are commemorated](https://proxy-prod.omnivore-image-cache.app/0x0,stXvVHD9wUQMeCUcqEKKYZeqcqC1Pnooq-CFYc7ddmC4/https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F7cc7d46c-d645-47b0-ae41-1f3719a853b3.jpg?crop=3797%2C2489%2C0%2C0&resize=1533)![The tombstone in Edgware, north London, where Amy and her grandmother are commemorated](https://proxy-prod.omnivore-image-cache.app/0x0,snGRHcmAzLs55pOg5o_bDY4YvLj02iLGlBwZXBOjWS8k/https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F7cc7d46c-d645-47b0-ae41-1f3719a853b3.jpg?crop=3797%2C2489%2C0%2C0&resize=400&quality=3)
+![[d882f43a56eff4e1a7ad4db03dd74b9b.jpg]]
 
 The tombstone in Edgware, north London, where Amy and her grandmother are commemorated
 
@@ -172,4 +172,3 @@ He says he went to the police about the case, only to be told that because he ha
 
  If his court action is successful, however, both women are likely to be made bankrupt. They have been crowdfunding their defence, but an unnamed backer has now come forward to assist them financially. 
 
-In Camden Square a makeshift shrine commemorating Amy is still visited by fans. Many of them also make the pilgrimage to the cemetery, where they can locate Amy’s headstone on a digital map on a screen. A couple of weeks ago I was there as another funeral was taking place. A young mother was speaking tremulously: “Nothing ever can prepare you for the death of your child.” It was a poignant moment, all the more so because the bereaved mother was speaking just a few yards away from Amy’s headstone. Whatever the outcome of this toxic battle between the Winehouses and Amy’s best friends, it’s important to remember that at its heart lies the tragedy of a prodigiously talented woman who died too young.

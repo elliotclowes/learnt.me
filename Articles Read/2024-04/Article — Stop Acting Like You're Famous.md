@@ -32,4 +32,3 @@ Blogging is fun and therapeutic. Grammar and editing aren’t. As long as your t
 
 The most egregious thing you can do with any activity is daydream about how you can make money off of it. That’s the quickest way to optimize for the wrong things and suck the fun right out of it. Most likely you will stop doing the activity almost immediately, so save the money-making schemes for work.
 
-In the end, find something you enjoy doing and just do it because you enjoy it. If you have to, make some goals for yourself, but never for your “audience”.

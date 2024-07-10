@@ -28,7 +28,7 @@ omnivore_url: https://omnivore.app/me/how-to-change-your-life-in-30-days-the-cur
 * This piece shares my favorite—very simple, very boring, and very effective—strategy for making dramatic progress in any arena: The 30-for-30 Approach.
 * With whatever you're trying to improve at, do it for 30 minutes per day for 30 straight days. It works because the 30 minutes is low intimidation, the 30 days is a meaningful commitment, and the 900 minutes of accumulated effort creates surprisingly significant results.
 
-![](https://proxy-prod.omnivore-image-cache.app/0x0,s6oxQ0pxFzxI0v_CL-QfW0QoyqtV46dqiiGAhhzRSJFI/https://assets-global.website-files.com/61a51f6d0f790c3d555d8ba4/65cb8d8a5e8798cfe5577044_3EdEhAGjQCgM37ZFQT76cn.jpeg)
+![[c870b2f6b9ecd1c3144953870c4245da.jpg]]
 
 Harsh Truth: Ideas are _cheap_, execution is _expensive_.
 
@@ -145,4 +145,3 @@ A free e-book with 50 timeless insights for simplifying your world and living we
 
 Thank you! Your submission has been received!
 
-Oops! Something went wrong while submitting the form.

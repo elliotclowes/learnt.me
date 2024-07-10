@@ -32,7 +32,7 @@ The IMD warned of the heat’s impact on health, especially for children, elderl
 
 India is no stranger to searing summer temperatures. Years of scientific research have found climate change is causing heatwaves to become longer, more frequent and more intense.
 
-![Boys sit beneath a makeshift canopy in Delhi.](https://proxy-prod.omnivore-image-cache.app/445x0,sV0hFmubjc_NKLHFEI1bODK4BUZlgLCq7zji1HtEZ_uc/https://i.guim.co.uk/img/media/07469c5009819d7fdf56b532ebd9884881d7b224/0_0_4994_3329/master/4994.jpg?width=445&dpr=1&s=none)
+![[3d1c736b5bef05a65e792bd8670dfa99.jpg]]
 
 Boys sit beneath a makeshift canopy in Delhi. Photograph: Arun Sankar/AFP/Getty Images
 
@@ -68,4 +68,3 @@ Indians who can afford to escape the baking cities have fled to cooler places in
 
 At the same time, West Bengal and the north-eastern state of Mizoram have been [struck by gales and lashing rains from Cyclone Remal](https://www.theguardian.com/world/article/2024/may/27/weather-tracker-cyclone-remal-lashes-coast-of-bangladesh-and-india), which hit India and Bangladesh on Sunday, killing more than 38 people.
 
-The Bangladesh Meteorological Department said the cyclone was “one of longest in the country’s history” and blamed climate change for the shift.

@@ -24,7 +24,7 @@ omnivore_url: https://omnivore.app/me/how-this-real-image-won-an-ai-photo-compet
 # Article text
 Nature still outdoes the machine, says a photographer whose real image won an AI photography competition
 
-![A single pink flamingo with head tucked standing on the sands of a beach](https://proxy-prod.omnivore-image-cache.app/0x0,sH2AWXdUewmmUUXFeosUMiCoK_aeAqT8oGo7FtpkzwUE/https://static.scientificamerican.com/dam/m/4bff442bb673012/original/F-L-A-M-I-N-G-O-N-E.jpg?w=600)
+![[a727c32057ff0849121601fea4f96ebd.jpg]]
 
 _F L A M I N G O N E,_ a real image by Miles Astray, won an artificial intelligence photography competition before it was disqualified.
 
@@ -116,4 +116,3 @@ Lee Billings
 
 When teachers and parents talk to kids about having ADHD, autism or learning disabilities, they set them up for success
 
-Jerome Schultz

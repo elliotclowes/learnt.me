@@ -22,7 +22,7 @@ omnivore_url: https://omnivore.app/me/are-caffeine-and-coffee-good-for-my-health
 **Note:** Below is the text from the article, with any ==highlights== done by me. None of the writing below is by me.
 
 # Article text
-![](https://proxy-prod.omnivore-image-cache.app/0x0,ssji484ryXmOa9DnhrEJfG74ksSgi0dWp2QB1ETuawGc/https://novoslabs.com/wp-content/themes/ageless/assets/img/close.svg)
+![[9f0fe0f9f136b603c97f9574d18f869e.jpg]]
 
 #### All Categories
 
@@ -60,7 +60,7 @@ Liver disease is a condition that affects the liver. It has been known for decad
 
 ## **What About Coffee?**
 
-![](https://proxy-prod.omnivore-image-cache.app/800x400,smxF7lN7eqSQqAVFjyoKMcf-f4JXQ4P7p8A3rrBh0DAg/https://i0.wp.com/novoslabs.com/wp-content/uploads/2023/02/Untitled-design.png?resize=800%2C400&ssl=1)
+![[c23184acbc73ea39fa142ee3d6cdfe79.jpg]]
 
 A recent study published in the New England Journal of Medicine shows that coffee consumption may be associated with a longer lifespan (van Dam et al., 2020). ==A large prospective cohort study followed more than 171,616 participants found that those who drank three or more cups of coffee per day had a lower risk of death from all causes (up to 30%), including heart disease, stroke, and cancer, than those who drank less coffee or no coffee (Liu et al., 2022).==
 
@@ -106,4 +106,3 @@ Track your pace of aging and learn about the impacts of lifestyle changes. Inclu
 
 ### Related Articles
 
-[ ![](https://proxy-prod.omnivore-image-cache.app/300x250,sw0KQsJ4IMqgbS_YSoVDeedfu5JUvrbX5zId2ehzUE1g/https://i0.wp.com/novoslabs.com/wp-content/uploads/2021/05/shutterstock_267105989_1575x1050.jpg?resize=300%2C250&ssl=1) ![](https://proxy-prod.omnivore-image-cache.app/90x100,sfxaFJRzFpOofVEwgDyRFcfZI_1RC7fy6Eexz9ZPAl6E/https://i0.wp.com/novoslabs.com/wp-content/uploads/2021/05/shutterstock_267105989_1575x1050.jpg?resize=90%2C100&ssl=1) ](https://novoslabs.com/what-causes-age-spots-and-how-to-remove-them/) [ ![](https://proxy-prod.omnivore-image-cache.app/300x250,sE2gMyf2LyuTFNq4l0z-jC4_EzIwcbse4D7dFzzY6On4/https://i0.wp.com/novoslabs.com/wp-content/uploads/2022/03/results-image.png?resize=300%2C250&ssl=1) ![](https://proxy-prod.omnivore-image-cache.app/90x100,sIVpzXLuCes9Ez0F9cC0HHI60IELy5MnIBMhSBEo8y4I/https://i0.wp.com/novoslabs.com/wp-content/uploads/2022/03/results-image.png?resize=90%2C100&ssl=1) ](https://novoslabs.com/is-novos-the-best-anti-aging-supplement/) [ ![Sun Exposure](https://proxy-prod.omnivore-image-cache.app/300x250,sUY0RcbuZ83isBOYh91kjVXxMvhodMEevk-WG1gkP-MQ/https://i0.wp.com/novoslabs.com/wp-content/uploads/2023/05/Sun_exposure.png?resize=300%2C250&ssl=1) ![Sun Exposure](https://proxy-prod.omnivore-image-cache.app/90x100,sGOg30PT7fsaOtDda2sccFdO549RF6IgDs8nwCNey0Xg/https://i0.wp.com/novoslabs.com/wp-content/uploads/2023/05/Sun_exposure.png?resize=90%2C100&ssl=1) ](https://novoslabs.com/sun-exposure-and-longevity/)

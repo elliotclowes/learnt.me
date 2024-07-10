@@ -50,7 +50,7 @@ Inside the boot, the cars have a computer, about the same size as the tower of a
 
 Reflecting on the company’s early days Suranga Chandratillake, a partner at Balderton Capital and one of Wayve’s first investors, said: “They were a smart team in a sleepy [university city](https://www.thetimes.co.uk/article/cambridge-helps-academics-take-punt-on-commercialising-research-355rztvfb), cracking a seemingly intractable problem with next to no money. It was a compelling, contrarian concept. Exactly what everyone in venture capital dreams of discovering”. 
 
-![Human error is a contributing factor in 88 per cent of road collisions with distractions such as mobile phones among the causes of accidents](https://proxy-prod.omnivore-image-cache.app/0x0,se1GeGZEfJYBdwCX2wSkwJYrUFDMv_mqH1-fjlQOGgRk/https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F7accc8eb-2a3a-42f0-9c5e-3165288ead4d.jpg?crop=5000%2C3333%2C0%2C0&resize=1180)
+![[58225bb90355571515f97a01146e660d.jpg]]
 
 Human error is a contributing factor in 88 per cent of road collisions with distractions such as mobile phones among the causes of accidents
 
@@ -94,7 +94,7 @@ Rishi Sunak, the prime minister, said: “I’m incredibly proud that the UK is 
 
 ## A surreal, blood-pressure rocketing experience — but great fun
 
-![Alex Kendall and Katie Prescott, who went for a ride in a Wayve car on the streets of London](https://proxy-prod.omnivore-image-cache.app/0x0,s8FKWclViqvghHK0lTj3SZ1lFsgBgm01bxBt4prl6lYM/https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fb4e67781-142d-4817-91bf-6c11c93c4651.jpg?crop=5000%2C3246%2C0%2C0&resize=1180)
+![[1177f9559251551552fb06c1feb319ca.jpg]]
 
 Alex Kendall and Katie Prescott, who went for a ride in a Wayve car on the streets of London
 
@@ -112,4 +112,3 @@ The car behaves in a strangely human-like way. It moves with confidence through 
 
 Then my stomach lurches a man stumbles off the electric bike he’s trying to rent, into the road ahead. I stamp my foot onto an invisible brake but our car nips round him with confidence. 
 
-The whole experience is surreal and great fun. Yes, this short journey of hazard spotting sent my blood pressure rocketing, but the car proved itself capable of staying safe — an improvement on many drivers you see on London roads, though I’m not sure how I’d feel without Darren’s poised hands.

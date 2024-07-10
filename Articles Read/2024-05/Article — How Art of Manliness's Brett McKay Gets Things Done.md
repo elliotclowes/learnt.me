@@ -30,7 +30,7 @@ _Brett McKay is the founder of the popular website, podcast, and retail experien
 
 _Brett started the Art of Manliness for fun in 2008 while attending the University of Tulsa College of Law as a side project. He and his wife Kate now run the company, which is the largest independent men’s interest magazine on the web, out of Tulsa. The McKays have two children, ages 9 and 6._
 
-![brett mckay](https://proxy-prod.omnivore-image-cache.app/175x175,sX2lz22Ukk_aqf_V50FvewPUvpXMvQvnMS4NWd2kGjII/https://res.cloudinary.com/imagist/image/fetch/q_auto,f_auto,c_scale,w_2624/https%3A%2F%2Ftdinspiration.wpengine.com%2Fwp-content%2Fuploads%2F2020%2F01%2Fbrett_mckay_headshot.png)
+![[https%3A%2F%2Ftdinspiration.wpengine.com%2Fwp-content%2Fuploads%2F2020%2F01%2Fbrett_mckay_headshot.png]]
 
 Brett McKay of Art of Manliness
 
@@ -44,7 +44,7 @@ This is the latest installment of our Productivity Profile series, where interes
 
 Every Sunday I set aside about 45 minutes to plan my week ahead. I begin my planning session with a mind dump. ==[I use a GTD Trigger List](https://gettingthingsdone.com/wp-content/uploads/2014/10/Mind%5FSweep%5FTrigger%5FList.pdf)== ==to help nudge my brain to think of all the things I need to do that week and use== ==[Todoist’s Quick Add](https://get.todoist.help/hc/en-us/articles/115001745265-Task-Quick-Add?utm%5Fsource=doist%5Fblog&utm%5Fmedium=referral&utm%5Fcampaign=productivity%5Fprofile%5FBrett%5FMcKay)== ==to capture all those tasks as they surface.==
 
-![incompletion trigger list GTD](https://proxy-prod.omnivore-image-cache.app/467x0,sPRC0qL_lIghpxI7NUYpIHXiMMp2TrOjqdU1yuyZQd_M/https://res.cloudinary.com/imagist/image/fetch/q_auto,f_auto,c_scale,w_2624/https%3A%2F%2Ftdinspiration.wpengine.com%2Fwp-content%2Fuploads%2F2020%2F01%2FIncompletion-Trigger-List_Brett-McKay.png)
+![[https%3A%2F%2Ftdinspiration.wpengine.com%2Fwp-content%2Fuploads%2F2020%2F01%2FIncompletion-Trigger-List_Brett-McKay.png]]
 
 Brett uses this GTD “Incompletion Trigger List” when thinking what he needs to do for the coming week
 
@@ -65,7 +65,7 @@ This weekly planning session lays the foundation for the rest of my week. Whenev
 3. **==Plan for good times:==** ==We plan what we’d like to do individually, as a couple, and as a family in the coming week for fun. We also use this time to plan upcoming vacations. Again, we use a shared project on Todoist to track all the tasks that need to be done to ensure the good times happen.==
 4. **==Big issues:==** ==We end by discussing any big issues in our relationship/family/life and make action plans to resolve them.==
 
-![Workspace of Brett McKay](https://proxy-prod.omnivore-image-cache.app/2736x1824,spKg5xbEcf0PntrJ28yVaoc5UavSlnR4dguZHPaPaFoI/https://res.cloudinary.com/imagist/image/fetch/q_auto,f_auto,c_scale,w_2624/https%3A%2F%2Ftdinspiration.wpengine.com%2Fwp-content%2Fuploads%2F2020%2F01%2FWorkspace_Brett-McKay_3.jpg)
+![[https%3A%2F%2Ftdinspiration.wpengine.com%2Fwp-content%2Fuploads%2F2020%2F01%2FWorkspace_Brett-McKay_3.jpg]]
 
 Brett's workspace
 
@@ -87,7 +87,7 @@ My wife and I work on Art of Manliness from about 8:00 am to 3 pm.
 
 At about 2:30 pm, I’ll check Todoist to see how my day went and do a tentative plan for the next day.
 
-![Brett Todoist inbox](https://proxy-prod.omnivore-image-cache.app/0x400,sd7FA1XfPoEHlJMZ_6i8cW-yWePsm2MXCWAZ3Wn80b44/https://res.cloudinary.com/imagist/image/fetch/q_auto,f_auto,c_scale,w_2624/https%3A%2F%2Ftdinspiration.wpengine.com%2Fwp-content%2Fuploads%2F2020%2F01%2FTodoist-inbox_Brett-McKay.png)
+![[https%3A%2F%2Ftdinspiration.wpengine.com%2Fwp-content%2Fuploads%2F2020%2F01%2FTodoist-inbox_Brett-McKay.png]]
 
 Brett’s Todoist Inbox on a random day
 
@@ -105,7 +105,7 @@ After the kids get to bed around 8:30 pm, my wife and I get in a second shift of
 
 Art of Manliness has one remote worker who lives in Denver. We rely heavily on [Todoist Business](https://todoist.com/business?utm%5Fsource=doist%5Fblog&utm%5Fmedium=referral&utm%5Fcampaign=productivity%5Fprofile%5FBrett%5FMcKay) to keep our little team on the same page about what we needs to be done. We have a team inbox and use shared projects to manage tasks.
 
-![Brett McKay Todoist team shared inbox](https://proxy-prod.omnivore-image-cache.app/0x400,s9KBB-mtPPMnPxuN4N8YyPk9MT2L26V0CkByPSevSNEg/https://res.cloudinary.com/imagist/image/fetch/q_auto,f_auto,c_scale,w_2624/https%3A%2F%2Ftdinspiration.wpengine.com%2Fwp-content%2Fuploads%2F2020%2F01%2FTodoist-Team-Inbox_Brett-McKay.png)
+![[https%3A%2F%2Ftdinspiration.wpengine.com%2Fwp-content%2Fuploads%2F2020%2F01%2FTodoist-Team-Inbox_Brett-McKay.png]]
 
 The shared team inbox for Art of Manliness
 
@@ -113,7 +113,7 @@ The shared team inbox for Art of Manliness
 
 We all have recurring tasks that we have to do on a monthly, weekly, and daily basis. Instead of having to remember what they are with each weekly planning session, I created a project called “ROUTINES” with three sub-projects labeled “Monthly,” “Weekly,” and “Daily.”
 
-![Brett McKay routines](https://proxy-prod.omnivore-image-cache.app/0x400,s8T2vuKyUReDRnZE3_Owny1M4WTFWcR8GI95n0stSXNs/https://res.cloudinary.com/imagist/image/fetch/q_auto,f_auto,c_scale,w_2624/https%3A%2F%2Ftdinspiration.wpengine.com%2Fwp-content%2Fuploads%2F2020%2F01%2FTodoist-Routines_Brett-McKay.png)
+![[https%3A%2F%2Ftdinspiration.wpengine.com%2Fwp-content%2Fuploads%2F2020%2F01%2FTodoist-Routines_Brett-McKay.png]]
 
 Brett’s weekly planning session in Todoist
 
@@ -127,4 +127,3 @@ Ever wished you could look over the shoulder of interesting and successful peopl
 
 Elaine Meyer
 
-[Elaine](https://www.elainermeyer.com/) is a writer, editor, and content strategist who is interested in tech, health, and the future of work.

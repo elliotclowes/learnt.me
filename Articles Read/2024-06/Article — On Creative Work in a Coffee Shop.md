@@ -30,7 +30,7 @@ Coffee shops are fascinating places where people meet for a good coffee, a great
 
 ![On Creative Work in a Coffee Shop](https://proxy-prod.omnivore-image-cache.app/0x0,sw20gMF2LaebTu38NEFihlNlxJR1WLUu6QFdNppZchEg/https://numericcitizen.me/content/images/size/w1200/2023/05/Mac-and-coffee.5acf570f7a85452190b033ca6406aeee.png) 
 
-![From-my-eyes-in-the-coffee-shop.jpeg](https://proxy-prod.omnivore-image-cache.app/0x0,sT8NQaA5t0oXOPLd86BFed8evcBienOmJawIHloCh4nA/https://numericcitizen.me/content/images/2023/05/From-my-eyes-in-the-coffee-shop.jpeg)
+![[f3a40cc57f9df1910bca81c517441d92.jpg]]
 
 A scene in a coffee shop near my home
 
@@ -40,7 +40,7 @@ I love spending time in a coffee shop with my iPad or MacBook Air. I usually go 
 
 > People may prefer to work in a coffee shop because of the ambient noise, which can help them focus, and the atmosphere, which can be more stimulating than a quiet or sterile workspace. Additionally, being around other people can provide a sense of community and motivation.
 
-![](https://proxy-prod.omnivore-image-cache.app/2000x1125,sHN51CFfoE7CZ5DQ_Jb64haihE2GIXobrLgI1UePUD4c/https://numericcitizen.me/content/images/2023/05/IMG_5246.jpeg)
+![[7d09eefb7b74e6e92f57521344939109.jpg]]
 
 The entrance of a famous coffee shop in Bueno Aires, January 2023
 
@@ -107,7 +107,7 @@ If you haven’t tried a coffee shop day as a way of getting your creative work 
 
 ```
 
-![](https://proxy-prod.omnivore-image-cache.app/2000x3556,s6JNV0gkD9IWjnNNfAZg7NBHSCKbVPAAhZDGIDVaMrPc/https://numericcitizen.me/content/images/2023/05/IMG_5224.jpeg)
+![[030cf55f435ebbbd15f189ba75befb57.jpg]]
 
 A scene from the Cafe Tortoni in Bueno Aires
 
@@ -128,10 +128,9 @@ According to some queries done to ChatGPT, here are three fun facts about coffee
 2. Third Place Phenomenon: Coffee shops often serve as a "third place" in people's lives, distinct from home (first place) and work (second place). They provide a welcoming and comfortable environment for socializing, studying, working, or taking breaks. Coffee shops have become popular spaces for individuals to meet, connect, and relax outside the usual confines of home or office.
 3. Latte Art: Many coffee shops have mastered the art of creating intricate designs in the foam of espresso-based drinks, known as latte art. Baristas skillfully pour steamed milk into espresso, creating patterns, shapes, or even portraits on the surface of the drink. Latte art adds an aesthetic and creative touch to the coffee experience, making each cup visually appealing and unique.
 
-![Screen Shot 2021-10-02 at 1.48.38 PM.png](https://proxy-prod.omnivore-image-cache.app/0x0,sqTJdNBsoElF_6hddtniQn8n21Wn-k4nf0Ya_nfm65ao/https://numericcitizen.me/content/images/2023/05/Screen-Shot-2021-10-02-at-1.48.38-PM.png)
+![[Screen-Shot-2021-10-02-at-1.48.38-PM.png]]
 
 An AirDrop window in Apple’s Mac Finder to see surrounding devices that can accept files over wireless.
 
 From my personal experience, I do enjoy creative work while in a coffee shop. Of course, my productivity level is highly variable, but it’s ok. Observing people around me, listening to the ambient noises, and having a great cappuccino is all it takes to be happy and enjoy a Saturday afternoon.
 
-## Read more

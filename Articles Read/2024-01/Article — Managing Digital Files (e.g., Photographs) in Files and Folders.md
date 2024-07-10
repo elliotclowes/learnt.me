@@ -494,4 +494,3 @@ Here are some external sources that somehow link back to this page:
    * [Video recording of the talk](https://media.ccc.de/v/GLT18%5F-%5F321%5F-%5Fen%5F-%5Fg%5Fap147%5F004%5F-%5F201804281550%5F-%5Fthe%5Fadvantages%5Fof%5Ffile%5Fname%5Fconventions%5Fand%5Ftagging%5F-%5Fkarl%5Fvoit)
 * 2020-01: [LinuxUser 03.2020](https://www.linux-community.de/magazine/linuxuser/2020/03/): I wrote a German article on my method:  
    * [Semantisches Tagging erleichtert das Dateimanagement: Am Namen sollt Ihr sie erkennen](https://www.linux-community.de/ausgaben/linuxuser/2020/03/am-namen-sollt-ihr-sie-erkennen/)
-* 2020-06: [Linux Magazine Issue 236 (July 2020)](https://www.linux-magazine.com/Issues/2020/236) features [an English translation of the German article above](https://www.linux-magazine.com/Issues/2020/236/Semantic-File-Organization). It's the main headline on the title page of the magazine.

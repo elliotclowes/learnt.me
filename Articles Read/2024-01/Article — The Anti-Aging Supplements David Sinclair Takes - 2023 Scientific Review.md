@@ -70,7 +70,7 @@ Learn more about the differences between NMN and NR [here](https://novoslabs.com
 
 Dr. Sinclair declares that he takes “NMN every morning” in his book, Lifespan.
 
-[![](https://proxy-prod.omnivore-image-cache.app/728x90,s3fJApVI7uLivW3ga9d2236-EJ8BayHjfcnrirCKLzaY/https://i0.wp.com/novoslabs.com/wp-content/uploads/2022/01/15.png?resize=728%2C90&ssl=1)](https://novoslabs.com/product/novos-boost?utm%5Fmedium=referral&utm%5Fsource=novoslabs.com&utm%5Fcampaign=blog)
+![[af60effeac43ae84ddb3f3301344c661.jpg]]
 
 ###   
 2\. Resveratrol, 1 g per day, in the morning
@@ -219,7 +219,7 @@ Also, coenzyme Q10 is an antioxidant. In recent years, scientists have learned t
 
 Dr. Sinclair stated in a [2020 tweet](https://twitter.com/davidasinclair/status/1222406587953766400) that he takes CoQ10 every night, but doesn’t specify dosage.
 
-![](https://proxy-prod.omnivore-image-cache.app/532x184,svSGKy1zxEBxvLoUeWWtQIXxsREL9JCzIJqOIlOtvZp4/https://i0.wp.com/novoslabs.com/wp-content/uploads/2023/11/image.png?resize=1024%2C354&ssl=1)
+![[12851f17248633cd7931e53e4c0572b3.jpg]]
 
 ### 10\. Spermidine, 1 mg per day, in the morning
 
@@ -279,7 +279,7 @@ One can also drink green tea when taking NMN. Green tea contains EGCG, which inh
 
 We wrote more about methylation and NMN [here](https://novoslabs.com/frequently-asked-questions/nmn-nicotinamide-mononucleotide/can-you-take-nmn-if-you-have-a-mthfr-mutation-or-suffer-from-reduced-methylation/).
 
-[![](https://proxy-prod.omnivore-image-cache.app/728x90,s3fJApVI7uLivW3ga9d2236-EJ8BayHjfcnrirCKLzaY/https://i0.wp.com/novoslabs.com/wp-content/uploads/2022/01/15.png?resize=728%2C90&ssl=1)](https://novoslabs.com/product/novos-boost?utm%5Fmedium=referral&utm%5Fsource=novoslabs.com&utm%5Fcampaign=blog)
+![[af60effeac43ae84ddb3f3301344c661.jpg]]
 
 ## Other Lifestyle Practices David Sinclair Follows To Live Longer  
 
@@ -332,7 +332,7 @@ In this regard, we make the distinction between **longevity supplements** and **
 
 [Formulated by world renowned longevity scientists at Harvard Medical School, MIT & the Salk Institute](http://novoslabs.com/product/novos-core?utm%5Fmedium=referral&utm%5Fsource=novoslabs.com&utm%5Fcampaign=blog)
 
-[![](https://proxy-prod.omnivore-image-cache.app/871x581,sY_NngZe3x2f64wdj2LIboFXHSZVr-AXtZK2h_Tj075w/https://i0.wp.com/novoslabs.com/wp-content/uploads/2022/03/CREATIVE_SHOT_04_CARE-BOOST-BOX-BOOTLE_0086-v02.jpg?resize=1024%2C683&ssl=1)](https://novoslabs.com/product/novos-core?utm%5Fmedium=referral&utm%5Fsource=novoslabs.com&utm%5Fcampaign=blog)
+![[461ffc03f3b1cb32bc1b9004e580594c.jpg]]
 
 ## **More about David Sinclair**
 
@@ -344,4 +344,3 @@ In this regard, we make the distinction between **longevity supplements** and **
 
 David Sinclair’s Harvard Medical School [laboratory](https://sinclair.hms.harvard.edu/)
 
-Watch David Sinclair’s Google Talk:

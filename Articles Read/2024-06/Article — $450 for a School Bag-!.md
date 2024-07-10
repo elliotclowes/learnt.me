@@ -48,7 +48,7 @@ The school recognized that education was the great leveler and that students fro
 
 Japanese students, for the longest time, took their books to school in a _furoshiki_. A _furoshiki_ is a … versatile, rectangular piece of cloth. There simply wasn’t a concept of a school bag.
 
-![](https://proxy-prod.omnivore-image-cache.app/2000x1333,sC4yMxIIaW14jIGPH1Ko5PWhtFttDy8CdM9TCa_Yqjzo/https://one-from-nippon.ghost.io/content/images/2024/01/5892619045_3c48cd0f03_k.jpg)
+![[5892619045_3c48cd0f03_k.jpg]]
 
 Furoshiki – Simple but elegant. __Source:_ [__weekend knitter_](https://flic.kr/p/9YHdm6?ref=one-from-nippon.ghost.io)
 
@@ -76,7 +76,7 @@ Japanese even has a word for it: “_ran-katsu”_ (ラン活): _ran-_ for _rand
 
 ==The general advice is to start== _==ran-katsu==_ ==at least 18 months ahead of school.==
 
-![](https://proxy-prod.omnivore-image-cache.app/1600x1200,sXkRPUF_DBTgIgQsJkddxTbpe4r7REiY4m7U96wwEXN8/https://one-from-nippon.ghost.io/content/images/2024/01/Schoolkids_wearing_hats_and_randoseru_in_Kugayama-_Japan-_January_2010.jpg)
+![[Schoolkids_wearing_hats_and_randoseru_in_Kugayama-_Japan-_January_2010.jpg]]
 
 Children carrying their __randoseru_ to school in Tokyo __Source:_ [__Wikimedia_](https://commons.wikimedia.org/wiki/File:Schoolkids%5Fwearing%5Fhats%5Fand%5Frandoseru%5Fin%5FKugayama,%5FJapan;%5FJanuary%5F2010.jpg?ref=one-from-nippon.ghost.io)
 
@@ -130,4 +130,3 @@ We hope you enjoyed this article! If you haven't already, we would love it if yo
 
 ---
 
----

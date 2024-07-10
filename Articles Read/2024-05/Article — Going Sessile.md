@@ -63,4 +63,3 @@ omnivore_url: https://omnivore.app/me/going-sessile-18faed32864
 
 			</div><div data-omnivore-anchor-idx="16"><p data-omnivore-anchor-idx="17"> <strong data-omnivore-anchor-idx="18">About Venkatesh Rao</strong></p><p data-omnivore-anchor-idx="19">Venkat is the founder and editor-in-chief of ribbonfarm. Follow him <a data-omnivore-anchor-idx="20" href="http://twitter.com/vgr">on Twitter</a></p>
 </div>	<!-- #respond -->
-	</div></DIV></DIV>

@@ -181,4 +181,3 @@ And so today, the last day of this incredible, experientially-opulent year, I’
 
 This year: Thanks again to everyone who bought a copy of the fine art edition of [_Things Become Other Things_](https://shop.specialprojects.jp/products/things-become-other-things-1st-ed/). Thanks to folks who have joined [SPECIAL PROJECTS](https://craigmod.com/membership). And thanks to you all, subscribers to my newsletters. Wishing you a new year full of _good_ bacteria — great bacteria, symbiotic bacteria — exceptional projects, peace, big walks, gusty creative work, and hopefully some optimism in the face of so much of the stupidity of these lingering wars, the human instinct to be selfish, capricious, scarcity-bound. There is a whole lot of goodness out there, you must believe — flourishing, generative and elevating, thriving when the right systems are in place.
 
-C

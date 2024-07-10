@@ -36,7 +36,7 @@ First, I read a few old interviews with the founders of a company, and news stor
 
 For example, I’m working on a case study for Morning Brew. After just four short articles, I find myself with something like this👇
 
-![](https://proxy-prod.omnivore-image-cache.app/629x692,sYSJrk-AaNs-phjBWPDRCOuZg61ja0x8PjlY3TuW9f-8/https://i0.wp.com/thewritetoroam.com/wp-content/uploads/2024/02/Screenshot-2024-02-01-at-12.42.21-PM.png?resize=629%2C693&ssl=1)
+![[9bbbae353c8c0011c5b31a8346a0c0a5.jpg]]
 
 Ugly, right? This doesn’t have to be pretty
 
@@ -48,7 +48,7 @@ Right away, you can see there were a few fascinating turning points in the compa
 
 Why? How? Most important, who were the people that actually did the work to make this happen, and what have they shared about it? That’s where my mind goes.
 
-![](https://proxy-prod.omnivore-image-cache.app/629x692,s6n5c8ufnNju92T_VTpgNsr7rRFLBc3vZIpGly-0TmDw/https://i0.wp.com/thewritetoroam.com/wp-content/uploads/2024/02/Screenshot-2024-02-01-at-12.42.21-PM-2.png?resize=629%2C693&ssl=1)
+![[7c789b36d203ff127357b3db799f8525.jpg]]
 
 I’ve got a process for finding these “keystone employees“, but it’s a bit involved. So to keep this short, I’m going to cut straight to the chase.
 
@@ -86,7 +86,7 @@ _\*_[_Michael Schwartz_](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1Ni
 
 **Big Takeaway:** Lightning doesn’t strike twice. Rather than strictly copying the Brew’s referral program, you should try to learn from their hiring strategy. Early on, find someone who’s scrappy, independent, can try a lot, and will find/build the thing that becomes your uniquely effective growth lever.
 
-![](https://proxy-prod.omnivore-image-cache.app/629x393,sXUHDZVuZJB7xdQC9TuZMYPpL337U5l1BgiE09yNiv10/https://i0.wp.com/thewritetoroam.com/wp-content/uploads/2024/02/Screenshot-2024-02-02-at-12.03.31-AM-2.png?resize=629%2C393&ssl=1)
+![[7af5c75921f2e3ea98677681549c11f2.jpg]]
 
 ### 2\. Content
 
@@ -128,7 +128,7 @@ He also appeared on several industry podcasts, including…
 
 **Big Takeaway:** Experience pays. Before the Brew, Schulweis had led teams at Yahoo, Thrillist, Live Nation, and Media Link. He was able to see the structural problems holding the initial team back, and fix them quickly. If growth and content benefitted from having young, scrappy go-getters, revenue seems like the corollary – pay to bring in someone who’s been there.
 
-![](https://proxy-prod.omnivore-image-cache.app/629x391,snqNqZxb9Hh3G-N41kf6QIfRkYs_eAytkbMjXCD8Aqxo/https://i0.wp.com/thewritetoroam.com/wp-content/uploads/2024/02/Screenshot-2024-02-02-at-12.14.42-AM.png?resize=629%2C391&ssl=1)
+![[c4bdfb78ef171941ba0d05b5940b3581.jpg]]
 
 ### 4\. Staffing
 
@@ -155,4 +155,3 @@ Scaling a newsletter is about more than tactics. It’s about the people _behind
 
 The founders, yes. But increasingly as it grows, the people lower down who are closer to the work.
 
-Find those people, talk to them or learn from their work, and you end up with a much higher-fidelity understanding of what you’re going to encounter, and how to deal with it.

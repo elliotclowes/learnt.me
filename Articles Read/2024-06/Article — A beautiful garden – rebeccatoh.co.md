@@ -47,4 +47,3 @@ So get friendly with your monsters. Acknowledge them and find out why they are t
 
 Your garden awaits.
 
-## Post navigation

@@ -1,0 +1,2 @@
+- 98.4% of [[Meta]]’s revenue comes from advertising.
+- > “In 2022, Meta took in roughly $117 billion in revenue, and it collects about $220 per user per year in the US and Canada by selling ads, according to analyst estimates compiled by Bloomberg.”

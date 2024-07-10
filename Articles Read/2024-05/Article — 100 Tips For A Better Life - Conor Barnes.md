@@ -29,7 +29,7 @@ The other day I made an advice thread based on [Putanumonit's](https://www.lessw
 
 **Possessions**
 
-1\. If you want to find out about people’s opinions on a product, google _\\reddit_. You’ll get real people arguing, as compared to the SEO’d Google results.
+1\. If you want to find out about people’s opinions on a product, google _\reddit_. You’ll get real people arguing, as compared to the SEO’d Google results.
 
 2\. Some banks charge you $20 a month for an account, others charge you 0\. If you’re with one of the former, have a good explanation for what those $20 are buying.
 
@@ -256,4 +256,3 @@ DO NOT TALK TO COPS.
 
 [99.](https://psycnet.apa.org/record/2019-43492-001) There’s some evidence that introverts and extroverts both benefit from being pushed to be more extroverted. Consider this the next time you aren’t sure if you feel like going out.
 
-100\. Bad things happen dramatically (a pandemic). Good things happen gradually (malaria deaths dropping annually) and don’t feel like ‘news’. Endeavour to keep track of the good things to avoid an inaccurate and dismal view of the world.

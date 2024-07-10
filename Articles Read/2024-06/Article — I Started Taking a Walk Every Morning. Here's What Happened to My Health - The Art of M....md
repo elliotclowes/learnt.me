@@ -22,7 +22,7 @@ omnivore_url: https://omnivore.app/me/i-started-taking-a-walk-every-morning-here
 **Note:** Below is the text from the article, with any ==highlights== done by me. None of the writing below is by me.
 
 # Article text
-![](https://proxy-prod.omnivore-image-cache.app/667x500,sqscau6UdCh_ar1KGHBruH3U012k1PIYlp4MlPwr1D-g/https://content.artofmanliness.com/uploads/2024/06/walk-blur-3-2.jpg)
+![[walk-blur-3-2.jpg]]
 
 Since March, I’ve been waking up earlier.
 
@@ -100,4 +100,3 @@ If you haven’t started a regular exercise routine because you feel like you do
 
 Don’t have time or aren’t ready for two miles? Then just do a mile. Something is always better than nothing.
 
-Think you’ll be bored? Listen to a podcast ([might I suggest AoM’s?](https://www.artofmanliness.com/podcast/)). Improve your mind as you gently but significantly improve your body.

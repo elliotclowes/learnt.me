@@ -1,0 +1,4708 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="teenage engineering" />
+  <meta name="twitter:card" content="summary_large_image">
+
+        <meta id="metaDesc" name="description" content="news, events and product releases">
+        <meta id="ogDesc" name="og:description" content="news, events and product releases">
+        <meta property="og:title" content="teenage engineering now" id="ogTitle">
+        <meta property="og:image" content="https://teenage.engineering/_img/60d4523cae0c4e0004ea0fbe_1024.png" id="ogImage">
+        <meta name="keywords" content="meta keywords" id="metaKey">
+
+  <meta charset="utf-8">
+  <meta name="google" content="notranslate" >
+  <meta name="viewport" content="width=device-width, user-scalable=yes, maximum-scale=4.0">
+
+  <title id="title">now</title>
+  <style type="text/css">
+
+    /* This CSS resource incorporates links to font software which is the valuable copyrighted property of Monotype Imaging and/or its suppliers. You may not attempt to copy, install, redistribute, convert, modify or reverse engineer this font software. Please contact Monotype Imaging with any questions regarding Web Fonts:  http://webfonts.fonts.com */
+    @font-face{font-family:"Univers Next W02 Light";src:url("/fonts/875712e3-9c93-4f0b-a46a-a278e69a71f6.woff") format("woff");}
+    @font-face{font-family:"UniversNW01-23 0BThin";src:url("/fonts/a1c4330f-ba73-4f1f-aa05-bd237c58ba51.woff") format("woff");}
+     body{color:#0f0e12;background-color:#e5e5e5;} 
+  </style>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NP82V7');</script>
+</head>
+<body id="config" data-release="29492c2c-b631-4c04-998b-1277d7ef204c" data-contentserver="">
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-BJE1ZP05H0');
+</script>
+<noscript id="fallback">
+<table><tr><td valign="top"><h1><a href="/">teenage engineering</a></h1></td><td valign="top"><ul><li><a href="/products">products</a></li><ul><li><a href="/products/od-11">wireless audio</a></li><li><a href="/products/synthesizers">synthesizers</a></li></ul></ul></td><td valign="top"><ul><li><a href="/store">store</a></li></ul></td><td valign="top"><ul><li><a href="/now">now</a></li><ul><li><a href="/now">projects</a></li><li><a href="/now/social">social</a></li></ul></ul></td><td valign="top"><ul><li><a href="/guides">guides</a></li><ul><li><a href="/contact">support</a></li><li><a href="/downloads/osupdates">downloads</a></li><li><a href="/contact">contact</a></li><li><a href="/press">press</a></li></ul></ul></td></tr></table>
+
+
+
+
+
+
+<p>
+<h3><a href="/now">behind the scenes: </a></h3>
+<h3>TP–7</h3>
+</p>
+
+
+
+
+<p>
+<small>JUNE 5, 2024</small><br/>
+</p>
+
+
+
+<img src="/_img/66585410da9be9e2b8cf0814_512.webp" width="512"/><br/>
+
+
+
+
+<p>
+we released TP–7 in may 2023, but the seed for the project actually started all the way back in 2018. in fact, TP–7 decided the physical form that the rest of the field series would take, even influencing the features on OB–4. to understand how it all came together, we spoke to some of the people who helped bring the TP–7 field recorder to life during various stages of its development.<br/>
+guffe is head of mechanical engineering, involved in almost anything to do with mechanics here, tomas is the electrical engineer who has been responsible for the electronics and software on TP–7 from the very beginning, and marcus is the product owner overseeing the final stages of product development.<br/>
+</p>
+
+
+
+
+<img src="/_img/66585410da9be9e2b8cf0808_512.webp" width="512"/><br/>
+
+
+
+
+
+
+<p>
+what was the original idea behind TP–7?<br/>
+guffe: jesper had sketched a modular audio/studio system with numerous fantastic designs, which were quite different in style from what eventually became the final product, but definitely laid the foundation for what the field system would become. at some point, jesper and i, along with others at teenage engineering, discussed the idea of creating a new/modern nagra – a world-class portable audio recorder in terms of both sound quality and design.<br/>
+we began evaluating various form factors that felt magical, like a snus box, cigarette pack, soda can, etc. i built an mdf model based on one of jesper's sketches, and it is almost identical to the final design. over the years, the project went through many iterations internally, although the external design remained consistent throughout.<br/>
+tomas: i started working on the first revision of the electronics for TP–7 back in april 2018. having recently worked on the raven r for baidu, we wanted to take the things we learned about motor control and bring it to a recording device. a lot of effort went into getting a responsive and intuitive feel using the reel. <br/>
+one of the intentions going in was that you had to be able to scratch on it. we started on TP–7 before deciding to motorize OB–4, so the only reason we could [make the OB–4 motorized wheel function] was due to the work we did on the TP–7 motor.<br/>
+</p>
+
+
+
+
+<img src="/_img/66585410da9be9e2b8cf0803_512.webp" width="512"/><br/>
+
+
+
+
+
+
+<p>
+what were some of the hurdles you had to overcome when bridging the design with functionality?<br/>
+guffe: creating a small premium product packed with mechanics, electronics, antennas, and more is always a demanding and time-consuming task. we have also worked hard to ensure repairability and ease of assembly, which significantly increases the complexity during the development stage.<br/>
+it is important to note that this is not a high-volume product, so we have constantly had to invent new ways to solve problems. in contrast to a product sold in millions, where new manufacturing methods and machines can be developed to address issues, our approach had to be more innovative and resourceful.<br/>
+for this particular product, i would say the biggest challenges have been the antenna (in-molded) and the three different plastics that are molded into the metal before it is cnc milled and surface treated. <br/>
+</p>
+
+
+
+
+<img src="/_img/66585411da9be9e2b8cf0830_512.webp" width="512"/><br/>
+
+
+
+
+
+
+<p>
+tomas: initially the idea was to use the same battery as OP–Z and an sd-card for storage, which required a stack of 7(!) different pcbs to fit everything in the correct position. but the battery life would have been too short, sd card performance too unpredictable and the antenna wasn't working well enough. so we eventually redesigned the electronics to what it looks like today, which also made it much easier to fit everything we wanted.<br/>
+marcus: it’s also a challenge to make an intuitive user interface based on the tiny display and limited amount of buttons. with this product, we also tried to reach a broader crowd than usual which was its own challenge.<br/>
+being a multi-track high resolution audio device, there were some tough demands on the system to handle a lot of data in realtime. then of course the spinning wheel with its motor and sensors adds a huge amount of complexity for all teams, requiring many hours of work to get the desired function.<br/>
+guffe: to my knowledge, no one else has done what we have achieved!<br/>
+</p>
+
+
+
+
+
+
+<a href="/products/tp-7"><img src="/_img/66588a3cda9be9e2b8cf581b_512.webp" width="512"/></a><br/>
+
+
+
+
+<p>
+TP–7<br/>
+</p>
+
+
+<p>
+$$$<br/>
+</p>
+
+
+
+
+
+
+
+
+
+
+<p>
+<h3><a href="/now">B–1 and the first</a></h3>
+<h3><a href="/now">generative feature film.</a></h3>
+</p>
+
+
+
+
+<p>
+<small>MAY 31, 2024</small><br/>
+</p>
+
+
+
+<img src="/_img/6659e1d1eeddd1183ffc80b7_512.webp" width="512"/><br/>
+
+
+
+
+<p>
+how do you make a documentary about a prolific artist who has been working for over five decades, across multiple mediums, and holds an archive of over 500 hours of footage? director gary hustwit may have the answer.<br/>
+</p>
+
+
+
+
+<img src="/_img/6659c284eeddd1183ffc5ed1_512.webp" width="512"/><br/>
+
+
+
+<p>
+<small>GARY HUSTWIT AT A LIVE SCREENING OF ‘ENO’.</small><br/>
+</p>
+
+
+
+
+<p>
+'eno' is the first documentary about the pioneering artist brian eno, and the first generative feature film. the narrative is structured at the whim of 'brain one', the proprietary generative software created by hustwit and digital artist, brendan dawes. using an algorithm trained on footage from eno's extensive archive and hustwit's interviews with eno, it pieces together a film that is unique at each viewing. as the order of scenes perpetually changes and what’s included is never certain, the version you see is the only time that iteration will exist.<br/>
+"in some ways, the film is kind of like exploring the insides of his brain… it's different memories and ideas and experiences over the 50-year<br/>
+plus time frame."<br/>
+</p>
+
+
+
+
+<img src="/_img/6659c284eeddd1183ffc5ec7_512.webp" width="512"/><br/>
+
+
+
+<p>
+<small>DIGITAL ARTIST BRENDAN DAWES AND HUSTWIT GENERATING THE FILM LIVE.</small><br/>
+</p>
+
+
+
+
+<p>
+according to hustwit, brian eno had no interest in making a biographical documentary "because they were always one person's version of another person's story. and he didn't wanna be anyone else's story."<br/>
+"i started working with brendan dawes, the programmer and digital artist, and we built a demo version of the initial software using a lot of the footage, music and material from ‘rams’ (hustwit's previous film, scored by eno). <br/>
+i went back and i showed it to brian, maybe six months later, and he was just blown away by it. he just said, 'this is something that i've wanted to do for so long.' he obviously uses generative technology in his music and in his visual art, but he hadn't done anything with video, and this is sort of a combination of a generative art project and a traditional documentary."<br/>
+how the software works is a combination of mapping the footage and coding a sense of narrative structure, "looking at scenes and different types of footage and using a taxonomy of what it's doing or representing. it's not just metadata, it's emotional data. and then you have to look at what makes an engaging film: there's a rhythm in the types of scenes and the connections between them, and there's a feeling of progression as you're watching the film."<br/>
+</p>
+
+
+
+
+<img src="/_img/6659c284eeddd1183ffc5ed8_512.webp" width="512"/><br/>
+
+
+
+<p>
+<small>'ENO' AND B–1 HAVING ITS LONDON PREMIERE AT THE BARBICAN.</small><br/>
+</p>
+
+
+
+
+<p>
+given the current discussions around ai and its impact on artistry and authorship, creating a film reliant on the technology is a controversial but inevitable move. however, the software that hustwit and dawes have built may just hit the sweet spot where human meets machine; where the algorithm works to respect the material and facilitate an artistic vision.<br/>
+"i always say it's artist's intelligence, it's not artificial intelligence. because we've programmed the system, it's not like we trained it on other people's films or something. we programmed it with our intelligence to do a very specific thing, which is to make this film but make it different, make it work from an editorial standpoint regardless of what individual footage and scenes get put in.<br/>
+"he had 500 hours of footage in his archive that we got access to. you can't even get 1% of that into a normal film. so this approach was a way that we could dip into a lot of that material, or at least have it be in the mix somewhere… it's very good for dealing with huge amounts of information."<br/>
+</p>
+
+
+
+
+<img src="/_img/6659c284eeddd1183ffc5ecc_512.webp" width="512"/><br/>
+
+
+
+<p>
+<small>B–1 TAPE REELS AND CONTROLS GENERATING THE FILM FOR A LIVE SCREENING.</small><br/>
+</p>
+
+
+
+
+<p>
+to accompany this one-of-a-kind viewing experience, we designed a hardware version of 'brain one'. B–1 is a deck with two spinning reels and controls: play, rewind, rec and generate; the latter being used to generate the sequences of the film, which can be seen on the screen in real time.<br/>
+"people just freak out when they see it, everyone wants to know what it's doing, everyone wants to press the buttons, everybody wants to rock the reels.<br/>
+"[B–1] is now this embodiment of the idea of a generative film. because there's never been a generative feature film before. there's never been a generative feature filmmaking machine before. so i think that both i and brendan, and everybody that we worked with at teenage engineering, just like those kinds of challenges."<br/>
+you can see B–1 in action at a selection of the <a href="https://www.hustwit.com/events">'eno' live screening events</a><br/>
+ this year, each audience viewing a one-off version of the film. "there's something kind of special about that. and i also think it's really important to get people back into theaters. this is a way to help that happen, to create a unique communal experience."<br/>
+<br/>
+</p>
+
+
+
+
+
+
+
+
+
+
+<p>
+<h3><a href="/now">listening to plants with modern biology</a></h3>
+</p>
+
+
+
+
+<p>
+<small>MAY 23, 2024</small><br/>
+</p>
+
+
+
+<img src="/_img/664c7bece443e6f0c23b80d0_512.webp" width="512"/><br/>
+
+
+
+
+<p>
+modern biology, aka tarun nayar, plugs into mushrooms and he wants us to listen. by sending a small electric current through mushrooms and plants (anything with a bioelectric pulse) he creates ambient soundscapes conducted by nature, inviting us to join him in paying attention to the life that is pulsing all around us.<br/>
+</p>
+
+
+
+
+<img src="/_img/664c7c1ae443e6f0c23b80e4_512.webp" width="512"/><br/>
+
+
+
+<p>
+<small>TARUN NAYAR, AKA MODERN BIOLOGY (PHOTO BY JOHANNA ROBERTSON)</small><br/>
+</p>
+
+
+
+
+<p>
+"this approach grew out of 'the secret life of plants', a seminal book from 1973. the first chapter focused on this guy called cleve backster, who was at the time the cia's top lie detector expert. he got to doing these crazy experiments with plants, where he basically was using lie detectors on plants to see if they could tell whether he was telling the truth or not. in a lie detector, you have this little sensor which basically allows your thumb to connect a circuit, and as you get nervous, as you lie, you get sweaty and the connectivity increases. so with the plants, all you're doing is placing the electrodes, with a tiny current running between them, and as that current jumps up and down due to natural bioelectric processes in the plant or the mushroom, that's when the notes go up and down."<br/>
+nayar uses a device which converts these impedance changes into control voltage and gate signals that can be used as a generative source on a modular synthesizer. he then riffs off this randomized composition, running the notes through his synthesizers of choice, often an OP–1, adding effects to create ambient soundscapes.<br/>
+</p>
+
+
+
+
+
+
+
+
+<p>
+<small>WATCH AND LISTEN TO MODERN BIOLOGY CREATE MUSHROOM MUSIC WITH OP–1.</small><br/>
+</p>
+
+
+
+
+
+<p>
+"[the sensor device] is something that you can build for 25 bucks. i'm using a 'scíon' at the moment, from a scottish synth company. i've been drawn to the way that these scottish guys have done it, i think it's the most elegant and musical interpretation, but you can build your own [sensor] with an arduino or a raspberry pi."<br/>
+nayar is just one in a field of like minded artists who have turned their attention to the natural world as a source of direct inspiration – the seed of which is often attributed to the demanhur foundation with the release of the record "music of the plants" in the 1970s. <br/>
+</p>
+
+
+
+
+<img src="/_img/664f2dfa8d52784a83223e3f_512.webp" width="512"/><br/>
+
+
+
+<p>
+<small>A MODERN BIOLOGY FIELD TRIP FEATURING OP–1 FIELD </small><br/>
+</p>
+
+
+
+
+<p>
+growing up playing indian classical music, nayar focussed on the tabla (wooden hand drums), which he played in the band 'delhi 2 dublin', before adding synths to the lineup. "i'd always been fascinated with synthesizers because they were like the easiest way to create harmony and melody for somebody who didn't play a melodic instrument."<br/>
+"i was up on this little island north of [my home in] vancouver for most of the pandemic, surrounded by nature with all of my synths. one of my friends brought over… a plant bioelectricity converter, and we plugged it into the modular synthesizer."<br/>
+already far down the road of generative synthesis, nayar connected his first plant, a salmonberry bush, and understood that he "could use the natural world as the source for generative information"<br/>
+</p>
+
+
+
+
+<img src="/_img/664c81bae443e6f0c23b8179_512.webp" width="512"/><br/>
+
+
+
+<p>
+<small>MODERN BIOLOGY IN STOCKHOLM (PHOTO BY BETSEY GUSMAN ZUMBETSEYPH) </small><br/>
+</p>
+
+
+
+
+<p>
+since then, nayar has performed around the world in forests (what he calls "field trips"), and more conventional venues. he often begins by asking his audience to take in their surroundings and forage for a sound source.<br/>
+when we join nayar on his field trip in stockholm, it's early spring so we are low on mushrooms, but flush with fresh foliage. he plugs into a cherry blossom, which he picked up in town earlier in the day, and it begins to pulse. what follows is a meditative experience that draws our attention to our bodies and the environment.<br/>
+"i've chosen to do these events outside with silent disco style headphones,...there's something about the field trips itself with headphones, where you're outside in community, but you're sort of in your own zone, and it's really a prompt to connect with nature in a way that feels good for you."<br/>
+"i think that there is this kind of ineffable magic that happens, and i think everyone's experience is quite personal."<br/>
+</p>
+
+
+
+
+<img src="/_img/664c81bbe443e6f0c23b8183_512.webp" width="512"/><br/>
+
+
+
+<p>
+<small>MODERN BIOLOGY IN STOCKHOLM (PHOTO BY BETSEY GUSMAN ZUMBETSEYPH) </small><br/>
+</p>
+
+
+
+
+<p>
+"i do appreciate the movement that i've seen at the moment amongst synth makers and designers, making stuff more portable, because i think that really opens [things] up… just being out in nature gives rise to a whole other set of creative possibilities, and having people thinking about that when they're designing instruments is very helpful."<br/>
+out on our field trip, a few kids get up to facilitate the electrical circuit by holding hands, before a "mushroom tickler" is called upon to activate some energy in a stone morel mushroom (poisonous but they eat them in finland). nearby, a man stands in the middle of a clearing and faces the sun, catching the day's last light.<br/>
+</p>
+
+
+
+
+<a href="/products/cm-15"><img src="/_img/664c8436e443e6f0c23b822b_512.webp" width="512"/></a><br/>
+<a href="/store/tripod-mini/"><img src="/_img/664c8831e443e6f0c23b827b_512.webp" width="512"/></a><br/>
+
+
+
+
+<p>
+explore OP–1 field<br/>
+</p>
+
+
+<p>
+pocket operator modular 400<br/>
+</p>
+
+
+
+
+
+
+
+
+
+
+<p>
+<h3><a href="/now">behind the scenes: </a></h3>
+<h3>CM–15</h3>
+</p>
+
+
+
+
+<p>
+<small>MAY 16, 2024</small><br/>
+</p>
+
+
+
+<img src="/_img/6644a70aed98c5734bb3d74f_512.webp" width="512"/><br/>
+
+
+
+
+<p>
+one year ago we released CM–15 into the world; our tiny, portable, studio microphone with a large-diaphragm capsule, integrated audio converter, built-in preamp, 3.5 mm jack and a 48v phantom powered mini xlr. it was a lot to fit into a small frame – but we did it. all thanks to a dedicated team, including engineers alberto and marcus.<br/>
+</p>
+
+
+
+
+<img src="/_img/6644a711ed98c5734bb3d75d_512.webp" width="512"/><br/>
+
+
+
+<p>
+<small>ALBERTO </small><br/>
+</p>
+
+
+
+
+<p>
+alberto: i'm a senior electronic engineer and i design and develop electronic systems for our products. my responsibility is often across the whole lifecycle from block schematics sketched to mass production. in the case of CM–15, since the r&d phase was so challenging and extended, i grew into being responsible for the whole product over time, together with marcus.<br/>
+marcus: i'm a mechanical engineer and i’ve been involved with all the field products, including CM–15. the mechanical engineering process at teenage engineering is very experimental and iterative and often requires unusual solutions or customized parts in order to meet the design requirements. i have been involved in most of these projects from the early design to finally putting the parts on the factory floor and starting production.<br/>
+</p>
+
+
+
+
+<img src="/_img/6644a70aed98c5734bb3d74a_512.webp" width="512"/><br/>
+
+
+
+<p>
+<small>MARCUS</small><br/>
+</p>
+
+
+
+
+<p>
+can you tell us what the original idea for CM–15 was, and some of the inspirations?<br/>
+alberto: the original idea was to create a portable microphone without compromising the quality you would normally get in studio settings, and one that completed the field mini series.<br/>
+marcus: The CM–15 project was initiated as a crazy idea to make a microphone in the same size as the TP–7, which was the original product developed in the field series. the size and thickness was designed many years before, but the final form was heavily influenced by the field desk clamp system and many of our other internal designs. it was actually frankenstein-ed together from an early prototype of a speaker grille inspired by the OD-11 and a napkin sketch of a microphone.<br/>
+</p>
+
+
+
+
+<img src="/_img/6644a710ed98c5734bb3d758_512.webp" width="512"/><br/>
+
+
+
+
+
+
+<p>
+what were some of the biggest challenges you had to overcome when bridging the design with functionality?<br/>
+alberto: it's a long list! but first of all, power and power consumption. we had to deal with an externally provided 48V input that is considered "high" in consumer electronics, which has a limited current available. implementing the automatic power switching between this voltage and much smaller voltages like 5V from usb and 3.7V from the battery, and doing it efficiently enough, was the first challenge. <br/>
+the second challenge was size: we had to deal with huge resistances up to 500MOhm to provide a stable polarization voltage of 80V to the capsule, on a very dense pcb and with the aluminum enclosure in proximity. when your circuit functionality depends on such a big resistance, you have to consider elements like moisture, dust and residue. proximity can totally disrupt the system. another size-related issue was the limited space on the pcb that required a sophisticated high-density design with digital and analog sections separated from each other on a 55x20mm pcb, while keeping the noise level at 11dbA.<br/>
+last but not least, acoustics: the sides of the CM–15 are quite thick, and that created some acoustic imperfections that we had to compensate for both with electronics equalization at the preamp stage, and at a mechanical level. the parallel sides of the case created a standing wave at around 7 kHz that we reduced by introducing a custom foam. this is part of how the sound of CM–15 came to be, from design limitations.<br/>
+marcus: typically, microphones don't have any nearby walls to reflect incoming audio near the capsule as it can cause cancellation or amplification at certain frequencies. however, with some iteration and creative work, we were able to tame the effect to a more respectable level. as a plus, the resulting frequency response of the microphone works as a natural passive de-esser on vocals which gives our microphone a unique character that can be hard to obtain with other designs. <br/>
+</p>
+
+
+
+
+<img src="/_img/6644a707ed98c5734bb3d744_512.webp" width="512"/><br/>
+
+
+
+
+
+
+<p>
+with all that said, what were some of your favorite things about the project?<br/>
+alberto: the friendship with marcus that grew from navigating international manufacturing challenges is for sure number one. then the satisfaction of bringing a product to life that we thought was impossible. and then there's everything i have learned about audio and the consumer electronics industry in general! i'm proud of the final product. it's a superior-sounding microphone, versatile as the whole field mini-series – it's timeless. i see it as a product with longevity, which is very important for me. <br/>
+marcus: i agree with alberto, i'm very glad that the final result is a timeless device that will work as a versatile companion for music creation for many years in the future. it's been great to work with alberto, he's become a close friend, and it’s clear to me now that you can do so much with a small team and a large dose of willpower! <br/>
+</p>
+
+
+
+
+<a href="/products/cm-15"><img src="/_img/6644a8f3ed98c5734bb3d86b_512.webp" width="512"/></a><br/>
+<a href="/store/tripod-mini/"><img src="/_img/6644a90ced98c5734bb3d899_512.webp" width="512"/></a><br/>
+
+
+
+
+<p>
+explore CM–15<br/>
+</p>
+
+
+<p>
+explore tripod mini<br/>
+</p>
+
+
+
+
+
+
+
+
+
+
+<p>
+<h3><a href="/now">sample generator by modem </a></h3>
+</p>
+
+
+
+
+<p>
+<small>APRIL 11, 2024</small><br/>
+</p>
+
+
+
+
+<img src="/_img/6617bd1efc852eb1b9ab9b80_opt.svg" width="512"/><br/>
+
+
+
+
+<p>
+last year our friends at modem, a design and innovation studio, conducted an <a href="/now/2022">audiovisual experiment with the OP–Z</a><br/>
+. now they're back with a new project for EP–133 K.O II.<br/>
+<br/>
+</p>
+
+
+
+
+<p>
+inspired by our <a href="apps/ep-sample-tool">EP sample tool</a><br/>
+, they created a sample generator that turns text prompts into unique samples. feed a description of a feeling or sound to the sample generator and let the tool generate a unique sound. <br/>
+<br/>
+modem, together with bureau cool, have designed and engineered the sample generator using meta audiocraft's open-source audio model. an experiment aimed to merge traditional sampling techniques with technology.<br/>
+</p>
+
+
+
+
+<img src="/_img/66169050b7d5d9632b8fbee0_512.webp" width="512"/><br/>
+
+
+
+
+
+
+<p>
+the sample generator is available to use for a limited time. to give it a spin, this is how you do it:<br/>
+step 1: generate samples<br/>
+simply describe the sound you want to hear in text, from a "shredding guitar riff" to a "jazz flute solo" and let the sample generator transform your vision into audio.<br/>
+step 2: transfer samples<br/>
+download the auto generated samples as a .wav file and transfer them to the EP–133 K.O. II using the teenage engineering <a href="apps/ep-sample-tool">EP sample too</a><br/>
+l. <br/>
+<br/>
+step 3: make beats<br/>
+sequence your generated samples on the EP–133 K.O. II, tweak them to your liking, and start making beats.<br/>
+explore the <a href="https://aisamplegenerator.com/">sample generator</a><br/>
+learn more about EP–133 K.O. II <a href="/products/ep-133">here</a><br/>
+<br/>
+<br/>
+</p>
+
+
+
+
+
+
+
+
+
+
+<p>
+<h3><a href="/now">OP–1  louder, thinner</a></h3>
+<h3>and 100 times better</h3>
+</p>
+
+
+
+
+<p>
+<small>APRIL 5, 2024</small><br/>
+</p>
+
+
+
+<img src="/_img/660ff782a8298171039e80d7_512.webp" width="512"/><br/>
+
+
+
+
+<p>
+OP–1  is the evolution of the OP-1, injected with more than a decade of ideas, refinements and improvements. let's dive into just some of the 100 new features:<br/>
+</p>
+
+
+
+
+
+<img src="/_img/660ff834a8298171039e80f9_opt.svg" width="512"/><br/>
+
+
+
+<p>
+<small>DIMENSION SYNTH</small><br/>
+</p>
+
+
+
+
+<p>
+dimension synth<br/>
+the new subtractive synth engine creates the most lush, analog sounds you can get on this powerful little machine. get experimental and combine it with the lfo, it's a versatile synth for all kinds of sound design.<br/>
+</p>
+
+
+
+
+
+<img src="/_img/660ff8c5a8298171039e8115_opt.svg" width="512"/><br/>
+
+
+
+<p>
+<small>MOTHER REVERB EFFECT</small><br/>
+</p>
+
+
+
+
+<p>
+all new effects<br/>
+with the new reverb effect, mother, you can create nostalgic pads and textures. terminal is a bit crusher effect with an anti-aliasing feature that gives you just the right amount of lo-fi goodness.<br/>
+</p>
+
+
+
+
+
+<img src="/_img/660ff93aa8298171039e812d_opt.svg" width="512"/><br/>
+
+
+
+<p>
+<small>STEREO FUNCTIONALITY</small><br/>
+</p>
+
+
+
+
+<p>
+stereo functionality<br/>
+while the original OP-1 was known for easy and fast sampling, OP–1  turns it up a notch with stereo sampling. stereo functionality brings more life and depth to your music. two channels = double the fun!<br/>
+</p>
+
+
+
+
+
+<img src="/_img/660ffa42a8298171039e8153_opt.svg" width="512"/><br/>
+
+
+
+<p>
+<small>VELOCITY SENSITIVE KEYS</small><br/>
+</p>
+
+
+
+
+<p>
+velocity sensitive keys<br/>
+velocity sensitive keys turned OP–1  into an expressive instrument with dynamic playing power, especially drums. you can also use it with internal sequencers, and over external midi, when using OP–1  as the main controller for other devices.<br/>
+</p>
+
+
+
+
+
+<img src="/_img/660ffb54a8298171039e817b_opt.svg" width="512"/><br/>
+
+
+
+<p>
+<small>VOCODER</small><br/>
+</p>
+
+
+
+
+<p>
+vocoder<br/>
+no more pedals. the vocoder update allows OP–1  to use any input source as a modulator. the audio input is passed through 20 filters with controllable bandwidth and formant shift. the carrier signal is a custom 7-oscillator polyphonic synth that goes from a single sawtooth to pure white noise.<br/>
+</p>
+
+
+
+
+
+<img src="/_img/660ffb55a8298171039e8182_opt.svg" width="512"/><br/>
+
+
+
+<p>
+<small>FOUR TAPE STYLES</small><br/>
+</p>
+
+
+
+
+<p>
+four tape styles<br/>
+OP–1  has four tape styles to choose from, each adding their own unique texture to your tracks: studio 4-track for clean studio recording, vintage 4-track for that warm, saturated 70s feel, porta 4-track gives a lo-fi, noisy sound, and disc mini is a purely digital compressed 90s sound.<br/>
+</p>
+
+
+
+
+
+<img src="/_img/660ffb55a8298171039e8184_opt.svg" width="512"/><br/>
+
+
+
+<p>
+<small>FM TRANSMISSION</small><br/>
+</p>
+
+
+
+
+<p>
+fm transmission<br/>
+tune into the radio, or send out to one. OP–1  has a built-in fm transmitter and receiver to sample from the radio directly through your OP–1 , or transmit audio to your OB–4 to use it as a studio monitor, or from the backseat to your car stereo.<br/>
+</p>
+
+
+
+
+
+<p>
+explore all the 100 new features<br/>
+</p>
+
+
+
+
+
+<a href="/products/op-1"><img src="/_img/627cab620e44b900044f3c11_512.png" width="512"/></a><br/>
+
+
+
+
+<p>
+OP–1 <br/>
+</p>
+
+
+<p>
+$$$<br/>
+</p>
+
+
+
+
+
+
+
+
+
+
+<p>
+<h3><a href="/now">meet OP–1 club</a></h3>
+</p>
+
+
+
+
+<p>
+<small>MARCH 14, 2024</small><br/>
+</p>
+
+
+
+<img src="/_img/65e6d13ad9ead9f6e17882fa_512.webp" width="512"/><br/>
+
+
+
+
+<p>
+OP–1 club is a collective of musicians and producers based in mexico city who perform together with a bunch of OP–1s, and other teenage engineering gear, at events around the city and beyond. we caught up with orestes, bernardo, ferdi and sami to find out what OP–1 club is all about.<br/>
+</p>
+
+
+
+
+<img src="/_img/65e6d13bd9ead9f6e1788315_512.webp" width="512"/><br/>
+
+
+
+
+
+
+<p>
+who are you and what do you do?<br/>
+orestes: i am a musician from venezuela living in mexico, mixing jazz, hiphop and traditional music from my country. i also work with many latin american artists and most of the time i'm on tour with many friends. i've made music for tv series like ''godfather of harlem'' and also for video games like ''ufc 5''. i've also collaborated with run the jewels, nick hook, danny ocean, akapellah, apache, micro tdh and neutro shorty. <br/>
+bernardo: i'm bernardo pérez, mexican musician, composer and producer. i have a solo project called 'real suabidad' and a two man band called 'bicho blanco'. i produce other people's music, i score short films, dance films and commercials. i also host a weekly radio show.<br/>
+ferdi: i'm fer gonzález a.k.a mezcalibur, musician and producer from cdmx. i've been producing music for a while, currently finishing some tracks of my own. i've always been influenced by (mostly) heavy electronic music like breakcore, dubstep, jungle, uk garage, idm and obviously all the latin music subgenres that have been emerging these last few years, like moombathon, neoperreo, guaracha and reggaeton, to name a few.<br/>
+sami: i'm sami mendoza, musician and producer from mexico. i play with different artists mostly hip hop, rnb and jazz music. <br/>
+</p>
+
+
+
+
+
+
+
+
+<p>
+<small>OP–1 CLUB "AGUA VERDE" </small><br/>
+</p>
+
+
+
+
+
+<p>
+tell us about OP–1 club, when and why did you start it?<br/>
+bernardo: it started formally some time during 2021. some of us had been getting together to jam only with teenage engineering gear. after a couple of times doing this it was clear there was great chemistry between us and a fascination with the possibilities these devices would allow. <br/>
+orestes: after several videos, there was one that went <a href="https://www.instagram.com/timbaland/p/CURYxhOgfYr/">viral.</a><br/>
+ i remember that many important musicians shared it, including timbaland, and that's when we decided to create the band. OP–1 club began as a project of ours but it really has a collective vision that over time will Include several visual artists, producers, creatives, and all lovers of teenage engineering, like us. i am very lucky to have a band with my favorite latin americans.<br/>
+<br/>
+</p>
+
+
+
+
+<img src="/_img/65e6d13ad9ead9f6e1788306_512.webp" width="512"/><br/>
+
+
+
+
+
+
+<p>
+run us through what someone can expect from an OP–1 club event?<br/>
+orestes: the OP–1 club shows are incredible! the audience will listen to music created in the moment, which won't be repeated again. we all come to the shows with different sounds in our OP–1's and then during the show we decide by ''song'' or moment which instrument each one will play. for example, in the first song i play the drums, sami plays the keyboards, berni plays the melody, and ferdi plays the bass, somewhere along the way we pick a bpm and a key. for the second song we repeat the process, but we alternate instruments. <br/>
+during the shows we try to set it up so that the audience stand around us, <br/>
+so they can see everything up close. on the table we only have teenage<br/>
+engineering gear. we mainly use the OP–1 field but we also bring OP–Z's, the POM-400, various pocket operators, OB–4 for monitoring, and two TX–6 mixers. we also have guest rappers, singers and musicians for part of the performance. a common guest of ours for the shows is tino el pingüino, an incredible mexican rapper who has been close to the project since day one. <br/>
+what has happened in the time between starting it and where it is today?<br/>
+orestes: since we created the band, we have had several incredible concerts, and recorded many short videos, and just last year we got together for a couple of days to hang out and record our first studio album, which will be out around may. this year we hope to start a tour here in latin america and to be able to show our art to the whole world.<br/>
+</p>
+
+
+
+
+<img src="/_img/65e6d13ad9ead9f6e17882f5_512.webp" width="512"/><br/>
+
+
+
+
+
+
+<p>
+what are some of your favorite stories from your events?<br/>
+orestes: our first show we were expecting 50 people and about 400 showed up. we had a full house and many people didn’t make it in. it was wild.<br/>
+bernardo: i can't remember one specifically, but i've loved the times when, unexpectedly, rappers or singers or other musicians in the crowd have joined the jam and all of us together created something incredible in the moment that captivated us and the audience.<br/>
+ferdi: every time we get together to play is different so it's kind of a mystery to know what is gonna come out of the set even if we have already pre-selected sounds or samples... i like to see the surprised faces in the audience when some strange or unexpected sound happens during the set. <br/>
+sami: for me, one of the things i like the most is the energy of the people and their reactions. since everything is happening in the moment, it becomes something spontaneous and full of surprises - you never know what is going to happen. that connects a lot with the audience because in the end they become part of the unexpected.<br/>
+</p>
+
+
+
+
+
+
+
+
+<p>
+<small>OP–1 CLUB LIVE ZUM HOUSE OF VANS, CDMX</small><br/>
+</p>
+
+
+
+
+
+
+
+
+
+
+<p>
+<h3><a href="/now">raz fresco and dibiase </a></h3>
+<h3><a href="/now">on the first K.O. II record</a></h3>
+</p>
+
+
+
+
+<p>
+<small>JANUARY 18, 2024</small><br/>
+</p>
+
+
+
+<img src="/_img/65a68df480cfd7abc5fbd122_512.webp" width="512"/><br/>
+
+
+
+
+<p>
+a little while ago we spoke to raz fresco about his ''<a href="/now">pocket operations II</a><br/>
+'' record. now with the evolution of the pocket operator released, <a href="/products/ep-133">EP–133 K.O. II</a><br/>
+, he's back at it - this time with dibiase on the beats. originally collaborating on <br/>
+<br/>
+<br/>
+''secret wars'', "knockout" is their second collab and the first record to be produced entirely on K.O. II. we caught up to learn more about creating the album in record time, across time zones.<br/>
+</p>
+
+
+
+
+<img src="/_img/65a68e3b80cfd7abc5fbd134_512.webp" width="512"/><br/>
+
+
+
+<p>
+<small>RAZ FRESCO</small><br/>
+</p>
+
+
+
+
+
+<p>
+raz fresco:<br/>
+ i knew about dibiase's production for years before we actually linked up. [when i was searching for new gear] i was watching a lot of videos of dibiase on the sp-404 doing his thing. it was inspiring cuz up until then i never really studied other workflows on other devices. so one day i tweeted out something along the lines of 'mannnnn, i would destroy some dibiase beats if i could' and he actually responded! so i hit him with a dm expressing my respect and that i wanted to work with him.<br/>
+dibiase<br/>
+: a month later we created 'secret wars', and the rest is history (in the making). <br/>
+</p>
+
+
+
+
+<img src="/_img/65a68e7f80cfd7abc5fbd146_512.webp" width="512"/><br/>
+
+
+
+<p>
+<small>DIBIASE</small><br/>
+</p>
+
+
+
+
+
+<p>
+since they met through twitter, the online beat community has formed a significant part of both of their creative processes.<br/>
+dibiase:<br/>
+ community has always been a vital part of my creative practice. it's a space where i can go to test out new ideas, and get honest feedback. connecting and building with other artists, watching and listening to how other producers approach things – being exposed to different perspectives has been a big part of my growth as an artist. shout out to project blowed, sketchbook, low end theory, boombox, big tune, beat cinema, supercard, flipabeatclub, sample mode, and my entire global community. there's too many folks to list. <br/>
+raz fresco:<br/>
+ the beauty for me is that people are coming together to share their creativity with no ego. it's just about the music… i am all for that gathering of creative energy with pure intention. that's what draws me to the whole beat community. it represents the beauty and positive energy that can arise from people coming together and being constructive with their energy in a creative way as opposed to being destructive. <br/>
+</p>
+
+
+
+
+<img src="/_img/65a6914980cfd7abc5fbd1ca_512.webp" width="512"/><br/>
+
+
+
+<p>
+<small>KNOCKING OUT BEATS</small><br/>
+</p>
+
+
+
+
+
+<p>
+with raz fresco based in toronto and dibiase in sacramento, it's not often these guys are in the same room. in fact, all their work together has all been done online, including "knockout".<br/>
+dibiase:<br/>
+ technology, especially over the last 5 years, has really changed the game for artists like us… it's super easy to collaborate with artists from anywhere in the world. the process between raz and i is usually pretty straightforward. i'll send him a new batch of beats and he turns it around super quick. we definitely feed off each other's energy. like myself, raz is a real master of his craft, which helps make the process run real smooth.<br/>
+raz fresco:<br/>
+ i feel we have both reached a particular degree of mastery in our respective crafts and trust each other's taste, so there's not a lot of discussion… subconsciously we both know we have to have a good spread of different sonic textures. <br/>
+we think alike in that way, we spoke about that while we were making 'secret wars'. this time around, once i shared the idea of the theme it was clear what we had to do. knock em out! … i know my bars gotta hit hard and dibi knows the beats gotta knock. so we didn't do much talking. he sent the beats, i rapped and put it together then boom it was done.<br/>
+</p>
+
+
+
+
+<img src="/_img/65a6909080cfd7abc5fbd1ae_512.webp" width="512"/><br/>
+
+
+
+<p>
+<small>DIBIASE ON EP–133 K.O. II</small><br/>
+</p>
+
+
+
+
+
+<p>
+when digging into the process of creating "knockout", it wasn't much more complicated than putting an idea into action.<br/>
+raz fresco:<br/>
+ dibi sent me his first beat on the K.O. II (which ended up being the song 'break bread'). i heard it with my brother 'the 6th letter', so we immediately made the song. then it hit me, 'why don't me and dibi do a whole album on the K.O. II?'<br/>
+i was already playing around with the idea and had just dropped my third pocket operator project. the K.O. II is the big brother to the pocket operator and in this beat community dibiase is like my big brother. he is the one that originally put me onto the pocket operator back when we were making 'secret wars'… so this time i thought, it's only right if we reconnect and he does the beats on the K.O. II.<br/>
+dibiase:<br/>
+ we're both big fans of teenage engineering and known for creating content using pocket operators. i've been cooking up with [teenage engineering] gear since the very beginning, so it just made sense. <br/>
+</p>
+
+
+
+
+
+
+
+
+<p>
+<small>"KIMBO" FROM THE ALBUM "KNOCKOUT"</small><br/>
+</p>
+
+
+
+
+
+<p>
+we know that we talk about EP–133 K.O. II having a fast workflow, but you guys, especially raz,  have a habit of throwing down tracks faster than anyone we know. how do you do it?<br/>
+dibiase:<br/>
+ well, that's what you get when you combine creative genius with a solid work ethic. having new gadgets that inspire like the K.O. II also helps.<br/>
+raz fresco:<br/>
+ i honestly let the music speak to my soul and i just talk back honestly from my heart. it doesn't take that long to be yourself if you know yourself. so i'm just being me on the beat and expressing what i feel.<br/>
+if the beat is dope, my mind starts working… i may be doing something else but the beat could make me start writing raps in my head, i can't stop if it moves me on an energetic level. i can see a painting (like the one i used for the cover of 'knockout') and get a whole album concept. i can hear one line and it inspires a whole verse. <br/>
+all the extra stuff happens in the background; like making my ideas rhyme and the nuances of melody here and there - these are just tools to express my idea. a good tradesman doesn't have to think about the tool anymore, he just thinks about what he is building and hammers away. in the same sense, i don't think about the rhymes, i just think about what i want to say and i say it. <br/>
+"knockout" is available now exclusively via <a href="https://www.bkrsclb.com/">bkrsclb.com</a><br/>
+, along with a line of limited merchandise. follow <a href="https://www.instagram.com/razfresco/">raz fresco</a><br/>
+ and <a href="https://www.instagram.com/darealdibiase/">dibiase</a><br/>
+ for more.<br/>
+<br/>
+<br/>
+<br/>
+</p>
+
+
+
+
+
+
+
+
+
+
+<p>
+<h3><a href="/now">choir - behind the curtain</a></h3>
+</p>
+
+
+
+
+<p>
+<small>JANUARY 11, 2024</small><br/>
+</p>
+
+
+
+<img src="/_img/659ffff98b2d9ca6f0f3f883_512.webp" width="512"/><br/>
+
+
+
+
+<p>
+"back in the autumn of 2007, four friends sharing a garage workshop, were unexpectedly approached by absolut vodka to create an art installation. a year later, after long nights of building and coding, it was ready – the absolut choir – a machine made out of 22 wooden dolls that sang in harmony."<br/>
+- jesper kouthoofd<br/>
+</p>
+
+
+
+
+<img src="/_img/659d58546ccbd38441ecc6b1_512.webp" width="512"/><br/>
+
+
+
+<p>
+<small>THE ORIGINAL CHOIR</small><br/>
+</p>
+
+
+
+
+
+<p>
+11 years later we made them smaller and invited them into your homes,<br/>
+but getting there required a redesign and technical modifications, both in software and hardware. adapting the original code was our software engineer, linus åkesson.<br/>
+</p>
+
+
+
+
+<img src="/_img/659fbff5f9781fcc9bf8470d_512.webp" width="512"/><br/>
+
+
+
+<p>
+<small>SKETCHES OF THE ORIGINAL CHOIR</small><br/>
+</p>
+
+
+
+
+
+<p>
+linus: "the songs in the dolls are public domain works, but they had to be transcribed to a machine-readable format, in this case a list of notes, syllables and timing information. for instance, if the printed score showed an eighth-note c followed by a sixteenth-note d-sharp, i would type in 'c8 d#16' and the lyrics had to be transcribed to a phonetic representation, where e.g. 'my tears' would be typed in as 'mai tizumrs'.<br/>
+</p>
+
+
+
+
+<img src="/_img/659fb3b8f9781fcc9bf84462_512.webp" width="512"/><br/>
+
+
+
+<p>
+<small>LINUS AND THE CHOIR</small><br/>
+</p>
+
+
+
+
+
+<p>
+"whenever the dolls are singing, they also scan for nearby singers using bluetooth. they connect, synchronize their clocks, and collectively decide what song to sing. the songs are stored in a database inside each doll, and the lyrics are expressed phonetically. these phonemes are then converted to numbers representing muscle movements in a simulation of the vocal tract of a<br/>
+human being."<br/>
+</p>
+
+
+
+
+<img src="/_img/659d63e06ccbd38441ecc7e8_512.webp" width="512"/><br/>
+
+
+
+<p>
+<small>GISELA BEING FORMED</small><br/>
+</p>
+
+
+
+
+
+<p>
+production manager, evelina lindström, led the production of choir, taking the new design through the manufacturing process, using some creative problem solving along the way.<br/>
+evelina: "one of the biggest challenges was to make a user-friendly interface that is easy to understand, one that works with each different doll, and at the same time has that teenage engineering feeling. to get the correct feedback and response when using the dolls is key, so we worked really hard on finding the correct balance between functionality and technicality, doing a lot of testing and creating updates to the user interface during the entire development<br/>
+of choir."<br/>
+</p>
+
+
+
+
+<img src="/_img/659fb3b6f9781fcc9bf84458_512.webp" width="512"/><br/>
+
+
+
+<p>
+<small>PRODUCTION MANAGER, EVELINA LINDSTRÖM</small><br/>
+</p>
+
+
+
+
+
+<p>
+linus: "we wanted to use as much of the original code as possible, to maintain the spirit of the "big" choir from the early days of the company. but this code was written for desktop computers, not small portable devices, so i had to jump through hoops and find creative ways to make the code run faster and use less memory. at an early stage of adaptation, we hadn't implemented the function to turn the dolls off, so when one of our electrical engineers brought some dolls to a test facility an hour away, the dolls were hollering for the entire trip."<br/>
+</p>
+
+
+
+
+<img src="/_img/659d63e16ccbd38441ecc7ed_512.webp" width="512"/><br/>
+
+
+
+<p>
+<small>GETTING THE HAND POLISHED TREATMENT</small><br/>
+</p>
+
+
+
+
+
+<p>
+evelina: "working with wood, especially a product combining wood and electronics, is a bit special since both materials behave in different ways. luckily we have really skilled craftspeople working in our wood factory and they are always aiming to get details, like pairing the color and texture of the wood with the fitting of parts, as optimal as possible.<br/>
+</p>
+
+
+
+
+<img src="/_img/659fb3b8f9781fcc9bf8445d_512.webp" width="512"/><br/>
+
+
+
+<p>
+<small>PRODUCTION MANAGER, EVELINA LINDSTRÖM</small><br/>
+</p>
+
+
+
+
+
+<p>
+"one of the things i'm really happy about is that we managed to give each doll their own personality. they all differ in how, what and when they sing. like a real choir, they can also sometimes mess up and even misbehave at times, they’re fun features that make the product feel more alive and hopefully, keep the audience entertained. <br/>
+i'm also really happy that choir can be connected with OP–1 field and OP–Z, giving room for a lot of creative choir arrangements. i'm really looking forward to seeing and hearing what innovative arrangements people are going<br/>
+to create!"<br/>
+</p>
+
+
+
+
+
+
+
+
+<p>
+<small>WATCH CHOIR BEING CRAFTED IN THE FACTORY.</small><br/>
+</p>
+
+
+
+
+
+
+<a href="/store/ch-8"><img src="/_img/659eadc1f9781fcc9bf8055c_512.webp" width="512"/></a><br/>
+
+
+
+
+<p>
+teenage engineering choir<br/>
+</p>
+
+
+<p>
+$$$<br/>
+</p>
+
+
+
+
+
+
+
+
+
+
+<p>
+<h3><a href="/now">behind the sound pt.3:</a></h3>
+<h3>lo-fi drums on OP–1 field.</h3>
+</p>
+
+
+
+
+<p>
+<small>NOVEMBER 9, 2023</small><br/>
+</p>
+
+
+
+<img src="/_img/654cb7567ea8e7ad66d714ef_512.webp" width="512"/><br/>
+
+
+
+
+<p>
+morgan ågren is a stockholm based drummer, one half of the band mats/morgan, and the creator of many <a href="/products/op-1">OP–1 field</a><br/>
+ drum samples.<br/>
+<br/>
+we visited ågren at his home studio where he shared with us his approach to percussion, as well as his eclectic mix of instruments, and non-instruments.<br/>
+</p>
+
+
+
+
+<img src="/_img/654cb7567ea8e7ad66d714ea_512.webp" width="512"/><br/>
+
+
+
+<p>
+<small>ONE CORNER OF ÅGRENS HOME STUDIO</small><br/>
+</p>
+
+
+
+
+
+<p>
+"i made a big bunch of kick drum sounds, bass drums, snare sounds and hi-hats – so big snares, small snares, big kick drums, dead-sounding drums with a lot of dampening, but also a few open, and some various cymbals and metal percussion. i've made, i don't know... hundreds of sounds."<br/>
+the brief was simple: "trashy, lo-fi… small, percussive sounds, and it could be dirty, almost like low-resolution recordings, like low-bit." looking around ågrens studio, it's easy to understand why he was the guy for the job. it's packed with two drum kits, drums and cymbals of different sizes and finishes, random percussive objects and homemade instruments, as well as cheap guitars he uses as percussive play things.<br/>
+</p>
+
+
+
+
+
+
+
+
+<p>
+<small>HOW MORGAN ÅGREN PLAYS GUITAR</small><br/>
+</p>
+
+
+
+
+
+<p>
+"i knew what [teenage engineering] was looking for, so i started to just record and record, and i sent a couple of hundred sounds."<br/>
+if that wasn't enough, we asked ågren to record more metallic sounds, so he hit, smashed and crashed some cymbals and diy metal creations to find the right mix of trashy cymbals, creating some "cool, dry, open, and dirty, funky sounds."<br/>
+</p>
+
+
+
+
+<img src="/_img/654cb7567ea8e7ad66d714f4_512.webp" width="512"/><br/>
+
+
+
+<p>
+<small>PERCUSSIVE METALS</small><br/>
+</p>
+
+
+
+
+
+<p>
+playing drums since school, ågren has essentially been playing drums his whole life. playing in "many, many bands" from the moment he moved to stockholm from the north of sweden in 1985, he "went to the academy, musikhögskolan, for one year" but never graduated. the simple reason being that he gained traction elsewhere, starting mats/morgan and playing with frank zappa and fleshquartet.<br/>
+"but in the last 10 to 15 years it has been mainly my own band with keyboard player, mats, who loves <a href="/products/op-1">OP–1</a><br/>
+ too!"<br/>
+<br/>
+</p>
+
+
+
+
+<img src="/_img/654b4e8d08da743f4b55e427_512.webp" width="512"/><br/>
+
+
+
+<p>
+<small>MATS/MORGAN IN THE 80'S</small><br/>
+</p>
+
+
+
+
+
+<p>
+you can play morgan ågren's sample kit "apes are us" on <a href="/products/op-1">OP–1 field</a><br/>
+ – and as a special treat, we're also releasing 3 more of ågren's kits below: wknd raps, peace beats and fonky beats!<br/>
+<br/>
+to get the kits on your device follow these steps:<br/>
+<ol><li>connect OP–1 field to your computer using usb.</li><br/>
+<li>hold shift and press com, then press T4 to enable an <a href="/guides/mtp">mtp</a><br/>
+ connection.(if you use macOS, you need to install <a href="/guides/fieldkit">field kit</a><br/>
+ from the app store.)</li><br/>
+<br/>
+<br/>
+<br/>
+<li>download the drum kit to your computer and unpack it. drag and drop the drum kit folder from your computer to the drum folder in OP–1 field.</li><br/>
+<li>when the transfer is complete press T4 again to eject OP–1 field. use drum mode and load your new sounds. enjoy!</li><br/>
+</ol>click the icons to download<br/>
+click on the play button to preview kit<br/>
+</p>
+
+
+
+
+
+
+<img src="/_img/654b4af508da743f4b55e377_opt.svg" width="512"/><br/>
+
+
+<p>
+drum kit:<br/>
+wknd raps<br/>
+</p>
+
+
+
+
+<img src="/_img/654b4af508da743f4b55e379_opt.svg" width="512"/><br/>
+
+
+<p>
+drum kit:<br/>
+fonky beats<br/>
+</p>
+
+
+
+
+<img src="/_img/654b4af508da743f4b55e381_opt.svg" width="512"/><br/>
+
+
+<p>
+drum kit:<br/>
+peace beats<br/>
+</p>
+
+
+
+
+
+
+<a href="/store/op-1-field"><img src="/_img/627cab620e44b900044f3c11_512.png" width="512"/></a><br/>
+
+
+
+
+<p>
+OP–1 field<br/>
+</p>
+
+
+<p>
+$$$<br/>
+</p>
+
+
+
+
+
+
+
+
+
+
+<p>
+<h3><a href="/now">around the office:</a></h3>
+<h3><a href="/now">support team</a></h3>
+</p>
+
+
+
+
+<p>
+<small>OCTOBER 6, 2023</small><br/>
+</p>
+
+
+
+<img src="/_img/651ec05ee8bd24ff0970d543_512.webp" width="512"/><br/>
+
+
+
+
+<p>
+the support team here at teenage engineering hq may be compact, but their work spreads far and wide. they are the ones who answer your burning questions, fix your gear, and pass on improvements and feature requests; they're the customer voice on the inside. <br/>
+''our main focus is replying to questions and requests, making sure we answer as quickly as possible. each day we also take care of repairs and returns. then we also have meetings with departments across the company which is our opportunity to share customer feedback.''<br/>
+</p>
+
+
+
+
+<img src="/_img/651ec05fe8bd24ff0970d548_512.webp" width="512"/><br/>
+
+
+
+<p>
+<small>SPARE PARTS</small><br/>
+</p>
+
+
+
+
+
+<p>
+one of the biggest parts of working in the support team is problem solving.<br/>
+''the best problems are the ones that teach us something new and give us an opportunity to make an improvement.''<br/>
+</p>
+
+
+
+
+<img src="/_img/651ec05fe8bd24ff0970d54d_512.webp" width="512"/><br/>
+
+
+
+<p>
+<small>GIFTS, NOTES AND DRAWINGS FROM AROUND THE WORLD</small><br/>
+</p>
+
+
+
+
+
+<p>
+having such international and varied customers, we receive all kinds of requests, problems, even gifts, on a daily basis.<br/>
+''as we deal with customers worldwide, it's interesting to see different approaches from different sides of the world, and some people are<br/>
+genuinely funny.''<br/>
+''the creativity of people is mind blowing sometimes. we think we've seen it all, but people are coming up with crazy new setups all the time.''<br/>
+''we have a little display by our window of some nice notes and drawings people have sent us with their returns… big shout out to lionel in switzerland for the chocolates!''<br/>
+</p>
+
+
+
+
+<img src="/_img/651ec064e8bd24ff0970d556_512.webp" width="512"/><br/>
+
+
+
+<p>
+<small>THE SUPPORT TEAM</small><br/>
+</p>
+
+
+
+
+
+<p>
+with so many messages coming in every day, you're bound to learn something new about our products and the people who operate them.<br/>
+''there are some incredibly talented people writing to us and they really drive us to learn and discover more!''<br/>
+</p>
+
+
+
+
+
+
+
+
+
+<p>
+<h3><a href="/now">catching up with nosaj thing</a></h3>
+</p>
+
+
+
+
+<p>
+<small>AUGUST 10, 2023</small><br/>
+</p>
+
+
+
+<img src="/_img/64d3955895ae420728cfe7b8_512.webp" width="512"/><br/>
+
+
+
+
+<p>
+artist and producer nosaj thing, aka jason chung, is an old friend. we met for the first time back in 2010 when OP-1 was revealed; chung was making beats on OP-1 for the ''<a href="https://www.booooooom.com/2011/08/31/stussy-make-beats-contest-low-end-theory-teenage-engineering-op-1-nosaj-thing-gaslamp-killer-pollyn/">make beats''</a><br/>
+ competition with stüssy, and his first album, <a href="https://nosajthing.bandcamp.com/album/drift">drift</a><br/>
+, had just been released. today, he's past his fifth record and stopping by stockholm for a long awaited visit after playing sónar in barcelona.<br/>
+<br/>
+<br/>
+</p>
+
+
+
+
+<img src="/_img/64d3955295ae420728cfe7af_512.webp" width="512"/><br/>
+
+
+
+<p>
+<small>NOSAJ THING</small><br/>
+</p>
+
+
+
+
+
+<p>
+his latest record, <a href="https://nosajthing.bandcamp.com/album/continua">continua</a><br/>
+, is chung's first big collaborative effort, and a leap out of his comfort zone.<br/>
+<br/>
+"as someone that just started making beats in the bedroom… also being more introverted, it was a huge challenge for me to really step up as a producer and learn how to communicate with multiple personalities. this is also my first album with luckyme and dom who runs the label… i had like this dream list of artists i wanted to work with and he told me, ''hey, i hate to break it to you, but you're gonna have to send some dms.'' … i guess then i just understood that if you have this idea, you have this vision, and you want to work with someone, it is always going to mean more if you reach out directly. and a few of those were very difficult for me. i had drafts for a few weeks or even a month [before i sent them]. <br/>
+"i think everyone on the record were artists i was already listening to for several years, so it was almost like this was the cast in a movie i had in mind… so i just kind of already knew that it was going to work and fit."<br/>
+</p>
+
+
+
+
+<img src="/_img/64d498bb64f16ee1d2b7a594_512.webp" width="512"/><br/>
+
+
+
+<p>
+<small>NOSAJ THINGS STUDIO</small><br/>
+</p>
+
+
+
+
+
+<p>
+chung's cinematic intentions are clear throughout "continua". calling on artists well-versed in the realm of ethereal composition like julianna barwick and duval timothy, to notorious mood setters like toro y moi and coby sey, chung and his supporting cast have released one of the most lowkey survival soundtracks of the past year.<br/>
+this collaborative approach flowed from the studio to the records visual language, working with creative director eric hu, and calling in photographers phil nisco and donovan novotny for the <a href="https://www.youtube.com/watch?v=Vxo7zCokpws&list=PLIuw_dh7YAXrIxiEAQNONqT_X32zp1YT9&pp=iAQB">music videos</a><br/>
+. the blueprint emerged from his production process, one that has always been inspired by moving image.<br/>
+<br/>
+"last year, we saw this film called '<a href="https://youtu.be/PDU6B93ltds">memoria'</a><br/>
+, and of course '<a href="https://youtu.be/tDW-1JIa2gI">koyaanisqatsi'</a><br/>
+. i played that film a lot during this record, and i was just like, 'this movie came out in early 80s. what's our version? what can we do?' donovan is such a talented photographer, i just told him 'hey, just make video stills of what you do already.' he was just so hyped on that idea."<br/>
+<br/>
+<br/>
+</p>
+
+
+
+
+<img src="/_img/6411831ea1fd4eaa7d1562a9_512.webp" width="512"/><br/>
+
+
+
+<p>
+<small>WATCH THE MUSIC VIDEOS FROM "CONTINUA".</small><br/>
+</p>
+
+
+
+
+
+<p>
+these videos also formed the basis of nosaj thing's new live set design, developed with japanese artist, daito manabe, for this years sónar festival.<br/>
+"since my first album… i would always write music with the tv on mute. it's just always been my thing. [i put on] whatever i like to watch and just use that as inspiration.<br/>
+"i guess for me, whenever i'm creating a new idea of music, images just come into my head. but i think also just being in the day and age of information overload, maybe it just helps me not look at anything else. you know what i mean? in a weird way, it just helps me focus, just like putting on more of a <br/>
+slow film.<br/>
+"i really love static shots….that's been a huge inspiration on the most current live show. it was something i wanted to see. usually when you see tour visuals, most of the time just fast moving, so just to see something just more like a static image or video, it's just refreshing to me."<br/>
+</p>
+
+
+
+
+<img src="/_img/6411831ea1fd4eaa7d1562a9_512.webp" width="512"/><br/>
+
+
+
+<p>
+<small>NOSAJ THING AND DAITO MANABE AT SÓNAR FESTIVAL THIS YEAR.</small><br/>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p>
+<h3><a href="/now">alexander wessely's "kortex" at fotografiska</a></h3>
+</p>
+
+
+
+
+<p>
+<small>JUNE 29, 2023</small><br/>
+</p>
+
+
+
+<img src="/_img/649c3cf0cb452178150666bb_512.webp" width="512"/><br/>
+
+
+
+
+<p>
+alexander wessely has worked with some of the worlds biggest artists. from the weeknd, rihanna and drake, to 070 shake, swedish house mafia and avicii – the multimedia artist has had a front row seat to the phenomenon of idol worship. this experience, directly observing the hyperreality of celebrity, is what has shaped the concept of his latest exhibition. <br/>
+</p>
+
+
+
+
+<img src="/_img/649d4b8cf0ebb2649ffe3072_512.webp" width="512"/><br/>
+
+
+
+<p>
+<small>ALEXANDER WESSELY</small><br/>
+</p>
+
+
+
+
+
+<p>
+"kortex" is wessely's most extensive solo exhibition yet. showing at stockholm's fotografiska museum, he attempts to "remove the outer shell, showing the core and the essence of the human underneath, in their most fragile state" through marble sculptures, video and light installations, soundscapes, and 3D photography.<br/>
+"i started working with all these physical marble sculptures four years ago, it's sort of the final stage of a 10 year chapter. the whole theme of 'kortex', which is bark or the outer layer in old greek or latin, came very organically after working with artists on a high level. creating sculptures, set design, scenography, creative direction, and sort of creating the worlds around these artists. the fans and admirers in the crowd, they have this godlike type approach to this person who is just a fellow human. they adore this person, but what they actually adore and obsess about is a shell that's added onto that person. it's the shell and the persona… that's why the marble, which is a very hard material but extremely fragile at the same time, symbolizes us as humans very well."<br/>
+</p>
+
+
+
+
+<img src="/_img/649d4c08f0ebb2649ffe309e_512.webp" width="512"/><br/>
+
+
+
+<p>
+<small>WESSELY'S MARBLE SCULPTURES</small><br/>
+</p>
+
+
+
+
+
+<p>
+the exhibition is dark, the marble figures dissected and raw. a rolling drone sounds in the distance as a murmur of a voice becomes louder upon approach. one of the pieces in the exhibition is a poem written and read by 070 shake, playing out of an OD-11 subtly encased inside a hollow marble pillar.<br/>
+</p>
+
+
+
+
+<img src="/_img/649d4be5f0ebb2649ffe308c_512.webp" width="512"/><br/>
+
+
+
+<p>
+<small>OD-11 IN MARBLE</small><br/>
+</p>
+
+
+
+
+
+<p>
+"our collaboration goes back four years. from our first sort of sit down, i was inspired by [070 shake] and her vision and her mentality… she's like all feels, all the way. she's so curious and well rounded.<br/>
+when i showed her this work, which is called 'humans', she was very inspired. and she started talking about us being born naked and how when we die you won't be able to tell the difference between us… when she started talking about it i was like, 'okay, stop, i need to record this!' and so we recorded this very genuinely on the phone. it's not scripted or anything, she was just talking as she looked at it. and it's sort of a comment on the exhibition theme, but also a conversation with herself being dani and herself now also being 070 shake."<br/>
+you can experience wessely's exhibition "<a href="https://www.fotografiska.com/sto/en/utstallningar/alexander-wessely/">kortex" at fotografiska</a><br/>
+ in stockholm, now showing until september 17.<br/>
+<br/>
+learn more about OD-11 <a href="/products/od-11">here</a><br/>
+<br/>
+</p>
+
+
+
+
+
+
+
+
+
+
+<p>
+<h3><a href="/now">raz fresco  - "pocket operations II: forty seconds only"</a></h3>
+</p>
+
+
+
+
+<p>
+<small>JUNE 8, 2023</small><br/>
+</p>
+
+
+
+<img src="/_img/6481d7fca11bb58a3ac003a3_512.webp" width="512"/><br/>
+
+
+
+
+<p>
+we sat down with our friend raz fresco last week on the release day of "pocket operations II: forty seconds only", his second record filled with tracks made exclusively with PO-33 K.O.!<br/>
+"i'm raz fresco, mr. marvelous himself. i'm reporting live from 'the bakery' here in downtown toronto, canada. i'm a rapper, producer, photographer, and work with videos. long story short, i'm a renaissance man."<br/>
+</p>
+
+
+
+
+<img src="/_img/6481d8a7a11bb58a3ac00ce0_512.webp" width="512"/><br/>
+
+
+
+<p>
+<small>RAZ FRESCO WITH HIS PO-33 K.O.!</small><br/>
+</p>
+
+
+
+
+
+<p>
+fresco's history with the PO-33 isn't particularly long, but it is prolific. in the search for new gear after his akai mpd broke in 2021, he found the missing piece in his production workflow. "i was like 'yo, i can make beats on the go?' cos' before i was tied to my computer for my whole life as a producer."<br/>
+today, PO-33 is a mainstay in his production setup and at the nexus of his "pocket operations" project.<br/>
+"there've been times where i've brought it to the record shop when i'm digging for records and i can sample there, right away on the spot."<br/>
+</p>
+
+
+
+
+<img src="/_img/6481d8b9a11bb58a3ac00d14_512.webp" width="512"/><br/>
+
+
+
+<p>
+<small>FRESCO'S PO CASE IS FROM BEAT MAKER'S BOUTIQUE</small><br/>
+</p>
+
+
+
+
+
+<p>
+taking his PO-33 from record stores to walks by the lake, fresco's hyper-curiosity found satisfaction in the creative possibilities of the tiny sampler, a mindset that finds itself at home within a legacy of beatmakers throughout history, including his own uncle.<br/>
+"my uncle is in the reggae hall of fame, his name is earl zero. so i'm directly tied into the early dub scene… and that scene was revolutionary in the sense that they made the electronics an instrument. that's part of my dna as far as building your own sound."<br/>
+from mozart to dilla, music has always been a reflection of its time - the machines, architecture and cultural movements of the moment all locked in a tennis match of influence. being a student of hip hop, this knowledge only reinforces fresco's determination to be a part of the conversation.<br/>
+</p>
+
+
+
+
+<img src="/_img/64819ec6a11bb58a3abff86b_512.webp" width="512"/><br/>
+
+
+
+<p>
+<small>PO-33 K.O.! IN FRESCO'S FAVORITE CASES</small><br/>
+</p>
+
+
+
+
+
+<p>
+"in the timeline of hip hop, certain pieces of equipment came out and like they've been so substantial… there's a point where there was just a turntable and then all of a sudden there were two! then the mpcs and SP 1200s came out in the 90s. there are producers that are associated with these machines because their understanding of sound and their usage of them revolutionized hip hop.<br/>
+in the 2000s, around the time ‘madvillainy’ and these things dropped, they had the roland SP 404 and the first 303… they're like, 'yo, this equipment has a different workflow!' it activates your mind to work differently.<br/>
+[the pocket operator] is another step in the evolution… i just wanted to be one of the people on the timeline too because i see it and i know that this is a moment. i wanted to capture the moment and show the system was upgraded."<br/>
+</p>
+
+
+
+
+<img src="/_img/6411831ea1fd4eaa7d1562a9_512.webp" width="512"/><br/>
+
+
+
+<p>
+<small>LISTEN TO "POCKET OPERATIONS", THE PRECURSOR TO "POCKET OPERATIONS II"</small><br/>
+</p>
+
+
+
+
+
+<p>
+check out raz fresco latest album "pocket operations II: forty seconds only" <a href="https://www.bkrsclb.com/collections/music/products/pocket-operations-ii-forty-seconds-only-digital-album">here</a><br/>
+<br/>
+explore PO-33 <a href="/store/po-33">here</a><br/>
+<br/>
+</p>
+
+
+
+
+
+
+
+
+
+
+<p>
+<h3><a href="/now">hög sjö – overswum (teenage engineering remix)</a></h3>
+</p>
+
+
+
+
+<p>
+<small>MAY 4, 2023</small><br/>
+</p>
+
+
+
+<img src="/_img/6452ab3a3a1c89951b0a7219_512.webp" width="512"/><br/>
+
+
+
+
+<p>
+last week, a teenage engineering remix of the song "overswum" by the swedish prog band hög sjö was released, created by teenage engeering's own jonas and josefine, recorded at pontus winnbergs studio skolhaus.<br/>
+the creative process behind the remix involved experimenting with super collider to generate a random structure of the piece. the intention was to break away from traditional song structures and create something unpredictable and dynamic. the synthesized voices of the teenage engineering choir were added to create an otherworldly atmosphere in the music.<br/>
+</p>
+
+
+
+
+<img src="/_img/636cf975c14be942279afa1a_512.jpg" width="512"/><br/>
+
+
+
+<p>
+<small>OP–1 FIELD TOGETHER WITH TEENAGE ENGINEERING CHOIR</small><br/>
+</p>
+
+
+
+
+
+<p>
+the project was an experiment to see how the ideas and processes of product development could be translated into music creation.<br/>
+“the idea behind the remix was to create something that sounded like a <br/>
+half-broken toy were the gears sometimes would shift into place and create coherent music and sometimes just output stumbling tones and rythms”<br/>
+after creating the super collider soundscape we went to the skolhaus studio and recorded the teenage engineering choir along with more organic sounds like rhodes and old synthesizers.<br/>
+</p>
+
+
+
+
+<img src="/_img/6452ad203a1c89951b0a726c_512.webp" width="512"/><br/>
+
+
+
+<p>
+<small>PATRIK BERGER</small><br/>
+</p>
+
+
+
+
+
+<p>
+hög sjö is the artist moniker of the esteemed swedish producer, musician and songwriter patrik berger. his album with the same name was released earlier this year. <br/>
+listen to the song <a href="https://open.spotify.com/track/00Ilwg3lz5BFVAETbOukGU?si=ee86755e60b94dcd">here</a><br/>
+<br/>
+</p>
+
+
+
+
+
+
+
+
+
+<p>
+<h3><a href="/now">visualize with TX–6</a></h3>
+</p>
+
+
+
+
+<p>
+<small>APRIL 6, 2023</small><br/>
+</p>
+
+
+
+<img src="/_img/642c07f654c56c371305cf4a_512.webp" width="512"/><br/>
+
+
+
+
+<p>
+recently, producer nick hook and visual creator laurel romero were in town and swung by teenage engineering hq. playing around with some of our recent, and upcoming releases, laurel showed us how she’s been using TX–6 to live mix her visuals. using an ableton plug-in (‘rokvid’ in this case), she turned the multi-channel mixer into a midi controller, assigning different parameters to different channels. this allowed her to spontaneously mix her footage with a range of effects, allowing for free-flowing, one-off collaborations with nick during live performances.<br/>
+“nick and i wanted to discover a way to unite our art. we made several attempts to record, edit… but i felt that we were missing something. we needed to complement the project… then nick introduced me to the mixer, and an ableton plugin that would allow me to use it as a midi controller. i started exploring with videos that i had and it turns out that it was wonderful. it was exactly what i had been searching for.”<br/>
+</p>
+
+
+
+
+<img src="/_img/642e8a7834cc63d3400e4919_512.webp" width="512"/><br/>
+
+
+
+<p>
+<small>LAUREL ROMERO</small><br/>
+</p>
+
+
+
+
+
+<p>
+using the mixer as a midi controller was only the beginning of romero’s deep dive into how she can create unique visuals in the moment.<br/>
+“with the mixer, i have many options to move, control, raise, lower. so i think the task is to discover what other programs i can use, what can allow me to create more things? how can you use each button of the mixer and be able to suddenly combine two programs, as well as two screens, and be able to do it directly with the mixer. i don't know how many doors of creativity [are available]”<br/>
+</p>
+
+
+
+
+
+
+
+
+<p>
+<small>ROMERO LIVE MIXING VISUALS WITH NICK HOOK ON MUSIC.</small><br/>
+</p>
+
+
+
+
+
+<p>
+“something important that i learned on my path, working hand-in-hand with nick, is how to connect with people, and the tools play a part in that. the people that i’ve connected with have seen what i’m doing, and understand that it’s possible for them to do it too. you don’t need to be an expert, the tools can be any kind of gear, but [the mixer] has allowed me to connect with people who are interested in learning how i use it.”<br/>
+explore TX–6 <a href="/products/tx-6">here</a><br/>
+<br/>
+</p>
+
+
+
+
+
+
+
+
+
+<p>
+<h3><a href="/now">behind the sound pt.2:</a></h3>
+<h3>vinyl drum kit on OP–1 field.</h3>
+</p>
+
+
+
+
+<p>
+<small>MARCH 16, 2023</small><br/>
+</p>
+
+
+
+<img src="/_img/641194c3a1fd4eaa7d1566cb_512.webp" width="512"/><br/>
+
+
+
+
+<p>
+if you run through the drum sounds on OP–1 field, you’ll find ‘classix’, ‘minimo’, ‘grits’ and ‘vinyl’ - all created by our friends at samples from mars. started by producer, engineer and dj, teddy stuart, they’re a sample label based in nyc focused on bringing vintage and rare electronic instruments to your daw.<br/>
+</p>
+
+
+
+
+<img src="/_img/6411948da1fd4eaa7d15660d_512.webp" width="512"/><br/>
+
+
+
+<p>
+<small>RECORDING RIM SHOTS IN THE STUDIO</small><br/>
+</p>
+
+
+
+
+
+<p>
+“my team and i focus on capturing old drum machines, samplers, synthesizers and acoustic drums, and processing them through gear that excites us, like consoles, tape machines, and pressing our own vinyl.”<br/>
+</p>
+
+
+
+
+<img src="/_img/641194b1a1fd4eaa7d15667b_512.webp" width="512"/><br/>
+
+
+
+<p>
+<small>SAMPLING DIFFERENT PERCUSSION SOUNDS</small><br/>
+</p>
+
+
+
+
+
+<p>
+teddy has been playing guitar since he could form a c chord, but it was getting involved in music production that prompted a permanent shift in focus towards hip hop. he began expressing himself “in more sonic ways, by making beats and designing sounds. at the time, everything was done on a VS-880 multi-track and an SP-202, by playing drums, guitar and bass parts by hand.”<br/>
+</p>
+
+
+
+
+<img src="/_img/641194b9a1fd4eaa7d156699_512.webp" width="512"/><br/>
+
+
+
+<p>
+<small>MIXING THE SOUNDS TO PREPARE THEM FOR PRESSING</small><br/>
+</p>
+
+
+
+
+
+<p>
+jump to 2013. samples from mars is established with a goal of sharing <br/>
+“the history of these iconic (and sometimes forgotten) pieces of gear, their role in music, how we go about using them, and what that might mean for your music.” their unique and textured samples created from analog equipment was the key to crafting the vinyl drum kit for OP–1 field.<br/>
+</p>
+
+
+
+
+<img src="/_img/641194c0a1fd4eaa7d1566bd_512.webp" width="512"/><br/>
+
+
+
+<p>
+<small>CUTTING ONTO VINYL</small><br/>
+</p>
+
+
+
+
+
+<p>
+“we began by recording acoustic drum hits and sounds from some of our favorite drum machines. then we pressed that onto vinyl, and sampled the results cleanly in a mastering studio. after that, we scratched the record, to produce various sonic artifacts, and recorded more samples, processing them with eqs and compressors on the way in. finally, we grouped the sounds into kits that played well together and popped them on the OP–1 field.”<br/>
+</p>
+
+
+
+
+<img src="/_img/6411831ea1fd4eaa7d1562a9_512.webp" width="512"/><br/>
+
+
+
+<p>
+<small>FROM PRODUCTION TO DESTRUCTION, THE SEARCH </small><br/>
+<small>FOR THE PERFECT SONIC ARTEFACTS FOR VINYL DRUM KIT</small><br/>
+</p>
+
+
+
+
+
+<p>
+this attraction to raw and low-fi sound was how we first came to teddy’s attention, pocket operators were the gateway.<br/>
+“i was blown away by how gritty the sound was (uncommon for modern gear), and the innovative FX sequencing, form factor and low price was all very compelling. then, we made a sample pack out of it!”<br/>
+so how does it feel to create sounds that can inspire someone elses creative expression? “it’s the best part of the job! ...i’m most excited seeing music interact with the world around me.”<br/>
+explore OP–1 field <a href="/products/op-1">here</a><br/>
+<br/>
+</p>
+
+
+
+
+
+<a href="/products/op-1"><img src="/_img/627cab620e44b900044f3c11_512.png" width="512"/></a><br/>
+
+
+
+
+<p>
+OP–1 field<br/>
+</p>
+
+
+<p>
+$$$<br/>
+</p>
+
+
+
+
+
+
+
+
+
+<p>
+<h3><a href="/now">behind the scenes: </a></h3>
+<h3>field desk</h3>
+</p>
+
+
+
+
+<p>
+<small>MARCH 2, 2023</small><br/>
+</p>
+
+
+
+<img src="/_img/63e0e219e8f2d69b1218ae19_512.webp" width="512"/><br/>
+
+
+
+
+<p>
+field desk is a space truss constructed from recycled aluminum and assembled with a double-sided formica birch plywood desktop. a part of our field rail system, it’s not <a href="https://teenage.engineering/designs/frekvens">our first time creating furniture</a><br/>
+, but it is the first range available directly from our store. it is also used by us every day, starting as our very own in-house workspace solution.<br/>
+<br/>
+</p>
+
+
+
+
+<img src="/_img/640068d71488275ad0ffb2fa_512.webp" width="512"/><br/>
+
+
+
+<p>
+<small>EARLY SKETCHES</small><br/>
+</p>
+
+
+
+
+
+<p>
+“field desk is a part of ‘field rail system’ - a construction system that allows us to build whatever furniture we need, without any compromises, an opportunity to create our office environment exactly how we wanted it. we created with portability in mind, wanting a system of products that would be easy to move location when needed, evolving with its environment as the context changed.”<br/>
+christoffer is the lead designer on the project, taking over the original plans from our head of design, jesper, and head of mechanical engineering, guffe.<br/>
+</p>
+
+
+
+
+<img src="/_img/6400a1be1488275ad0ffba53_512.webp" width="512"/><br/>
+
+
+
+<p>
+<small>CHRISTOFFER OHLANDER</small><br/>
+</p>
+
+
+
+
+
+<p>
+“guffe created the core parts of the rail system, inspired by his background in camera rigging. the many fixing points on a rig allow for lots of different accessories and customizations.<br/>
+“we are an office with lots of people doing different jobs with different needs, from desk work to creating production jigs and making prototypes. the rail system allows for a range of add-ons using m5 screws, which you’ll see soon, but it also allows for your personal creations to be attached.”<br/>
+</p>
+
+
+
+
+<img src="/_img/63fca24e09b6d0d341523d14_512.webp" width="512"/><br/>
+
+
+
+<p>
+<small>FIELD DESK AT TEENAGE ENGINEERING HQ</small><br/>
+</p>
+
+
+
+
+
+<p>
+with the purpose of the system laid out, the opportunity to experiment with materials and production followed. in the current climate, both literally and figuratively, we were looking to produce locally with durable materials.<br/>
+“when i was working on the final iteration, we had the goal of bringing production to sweden. we were offered to use CIRCAL, recycled engineering grade aluminum, from our manufacturer Hydro. this quickly became the obvious choice for the extrusion rail system. the table top is birch plywood at the core, and formica laminated on both sides so it can be flipped over if ever worn down.”<br/>
+</p>
+
+
+
+
+<img src="/_img/63fca63f09b6d0d341523d6a_512.webp" width="512"/><br/>
+
+
+
+<p>
+<small>FIELD RAIL SYSTEM</small><br/>
+</p>
+
+
+
+
+
+<p>
+field desk and rail system is our very own everyday workspace. since we liked it so much, we thought you might too. <br/>
+explore field desk <a href="/products/field-desk">here</a><br/>
+<br/>
+</p>
+
+
+
+
+
+
+
+
+
+<p>
+<h3><a href="/now">a chat with kenny beats</a></h3>
+</p>
+
+
+
+
+<p>
+<small>FEBRUARY 23, 2023</small><br/>
+</p>
+
+
+
+<img src="/_img/63f76406fdf3b6231eb73ffc_512.webp" width="512"/><br/>
+
+
+
+
+<p>
+over the last three years, los angeles based producer kenny beats has balanced back-to-back studio sessions with an unavoidable online presence, maintaining his youtube channel (the cave), twitch live streams (beat battle), and discord community, using the platforms to pull back the curtain on his production process. now with his debut album out, it’s time to switch up the pace, <br/>
+“a couple years ago it was two sessions every single day… so now i’m trying to make a little more time for dog walks and family and friends.”<br/>
+we doubled down on collabs with kenny this month to coincide with his last ever beat battle and the limited edition LOUIE PO-33, the latter celebrating the release of his debut album. “there was so much talent that it just spun out of control, and you guys were a part of some of our very early battles. so to wrap it up and have my final battle be with teenage engineering, it's crazy, because i never saw past the first few we did.”<br/>
+</p>
+
+
+
+
+<img src="/_img/63f7717e0311f922eecc32b4_512.webp" width="512"/><br/>
+
+
+
+
+
+
+
+<p>
+kenny’s work is a result of obsession. he possesses an enviable ability to identify artists, tracks ids, compositional idiosyncrasies, and rare gear on demand - all the while, sharing his enthusiasm and knowledge with a growing audience of aspiring musicians and seasoned pros alike. while he’s worked with the likes of vince staples, idles, denzel curry and rico nasty, his career can only be discussed with reverence to the community that he has nurtured from day one.<br/>
+“that's the most important thing, more than a platinum record, more than any accolades you get… making a couple of 100 people inspired enough to start playing an instrument or start songwriting or whatever it is, that'll actually change someone's life. me getting a trophy doesn't really do much for anybody.”<br/>
+</p>
+
+
+
+
+<img src="/_img/63f770f8fdf3b6231eb74108_512.webp" width="512"/><br/>
+
+
+
+
+
+
+
+<p>
+kenny first used OP-1 in the studio on “trina” by smino, but it might be surprising to some that teenage engineering choir has been the kind of creative disruption he’s always looking for.<br/>
+“i put the choir all around the room and played my OP–1 with it the first couple days, then i started realizing… i've never been able to pick and choose where I'm placing every single note around the studio as I'm playing a chord. there's stuff I'm using from you guys right now that I'm having trouble replicating in recorded music. just to be having conundrums like that in the studio, that's not something that happens often, you know. i just like things that spark a different part of my brain. I'm always worried that I'm going in circles, creating too many rules for myself, so if someone helps me break a rule, I'm in.<br/>
+“...if anyone reading this has ever watched hainbach on youtube, or anything like that; these are the kind of random gadgets that are coming up in songs with hit writers, and are making people excited in rooms where everybody's used to sitting at a rhodes or a piano or guitar or with somebody making a beat on a daw in front of them… are they real music things? or not? what is a real music thing? but whenever i put something in my studio and it looks weird, or someone doesn't know what it is, everybody who makes a lot of music gravitates towards that because they've seen everything else… things that might seem goofy or funny or a novelty thing, can end up being in a very, very serious piece of music.”<br/>
+</p>
+
+
+
+
+<img src="/_img/63f76f28fdf3b6231eb740c4_512.webp" width="512"/><br/>
+
+
+
+
+
+
+
+<p>
+when it came to collaborating, it was simply a question of what and when. <br/>
+then with kenny releasing his debut album on xl records, the vision of what that could look like became a little clearer. <br/>
+“[the LOUIE PO-33] is the only place where i’ve given away sounds from my record. i've never shown anyone what i’ve used, i've never talked about what samples i’ve programmed with and i've never put out a sample pack… so people got to, for the first time, decode a little bit of what I've been using.<br/>
+“these collaborations are rooted in that feeling that we both have of giving someone that gift of going from, ‘I'm a huge fan of music’ to ‘i make music’. <br/>
+that is a life-changing thing.”<br/>
+explore PO-33 <a href="https://teenage.engineering/store/po-33/">here</a><br/>
+<br/>
+</p>
+
+
+
+
+
+
+
+
+<a href="/now">/now</a><br/>
+<p>
+<h3><a href="/now">OP–1  update: vocoder</a></h3>
+</p>
+
+
+
+
+<p>
+<small>JANUARY 12, 2023</small><br/>
+</p>
+
+
+
+<img src="/_img/63bead3e503fb693abc47d67_opt.svg" width="512"/><br/>
+<img src="/_img/63bffe09a9917e66c8ba8e6e_opt.svg" width="512"/><br/>
+
+
+
+
+<p>
+OP–1 field, now with vocoder! the vo(ice)(en)coder revolutionized music since it's introduction to the world by homer dudley at bell labs in 1938. designed to analyze and synthesize the human voice, iconic artists have employed the device throughout the years to make their synthesizers sing, from wendy carlos and bob moog, to kraftwerk, herbie hancock, beastie boys, tupac, daft punk, and countless others. now it’s your turn.<br/>
+</p>
+
+
+
+
+
+
+
+
+
+<p>
+<small>OUR FAVORITE SCIENTISTS MICKE REUTER & MIKAEL ERICSSON ARE BACK</small><br/>
+<small>AT IT DOING IMPORTANT SCIENTIFIC RESEARCH FOR OP–1 FIELD VOCODER</small><br/>
+</p>
+
+
+
+
+<p>
+how to install<br/>
+now you too can try this effect, by downloading and installing the new free firmware update for OP–1 field.<br/>
+<ol><li>download and install the firmware</li><br/>
+<li>press synth</li><br/>
+<li>hold shift and press any sound slot key 1–8</li><br/>
+<li>load vocoder</li><br/>
+</ol>operation<br/>
+with the vocoder active, press mic to select the input source. this is the input for the voice, the modulator, and you can use any input source, such as the built-in microphone, a headset or even the radio or usb. after you've selected your input source, speak and play notes on the musical keyboard. you should now hear your OP–1 field burst into beautiful singing.<br/>
+in the OP–1 field vocoder, the audio input (the modulator/your voice) is passed through a bank of 20 filters with controllable bandwidth and formant shift. the carrier signal is built-in: a custom 7-oscillator polyphonic synth that goes from a single sawtooth to pure white noise. as always, everything is fully real-time and modulate-able. the controls at your hand are as follows:<br/>
+<ul><li>blue is a one knob synth engine</li><br/>
+<li>ochre is formant shift</li><br/>
+<li>gray is number of bands</li><br/>
+<li>orange controls the dry/wet mix</li><br/>
+</ul>download the lastest firmware <a href="/downloads/op-1/field">here.</a><br/>
+<br/>
+</p>
+
+
+
+
+
+
+
+
+<p>
+<small>TUTORIAL ON HOW TO USE THE VOCODER</small><br/>
+</p>
+
+
+
+
+<a href="https://teenage.engineering/store/op-1-field"><img src="/_img/638e142cc1630dc8803441ce_512.webp" width="512"/></a><br/>
+
+<a href="https://teenage.engineering/store/m-1/"><img src="/_img/63c01988310c7cc0d47395e5_512.webp" width="512"/></a><br/>
+
+
+
+
+<p>
+OP–1 field<br/>
+</p>
+
+
+
+<p>
+M-1<br/>
+</p>
+
+
+
+
+
+
+
+
+
+<p>
+<h2><a href="/now">behind the scenes: </a></h2>
+<h2>TP–7</h2>
+</p>
+
+
+
+
+<p>
+JUNE 5, 2024<br/>
+</p>
+
+
+
+<img src="/_img/66585410da9be9e2b8cf0814_512.webp" width="512"/><br/>
+
+
+
+
+<p>
+we released TP–7 in may 2023, but the seed for the project actually started all the way back in 2018. in fact, TP–7 decided the physical form that the rest of the field series would take, even influencing the features on OB–4. to understand how it all came together, we spoke to some of the people who helped bring the TP–7 field recorder to life during various stages of its development.<br/>
+guffe is head of mechanical engineering, involved in almost anything to do with mechanics here, tomas is the electrical engineer who has been responsible for the electronics and software on TP–7 from the very beginning, and marcus is the product owner overseeing the final stages of product development.<br/>
+</p>
+
+
+
+<img src="/_img/66585410da9be9e2b8cf0808_512.webp" width="512"/><br/>
+
+
+
+
+
+<p>
+what was the original idea behind TP–7?<br/>
+guffe: jesper had sketched a modular audio/studio system with numerous fantastic designs, which were quite different in style from what eventually became the final product, but definitely laid the foundation for what the field system would become. at some point, jesper and i, along with others at teenage engineering, discussed the idea of creating a new/modern nagra – a world-class portable audio recorder in terms of both sound quality and design.<br/>
+we began evaluating various form factors that felt magical, like a snus box, cigarette pack, soda can, etc. i built an mdf model based on one of jesper's sketches, and it is almost identical to the final design. over the years, the project went through many iterations internally, although the external design remained consistent throughout.<br/>
+tomas: i started working on the first revision of the electronics for TP–7 back in april 2018. having recently worked on the raven r for baidu, we wanted to take the things we learned about motor control and bring it to a recording device. a lot of effort went into getting a responsive and intuitive feel using the reel. <br/>
+one of the intentions going in was that you had to be able to scratch on it. we started on TP–7 before deciding to motorize OB–4, so the only reason we could [make the OB–4 motorized wheel function] was due to the work we did on the TP–7 motor.<br/>
+</p>
+
+
+
+<img src="/_img/66585410da9be9e2b8cf0803_512.webp" width="512"/><br/>
+
+
+
+
+
+<p>
+what were some of the hurdles you had to overcome when bridging the design with functionality?<br/>
+guffe: creating a small premium product packed with mechanics, electronics, antennas, and more is always a demanding and time-consuming task. we have also worked hard to ensure repairability and ease of assembly, which significantly increases the complexity during the development stage.<br/>
+it is important to note that this is not a high-volume product, so we have constantly had to invent new ways to solve problems. in contrast to a product sold in millions, where new manufacturing methods and machines can be developed to address issues, our approach had to be more innovative and resourceful.<br/>
+for this particular product, i would say the biggest challenges have been the antenna (in-molded) and the three different plastics that are molded into the metal before it is cnc milled and surface treated. <br/>
+</p>
+
+
+
+<img src="/_img/66585411da9be9e2b8cf0830_512.webp" width="512"/><br/>
+
+
+
+
+
+<p>
+tomas: initially the idea was to use the same battery as OP–Z and an sd-card for storage, which required a stack of 7(!) different pcbs to fit everything in the correct position. but the battery life would have been too short, sd card performance too unpredictable and the antenna wasn't working well enough. so we eventually redesigned the electronics to what it looks like today, which also made it much easier to fit everything we wanted.<br/>
+marcus: it’s also a challenge to make an intuitive user interface based on the tiny display and limited amount of buttons. with this product, we also tried to reach a broader crowd than usual which was its own challenge.<br/>
+being a multi-track high resolution audio device, there were some tough demands on the system to handle a lot of data in realtime. then of course the spinning wheel with its motor and sensors adds a huge amount of complexity for all teams, requiring many hours of work to get the desired function.<br/>
+guffe: to my knowledge, no one else has done what we have achieved!<br/>
+</p>
+
+
+
+
+<a href="/products/tp-7"><img src="/_img/66588a3cda9be9e2b8cf581b_512.webp" width="512"/></a><br/>
+
+
+
+<p>
+TP–7<br/>
+</p>
+
+
+<p>
+$$$<br/>
+</p>
+
+
+
+
+
+
+
+
+
+<p>
+<h2><a href="/now">B–1 and the first</a></h2>
+<h2>generative feature film.</h2>
+</p>
+
+
+
+
+<p>
+MAY 31, 2024<br/>
+</p>
+
+
+
+<img src="/_img/6659e1d1eeddd1183ffc80b7_512.webp" width="512"/><br/>
+
+
+
+
+<p>
+how do you make a documentary about a prolific artist who has been working for over five decades, across multiple mediums, and holds an archive of over 500 hours of footage? director gary hustwit may have the answer.<br/>
+</p>
+
+
+
+<img src="/_img/6659c284eeddd1183ffc5ed1_512.webp" width="512"/><br/>
+
+<p>
+GARY HUSTWIT AT A LIVE SCREENING OF ‘ENO’.<br/>
+</p>
+
+
+
+
+
+<p>
+'eno' is the first documentary about the pioneering artist brian eno, and the first generative feature film. the narrative is structured at the whim of 'brain one', the proprietary generative software created by hustwit and digital artist, brendan dawes. using an algorithm trained on footage from eno's extensive archive and hustwit's interviews with eno, it pieces together a film that is unique at each viewing. as the order of scenes perpetually changes and what’s included is never certain, the version you see is the only time that iteration will exist.<br/>
+"in some ways, the film is kind of like exploring the insides of his brain… it's different memories and ideas and experiences over the 50-year<br/>
+plus time frame."<br/>
+</p>
+
+
+
+<img src="/_img/6659c284eeddd1183ffc5ec7_512.webp" width="512"/><br/>
+
+<p>
+DIGITAL ARTIST BRENDAN DAWES AND HUSTWIT<br/>
+GENERATING THE FILM LIVE.<br/>
+</p>
+
+
+
+
+
+<p>
+according to hustwit, brian eno had no interest in making a biographical documentary "because they were always one person's version of another person's story. and he didn't wanna be anyone else's story."<br/>
+"i started working with brendan dawes, the programmer and digital artist, and we built a demo version of the initial software using a lot of the footage, music and material from ‘rams’ (hustwit's previous film, scored by eno). <br/>
+i went back and i showed it to brian, maybe six months later, and he was just blown away by it. he just said, 'this is something that i've wanted to do for so long.' he obviously uses generative technology in his music and in his visual art, but he hadn't done anything with video, and this is sort of a combination of a generative art project and a traditional documentary."<br/>
+how the software works is a combination of mapping the footage and coding a sense of narrative structure, "looking at scenes and different types of footage and using a taxonomy of what it's doing or representing. it's not just metadata, it's emotional data. and then you have to look at what makes an engaging film: there's a rhythm in the types of scenes and the connections between them, and there's a feeling of progression as you're watching the film."<br/>
+</p>
+
+
+
+<img src="/_img/6659c284eeddd1183ffc5ed8_512.webp" width="512"/><br/>
+
+<p>
+'ENO' AND B–1 HAVING ITS LONDON PREMIERE AT THE BARBICAN.<br/>
+</p>
+
+
+
+
+
+<p>
+given the current discussions around ai and its impact on artistry and authorship, creating a film reliant on the technology is a controversial but inevitable move. however, the software that hustwit and dawes have built may just hit the sweet spot where human meets machine; where the algorithm works to respect the material and facilitate an artistic vision.<br/>
+"i always say it's artist's intelligence, it's not artificial intelligence. because we've programmed the system, it's not like we trained it on other people's films or something. we programmed it with our intelligence to do a very specific thing, which is to make this film but make it different, make it work from an editorial standpoint regardless of what individual footage and scenes get put in.<br/>
+"he had 500 hours of footage in his archive that we got access to. you can't even get 1% of that into a normal film. so this approach was a way that we could dip into a lot of that material, or at least have it be in the mix somewhere… it's very good for dealing with huge amounts of information."<br/>
+</p>
+
+
+
+<img src="/_img/6659c284eeddd1183ffc5ecc_512.webp" width="512"/><br/>
+
+<p>
+B–1 TAPE REELS AND CONTROLS<br/>
+GENERATING THE FILM FOR A LIVE SCREENING.<br/>
+</p>
+
+
+
+
+
+<p>
+to accompany this one-of-a-kind viewing experience, we designed a hardware version of 'brain one'. B–1 is a deck with two spinning reels and controls: play, rewind, rec and generate; the latter being used to generate the sequences of the film, which can be seen on the screen in real time.<br/>
+"people just freak out when they see it, everyone wants to know what it's doing, everyone wants to press the buttons, everybody wants to rock the reels.<br/>
+"[B–1] is now this embodiment of the idea of a generative film. because there's never been a generative feature film before. there's never been a generative feature filmmaking machine before. so i think that both i and brendan, and everybody that we worked with at teenage engineering, just like those kinds of challenges."<br/>
+you can see B–1 in action at a selection of the <a href="https://www.hustwit.com/events">'eno' live screening events</a><br/>
+ this year, each audience viewing a one-off version of the film. "there's something kind of special about that. and i also think it's really important to get people back into theaters. this is a way to help that happen, to create a unique communal experience."<br/>
+<br/>
+</p>
+
+
+
+
+
+
+
+
+
+<p>
+<h2><a href="/now">listening to plants with modern biology</a></h2>
+</p>
+
+
+
+
+<p>
+MAY 23, 2024<br/>
+</p>
+
+
+
+<img src="/_img/664c7bece443e6f0c23b80d0_512.webp" width="512"/><br/>
+
+
+
+
+<p>
+modern biology, aka tarun nayar, plugs into mushrooms and he wants us to listen. by sending a small electric current through mushrooms and plants (anything with a bioelectric pulse) he creates ambient soundscapes conducted by nature, inviting us to join him in paying attention to the life that is pulsing all around us.<br/>
+</p>
+
+
+
+<img src="/_img/664c7c1ae443e6f0c23b80e4_512.webp" width="512"/><br/>
+
+<p>
+TARUN NAYAR, AKA MODERN BIOLOGY<br/>
+(PHOTO BY JOHANNA ROBERTSON)<br/>
+</p>
+
+
+
+
+
+<p>
+"this approach grew out of 'the secret life of plants', a seminal book from 1973. the first chapter focused on this guy called cleve backster, who was at the time the cia's top lie detector expert. he got to doing these crazy experiments with plants, where he basically was using lie detectors on plants to see if they could tell whether he was telling the truth or not. in a lie detector, you have this little sensor which basically allows your thumb to connect a circuit, and as you get nervous, as you lie, you get sweaty and the connectivity increases. so with the plants, all you're doing is placing the electrodes, with a tiny current running between them, and as that current jumps up and down due to natural bioelectric processes in the plant or the mushroom, that's when the notes go up and down."<br/>
+nayar uses a device which converts these impedance changes into control voltage and gate signals that can be used as a generative source on a modular synthesizer. he then riffs off this randomized composition, running the notes through his synthesizers of choice, often an OP–1, adding effects to create ambient soundscapes.<br/>
+</p>
+
+
+
+
+
+
+<p>
+WATCH AND LISTEN TO MODERN BIOLOGY CREATE MUSHROOM MUSIC WITH OP–1.<br/>
+</p>
+
+
+
+
+
+<p>
+"[the sensor device] is something that you can build for 25 bucks. i'm using a 'scíon' at the moment, from a scottish synth company. i've been drawn to the way that these scottish guys have done it, i think it's the most elegant and musical interpretation, but you can build your own [sensor] with an arduino or a<br/>
+raspberry pi."<br/>
+nayar is just one in a field of like minded artists who have turned their attention to the natural world as a source of direct inspiration – the seed of which is often attributed to the demanhur foundation with the release of the record "music of the plants" in the 1970s. <br/>
+</p>
+
+
+
+<img src="/_img/664f2dfa8d52784a83223e3f_512.webp" width="512"/><br/>
+
+<p>
+A MODERN BIOLOGY FIELD TRIP FEATURING OP–1 FIELD <br/>
+</p>
+
+
+
+
+
+<p>
+growing up playing indian classical music, nayar focussed on the tabla (wooden hand drums), which he played in the band 'delhi 2 dublin', before adding synths to the lineup. "i'd always been fascinated with synthesizers because they were like the easiest way to create harmony and melody for somebody who didn't play a melodic instrument."<br/>
+"i was up on this little island north of [my home in] vancouver for most of the pandemic, surrounded by nature with all of my synths. one of my friends brought over… a plant bioelectricity converter, and we plugged it into the modular synthesizer."<br/>
+already far down the road of generative synthesis, nayar connected his first plant, a salmonberry bush, and understood that he "could use the natural world as the source for generative information"<br/>
+</p>
+
+
+
+<img src="/_img/664c81bae443e6f0c23b8179_512.webp" width="512"/><br/>
+
+<p>
+MODERN BIOLOGY IN STOCKHOLM<br/>
+(PHOTO BY BETSEY GUSMAN zumBETSEYPH) <br/>
+</p>
+
+
+
+
+
+<p>
+since then, nayar has performed around the world in forests (what he calls "field trips"), and more conventional venues. he often begins by asking his audience to take in their surroundings and forage for a sound source.<br/>
+when we join nayar on his field trip in stockholm, it's early spring so we are low on mushrooms, but flush with fresh foliage. he plugs into a cherry blossom, which he picked up in town earlier in the day, and it begins to pulse. what follows is a meditative experience that draws our attention to our bodies and the environment.<br/>
+"i've chosen to do these events outside with silent disco style headphones,...there's something about the field trips itself with headphones, where you're outside in community, but you're sort of in your own zone, and it's really a prompt to connect with nature in a way that feels good for you."<br/>
+"i think that there is this kind of ineffable magic that happens, and i think everyone's experience is quite personal."<br/>
+</p>
+
+
+
+<img src="/_img/664c81bbe443e6f0c23b8183_512.webp" width="512"/><br/>
+
+<p>
+MODERN BIOLOGY IN STOCKHOLM<br/>
+(PHOTO BY BETSEY GUSMAN zumBETSEYPH) <br/>
+</p>
+
+
+
+
+
+<p>
+"i do appreciate the movement that i've seen at the moment amongst synth makers and designers, making stuff more portable, because i think that really opens [things] up… just being out in nature gives rise to a whole other set of creative possibilities, and having people thinking about that when they're designing instruments is very helpful."<br/>
+out on our field trip, a few kids get up to facilitate the electrical circuit by holding hands, before a "mushroom tickler" is called upon to activate some energy in a stone morel mushroom (poisonous but they eat them in finland). nearby, a man stands in the middle of a clearing and faces the sun, catching the day's last light.<br/>
+</p>
+
+
+
+<a href="/products/op-1"><img src="/_img/664c8436e443e6f0c23b822b_512.webp" width="512"/></a><br/>
+
+<a href="/products/po/modular"><img src="/_img/664c8831e443e6f0c23b827b_512.webp" width="512"/></a><br/>
+
+
+
+<p>
+explore OP–1 <br/>
+</p>
+
+
+<p>
+explore POM-400<br/>
+</p>
+
+
+
+
+
+
+
+
+<p>
+<h2><a href="/now">behind the scenes: </a></h2>
+<h2><a href="/now">CM–15</a></h2>
+</p>
+
+
+
+
+<p>
+MAY 16, 2024<br/>
+</p>
+
+
+
+<img src="/_img/6644a70aed98c5734bb3d74f_512.webp" width="512"/><br/>
+
+
+
+
+<p>
+one year ago we released CM–15 into the world; our tiny, portable, studio microphone with a large-diaphragm capsule, integrated audio converter, built-in preamp, 3.5 mm jack and a 48v phantom powered mini xlr. it was a lot to fit into a small frame – but we did it. all thanks to a dedicated team, including engineers alberto and marcus.<br/>
+</p>
+
+
+
+<img src="/_img/6644a711ed98c5734bb3d75d_512.webp" width="512"/><br/>
+
+
+
+
+<p>
+alberto: i'm a senior electronic engineer and i design and develop electronic systems for our products. my responsibility is often across the whole lifecycle from block schematics sketched to mass production. in the case of CM–15, since the r&d phase was so challenging and extended, i grew into being responsible for the whole product over time, together with marcus.<br/>
+marcus: i'm a mechanical engineer and i’ve been involved with all the field products, including CM–15. the mechanical engineering process at teenage engineering is very experimental and iterative and often requires unusual solutions or customized parts in order to meet the design requirements. i have been involved in most of these projects from the early design to finally putting the parts on the factory floor and starting production.<br/>
+</p>
+
+
+
+<img src="/_img/6644a70aed98c5734bb3d74a_512.webp" width="512"/><br/>
+
+
+
+
+<p>
+can you tell us what the original idea for CM–15 was, and some of the inspirations?<br/>
+alberto: the original idea was to create a portable microphone without compromising the quality you would normally get in studio settings, and one that completed the field mini series.<br/>
+marcus: The CM–15 project was initiated as a crazy idea to make a microphone in the same size as the TP–7, which was the original product developed in the field series. the size and thickness was designed many years before, but the final form was heavily influenced by the field desk clamp system and many of our other internal designs. it was actually frankenstein-ed together from an early prototype of a speaker grille inspired by the OD-11 and a napkin sketch of a microphone.<br/>
+</p>
+
+
+
+<img src="/_img/6644a710ed98c5734bb3d758_512.webp" width="512"/><br/>
+
+
+
+
+<p>
+what were some of the biggest challenges you had to overcome when bridging the design with functionality?<br/>
+alberto: it's a long list! but first of all, power and power consumption. we had to deal with an externally provided 48V input that is considered "high" in consumer electronics, which has a limited current available. implementing the automatic power switching between this voltage and much smaller voltages like 5V from usb and 3.7V from the battery, and doing it efficiently enough, was the first challenge. <br/>
+the second challenge was size: we had to deal with huge resistances up to 500MOhm to provide a stable polarization voltage of 80V to the capsule, on a very dense pcb and with the aluminum enclosure in proximity. when your circuit functionality depends on such a big resistance, you have to consider elements like moisture, dust and residue. proximity can totally disrupt the system. another size-related issue was the limited space on the pcb that required a sophisticated high-density design with digital and analog sections separated from each other on a 55x20mm pcb, while keeping the noise level at 11dbA.<br/>
+last but not least, acoustics: the sides of the CM–15 are quite thick, and that created some acoustic imperfections that we had to compensate for both with electronics equalization at the preamp stage, and at a mechanical level. the parallel sides of the case created a standing wave at around 7 kHz that we reduced by introducing a custom foam. this is part of how the sound of CM–15 came to be, from design limitations.<br/>
+marcus: typically, microphones don't have any nearby walls to reflect incoming audio near the capsule as it can cause cancellation or amplification at certain frequencies. however, with some iteration and creative work, we were able to tame the effect to a more respectable level. as a plus, the resulting frequency response of the microphone works as a natural passive de-esser on vocals which gives our microphone a unique character that can be hard to obtain with other designs. <br/>
+</p>
+
+
+
+<img src="/_img/6644a707ed98c5734bb3d744_512.webp" width="512"/><br/>
+
+
+
+
+<p>
+with all that said, what were some of your favorite things about the project?<br/>
+alberto: the friendship with marcus that grew from navigating international manufacturing challenges is for sure number one. then the satisfaction of bringing a product to life that we thought was impossible. and then there's everything i have learned about audio and the consumer electronics industry in general! i'm proud of the final product. it's a superior-sounding microphone, versatile as the whole field mini-series – it's timeless. i see it as a product with longevity, which is very important for me. <br/>
+marcus: i agree with alberto, i'm very glad that the final result is a timeless device that will work as a versatile companion for music creation for many years in the future. it's been great to work with alberto, he's become a close friend, and it’s clear to me now that you can do so much with a small team and a large dose of willpower! <br/>
+</p>
+
+
+
+<a href="/products/cm-15"><img src="/_img/6644a8f3ed98c5734bb3d86b_512.webp" width="512"/></a><br/>
+
+<a href="/store/tripod-mini/"><img src="/_img/6644a90ced98c5734bb3d899_512.webp" width="512"/></a><br/>
+
+
+
+<p>
+explore CM–15<br/>
+</p>
+
+
+<p>
+explore tripod mini<br/>
+</p>
+
+
+
+
+
+
+
+
+<p>
+<h2><a href="/now">sample generator by modem </a></h2>
+</p>
+
+
+
+
+<p>
+APRIL 11, 2024<br/>
+</p>
+
+
+
+
+<img src="/_img/6617be3bfc852eb1b9ab9c15_opt.svg" width="512"/><br/>
+
+
+
+
+<p>
+last year our friends at modem, a design and innovation studio, conducted an audiovisual <a href="/now/2022#modem-mobile">experiment with the OP–Z</a><br/>
+. now they're back with a new project for EP–133 K.O II.<br/>
+<br/>
+</p>
+
+
+
+
+<p>
+inspired by our <a href="apps/ep-sample-tool">EP sample tool</a><br/>
+, they created a sample generator that turns text prompts into unique samples. feed a description of a feeling or sound to the sample generator and let the tool generate a unique sound. <br/>
+<br/>
+modem, together with bureau cool, have designed and engineered the sample generator using meta audiocraft's open-source audio model. an experiment aimed to merge traditional sampling techniques with technology.<br/>
+</p>
+
+
+
+<img src="/_img/66169050b7d5d9632b8fbee0_512.webp" width="512"/><br/>
+
+
+
+
+<p>
+the sample generator is available to use for a limited time. to give it a spin, this is how you do it:<br/>
+step 1: generate samples<br/>
+simply describe the sound you want to hear in text, from a "shredding guitar riff" to a "jazz flute solo" and let the sample generator transform your vision into audio.<br/>
+step 2: transfer samples<br/>
+download the auto generated samples as a .wav file and transfer them to the EP–133 K.O. II using the teenage engineering <a href="apps/ep-sample-tool">EP sample tool</a><br/>
+. <br/>
+<br/>
+step 3: make beats<br/>
+sequence your generated samples on the EP–133 <br/>
+K.O. II, tweak them to your liking, and start making beats.<br/>
+explore the <a href="https://aisamplegenerator.com/">sample generator</a><br/>
+<br/>
+learn more about EP–133 K.O. II <a href="/products/ep-133">here</a><br/>
+<br/>
+</p>
+
+
+
+
+
+
+
+
+
+<p>
+<h2><a href="/now">OP–1  louder, thinner</a></h2>
+<h2>and 100 times better</h2>
+</p>
+
+
+
+
+<p>
+APRIL 5, 2024<br/>
+</p>
+
+
+
+<img src="/_img/660ff782a8298171039e80d7_512.webp" width="512"/><br/>
+
+
+
+
+<p>
+OP–1  is the evolution of the OP-1, injected with more than a decade of ideas, refinements and improvements. let's dive into just some of the 100 new features:<br/>
+</p>
+
+
+
+
+<img src="/_img/660ff834a8298171039e80f9_opt.svg" width="512"/><br/>
+
+
+
+
+<p>
+dimension synth<br/>
+the new subtractive synth engine creates the most lush, analog sounds you can get on this powerful little machine. get experimental and combine it with the lfo, it's a versatile synth for all kinds of sound design.<br/>
+</p>
+
+
+
+
+<img src="/_img/660ff8c5a8298171039e8115_opt.svg" width="512"/><br/>
+
+
+
+
+<p>
+all new effects<br/>
+with the new reverb effect, mother, you can create nostalgic pads and textures. terminal is a bit crusher effect with an anti-aliasing feature that gives you just the right amount of lo-fi goodness.<br/>
+</p>
+
+
+
+
+<img src="/_img/660ff93aa8298171039e812d_opt.svg" width="512"/><br/>
+
+
+
+
+<p>
+stereo functionality<br/>
+while the original OP-1 was known for easy and fast sampling, OP–1  turns it up a notch with stereo sampling. stereo functionality brings more life and depth to your music. two channels = double the fun!<br/>
+</p>
+
+
+
+
+<img src="/_img/660ffa42a8298171039e8153_opt.svg" width="512"/><br/>
+
+
+
+
+<p>
+velocity sensitive keys<br/>
+velocity sensitive keys turned OP–1  into an expressive instrument with dynamic playing power, especially drums. you can also use it with internal sequencers, and over external midi, when using<br/>
+OP–1  as the main controller for other devices.<br/>
+</p>
+
+
+
+
+<img src="/_img/660ffb54a8298171039e817b_opt.svg" width="512"/><br/>
+
+
+
+
+<p>
+vocoder<br/>
+no more pedals. the vocoder update allows OP–1  to use any input source as a modulator. the audio input is passed through 20 filters with controllable bandwidth and formant shift. the carrier signal is a custom 7-oscillator polyphonic synth that goes from a single sawtooth to pure white noise.<br/>
+</p>
+
+
+
+
+<img src="/_img/660ffb55a8298171039e8182_opt.svg" width="512"/><br/>
+
+
+
+
+<p>
+four tape styles<br/>
+OP–1  has four tape styles to choose from, each adding their own unique texture to your tracks: studio 4-track for clean studio recording, vintage 4-track for that warm, saturated 70s feel, porta 4-track gives a lo-fi, noisy sound, and disc mini is a purely digital compressed 90s sound.<br/>
+</p>
+
+
+
+
+<img src="/_img/660ffb55a8298171039e8184_opt.svg" width="512"/><br/>
+
+
+
+
+<p>
+fm transmission<br/>
+tune into the radio, or send out to one. OP–1  has a built-in fm transmitter and receiver to sample from the radio directly through your OP–1 , or transmit audio to your OB–4 to use it as a studio monitor, or from the backseat to your car stereo.<br/>
+</p>
+
+
+
+
+
+<p>
+explore all the 100 new features<br/>
+</p>
+
+
+
+
+<a href="/products/op-1"><img src="/_img/627cab620e44b900044f3c11_512.png" width="512"/></a><br/>
+
+
+
+<p>
+OP–1 <br/>
+</p>
+
+
+<p>
+$$$<br/>
+</p>
+
+
+
+
+
+
+
+
+
+<p>
+<h2><a href="/now">OP–1 club</a></h2>
+</p>
+
+
+
+
+<p>
+MARCH 14, 2024<br/>
+</p>
+
+
+
+<img src="/_img/65e6d13ad9ead9f6e17882fa_512.webp" width="512"/><br/>
+
+
+
+
+<p>
+OP–1 club is a collective of musicians and producers based in mexico city who perform together with a bunch of OP–1s, and other teenage engineering gear, at events around the city and beyond. we caught up with orestes, bernardo, ferdi and sami to find out what OP–1 club is all about.<br/>
+</p>
+
+
+
+<img src="/_img/65e6d13bd9ead9f6e1788315_512.webp" width="512"/><br/>
+
+
+
+
+<p>
+who are you and what do you do?<br/>
+orestes: i am a musician from venezuela living in mexico, mixing jazz, hiphop and traditional music from my country. i also work with many latin american artists and most of the time i'm on tour with many friends. i've made music for tv series like ''godfather of harlem'' and also for video games like ''ufc 5''. i've also collaborated with run the jewels, nick hook, danny ocean, akapellah, apache, micro tdh and neutro shorty. <br/>
+bernardo: i'm bernardo pérez, mexican musician, composer and producer. i have a solo project called 'real suabidad' and a two man band called 'bicho blanco'. i produce other people's music, i score short films, dance films and commercials. i also host a weekly radio show.<br/>
+ferdi: i'm fer gonzález a.k.a mezcalibur, musician and producer from cdmx. i've been producing music for a while, currently finishing some tracks of my own. i’ve always been influenced by (mostly) heavy electronic music like breakcore, dubstep, jungle, uk garage, idm and obviously all the latin music subgenres that have been emerging these last few years, like moombathon, neoperreo, guaracha and reggaeton, to name a few.<br/>
+sami: i'm sami mendoza, musician and producer from mexico. i play with different artists mostly hip hop, rnb and jazz music. <br/>
+</p>
+
+
+
+
+
+
+<p>
+OP–1 CLUB "AGUA VERDE" <br/>
+</p>
+
+
+
+
+
+<p>
+tell us about OP–1 club, when and why did<br/>
+you start it?<br/>
+bernardo: it started formally some time during 2021. some of us had been getting together to jam only with teenage engineering gear. after a couple of times doing this it was clear there was great chemistry between us and a fascination with the possibilities these devices would allow. <br/>
+orestes: after several videos, there was one that went <a href="https://www.instagram.com/timbaland/p/CURYxhOgfYr/">viral</a><br/>
+. i remember that many important musicians shared it, including timbaland, and that's when we decided to create the band. OP–1 club began as a project of ours but it really has a collective vision that over time will Include several visual artists, producers, creatives, and all lovers of teenage engineering, like us. i am very lucky to have a band with my favorite latin americans.<br/>
+<br/>
+</p>
+
+
+
+<img src="/_img/65e6d13ad9ead9f6e1788306_512.webp" width="512"/><br/>
+
+
+
+
+<p>
+run us through what someone can expect from an OP–1 club event?<br/>
+orestes: the OP–1 club shows are incredible! the audience will listen to music created in the moment, which won't be repeated again. we all come to the shows with different sounds in our OP–1's and then during the show we decide by ''song'' or moment which instrument each one will play. for example, in the first song i play the drums, sami plays the keyboards, berni plays the melody, and ferdi plays the bass, somewhere along the way we pick a bpm and a key. for the second song we repeat the process, but we alternate instruments. <br/>
+during the shows we try to set it up so that the audience stand around us, so they can see everything up close. on the table we only have teenage engineering gear. we mainly use the OP–1 field but we also bring OP–Z's, the POM-400, various pocket operators, OB–4 for monitoring, and two TX–6 mixers. we also have guest rappers, singers and musicians for part of the performance. a common guest of ours for the shows is tino el pingüino, an incredible mexican rapper who has been close to the project since day one. <br/>
+what has happened in the time between starting it and where it is today?<br/>
+orestes: since we created the band, we have had several incredible concerts, and recorded many short videos, and just last year we got together for a couple of days to hang out and record our first studio album, which will be out around may. this year we hope to start a tour here in latin america and to be able to show our art to the whole world.<br/>
+</p>
+
+
+
+<img src="/_img/65e6d13ad9ead9f6e17882f5_512.webp" width="512"/><br/>
+
+
+
+
+<p>
+what are some of your favorite stories from your events?<br/>
+orestes: our first show we were expecting 50 people and about 400 showed up. we had a full house and many people didn't make it in. it was wild.<br/>
+bernardo: i can't remember one specifically, but i've loved the times when, unexpectedly, rappers or singers or other musicians in the crowd have joined the jam and all of us together created something incredible in the moment that captivated us and the audience.<br/>
+ferdi: every time we get together to play is different so it's kind of a mystery to know what is gonna come out of the set even if we have already pre-selected sounds or samples... i like to see the surprised faces in the audience when some strange or unexpected sound happens during the set. <br/>
+sami: for me, one of the things i like the most is the energy of the people and their reactions. since everything is happening in the moment, it becomes something spontaneous and full of surprises - you never know what is going to happen. that connects a lot with the audience because in the end they become part of the unexpected.<br/>
+</p>
+
+
+
+
+
+
+<p>
+OP–1 CLUB LIVE zum HOUSE OF VANS, CDMX<br/>
+</p>
+
+
+
+
+
+
+
+
+
+<p>
+<h2><a href="/now">raz fresco and dibiase </a></h2>
+<h2><a href="/now">on the first K.O. II record</a></h2>
+</p>
+
+
+
+
+<p>
+JANUARY 18, 2024<br/>
+</p>
+
+
+
+<img src="/_img/65a68df480cfd7abc5fbd122_512.webp" width="512"/><br/>
+
+
+
+
+<p>
+a little while ago we spoke to raz fresco about his ''<a href="/now">pocket operations II</a><br/>
+'' record. now with the evolution of the pocket operator released, <a href="/products/ep-133">EP–133 K.O. II</a><br/>
+, he's back at it - this time with dibiase on the beats. originally collaborating on ''secret wars'', "knockout" is their second collab and the first record to be produced entirely on K.O. II. we spoke to them to learn more about creating the album in record time, across time zones.<br/>
+<br/>
+<br/>
+</p>
+
+
+
+<img src="/_img/65a68e3b80cfd7abc5fbd134_512.webp" width="512"/><br/>
+
+
+<p>
+RAZ FRESCO<br/>
+</p>
+
+
+
+
+
+<p>
+raz fresco: i knew about dibiase's production for years before we actually linked up. [when i was searching for new gear] i was watching a lot of videos of dibiase on the sp-404 doing his thing. it was inspiring cuz up until then i never really studied other workflows on other devices. so one day i tweeted out something along the lines of 'mannnnn, i would destroy some dibiase beats if i could' and he actually responded! so i hit him with a dm expressing my respect and that i wanted to work with him.<br/>
+dibiase: a month later we created 'secret wars', and the rest is history (in the making). <br/>
+</p>
+
+
+
+<img src="/_img/65a68e7f80cfd7abc5fbd146_512.webp" width="512"/><br/>
+
+
+<p>
+DIBIASE<br/>
+</p>
+
+
+
+
+
+<p>
+since they met through twitter, the online beat community has formed a significant part of both of their creative processes.<br/>
+dibiase: community has always been a vital part of my creative practice. it's a space where i can go to test out new ideas, and get honest feedback. connecting and building with other artists, watching and listening to how other producers approach things, being exposed to different perspectives has been a big part of my growth as an artist. shout out to project blowed, sketchbook, low end theory, boombox, big tune, beat cinema, supercard, flipabeatclub, sample mode, and my entire global community. there's too many folks to list. <br/>
+raz fresco: the beauty in it for me is that people are coming together to share their creativity with no ego. it's just about the music… i am all for that gathering of creative energy with pure intention. that's what draws me to the whole beat community. it represents the beauty and positive energy that can arise from people coming together and being constructive with their energy in a creative way as opposed to being destructive. <br/>
+</p>
+
+
+
+<img src="/_img/65a6914980cfd7abc5fbd1ca_512.webp" width="512"/><br/>
+
+
+<p>
+KNOCKING OUT BEATS<br/>
+</p>
+
+
+
+
+
+<p>
+with raz fresco based in toronto and dibiase in sacramento, it's not often these guys are in the same room. in fact, all their work together has all been done online, including "knockout".<br/>
+dibiase: technology, especially over the last 5 years, has really changed the game for artists like us… it's super easy to collaborate with artists from anywhere in the world. the process between raz and i is usually pretty straightforward. i'll send him a new batch of beats and he turns it around super quick. we definitely feed off each other's energy. like myself, raz is a real master of his craft, which helps make the process run real smooth.<br/>
+raz fresco: i feel we have both reached a particular degree of mastery in our respective crafts and trust each other's taste, so there's not a lot of discussion… subconsciously we both know we have to have a good spread of different sonic textures. <br/>
+we think alike in that way, we spoke about that while we were making ‘secret wars’. this time around, once i shared the idea of the theme it was clear what we had to do. knock em out! … i know my bars gotta hit hard and dibi knows the beats gotta knock. so we didn't do much talking. he sent the beats, i rapped and put it together then boom it was done.<br/>
+</p>
+
+
+
+<img src="/_img/65a6909080cfd7abc5fbd1ae_512.webp" width="512"/><br/>
+
+
+<p>
+DIBIASE ON EP–133 K.O. II<br/>
+</p>
+
+
+
+
+
+<p>
+when digging into the process of creating "knockout", it wasn't much more complicated than putting an idea into action.<br/>
+raz fresco: dibi sent me his first beat on the K.O. II (which ended up being the song 'break bread'). i heard it with my brother 'the 6th letter', so we immediately made the song. then it hit me, 'why don't me and dibi do a whole album on the K.O. II?'<br/>
+i was already playing around with the idea and had just dropped my third pocket operator project. the K.O. II is the big brother to the pocket operator and in this beat community dibiase is like my big brother. he is the one that originally put me onto the pocket operator back when we were making 'secret wars'… so this time i thought, it's only right if we reconnect and he does the beats on the K.O. II.<br/>
+dibiase: we're both big fans of teenage engineering and known for creating content using pocket operators. i've been cooking up with [teenage engineering] gear since the very beginning, so it just made sense. <br/>
+</p>
+
+
+
+
+
+
+<p>
+"KIMBO" FROM THE ALBUM "KNOCKOUT"<br/>
+</p>
+
+
+
+
+
+<p>
+we know that we talk about EP–133 K.O. II having a fast workflow, but you guys, especially raz, have a habit of throwing down tracks faster than anyone we know. how do you do it?<br/>
+dibiase: well, that's what you get when you combine creative genius with a solid work ethic. having new gadgets that inspire like the K.O. II also helps.<br/>
+raz fresco: i honestly let the music speak to my soul and i just talk back honestly from my heart. it doesn't take that long to be yourself if you know yourself. so i'm just being me on the beat and expressing what<br/>
+i feel.<br/>
+if the beat is dope, my mind starts working… i may be doing something else but the beat could make me start writing raps in my head, i can't stop if it moves me on an energetic level. i can see a painting (like the one i used for the cover of ‘knockout’) and get a whole album concept. i can hear one line and it inspires a whole verse. <br/>
+all the extra stuff happens in the background; like making my ideas rhyme and the nuances of melody here and there - these are just tools to express my idea. a good tradesman doesn't have to think about the tool anymore, he just thinks about what he is building and hammers away. in the same sense, i don’t think about the rhymes, i just think about what i want to say and i say it. <br/>
+"knockout" is available now exclusively via <a href="https://www.bkrsclb.com/">bkrsclb.com</a><br/>
+, along with a line of limited merchandise, along with a line of limited merchandise. follow <a href="https://www.instagram.com/razfresco/">raz fresco</a><br/>
+ and <a href="https://www.instagram.com/darealdibiase/">dibiase</a><br/>
+ for more.<br/>
+<br/>
+<br/>
+<br/>
+</p>
+
+
+
+
+
+
+
+
+
+<p>
+<h2><a href="/now">choir - behind the curtain</a></h2>
+</p>
+
+
+
+
+<p>
+JANUARY 11, 2024<br/>
+</p>
+
+
+
+<img src="/_img/659ffff98b2d9ca6f0f3f883_512.webp" width="512"/><br/>
+
+
+
+
+<p>
+"back in the autumn of 2007, four friends sharing a garage workshop, were unexpectedly approached by absolut vodka to create an art installation. a year later, after long nights of building and coding, it was ready – the absolut choir – a machine made out of 22 wooden dolls that sang in harmony."<br/>
+- jesper kouthoofd<br/>
+</p>
+
+
+
+<img src="/_img/659d58546ccbd38441ecc6b1_512.webp" width="512"/><br/>
+
+
+<p>
+THE ORIGINAL CHOIR<br/>
+</p>
+
+
+
+
+
+<p>
+11 years later we made them smaller and invited them into your homes, but getting there required a redesign and technical modifications, both in software and hardware. adapting the original code was our software engineer, linus åkesson.<br/>
+</p>
+
+
+
+<img src="/_img/659fbff5f9781fcc9bf8470d_512.webp" width="512"/><br/>
+
+
+<p>
+SKETCHES OF THE ORIGINAL CHOIR<br/>
+</p>
+
+
+
+
+
+<p>
+linus: "the songs in the dolls are public domain works, but they had to be transcribed to a machine-readable format, in this case a list of notes, syllables and timing information. for instance, if the printed score showed an eighth-note c followed by a sixteenth-note d-sharp, i would type in 'c8 d#16' and the lyrics had to be transcribed to a phonetic representation, where e.g. 'my tears' would be typed in as 'mai tizumrs'.<br/>
+</p>
+
+
+
+<img src="/_img/659fb3b8f9781fcc9bf84462_512.webp" width="512"/><br/>
+
+
+<p>
+LINUS AND THE CHOIR<br/>
+</p>
+
+
+
+
+
+<p>
+"whenever the dolls are singing, they also scan for nearby singers using bluetooth. they connect, synchronize their clocks, and collectively decide what song to sing. the songs are stored in a database inside each doll, and the lyrics are expressed phonetically. these phonemes are then converted to numbers representing muscle movements in a simulation of the vocal tract of a human being."<br/>
+</p>
+
+
+
+<img src="/_img/659d63e06ccbd38441ecc7e8_512.webp" width="512"/><br/>
+
+
+<p>
+GISELA BEING FORMED<br/>
+</p>
+
+
+
+
+
+<p>
+production manager, evelina lindström, led the production of choir, taking the new design through the manufacturing process, using some creative problem solving along the way.<br/>
+evelina: "one of the biggest challenges was to make a user-friendly interface that is easy to understand, one that works with each different doll, and at the same time has that teenage engineering feeling. to get the correct feedback and response when using the dolls is key, so we worked really hard on finding the correct balance between functionality and technicality, doing a lot of testing and creating updates to the user interface during the entire development of choir."<br/>
+</p>
+
+
+
+<img src="/_img/659fb3b6f9781fcc9bf84458_512.webp" width="512"/><br/>
+
+
+<p>
+PRODUCTION MANAGER, EVELINA LINDSTRÖM<br/>
+</p>
+
+
+
+
+
+<p>
+linus: "we wanted to use as much of the original code as possible, to maintain the spirit of the "big" choir from the early days of the company. but this code was written for desktop computers, not small portable devices, so i had to jump through hoops and find creative ways to make the code run faster and use less memory. at an early stage of adaptation, we hadn't implemented the function to turn the dolls off, so when one of our electrical engineers brought some dolls to a test facility an hour away, the dolls were hollering for the entire trip."<br/>
+</p>
+
+
+
+<img src="/_img/659d63e16ccbd38441ecc7ed_512.webp" width="512"/><br/>
+
+
+<p>
+GETTING THE HAND POLISHED TREATMENT<br/>
+</p>
+
+
+
+
+
+<p>
+evelina: "working with wood, especially a product combining wood and electronics, is a bit special since both materials behave in different ways. luckily we have really skilled craftspeople working in our wood factory and they are always aiming to get details, like pairing the color and texture of the wood with the fitting of parts, as optimal as possible.<br/>
+</p>
+
+
+
+<img src="/_img/659fb3b8f9781fcc9bf8445d_512.webp" width="512"/><br/>
+
+
+<p>
+PRODUCTION MANAGER, EVELINA LINDSTRÖM<br/>
+</p>
+
+
+
+
+
+<p>
+"one of the things i'm really happy about is that we managed to give each doll their own personality. they all differ in how, what and when they sing. like a real choir, they can also sometimes mess up and even misbehave at times, they’re fun features that make the product feel more alive and hopefully, keep the audience entertained. <br/>
+i'm also really happy that choir can be connected with OP–1 field and OP–Z, giving room for a lot of creative choir arrangements. i'm really looking forward to seeing and hearing what innovative arrangements people are going to create!"<br/>
+</p>
+
+
+
+
+
+
+<p>
+WATCH CHOIR BEING CRAFTED IN THE FACTORY.<br/>
+</p>
+
+
+
+
+
+
+
+
+
+<p>
+<h2><a href="/now">behind the sound pt.3:</a></h2>
+<h2><a href="/now">lo-fi drums on OP–1 field.</a></h2>
+</p>
+
+
+
+
+<p>
+NOVEMBER 9, 2023<br/>
+</p>
+
+
+
+<img src="/_img/654cb7567ea8e7ad66d714ef_512.webp" width="512"/><br/>
+
+
+
+
+<p>
+morgan ågren is a stockholm based drummer, one half of the band mats/morgan, and the creator of many <a href="/products/op-1">OP–1 field</a><br/>
+ drum samples.<br/>
+<br/>
+we visited ågren at his home studio where he shared with us his approach to percussion, as well as his eclectic mix of instruments, and non-instruments.<br/>
+</p>
+
+
+
+<img src="/_img/654cb7567ea8e7ad66d714ea_512.webp" width="512"/><br/>
+
+
+<p>
+ONE CORNER OF ÅGRENS HOME STUDIO<br/>
+</p>
+
+
+
+
+
+<p>
+"i made a big bunch of kick drum sounds, bass drums, snare sounds and hi-hats – so big snares, small snares, big kick drums, dead-sounding drums with a lot of dampening, but also a few open, and some various cymbals and metal percussion. i've made, i don't know... hundreds of sounds."<br/>
+the brief was simple: "trashy, lo-fi… small, percussive sounds, and it could be dirty, almost like low-resolution recordings, like low-bit." looking around ågrens studio, it's easy to understand why he was the guy for the job. it's packed with two drum kits, drums and cymbals of different sizes and finishes, random percussive objects and homemade instruments, as well as cheap guitars he uses as percussive<br/>
+play things.<br/>
+</p>
+
+
+
+
+
+
+<p>
+HOW MORGAN ÅGREN PLAYS GUITAR<br/>
+</p>
+
+
+
+
+
+<p>
+"i knew what [teenage engineering] was looking for, so i started to just record and record, and i sent a couple of hundred sounds."<br/>
+if that wasn't enough, we asked ågren to record more metallic sounds, so he hit, smashed and crashed some cymbals and diy metal creations to find the right mix of trashy cymbals, creating some "cool, dry, open, and dirty, funky sounds."<br/>
+</p>
+
+
+
+<img src="/_img/654cb7567ea8e7ad66d714f4_512.webp" width="512"/><br/>
+
+
+<p>
+PERCUSSIVE METALS<br/>
+</p>
+
+
+
+
+
+<p>
+playing drums since school, ågren has essentially been playing drums his whole life. playing in "many, many bands" from the moment he moved to stockholm from the north of sweden in 1985, he "went to the academy, musikhögskolan, for one year" but never graduated. the simple reason being that he gained traction elsewhere, starting mats/morgan and playing with frank zappa and fleshquartet.<br/>
+"but in the last 10 to 15 years it has been mainly my own band with keyboard player, mats, who loves <br/>
+OP–1 too!"<br/>
+</p>
+
+
+
+<img src="/_img/654b4e8d08da743f4b55e427_512.webp" width="512"/><br/>
+
+
+<p>
+MATS/MORGAN IN THE 80'S<br/>
+</p>
+
+
+
+
+
+<p>
+you can play morgan ågren's sample kit "apes are us" on OP–1 field – and as a special treat, we're also releasing 3 more of ågren's kits below: wknd raps, peace beats and fonky beats!<br/>
+to transfer the kits to your device follow these steps:<br/>
+<ol><li>connect OP–1 field to your computer using usb.</li><br/>
+<li>hold shift and press com, then press T4 to enable an <a href="/guides/mtp">mtp</a><br/>
+ connection.(if you use macOS, you need to <a href="/guides/fieldkit">install field</a><br/>
+ kit fromthe app store)</li><br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<li>download the drum kit to your computer and unpack it. drag and drop the drum kit folder from your computer to the drum folder in OP–1 field.</li><br/>
+<li>when the transfer is complete press T4 again to eject OP–1 field. use drum mode and load your new sounds. enjoy!</li><br/>
+</ol>click on the play button to preview kit<br/>
+click the drum icons to download<br/>
+</p>
+
+
+
+
+<img src="/_img/654b4af508da743f4b55e377_opt.svg" width="512"/><br/>
+
+
+<p>
+drum kit:<br/>
+wknd raps<br/>
+</p>
+
+
+
+
+
+<img src="/_img/654b4af508da743f4b55e379_opt.svg" width="512"/><br/>
+
+
+<p>
+drum kit:<br/>
+fonky beats<br/>
+</p>
+
+
+
+
+
+<img src="/_img/654b4af508da743f4b55e381_opt.svg" width="512"/><br/>
+
+
+<p>
+drum kit:<br/>
+peace beats<br/>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+<p>
+<h2><a href="/now">around the office:</a></h2>
+<h2><a href="/now">support team</a></h2>
+</p>
+
+
+
+
+<p>
+OCTOBER 6, 2023<br/>
+</p>
+
+
+
+<img src="/_img/651ec05ee8bd24ff0970d543_512.webp" width="512"/><br/>
+
+
+
+
+<p>
+the support team here at teenage engineering hq may be compact, but their work spreads far and wide. they are the ones who answer your burning questions, fix your gear, and pass on improvements and feature requests; they're the customer voice on the inside. <br/>
+''our main focus is replying to questions and requests, making sure we answer as quickly as possible. each day we also take care of repairs and returns. then we also have meetings with departments across the company which is our opportunity to share customer feedback.''<br/>
+</p>
+
+
+
+<img src="/_img/651ec05fe8bd24ff0970d548_512.webp" width="512"/><br/>
+
+
+<p>
+SPARE PARTS<br/>
+</p>
+
+
+
+
+
+<p>
+one of the biggest parts of working in the support team is problem solving.<br/>
+''the best problems are the ones that teach us something new and give us an opportunity to make an improvement.''<br/>
+</p>
+
+
+
+<img src="/_img/651ec05fe8bd24ff0970d54d_512.webp" width="512"/><br/>
+
+
+<p>
+GIFTS, NOTES AND DRAWINGS FROM AROUND THE WORLD<br/>
+</p>
+
+
+
+
+
+<p>
+having such international and varied customers, we receive all kinds of requests, problems, even gifts, on a daily basis.<br/>
+''as we deal with customers worldwide, it's interesting to see different approaches from different sides of the world, and some people are<br/>
+genuinely funny''<br/>
+''the creativity of people is mind blowing sometimes. we think we've seen it all, but people are coming up with crazy new setups all the time''<br/>
+''we have a little display by our window of some nice notes and drawings people have sent us with their returns… big shout out to lionel in switzerland for the chocolates!''<br/>
+</p>
+
+
+
+<img src="/_img/651ec064e8bd24ff0970d556_512.webp" width="512"/><br/>
+
+
+<p>
+THE SUPPORT TEAM<br/>
+</p>
+
+
+
+
+
+<p>
+with so many messages coming in every day, you're bound to learn something new about our products and the people who operate them.<br/>
+''there are some incredibly talented people writing <br/>
+to us and they really drive us to learn and<br/>
+discover more!''<br/>
+</p>
+
+
+
+
+
+
+
+
+
+<p>
+<h2><a href="/now">catching up with nosaj thing</a></h2>
+</p>
+
+
+
+
+<p>
+AUGUST 10, 2023<br/>
+</p>
+
+
+
+<img src="/_img/64d3955895ae420728cfe7b8_512.webp" width="512"/><br/>
+
+
+
+
+<p>
+artist and producer nosaj thing, aka jason chung, is an old friend. we met for the first time back in 2010 when OP-1 was revealed; chung was making beats on OP-1 for the ''<a href="https://www.booooooom.com/2011/08/31/stussy-make-beats-contest-low-end-theory-teenage-engineering-op-1-nosaj-thing-gaslamp-killer-pollyn/">make beats</a><br/>
+'' competition with stüssy, and his first album, <a href="https://nosajthing.bandcamp.com/album/drift">drift</a><br/>
+, had just been released. today, he's past his fifth record and stopping by stockholm for a long awaited visit after playing sónar in barcelona.<br/>
+<br/>
+<br/>
+</p>
+
+
+
+<img src="/_img/64d3955295ae420728cfe7af_512.webp" width="512"/><br/>
+
+
+<p>
+NOSAJ THING<br/>
+</p>
+
+
+
+
+
+<p>
+his latest record, <a href="https://nosajthing.bandcamp.com/album/continua">continua</a><br/>
+, is chung's first big collaborative effort, and a leap out of his comfort zone.<br/>
+<br/>
+"as someone that just started making beats in the bedroom… also being more introverted, it was a huge challenge for me to really step up as a producer and learn how to communicate with multiple personalities. this is also my first album with luckyme and dom who runs the label… i had like this dream list of artists i wanted to work with and he told me, ''hey, i hate to break it to you, but you're gonna have to send some dms.'' … i guess then i just understood that if you have this idea, you have this vision, and you want to work with someone, it is always going to mean more if you reach out directly. and a few of those were very difficult for me. i had drafts for a few weeks or even a month [before i sent them]. <br/>
+"i think everyone on the record were artists i was already listening to for several years, so it was almost like this was the cast in a movie i had in mind… so i just kind of already knew that it was going to work and fit."<br/>
+</p>
+
+
+
+<img src="/_img/64d498bb64f16ee1d2b7a594_512.webp" width="512"/><br/>
+
+
+<p>
+NOSAJ THINGS STUDIO<br/>
+</p>
+
+
+
+
+
+<p>
+chung's cinematic intentions are clear throughout "continua". calling on artists well-versed in the realm of ethereal composition like julianna barwick and duval timothy, to notorious mood setters like toro y moi and coby sey, chung and his supporting cast have released one of the most lowkey survival soundtracks of the past year.<br/>
+this collaborative approach flowed from the studio to the records visual language, working with creative director eric hu, and calling in photographers phil nisco and donovan novotny for the <a href="https://www.youtube.com/watch?v=Vxo7zCokpws&list=PLIuw_dh7YAXrIxiEAQNONqT_X32zp1YT9&pp=iAQB">music videos</a><br/>
+. the  blueprint emerged from his production process, one that has always been inspired by moving image.<br/>
+<br/>
+"last year, we saw this film called '<a href="https://youtu.be/PDU6B93ltds">memoria</a><br/>
+', and of course '<a href="https://youtu.be/tDW-1JIa2gI">koyaanisqatsi</a><br/>
+'. i played that film a lot during this record, and i was just like, 'this movie came out in early 80s. what's our version? what can we do?' donovan is such a talented photographer, i just told him 'hey, just make video stills of what you do already.' he was just so hyped on that idea."<br/>
+<br/>
+<br/>
+</p>
+
+
+
+
+
+
+<p>
+WATCH THE MUSIC VIDEOS FROM "CONTINUA".<br/>
+</p>
+
+
+
+
+
+<p>
+these videos also formed the basis of nosaj thing's new live set design, developed with japanese artist, daito manabe, for this years sónar festival.<br/>
+"since my first album… i would always write music with the tv on mute. it's just always been my thing. [i put on] whatever i like to watch and just use that as inspiration.<br/>
+"i guess for me, whenever i'm creating a new idea of music, images just come into my head. but i think also just being in the day and age of information overload, maybe it just helps me not look at anything else. you know what i mean? in a weird way, it just helps me focus, just like putting on more of a <br/>
+slow film.<br/>
+"i really love static shots….that's been a huge inspiration on the most current live show. it was something i wanted to see. usually when you see tour visuals, most of the time just fast moving, so just to see something just more like a static image or video, it's just refreshing to me."<br/>
+</p>
+
+
+
+
+
+
+<p>
+NOSAJ THING AND DAITO MANABE AT SÓNAR FESTIVAL THIS YEAR.<br/>
+</p>
+
+
+
+
+
+
+
+
+
+<p>
+<h2><a href="/now">alexander wessely's "kortex"</a></h2>
+<h2>at fotografiska</h2>
+</p>
+
+
+
+
+<p>
+JUNE 29, 2023<br/>
+</p>
+
+
+
+<img src="/_img/649c3cf0cb452178150666bb_512.webp" width="512"/><br/>
+
+
+
+
+<p>
+alexander wessely has worked with some of the worlds biggest artists. from the weeknd, rihanna and drake, to 070 shake, swedish house mafia and avicii, the multimedia artist has had a front row seat to the phenomenon of idol worship. this experience, directly observing the hyperreality of celebrity, is what has shaped the concept of his latest exhibition. <br/>
+</p>
+
+
+
+<img src="/_img/649d4b8cf0ebb2649ffe3072_512.webp" width="512"/><br/>
+
+
+<p>
+ALEXANDER WESSELY<br/>
+</p>
+
+
+
+
+
+<p>
+"kortex" is wessely's most extensive solo exhibition yet. showing at stockholm's fotografiska museum, he attempts to "remove the outer shell, showing the core and the essence of the human underneath, in their most fragile state" through marble sculptures, video and light installations, soundscapes, and 3D photography.<br/>
+"i started working with all these physical marble sculptures four years ago, it's sort of the final stage of a 10 year chapter. the whole theme of 'kortex', which is bark or the outer layer in old greek or latin, came very organically after working with artists on a high level. creating sculptures, set design, scenography, creative direction, and sort of creating the worlds around these artists. the fans and admirers in the crowd, they have this godlike type approach to this person who is just a fellow human. they adore this person, but what they actually adore and obsess about is a shell that's added onto that person. it's the shell and the persona… that's why the marble, which is a very hard material but extremely fragile at the same time, symbolizes us as humans very well."<br/>
+</p>
+
+
+
+<img src="/_img/649d4c08f0ebb2649ffe309e_512.webp" width="512"/><br/>
+
+
+<p>
+WESSELY'S MARBLE SCULPTURES<br/>
+</p>
+
+
+
+
+
+<p>
+the exhibition is dark, the marble figures dissected and raw. a rolling drone sounds in the distance as a murmur of a voice becomes louder upon approach. one of the pieces in the exhibition is a poem written and read by 070 shake, playing out of an OD-11 subtly encased inside a hollow marble pillar.<br/>
+</p>
+
+
+
+<img src="/_img/649d4be5f0ebb2649ffe308c_512.webp" width="512"/><br/>
+
+
+<p>
+OD-11 IN MARBLE<br/>
+</p>
+
+
+
+
+
+<p>
+"our collaboration goes back four years. from our first sort of sit down, i was inspired by [070 shake] and her vision and her mentality… she's like all feels, all the way. she's so curious and well rounded.when i showed her this work, which is called 'humans', she was very inspired. and she started talking about us being born naked and how when we die you won't be able to tell the difference between us… when she started talking about it i was like, 'okay, stop, i need to record this!' and so we recorded this very genuinely on the phone. it's not scripted or anything, she was just talking as she looked at it. and it's sort of a comment on the exhibition theme, but also a conversation with herself being dani and herself now also being 070 shake."<br/>
+you can experience wessely's exhibition <a href="https://www.fotografiska.com/sto/en/utstallningar/alexander-wessely/">"kortex" at fotografiska in stockholm</a><br/>
+, now showing until september 17.<br/>
+<br/>
+learn more about OD-11 <a href="/products/od-11">here</a><br/>
+<br/>
+</p>
+
+<br/>
+
+
+
+
+
+
+
+
+<p>
+<h2>raz fresco - </h2>
+<h2>"pocket operations II: forty seconds only"</h2>
+</p>
+
+
+
+
+<p>
+JUNE 8, 2023<br/>
+</p>
+
+
+
+<img src="/_img/6481d7fca11bb58a3ac003a3_512.webp" width="512"/><br/>
+
+
+
+
+<p>
+we sat down with our friend raz fresco last week on the release day of "pocket operations II: forty seconds only", his second record filled with tracks made exclusively with PO-33 K.O.!<br/>
+"i'm raz fresco, mr. marvelous himself. i'm reporting live from 'the bakery' here in downtown toronto, canada. i'm a rapper, producer, photographer, and work with videos. long story short, i'm a renaissance man."<br/>
+</p>
+
+
+
+<img src="/_img/6481d8a7a11bb58a3ac00ce0_512.webp" width="512"/><br/>
+
+
+<p>
+RAZ FRESCO WITH HIS PO-33 K.O.!<br/>
+</p>
+
+
+
+
+
+<p>
+fresco's history with the PO-33 isn't particularly long, but it is prolific. in the search for new gear after his akai mpd broke in 2021, he found the missing piece in his production workflow. "i was like 'yo, i can make beats on the go?' cos' before i was tied to my computer for my whole life as a producer."<br/>
+today, PO-33 is a mainstay in his production setup and at the nexus of his "pocket operations" project.<br/>
+"there've been times where i've brought it to the record shop when i'm digging for records and i can sample there, right away on the spot."<br/>
+</p>
+
+
+
+<img src="/_img/6481d8b9a11bb58a3ac00d14_512.webp" width="512"/><br/>
+
+
+<p>
+FRESCO'S PO CASE IS FROM BEAT MAKER'S BOUTIQUE<br/>
+</p>
+
+
+
+
+
+<p>
+taking his PO-33 from record stores to walks by the lake, fresco's hyper-curiosity found satisfaction in the creative possibilities of the tiny sampler, a mindset that finds itself at home within a legacy of beatmakers throughout history, including his own uncle.<br/>
+"my uncle is in the reggae hall of fame, his name is earl zero. so i'm directly tied into the early dub scene… and that scene was revolutionary in the sense that they made the electronics an instrument. that's part of my dna as far as building your own sound."<br/>
+from mozart to dilla, music has always been a reflection of its time - the machines, architecture and cultural movements of the moment all locked in a tennis match of influence. being a student of hip hop, this knowledge only reinforces fresco's determination to be a part of the conversation.<br/>
+</p>
+
+
+
+<img src="/_img/6481d8cfa11bb58a3ac00d55_512.webp" width="512"/><br/>
+
+
+<p>
+PO-33 K.O.! IN FRESCO'S FAVORITE CASES<br/>
+</p>
+
+
+
+
+
+<p>
+"in the timeline of hip hop, certain pieces of equipment came out and like they've been so substantial… there's a point where there was just a turntable and then all of a sudden there were two! then the mpcs and sp 1200s came out in the 90s. there are producers that are associated with these machines because their understanding of sound and their usage of them revolutionized hip hop.<br/>
+in the 2000s, around the time ‘madvillainy’ and these things dropped, they had the roland sp 404 and the first 303… they're like, 'yo, this equipment has a different workflow!' it activates your mind to work differently.<br/>
+[the pocket operator] is another step in the evolution… i just wanted to be one of the people on the timeline too because i see it and i know that this is a moment. i wanted to capture the moment and show the system was upgraded."<br/>
+</p>
+
+
+
+
+
+
+<p>
+LISTEN TO "POCKET OPERATIONS", THE PRECURSOR TO "POCKET OPERATIONS II"<br/>
+</p>
+
+
+
+
+
+<p>
+check out raz fresco latest album "pocket operations II: forty seconds only" <a href="https://www.bkrsclb.com/collections/music/products/pocket-operations-ii-forty-seconds-only-digital-album">here</a><br/>
+<br/>
+explore PO-33 <a href="https://teenage.engineering/store/po-33/">here</a><br/>
+<br/>
+</p>
+
+
+
+
+
+
+
+
+
+<p>
+<h2>hög sjö – overswum </h2>
+<h2>(teenage engineering remix)</h2>
+</p>
+
+
+
+
+<p>
+MAY 4, 2023<br/>
+</p>
+
+
+
+<img src="/_img/6452ab3a3a1c89951b0a7219_512.webp" width="512"/><br/>
+
+
+
+
+<p>
+last week, a teenage engineering remix of the song "overswum" by the swedish prog band hög sjö was released, created by teenage engeering's own jonas and josefine, recorded at pontus winnbergs studio skolhaus.<br/>
+the creative process behind the remix involved experimenting with super collider to generate a random structure of the piece. the intention was to break away from traditional song structures and create something unpredictable and dynamic. the synthesized voices of the teenage engineering choir were added to create an otherworldly atmosphere in the music.<br/>
+</p>
+
+
+
+<img src="/_img/636cf975c14be942279afa1a_512.jpg" width="512"/><br/>
+
+
+<p>
+OP–1 FIELD AND THE TEENAGE ENGINEERING CHOIR<br/>
+</p>
+
+
+
+
+
+<p>
+the project was an experiment to see how the ideas and processes of product development could be translated into music creation.<br/>
+“the idea behind the remix was to create something that sounded like a half-broken toy were the gears sometimes would shift into place and create coherent music and sometimes just output stumbling tones and rythms”<br/>
+after creating the super collider soundscape we went to the skolhaus studio and recorded the teenage engineering choir along with more organic sounds like rhodes and old synthesizers.<br/>
+</p>
+
+
+
+<img src="/_img/6452ad203a1c89951b0a726c_512.webp" width="512"/><br/>
+
+
+<p>
+PATRIK BERGER<br/>
+</p>
+
+
+
+
+
+<p>
+hög sjö is the artist moniker of the esteemed swedish producer, musician and songwriter patrik berger. his album with the same name was released earlier this year. <br/>
+listen to the song <a href="https://open.spotify.com/track/00Ilwg3lz5BFVAETbOukGU?si=f486daa17fbf4e29">here</a><br/>
+<br/>
+</p>
+
+
+
+
+
+
+
+
+
+<p>
+<h2><a href="/now">visualize with TX–6</a></h2>
+</p>
+
+
+
+
+<p>
+APRIL 6, 2023<br/>
+</p>
+
+
+
+<img src="/_img/642c07f654c56c371305cf4a_512.webp" width="512"/><br/>
+
+
+
+
+<p>
+recently, producer nick hook and visual creator laurel romero were in town and swung by teenage engineering hq. playing around with some of our recent, and upcoming releases, laurel showed us how she’s been using TX–6 to live mix her visuals. using an ableton plug-in (‘rokvid’ in this case), she turned the multi-channel mixer into a midi controller, assigning different parameters to different channels. this allowed her to spontaneously mix her footage with a range of effects, allowing for free-flowing, one-off collaborations with nick during live performances.<br/>
+“nick and i wanted to discover a way to unite our art. we made several attempts to record, edit… but i felt that we were missing something. we needed to complement the project… then nick introduced me to the mixer, and an ableton plugin that would allow me to use it as a midi controller. i started exploring with videos that i had and it turns out that it was wonderful. it was exactly what i had been <br/>
+searching for.”<br/>
+</p>
+
+
+
+<img src="/_img/642e8a7834cc63d3400e4919_512.webp" width="512"/><br/>
+
+
+<p>
+LAUREL ROMERO<br/>
+</p>
+
+
+
+
+
+<p>
+using the mixer as a midi controller was only the beginning of romero’s deep dive into how she can create unique visuals in the moment.<br/>
+“with the mixer, i have many options to move, control, raise, lower. so i think the task is to discover what other programs i can use, what can allow me to create more things? how can you use each button of the mixer and be able to suddenly combine two programs, as well as two screens, and be able to do it directly with the mixer. i don't know how many doors of creativity [are available]”<br/>
+</p>
+
+
+
+
+
+
+<p>
+ROMERO LIVE MIXING VISUALS WITH NICK HOOK ON MUSIC<br/>
+</p>
+
+
+
+
+
+<p>
+“something important that i learned on my path, working hand-in-hand with nick, is how to connect with people, and the tools play a part in that. the people that i’ve connected with have seen what i’m doing, and understand that it’s possible for them to do it too. you don’t need to be an expert, the tools can be any kind of gear, but [the mixer] has allowed me to connect with people who are interested in learning how i use it.”<br/>
+explore TX–6 <a href="/products/tx-6">here</a><br/>
+<br/>
+</p>
+
+
+
+
+
+
+
+
+
+<p>
+<h2><a href="/now">behind the sound pt. 2:</a></h2>
+<h2>vinyl drum kit on OP–1 field.</h2>
+</p>
+
+
+
+
+<p>
+MARCH 16, 2023<br/>
+</p>
+
+
+
+<img src="/_img/641194c3a1fd4eaa7d1566cb_512.webp" width="512"/><br/>
+
+
+
+
+<p>
+if you run through the drum sounds on OP–1 field, you’ll find ‘classix’, ‘minimo’, ‘grits’ and ‘vinyl’ - all created by our friends at samples from mars. started by producer, engineer and dj, teddy stuart, they’re a sample label based in nyc focused on bringing vintage and rare electronic instruments to your daw.<br/>
+</p>
+
+
+
+<img src="/_img/6411cae7a1fd4eaa7d156c3c_512.webp" width="512"/><br/>
+
+
+<p>
+RECORDING RIM SHOTS IN THE STUDIO<br/>
+</p>
+
+
+
+
+
+<p>
+“my team and i focus on capturing old drum machines, samplers, synthesizers and acoustic drums, and processing them through gear that excites us, like consoles, tape machines, and pressing our own vinyl.”<br/>
+</p>
+
+
+
+<img src="/_img/641194b1a1fd4eaa7d15667b_512.webp" width="512"/><br/>
+
+
+<p>
+SAMPLING DIFFERENT PERCUSSION SOUNDS<br/>
+</p>
+
+
+
+
+
+<p>
+teddy has been playing guitar since he could form a c chord, but it was getting involved in music production that prompted a permanent shift in focus towards hip hop. he began expressing himself “in more sonic ways, by making beats and designing sounds. at the time, everything was done on a VS-880 multi-track and an SP-202, by playing drums, guitar and bass parts by hand.”<br/>
+</p>
+
+
+
+<img src="/_img/641194b9a1fd4eaa7d156699_512.webp" width="512"/><br/>
+
+
+<p>
+MIXING THE SOUNDS TO PREPARE THEM FOR PRESSING<br/>
+</p>
+
+
+
+
+
+<p>
+jump to 2013. samples from mars is established with a goal of sharing “the history of these iconic (and sometimes forgotten) pieces of gear, their role in music, how we go about using them, and what that might mean for your music.” their unique and textured samples created from analog equipment was the key to crafting the vinyl drum kit for OP–1 field.<br/>
+</p>
+
+
+
+<img src="/_img/641194c0a1fd4eaa7d1566bd_512.webp" width="512"/><br/>
+
+
+<p>
+CUTTING ONTO VINYL<br/>
+</p>
+
+
+
+
+
+<p>
+“we began by recording acoustic drum hits and sounds from some of our favorite drum machines. then we pressed that onto vinyl, and sampled the results cleanly in a mastering studio. after that, we scratched the record, to produce various sonic artifacts, and recorded more samples, processing them with eqs and compressors on the way in. finally, we grouped the sounds into kits that played well together and popped them on the OP–1 field.”<br/>
+</p>
+
+
+
+<img src="/_img/641194c0a1fd4eaa7d1566bd_512.webp" width="512"/><br/>
+
+
+<p>
+FROM PRODUCTION TO DESTRUCTION, THE SEARCH <br/>
+FOR THE PERFECT SONIC ARTEFACTS FOR VINYL DRUM KIT<br/>
+</p>
+
+
+
+
+
+<p>
+this attraction to raw and low-fi sound was how we first came to teddy’s attention, pocket operators were the gateway.<br/>
+“i was blown away by how gritty the sound was (uncommon for modern gear), and the innovative FX sequencing, form factor and low price was all very compelling. then, we made a sample pack out of it!”<br/>
+so how does it feel to create sounds that can inspire someone elses creative expression? “it’s the best part of the job! ...i’m most excited seeing music interact with the world around me.”<br/>
+explore OP–1 field <a href="/products/op-1">here</a><br/>
+<br/>
+</p>
+
+
+
+
+<a href="/products/op-1"><img src="/_img/627cab620e44b900044f3c11_512.png" width="512"/></a><br/>
+
+
+
+<p>
+OP–1 field<br/>
+</p>
+
+
+<p>
+$$$<br/>
+</p>
+
+
+
+
+
+
+
+
+
+<p>
+<h2>behind the scenes: </h2>
+<h2><a href="/now">field desk</a></h2>
+</p>
+
+
+
+
+<p>
+MARCH 3, 2023<br/>
+</p>
+
+
+
+<img src="/_img/63e0e219e8f2d69b1218ae19_512.webp" width="512"/><br/>
+
+
+
+
+<p>
+field desk is a space truss constructed from recycled aluminum and assembled with a double-sided formica birch plywood desktop. a part of our field rail system, it’s <a href="https://teenage.engineering/designs/frekvens">not our first time creating furniture</a><br/>
+, but it is the first range available directly from our store. it is also used by us every day, starting as our very own in-house workspace solution.<br/>
+<br/>
+</p>
+
+
+
+<img src="/_img/640068d71488275ad0ffb2fa_512.webp" width="512"/><br/>
+
+
+<p>
+EARLY SKETCHES<br/>
+</p>
+
+
+
+
+
+<p>
+“field desk is a part of ‘field rail system’ - a construction system that allows us to build whatever furniture we need, without any compromises, an opportunity to create our office environment exactly how we wanted it. we created with portability in mind, wanting a system of products that would be easy to move location when needed, evolving with its environment as the context changed.”<br/>
+christoffer is the lead designer on the project, taking over the original plans from our head of design, jesper, and head of mechanical engineering, guffe.<br/>
+</p>
+
+
+
+<img src="/_img/6400a1be1488275ad0ffba53_512.webp" width="512"/><br/>
+
+
+<p>
+CHRISTOFFER OHLANDER<br/>
+</p>
+
+
+
+
+
+<p>
+“guffe created the core parts of the rail system, inspired by his background in camera rigging. the many fixing points on a rig allow for lots of different accessories and customizations.<br/>
+“we are an office with lots of people doing different jobs with different needs, from desk work to creating production jigs and making prototypes. the rail system allows for a range of add-ons using m5 screws, which you’ll see soon, but it also allows for your personal creations to be attached.”<br/>
+</p>
+
+
+
+<img src="/_img/63fca24e09b6d0d341523d14_512.webp" width="512"/><br/>
+
+
+<p>
+FIELD DESK AT TEENAGE ENGINEERING HQ<br/>
+</p>
+
+
+
+
+
+<p>
+with the purpose of the system laid out, the opportunity to experiment with materials and production followed. in the current climate, both literally and figuratively, we were looking to produce locally with durable materials.<br/>
+“when i was working on the final iteration, we had the goal of bringing production to sweden. we were offered to use CIRCAL, recycled engineering grade aluminum, from our manufacturer Hydro. this quickly became the obvious choice for the extrusion rail system. the table top is birch plywood at the core, and formica laminated on both sides so it can be flipped over if ever worn down.”<br/>
+</p>
+
+
+
+<img src="/_img/63fca63f09b6d0d341523d6a_512.webp" width="512"/><br/>
+
+
+<p>
+FIELD RAIL SYSTEM<br/>
+</p>
+
+
+
+
+
+<p>
+field desk and rail system is our very own everyday workspace. since we liked it so much, we thought you might too.<br/>
+explore field desk <a href="/products/field-desk">here</a><br/>
+<br/>
+</p>
+
+
+
+
+
+
+
+
+
+<p>
+<h2><a href="/now">a chat with kenny beats</a></h2>
+</p>
+
+
+
+
+<p>
+FEBRUARY 23, 2023<br/>
+</p>
+
+
+
+<img src="/_img/63f76406fdf3b6231eb73ffc_512.webp" width="512"/><br/>
+
+
+
+
+<p>
+over the last three years, los angeles based producer kenny beats has balanced back-to-back studio sessions with an unavoidable online presence, maintaining his youtube channel (the cave), twitch live streams (beat battle), and discord community, using the platforms to pull back the curtain on his production process. now with his debut album out, it’s time to switch up the pace, “a couple years ago it was two sessions every single day… so now i’m trying to make a little more time for dog walks and family and friends.”<br/>
+we doubled down on collabs with kenny this month to coincide with his last ever beat battle and the limited edition LOUIE PO-33, the latter celebrating the release of his debut album. “there was so much talent that it just spun out of control, and you guys were a part of some of our very early battles. so to wrap it up and have my final battle be with teenage engineering, it's crazy, because i never saw past the first few we did.”<br/>
+</p>
+
+
+
+<img src="/_img/63f7717e0311f922eecc32b4_512.webp" width="512"/><br/>
+
+
+
+
+
+
+<p>
+kenny’s work is a result of obsession. he possesses an enviable ability to identify artists, tracks ids, compositional idiosyncrasies, and rare gear on demand - all the while, sharing his enthusiasm and knowledge with a growing audience of aspiring musicians and seasoned pros alike. while he’s worked with the likes of vince staples, idles, denzel curry and rico nasty, his career can only be discussed with reverence to the community that he has nurtured from day one.<br/>
+“that's the most important thing, more than a platinum record, more than any accolades you get… making a couple of 100 people inspired enough to start playing an instrument or start songwriting or whatever it is, that'll actually change someone's life. me getting a trophy doesn't really do much for anybody.”<br/>
+</p>
+
+
+
+<img src="/_img/63f770f8fdf3b6231eb74108_512.webp" width="512"/><br/>
+
+
+
+
+
+
+<p>
+kenny first used OP-1 in the studio on “trina” by smino, but it might be surprising to some that teenage engineering choir has been the kind of creative disruption he’s always looking for.<br/>
+“i put the choir all around the room and played my OP–1 with it the first couple days, then i started realizing… i've never been able to pick and choose where I'm placing every single note around the studio as I'm playing a chord. there's stuff I'm using from you guys right now that I'm having trouble replicating in recorded music. just to be having conundrums like that in the studio, that's not something that happens often, you know. i just like things that spark a different part of my brain. I'm always worried that I'm going in circles, creating too many rules for myself, so if someone helps me break a rule, I'm in.<br/>
+“...if anyone reading this has ever watched hainbach on youtube, or anything like that; these are the kind of random gadgets that are coming up in songs with hit writers, and are making people excited in rooms where everybody's used to sitting at a rhodes or a piano or guitar or with somebody making a beat on a daw in front of them… are they real music things? or not? what is a real music thing? but whenever i put something in my studio and it looks weird, or someone doesn't know what it is, everybody who makes a lot of music gravitates towards that because they've seen everything else… things that might seem goofy or funny or a novelty thing, can end up being in a very, very serious piece of music.”<br/>
+</p>
+
+
+
+<img src="/_img/63f76f28fdf3b6231eb740c4_512.webp" width="512"/><br/>
+
+
+
+
+
+
+<p>
+when it came to collaborating, it was simply a question of what and when. then with kenny releasing his debut album on xl records, the vision of what that could look like became a little clearer. <br/>
+“[the LOUIE PO-33] is the only place where i’ve given away sounds from my record. i've never shown anyone what i’ve used, i've never talked about what samples i’ve programmed with and i've never put out a sample pack… so people got to, for the first time, decode a little bit of what I've been using.<br/>
+“these collaborations are rooted in that feeling that we both have of giving someone that gift of going from, ‘I'm a huge fan of music’ to ‘i make music’. <br/>
+that is a life-changing thing.”<br/>
+explore PO-33 <a href="https://teenage.engineering/store/po-33/">here</a><br/>
+<br/>
+</p>
+
+
+
+
+
+
+
+<a href="/now">/now</a><br/>
+
+<p>
+<h2>OP–1  update:</h2>
+<h2>vocoder</h2>
+</p>
+
+
+
+
+<p>
+JANUARY 12, 2023<br/>
+</p>
+
+
+
+
+<img src="/_img/63bffe09a9917e66c8ba8e6e_opt.svg" width="512"/><br/>
+
+
+
+
+<p>
+OP–1 field, now with vocoder! the vo(ice)(en)coder revolutionized music since it's introduction to the world by homer dudley at bell labs in 1938. designed to analyze and synthesize the human voice, iconic artists have employed the device throughout the years to make their synthesizers sing, from wendy carlos and bob moog, to kraftwerk, herbie hancock, beastie boys, tupac, daft punk, and countless others. now it's your turn.<br/>
+</p>
+
+
+
+
+
+
+
+<p>
+OUR FAVORITE SCIENTISTS MICKE REUTER & MIKAEL ERICSSON <br/>
+ARE BACK AT IT DOING IMPORTANT SCIENTIFIC RESEARCH FOR <br/>
+OP–1 FIELD VOCODER<br/>
+</p>
+
+
+
+
+
+<p>
+how to install<br/>
+now you too can try this effect, by downloading and installing the new free firmware update for OP–1 field.<br/>
+<ol><li>download and install the firmware</li><br/>
+<li>press synth</li><br/>
+<li>hold shift and press any sound slot key 1–8</li><br/>
+<li>load vocoder</li><br/>
+</ol>operation<br/>
+with the vocoder active, press mic to select the input source. this is the input for the voice, the modulator, and you can use any input source, such as the built-in microphone, a headset or even the radio or usb. after you've selected your input source, speak and play notes on the musical keyboard. you should now hear your OP–1 field burst into beautiful singing.<br/>
+in the OP–1 field vocoder, the audio input <br/>
+(the modulator/your voice) is passed through a bank of 20 filters with controllable bandwidth and formant shift. the carrier signal is built-in: a custom 7-oscillator polyphonic synth that goes from a single sawtooth to pure white noise. as always, everything is fully <br/>
+real-time and modulate-able. the controls at your <br/>
+hand are as follows:<br/>
+<ul><li>blue is a one knob synth engine</li><br/>
+<li>ochre is formant shift</li><br/>
+<li>gray is number of bands</li><br/>
+<li>orange controls the dry/wet mix</li><br/>
+</ul>download the latest firmware <a href="/downloads/op-1/field">here.</a><br/>
+<br/>
+</p>
+
+
+
+
+
+
+
+<p>
+TUTORIAL ON HOW TO USE THE VOCODER<br/>
+</p>
+
+
+
+
+
+<a href="https://teenage.engineering/store/op-1-field/"><img src="/_img/638e142cc1630dc8803441ce_512.webp" width="512"/></a><br/>
+
+<a href="https://teenage.engineering/store/m-1/"><img src="/_img/63c01988310c7cc0d47395e5_512.webp" width="512"/></a><br/>
+
+
+
+
+<p>
+OP–1 field<br/>
+</p>
+
+
+
+<p>
+M-1<br/>
+</p>
+
+
+
+
+
+
+
+
+
+<p>
+<h3><a href="/now/2022">2022</a></h3>
+</p>
+
+
+
+
+
+
+
+
+<p>
+<h3><a href="/now/2021">2021</a></h3>
+</p>
+
+
+
+
+
+<p>
+<h3>sign up to our newsletter</h3>
+<h3>and get updates!</h3>
+you will receive the latest information on our products,<br/>
+behind the scenes updates, discounts and more.<br/>
+sign up now<br/>
+</p>
+
+
+</noscript>
+<script type="text/javascript" src="/raven-29492c2c-b631-4c04-998b-1277d7ef204c.js" crossorigin="anonymous"></script>
+<script type="text/javascript" src="/te013-29492c2c-b631-4c04-998b-1277d7ef204c.js"></script>
+</body>
+</html>

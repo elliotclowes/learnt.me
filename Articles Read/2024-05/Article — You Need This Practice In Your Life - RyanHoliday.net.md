@@ -22,7 +22,7 @@ omnivore_url: https://omnivore.app/me/you-need-this-practice-in-your-life-ryan-h
 **Note:** Below is the text from the article, with any ==highlights== done by me. None of the writing below is by me.
 
 # Article text
-![](https://proxy-prod.omnivore-image-cache.app/800x533,sEGHTXEzFvTGiXsCbn_ThEhqXSOk1YvDN2iDumEWLmd0/https://10925d.p3cdn1.secureserver.net/wp-content/uploads/2024/04/rh-pool-1024x682.jpeg)
+![[1e19769b5fdebde96042ff3e543b8da5.jpg]]
 
 Several years ago I was swimming in a pool in Austin—I wish I could say it was Barton Springs, one of the wonders of the world or even the Los Angeles Athletic Club (photographed above), but it was actually a 24 Hour Fitness off I-35—and a reader recognized me as I was getting out of the water.
 
@@ -74,4 +74,3 @@ If greatness is our aim, if we want to be productive, if we want to be capable o
 
  Written by [[Ryan Holiday]] 
 
-Ryan Holiday is the bestselling author of Trust Me, I’m Lying, The Obstacle Is The Way, Ego Is The Enemy, and other books about marketing, culture, and the human condition. His work has been translated into thirty languages and has appeared everywhere from the Columbia Journalism Review to Fast Company. His company, Brass Check, has advised companies such as Google, TASER, and Complex, as well as Grammy Award winning musicians and some of the biggest authors in the world. He lives in Austin, Texas.

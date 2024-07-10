@@ -37,4 +37,3 @@ Enjoy it.
 
 (I actually would like to further try a full information/technology fast. Maybe for three days or so. I’ll definitely write about it if that ever happens. Haha!)
 
-## Post navigation

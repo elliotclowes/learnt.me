@@ -32,13 +32,13 @@ An example of the first type – the fake torture implement as nationalism tool 
 
 The idea here was that during the Middle Ages in the German lands, bad musicians would be punished if they were bad by being forced to wear a heavy metal clarinet looking thing around their necks. There’s a cute modern depiction of this which circulates if you google it:
 
-![](https://proxy-prod.omnivore-image-cache.app/656x1024,s9_qqhXsZajSWpgbp6HiCAvt_YVpTO4ffQI7ZAF6oNpc/https://going-medieval.com/wp-content/uploads/2024/05/shame-flute-nonsense.jpg?w=656)
+![[6dc958197578042b7ae4470dc5171834.jpg]]
 
 Cute! Also, modern.
 
 You can also find an image of a surviving example from the medieval crime museum in Rothenburg. 
 
-![](https://proxy-prod.omnivore-image-cache.app/936x986,svLuFAmlcIOyaKdsjQgItr8JQpyaljZGJnHdsmuw84hw/https://going-medieval.com/wp-content/uploads/2024/05/shame-flute-rothenberg.png?w=936)
+![[03e0d58c0e7cf8071bb67e102fcd588e.jpg]]
 
   
 Now this is super cute and all. A fairly benign punishment for something that bugs people – bad public busking. But it’s also not real. How do I know that? Well, the thing about the German Lands in the medieval period – especially the later medieval period is we have great records for them. I can tell you when some thieves stole from a baggage train in the Alsatian town of Beinheim and which customers in Switzerland lost out on goods as a result. (1429, sixty-one shopkeepers, forty seven of them were women.[\[1\]](#%5Fftn1)) We know when people are brought to court for yelling insults in the streets. (1385, Zurich. A woman screamed at another “You’re a more wicked whore than one from the Kratz! \[The poor part of town\].”[\[2\]](#%5Fftn2)) We know when people get in trouble for brewing bad ale … you get the picture!
@@ -69,7 +69,7 @@ The second torture device I wanted to talk about is the so-called Iron Coffin of
 
 One can also find a pretty cool etching of said torture in process by Ottmar Elliger the younger at the [Wellcome Collection website](https://wellcomecollection.org/works/yq2nb3sr/images?id=jupq7q5z), which looks a little something like this:
 
-![](https://proxy-prod.omnivore-image-cache.app/936x750,sO7oQqvim1xgCsl5SF1lvIaONf2SF_GeknwDq35r2L1k/https://going-medieval.com/wp-content/uploads/2024/05/wellcome-collection-43377i.jpg?w=936)
+![[9f16f8753091e283fa70062569cccb64.jpg]]
 
 **A screaming young woman is forced by soldiers into a “iron coffin of Lissa”. Etching by M. Pool after O. Elliger.** Elliger, Ottmar, the younger, 1666-1735\. Wellcome Collection 43377i
 
@@ -85,7 +85,7 @@ There’s a lot of this about with various “medieval” torture devices. You b
 
 Anyway, all of this brings us to our last device, which isn’t a torture one, but also isn’t real, and _is_ sexual. It was brought to my attention by friend of the blog, the fabulous Florence H.R. Scott, who likes to make my life difficult. Anyway here you go:
 
-![](https://proxy-prod.omnivore-image-cache.app/657x1023,sxJMLLbPlUpzjpqIIR865JAkRqPbi026cQXNNLPzcq0Y/https://going-medieval.com/wp-content/uploads/2024/05/whatsapp-image-2024-05-20-at-10.05.58.jpeg?w=657)
+![[960c6e42500368df18e4437df7ca08c5.jpg]]
 
 Thanks Florence, I hate it.
 
@@ -132,7 +132,6 @@ Support the blog by subscribing to the [Patreon](https://www.patreon.com/GoingMe
 
 My book, [The Once And Future Sex: Going Medieval on Women’s Roles in Society](https://bookshop.org/p/books/the-once-and-future-sex-going-medieval-on-women-s-roles-in-society-eleanor-janega/18507010?ean=9780393867817), is out now.  
 
-![](https://proxy-prod.omnivore-image-cache.app/675x1023,sjn3glRFc6j3dC5tH22dZwdkjwxoptQC6sZayIG1PGwU/https://going-medieval.com/wp-content/uploads/2023/01/book.jpeg?w=675)
+![[749ccc826f9a91f2bba06ec3f78ec52a.jpg]]
 
   
-© Eleanor Janega, 2024

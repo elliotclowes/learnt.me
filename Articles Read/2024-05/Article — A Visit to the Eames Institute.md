@@ -21,9 +21,9 @@ omnivore_url: https://omnivore.app/me/a-visit-to-the-eames-institute-18fcd99b2cb
 **Note:** Below is the text from the article, with any ==highlights== done by me. None of the writing below is by me.
 
 # Article text
-![A Visit to the Eames Institute](https://proxy-prod.omnivore-image-cache.app/0x0,s_r2QtMQdCVLTRFc4aULDqsCHehUPg6116JBuXyW0Y-w/https://arun.is/static/af8db242963bbcb8ded6ec50edc104f8/cover_wide.jpg)
+![[cover_wide.jpg]]
 
-![A Visit to the Eames Institute](https://proxy-prod.omnivore-image-cache.app/0x0,sgKsb40Te7KFfzy6HA6fbXtIKmAqRUVnYnYo8sps2p9A/https://arun.is/static/b344effaf2020ebb87991608c141ea80/cover.jpg)
+![[cover.jpg]]
 
 [Ray and Charles Eames](https://en.wikipedia.org/wiki/Charles%5Fand%5FRay%5FEames) are among the most influential modern designers. Their creative practice has touched us all, whether it be through films, exhibition design, or furniture. For me and many others, they showed how modernist design could be not just a way of working, but a way of life.
 
@@ -113,10 +113,9 @@ I only wish we had more time. I could have imagined spending twice as long in th
 
 ### Camera setup
 
-![Camera setup](https://proxy-prod.omnivore-image-cache.app/0x0,sy_p5iRNuZvM2DaDsSIlWf2EMKPZBr_z-r5IBPhafB7M/https://arun.is/images/gear/cl_23.png)
+![[cl_23.png]]
 
 Thanks to Q for reading drafts of this.
 
 ## Subscribe to the newsletter
 
----

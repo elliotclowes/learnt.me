@@ -77,7 +77,7 @@ Step back a bit. Why should any of this be true? That is:
 
 Here’s the Ebbinghaus Forgetting Curve:
 
-[![](https://proxy-prod.omnivore-image-cache.app/660x0,ssoqRKQD6vKIh85TLc-NFumgCFeeeFHye5-pEPQS3Nu0/https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F799700d8-5ce1-4fa6-a00e-664ae883c2cd_1024x570.jpeg)](https://substackcdn.com/image/fetch/f%5Fauto,q%5Fauto:good,fl%5Fprogressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F799700d8-5ce1-4fa6-a00e-664ae883c2cd%5F1024x570.jpeg)
+![[14f33042cebc17c1bbcd59536e047440.jpg]]
 
 Source [here](https://amplifire.com/articles/hacking-the-forgetting-curve-and-the-clinical-implications-of-forgetting/). Note deranged horizontal axis.
 
@@ -87,7 +87,7 @@ The forgetting curve focuses on abstract, unconnected emotionless knowledge - yo
 
 So how come anyone remembers anything at all? Here’s the forgetting curve’s more optimistic cousin, the spaced repetition curve:
 
-[![](https://proxy-prod.omnivore-image-cache.app/668x478,s5_CPmkmhgfLbLJpCxfWUzdmKueR_v50yXSczIhvXtkg/https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd3ded436-bee7-4c63-b688-9392bafdb928_668x478.png)](https://substackcdn.com/image/fetch/f%5Fauto,q%5Fauto:good,fl%5Fprogressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd3ded436-bee7-4c63-b688-9392bafdb928%5F668x478.png)
+![[https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd3ded436-bee7-4c63-b688-9392bafdb928%5F668x478.png]]
 
 Source [here](https://twitter.com/emollick/status/1634661880978366466). Note that spaced repetition doesn’t necessarily do any better than fixed repetition; see [here](https://traverse.link/spaced-repetition/the-optimal-spaced-repetition-schedule) for more.
 
@@ -114,7 +114,7 @@ Suppose that no reasonable amount of repetition is enough to remember an abstrac
 
 But suppose that once you learn something to a school-test-passing level, approximately once-yearly repetition _is_ enough to make you remember it. That would explain why we remember things like Shakespeare’s name - just going about our everyday lives, we probably hear him talked about more than once a year. 
 
-[![](https://proxy-prod.omnivore-image-cache.app/640x406,sU1SE-ihYlNm-9Z0fEIg73FQ-yEzmiGya1s8XrHXBNVc/https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb268a9da-802d-4c72-b079-0726bd0b8933_640x406.png)](https://www.richardhanania.com/p/shakespeare-is-fake)
+![[1c77d72f1dc29496ef696553d1f84ccb.jpg]]
 
 This was my time for this year. Was it worth it?
 
@@ -142,4 +142,3 @@ You could imagine some equivalent where, for example, you need to know a certain
 
 Otherwise - aside from being a place to warehouse children while their parents are away - I’m not sure how you rescue the usefulness of most schooling.
 
-(on a purely theoretical basis, of course)

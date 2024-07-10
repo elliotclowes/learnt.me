@@ -54,4 +54,3 @@ Rory Fagan joined the trial in 2021, seeking relief from a back injury sustained
 
 Prof Kamila Hawthorne, the chair of the Royal College of GPs in the UK, welcomed the research and said it was “important” the results were “taken onboard as clinical guidance is developed and updated”.
 
-Dr Athalie Redwood-Brown, a senior lecturer in physical activity and health at Nottingham Trent University, said the findings had “the potential to transform preventive care, offering a scalable solution that could benefit millions”.

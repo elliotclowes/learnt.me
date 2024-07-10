@@ -95,4 +95,3 @@ So if the developers of any of these platforms are paying attention, I (and I’
 
 ### Chris Aldrich
 
- I'm a biomedical and electrical engineer with interests in information theory, complexity, evolution, genetics, signal processing, IndieWeb, theoretical mathematics, and big history. I'm also a talent manager-producer-publisher in the entertainment industry with expertise in representation, distribution, finance, production, content delivery, and new media. [ View all posts by Chris Aldrich ](https://boffosocko.com/author/chrisaldrich/) 

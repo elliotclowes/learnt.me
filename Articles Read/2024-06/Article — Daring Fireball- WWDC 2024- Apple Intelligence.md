@@ -71,4 +71,3 @@ It’s good to see Apple hustling, though. I [continue to believe](https://darin
 
 ---
 
-1. Image Playground is a new app, and thus definitely counts as a product, but at the moment I’m seeing it as the least interesting part of Apple Intelligence, if only because it’s offering something a dozen other products offer, and [it doesn’t seem to do](https://gizmodo.com.au/2024/06/apple-ai-images-are-so-ugly/) a particularly interesting job of it. [↩︎](#fnr1-2024-06-23 "Jump back to footnote 1 in the text.")

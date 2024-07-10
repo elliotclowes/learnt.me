@@ -132,4 +132,3 @@ Help me promoting this notion which might be too subtle for others otherwise.
 
 2022-06-05: [Heinz Wittenbrink](https://wittenbrink.net/) wrote a nice comment which adds an important aspect: the much larger environmental impact of video compared to text:
 
-> Thank you for this article! I agree with everything... A further important aspect is how energy hungry videos are. Many authors - one of them is [Gerry McGovern](https://gerrymcgovern.com/) \- have written on that. [Online Video](https://gerrymcgovern.com/the-hidden-pollution-cost-of-online-meetings/) is one of the things that eat up the planet.

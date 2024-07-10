@@ -69,4 +69,3 @@ Anyway.
 * [My most popular posts in 2021 and other lists](https://interconnected.org/home/2021/12/23/top%5Fposts) (23 Dec 2021)
 * [Filtered for hundreds and hundreds](https://interconnected.org/home/2022/02/21/filtered) (21 Feb 2022)
 
-If you enjoyed this post, please consider sharing it by email or on social media. [Here’s the link.](https://interconnected.org/home/2020/09/10/streak) Thanks, —Matt.

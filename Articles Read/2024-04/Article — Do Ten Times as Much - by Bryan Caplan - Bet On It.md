@@ -32,7 +32,7 @@ When I see the contrast between people who succeed and fail, I generally witness
 
 Ten times as much of what, exactly? The answer is usually: Whatever you already think the crucial ingredient is. “Why can’t I get ahead in my career? I strive to study and emulate my role models.” Great idea; you just need to multiply your effort by a factor a ten. “How can I save my marriage? I’m really trying to make my spouse happy.” Again, great idea. You just need to multiply your effort by a factor of ten.
 
-[![Chris-R | Villains Wiki | Fandom](https://proxy-prod.omnivore-image-cache.app/640x359,sgDyzrvBMScz81fFXqhLb4RYaSlMqDe3BCcSxUSkndyI/https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2840a74c-9942-4040-8d5b-f2360a164a9a_640x359.jpeg "Chris-R | Villains Wiki | Fandom")](https://substackcdn.com/image/fetch/f%5Fauto,q%5Fauto:good,fl%5Fprogressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2840a74c-9942-4040-8d5b-f2360a164a9a%5F640x359.jpeg)
+![[f0aecfefd5a3db7c8ff8d65200057560.jpg]]
 
 _**“Five minutes? You want five fucking minutes, Denny? You know what? I haven't**_ **got** _**five fucking minutes!”**_ **(The Room, 2003)**
 
@@ -40,10 +40,9 @@ Incredulity is tempting. In the spirit of [Chris-R in ](https://www.imdb.com/tit
 
 Take parenting. Most readers summarize my _[Selfish Reasons to Have More Kids](http://www.amazon.com/gp/product/046501867X?ie=UTF8&tag=bryacaplwebp-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=046501867X)_ as “Parenting doesn’t matter.” But that is only one possible interpretation of the twin and adoption data. The data is also consistent, however, with the theory that most parents are barely trying to get results - at least on many relevant margins. I [pondered this in depth](https://www.econlib.org/archives/2015/09/why%5Fim%5Fhomescho.html) before I started homeschooling my kids. I’m always stunned by all the economists who fail to teach their kids about supply-and-demand. All my kids know about these holy diagrams. What’s the difference between their kids and mine? I did ten times as much.
 
-[![What Is 'Supply and Demand' in Business?](https://proxy-prod.omnivore-image-cache.app/1000x738,sMeA5ik8Lp6Ts6LGGKDDh3XTTOALLWN_Al0g3jlNldoo/https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F02ce5782-eb6d-423c-9a57-8bca2aa7b5f4_1000x738.jpeg "What Is 'Supply and Demand' in Business?")](https://substackcdn.com/image/fetch/f%5Fauto,q%5Fauto:good,fl%5Fprogressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F02ce5782-eb6d-423c-9a57-8bca2aa7b5f4%5F1000x738.jpeg)
+![[a2f19d9a53f65414ab5a4588c47e99a5.jpg]]
 
 _**Teach your children this holy diagram!**_
 
 Still, once you internalize the “Do ten times as much” norm, you are in for some soul-searching. If you want to learn a foreign language, you need to budget about two thousand hours. If you want to master a technical subject, you need to budget about five thousand hours. If you want your kids to be pious Orthodox Jews, move to an Orthodox neighborhood, send them to Orthodox schools, deny them internet, and don’t let them make friends with outsiders.
 
-Either that, or admit that you’ve got higher priorities. No one succeeds at everything. If you’re not willing to do ten times as much, just level with yourself: “I’ve got better things to do than learn a foreign language.” “I’ve got better things to do than become a great economist.” “I’ve rather raise my kids in the modern world than be a family of earnest Orthodox Jews.” If you take all of the time you dabble away in a hundred quixotic ways and concentrate it on two or three goals you truly prize, you’ll probably succeed at what you value the most. Pick your battles, friends. And wherever do you choose to fight, _**do ten times as much.**_

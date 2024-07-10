@@ -30,7 +30,7 @@ Based on the research I explain in my new book, this post outlines seven common 
 
 ## 1\. You don’t know the right technique.
 
-![](https://proxy-prod.omnivore-image-cache.app/800x600,soFBbRZZl6VLdd40My7Rlx7m1z4BMKOOrmu-vgumI-Q8/https://www.scotthyoung.com/blog/wp-content/uploads/2024/05/1-Right-technique.jpg)
+![[1-Right-technique.jpg]]
 
 Almost everything we know comes from other people. Science, art, business and culture are all cumulative efforts that build upon the hard-won methods and insights of the past. Therefore, the most fundamental difficulty we encounter in improving is not knowing (or not having access to) the best methods for solving a problem.
 
@@ -40,7 +40,7 @@ The starting point for any improvement effort, therefore, is to figure out how p
 
 ## 2\. You don’t have enough background knowledge.
 
-![](https://proxy-prod.omnivore-image-cache.app/800x600,sGWhF0FcO6IWbK_dgMBVJ_wp6LEuXpiH11bz-zip4X6I/https://www.scotthyoung.com/blog/wp-content/uploads/2024/05/2-Background-knowledge.jpg)
+![[2-Background-knowledge.jpg]]
 
 The difficulty of skills and subjects isn’t fixed. It always depends on what you already know. If you only know English, a lesson taught in Japanese would be mystifying, no matter how smart you are. Yet the same lesson might not be difficult for a kindergartener from Tokyo.
 
@@ -52,7 +52,7 @@ The key to building high is to secure a solid foundation. Figure out what the pr
 
 Practice tends to speed skills up and make them more automatic, fluent and accurate. In intellectual domains, increased practice can reduce the amount of cognitive load needed to perform a skill, meaning you can handle more complicated tasks than you could when you started.
 
-![](https://proxy-prod.omnivore-image-cache.app/800x600,sgYM95kvNPg5ClTYkyP9MtxVO2zZWcGNgcLpIBkrsUBw/https://www.scotthyoung.com/blog/wp-content/uploads/2024/05/3-Practice-time.jpg)
+![[3-Practice-time.jpg]]
 
 The [power law of practice](https://en.wikipedia.org/wiki/Power%5Flaw%5Fof%5Fpractice) suggests that this improvement in performance from repeated practice follows a curve that starts out steep and slowly flattens over time. Even so, the number of repetitions needed to achieve mastery can take a while to accumulate—in one experiment, cigar rollers continued to get better, even after tens of thousands of repetitions.
 
@@ -60,7 +60,7 @@ No clever method or hack can make up for a lack of practice.
 
 ## 4\. You’re practicing the wrong skill.
 
-![](https://proxy-prod.omnivore-image-cache.app/800x600,sSMYXANlDmEpK0SwcG7C6MOUf2p_AbzkGswnjP-nMeAs/https://www.scotthyoung.com/blog/wp-content/uploads/2024/05/4-Wrong-skill-practice.jpg)
+![[4-Wrong-skill-practice.jpg]]
 
 Practice helps, but it’s not a panacea.
 
@@ -70,7 +70,7 @@ Any attempt at improvement needs to start by getting clear on what—exactly—y
 
 ## 5\. You’re not able to learn from your mistakes.
 
-![](https://proxy-prod.omnivore-image-cache.app/800x600,saFWYy13vs2sZ5Y_1HYggB9swkPv50pPBGig0xF_3GAw/https://www.scotthyoung.com/blog/wp-content/uploads/2024/05/5-Learn-from-mistakes.jpg)
+![[5-Learn-from-mistakes.jpg]]
 
 Without good feedback, improvement is often impossible.
 
@@ -82,7 +82,7 @@ Tons of experience can lead to overconfidence, not expertise, if your practice i
 
 ## 6\. Your environment is too challenging—or not challenging enough.
 
-![](https://proxy-prod.omnivore-image-cache.app/800x600,s69o3ZkVdEHrHPtC7PXwGHGMR3Z4TkUx7eoIvui-3p9w/https://www.scotthyoung.com/blog/wp-content/uploads/2024/05/6-Practice-difficulty-sweet-spot.jpg)
+![[6-Practice-difficulty-sweet-spot.jpg]]
 
 An extremely difficult challenge doesn’t maximize learning. As with the Rubik’s Cube, if you face a problem without knowing the best methods, you can waste years and never figure them out on your own. Tackling a complicated challenge may make it harder to infer the basic principles.
 
@@ -94,7 +94,7 @@ Second, we tend to adjust our performance only when we get feedback from the env
 
 ## 7\. You don’t have the right mental model for how learning works.
 
-![](https://proxy-prod.omnivore-image-cache.app/800x600,s-nOxTbqe-0K1PEdILscXQ2UsLFNghZn65OF427N8aZE/https://www.scotthyoung.com/blog/wp-content/uploads/2024/05/7-Skills-mental-model.jpg)
+![[7-Skills-mental-model.jpg]]
 
 As with anything in life, your ability to troubleshoot depends on having an adequate mental model to explain how something works. You can’t fix your car, computer or even your career if you don’t know what really underlies progress.
 
@@ -110,7 +110,7 @@ Part of my motivation for writing [Get Better at Anything](https://www.scotthyou
 
 **Join my weekly newsletter**
 
-![5books_optin.png](https://proxy-prod.omnivore-image-cache.app/455x177,szh8y8LE8PNMjRjrJCxDPNRBRhxnJjMSa1PMwS4KgqlU/https://a.omappapi.com/users/44b710515ec6/images/def5bc8e363d1677590514-5books_optin.png?width=910)
+![[3a8f6a99d16ed46da5d243be3ac42837.jpg]]
 
 AND GET   
 **5 BOOKS FOR FREE!**
@@ -127,4 +127,3 @@ Join **100,000+** readers who get my private weekly newsletter and get instant a
 * [Best Feeling Better](https://www.scotthyoung.com/blog/2019/07/26/best-feeling-better/)
 * [Best Thinking Better](https://www.scotthyoung.com/blog/2019/07/25/best-thinking-better/)
 * [Best Productivity](https://www.scotthyoung.com/blog/2019/06/18/best-productivity/)
-* [Best Books](https://www.scotthyoung.com/blog/2019/10/14/best-books/)

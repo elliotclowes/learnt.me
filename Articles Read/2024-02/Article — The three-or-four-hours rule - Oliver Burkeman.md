@@ -54,4 +54,3 @@ To receive posts as soon as they're available, [subscribe to my email The Imperf
 
 ​
 
-​

@@ -21,9 +21,9 @@ omnivore_url: https://omnivore.app/me/three-books-about-muji-18f8fb4b8c8
 **Note:** Below is the text from the article, with any ==highlights== done by me. None of the writing below is by me.
 
 # Article text
-![Three books about Muji](https://proxy-prod.omnivore-image-cache.app/0x0,sKRm-CqamENhxQwWMyAoqNbLyTPUHmgDbRq2aYz6M7iM/https://arun.is/static/93783bf7430867fb836e8e780ecff7b0/cover_wide.jpg)
+![[cover_wide.jpg]]
 
-![Three books about Muji](https://proxy-prod.omnivore-image-cache.app/0x0,sRIlQlI0JlRCNu6wff96iqB1qyt_VKKPZFc_eK3YO-tI/https://arun.is/static/d2fd29655cb90ed318bea2ccdc186731/cover.jpg)
+![[cover.jpg]]
 
 This is the second in a series of essays about inspiring books in my library. The focus this time is on [[MUJI]].
 
@@ -45,7 +45,7 @@ MUJI has become essential to the way I live and to my aesthetic sense. Naturally
 
 ## MUJI
 
-![](https://proxy-prod.omnivore-image-cache.app/0x0,sydAK-MWURNgP_PN8z4jFqdZy6tGV_4LQiab38vvH6v0/https://arun.is/images/2023-05-04-muji-books/MUJI.jpg)
+![[MUJI.jpg]]
 
 Published in 2010
 
@@ -99,7 +99,7 @@ As a whole, this book does what few companies dare to — it pulls back the curt
 
 ## Found MUJI
 
-![](https://proxy-prod.omnivore-image-cache.app/0x0,sdfa_zEk-HRS2TNhMtasOD5XYc8oiHwUdVMjv0KY0k7k/https://arun.is/images/2023-05-04-muji-books/found_muji.jpg)
+![[found_muji.jpg]]
 
 Published in 2015
 
@@ -113,7 +113,7 @@ The Found MUJI concept began as a series of observations as the team traveled th
 
 In 2011, MUJI[transformed their first store in Aoyama](https://tokyofashion.com/first-muji-store-found-muji-aoyama/)into a dedicated Found MUJI store. Found MUJI has developed into a curatorial sub brand that complements MUJI’s wholly new products.
 
-![](https://proxy-prod.omnivore-image-cache.app/0x0,sZAVo30IKdtvh3wUFOJg2ajYQ81BG9to3Nn6D_Xqsseg/https://arun.is/images/2023-05-04-muji-books/aoyama_1.jpg)![](https://proxy-prod.omnivore-image-cache.app/0x0,s7SKX3bEmGA8k-GWt8QDOt1iRFaafwFrAVujugfTfEK4/https://arun.is/images/2023-05-04-muji-books/aoyama_2.jpg)
+![[aoyama_2.jpg]]
 
 The Aoyama store before and after
 
@@ -141,7 +141,7 @@ If you get a copy of either this or the previous volume from 2012, I’d recomme
 
 ## Magazine B: MUJI
 
-![](https://proxy-prod.omnivore-image-cache.app/0x0,sIN4FG7OWbFpdFis_MDkR585SlYO6oZhrMUpQgjAncd4/https://arun.is/images/2023-05-04-muji-books/b_brand.jpg)
+![[b_brand.jpg]]
 
 Published in 2017
 
@@ -187,10 +187,9 @@ What’s more, these books underscore MUJI’s impressive scope. Viewing it not 
 
 ### Camera setup
 
-![Camera setup](https://proxy-prod.omnivore-image-cache.app/0x0,sCw6OrB92o2frZMPa3fK4vlBTa3ULRrngOsbY8I3gCx8/https://arun.is/images/gear/cl_23_56.png)
+![[cl_23_56.png]]
 
 Thanks to Q for reading drafts of this.
 
 ## Subscribe to the newsletter
 
----

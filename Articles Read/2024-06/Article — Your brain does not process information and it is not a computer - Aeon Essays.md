@@ -84,11 +84,11 @@ In a classroom exercise I have conducted many times over the years, I begin by r
 
 Because you might never have seen a demonstration like this, or because you might have trouble imagining the outcome, I have asked Jinny Hyun, one of the student interns at the institute where I conduct my research, to make the two drawings. Here is her drawing ‘from memory’ (notice the metaphor):
 
-![](https://proxy-prod.omnivore-image-cache.app/1080x1080,sGKeQXiHUPdTOsarFXILfwPel7tUjdVVf9dgjLNOePxc/https://images.aeonmedia.co/user_image_upload/153/Inline-rough.jpg?width=3840&quality=75&format=auto)
+![[2e678944357fdd0551c714f15c00b490.jpg]]
 
 And here is the drawing she subsequently made with a dollar bill present:
 
-![](https://proxy-prod.omnivore-image-cache.app/1080x1080,sztZBs_ZpoSSGT5YtP-WH1g3e6sqpI4Jyls3vEu01QKY/https://images.aeonmedia.co/user_image_upload/154/Inline-Detailed.jpg?width=3840&quality=75&format=auto)
+![[fb5b12f950932ce950f64ebf1eac707d.jpg]]
 
 ==Jinny was as surprised by the outcome as you probably are, but it is typical. As you can see, the drawing made in the absence of the dollar bill is horrible compared with the drawing made from an exemplar, even though Jinny has seen a dollar bill thousands of times.==
 
@@ -144,4 +144,3 @@ Think how difficult this problem is. To understand even the basics of how the br
 
 Meanwhile, vast sums of money are being raised for brain research, based in some cases on faulty ideas and promises that cannot be kept. The most blatant instance of neuroscience gone awry, documented recently in [a report in _Scientific American_](http://www.scientificamerican.com/article/why-the-human-brain-project-went-wrong-and-how-to-fix-it/), concerns the $1.3 billion Human Brain Project launched by the European Union in 2013\. Convinced by the charismatic Henry Markram that he could create a simulation of the entire human brain on a supercomputer by the year 2023, and that such a model would revolutionise the treatment of Alzheimer’s disease and other disorders, EU officials funded his project with virtually no restrictions. Less than two years into it, the project turned into a ‘brain wreck’, and Markram was asked to step down.
 
-We are organisms, not computers. _Get over it._ Let’s get on with the business of trying to understand ourselves, but without being encumbered by unnecessary intellectual baggage. The IP metaphor has had a half-century run, producing few, if any, insights along the way. The time has come to hit the DELETE key.

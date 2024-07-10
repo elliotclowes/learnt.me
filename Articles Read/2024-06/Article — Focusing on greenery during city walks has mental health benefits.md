@@ -21,11 +21,11 @@ omnivore_url: https://omnivore.app/me/focusing-on-greenery-during-city-walks-has
 **Note:** Below is the text from the article, with any ==highlights== done by me. None of the writing below is by me.
 
 # Article text
-![(Photo credit: Adobe Stock)](https://proxy-prod.omnivore-image-cache.app/750x375,somm-oGLT_Zz83YCgVMW79FfPFDvITh8G9bUDPZzFRJc/https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_750,h_375/https://www.psypost.org/wp-content/uploads/2024/06/mother-and-daughter-enjoying-in-walk-outdoors-in-park-750x375.jpg)
+![[mother-and-daughter-enjoying-in-walk-outdoors-in-park-750x375.jpg]]
 
 (Photo credit: Adobe Stock)
 
-[![Follow PsyPost on Google News](https://proxy-prod.omnivore-image-cache.app/250x85,szuelhY7I0-aytMxktXw1GZSHiH-6eFQup8lx4_Owxd0/https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_250,h_85/https://www.psypost.org/wp-content/uploads/2024/02/follow-on-google-news-1.png)](https://news.google.com/publications/CAAqBwgKMLz2gwsw-5CAAw)
+![[952e287ed10657789040b82660ab29fe.jpg]]
 
 In a new study published in the journal _[People and Nature](https://doi.org/10.1002/pan3.10648)_, researchers from Bangor University and Technion – Israel Institute of Technology have demonstrated that simply observing natural elements during urban walks can significantly benefit mental health. The research shows that city dwellers who pay visual attention to greenery rather than human-made structures tend to experience reduced anxiety and enhanced feelings of restoration.
 
@@ -49,4 +49,3 @@ The eye-tracking data provided further insights. Participants who spent more tim
 
 “Understanding which natural elements confer these benefits is key to transforming cities into healthier habitats for humans and wildlife alike. Our research highlights the importance of further exploring both visual and other sensory interactions with nature in urban contexts, underscoring their significance in enhancing mental health and well-being. We also demonstrate for the first time the potential benefits of using mobile eye-tracking technology in outdoor urban environments to explore how visual intake of nature elements influences well-being, though challenges persist to effectively utilize this technology outdoors.”
 
-The study, “[The nature gaze: Eye-tracking experiment reveals well-being benefits derived from directing visual attention towards elements of nature](https://besjournals.onlinelibrary.wiley.com/doi/10.1002/pan3.10648),” was authored by Whitney Fleming, Brian Rizowy, and Assaf Shwartz.

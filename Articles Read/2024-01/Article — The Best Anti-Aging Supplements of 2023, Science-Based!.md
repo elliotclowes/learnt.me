@@ -38,7 +38,7 @@ Luckily, there are far better, more science-based anti-aging supplements. We com
 
 ## 1\. Fisetin
 
-![Fisetin](https://proxy-prod.omnivore-image-cache.app/871x490,sv7KShKXZhNvabBQoyvXcrUq_0JvBKRS1_pyCXALV7tg/https://i0.wp.com/novoslabs.com/wp-content/uploads/2021/01/Fisetin.gif?resize=1024%2C576&ssl=1)
+![[f3861c02aa0ca8db911d0a66c26f6299.jpg]]
 
   
 [Fisetin](https://novoslabs.com/novos-anti-aging-longevity-supplement/fisetin-anti-aging-supplement-longevity/) is a natural ingredient found in vegetables and fruits, especially in strawberries. Fisetin is mostly known for its senolytic activity, meaning it can clear away senescent cells, and increase lifespan in various organisms ([R](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6197652/),[R](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5861950/),[R](https://www.nature.com/articles/nature02789),[R](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5391241/pdf/aging-09-955.pdf)).
@@ -49,7 +49,7 @@ Senescent cells in the skin contribute to [wrinkles](https://novoslabs.com/the-4
 
 There are various natural substances that can have senolytic activity. One of them is quercetin. In fact, quercetin and fisetin look very similar. However, fisetin seems to be the most potent natural senolytic ([R](https://www.thelancet.com/article/S2352-3964%2818%2930373-6/fulltext)):  
 
-![](https://proxy-prod.omnivore-image-cache.app/0x0,sXqTzkmwzsoDhOjztF5Yt4ibj5xcpoVsnxid3Xoqxiig/https://lh3.googleusercontent.com/wM5-BKVRNVczB5rE_ugDCvg36ms0OLuJyDOVzeyeB3-NVenb2qBo38NMvJXccKkRJtnv3Jiau4SEDFYYgf8NgR23Bo2D6TyQ7d-oyI7-O34ZlnWOCXleD2noasPCDyUbRhnWMdd9)
+![[d6e1931d7e0aab0f5356f29a99cf1142.jpg]]
 
 Fisetin is far better in destroying senescent cells (red bar) than other substances, such as quercetin or curcumin or EGCG.   
 Source image: Fisetin is a senotherapeutic that extends health and lifespan. EBioMedicine, 2018
@@ -60,7 +60,7 @@ Researchers concluded that “fisetin had the most potent senotherapeutic effect
 
 Various studies show the lifespan extending effects of fisetin ([R](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6197652/),[R](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5861950/),[R](https://www.nature.com/articles/nature02789)). For example, one study found that fisetin extends median and maximum lifespan in mice, even when taken late in a mouse’s life (equivalent to 50 or 60 years old for a human) ([R](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6197652/)):
 
-![](https://proxy-prod.omnivore-image-cache.app/0x0,s2BXwLTSCHnc9GLoJapB1e8hCttSucnapzlQM4aHucY8/https://lh5.googleusercontent.com/mnll03l7AvgjlJryiIjOchlLmhnj6aev0jrkr-c5DOirG2VG9PLzNPTAqmtU4WkE59f0oqQSJ2NWEw31QJMWms6btFqIKjndl0EoYwBJiKvyen2tyvULr3DZ-1s2fo2h3u3T8z3K)
+![[9d2d4a9a8afdaafe9641fe464a669aca.jpg]]
 
 Fisetin extends lifespan (red graph) versus control group (black graph) in mice.   
 Source image: Fisetin is a senotherapeutic that extends health and lifespan. EBioMedicine, 2018
@@ -69,7 +69,7 @@ Learn more about the anti-aging effects of fisetin [here](https://novoslabs.com/
 
 ## 2\. Alpha-ketoglutarate (the calcium form)
 
-![alpha_ketoglutarate](https://proxy-prod.omnivore-image-cache.app/871x490,swRIayWYTAkMmjbeTejUTjgdwepxZ8MSE2Tlto2lkiA4/https://i0.wp.com/novoslabs.com/wp-content/uploads/2021/01/alpha_ketoglutarate.gif?resize=1024%2C576&ssl=1)
+![[e47359a657a7114c8d74d91f41ca33b6.jpg]]
 
   
 [Alpha-ketoglutarate](https://novoslabs.com/novos-anti-aging-longevity-supplement/alpha-ketoglutarate-anti-aging-supplement-longevity/) (AKG) is a substance that naturally occurs in our bodies. When we get older, the levels of AKG decline.
@@ -92,11 +92,11 @@ Alpha-ketoglutarate needs [vitamin C](https://novoslabs.com/novos-anti-aging-lon
 
 Learn more about the anti-aging effects of alpha-ketoglutarate [here](https://novoslabs.com/novos-anti-aging-longevity-supplement/alpha-ketoglutarate-anti-aging-supplement-longevity/).
 
-[![](https://proxy-prod.omnivore-image-cache.app/848x105,sB-xfMOCw6Ic5Vake355xGi-lmcuo1_s79JeWXGBO5ss/https://i0.wp.com/novoslabs.com/wp-content/uploads/2022/04/Younger-For-Longer.png?resize=728%2C90&ssl=1)](https://novoslabs.com/products/?utm%5Fmedium=referral&utm%5Fsource=novoslabs.com&utm%5Fcampaign=blog)
+![[9b00c2957cbcd84e20d174a06de8b384.jpg]]
 
 ## 3\. Microdosed lithium
 
-![](https://proxy-prod.omnivore-image-cache.app/831x698,szWr9NaagW5TB2tf0wMjP7jNQHMcjHxrtoVQ-QhZGz-A/https://i0.wp.com/novoslabs.com/wp-content/uploads/2021/06/lithium-2.png?resize=1024%2C861&ssl=1)
+![[073934d7089bca72c21715608b3f4f93.jpg]]
 
   
 [Lithium](https://novoslabs.com/novos-anti-aging-longevity-supplement/lithium-anti-aging-supplement-longevity/) is a mineral found in nature. It seeps from rocks into water, including drinking water. 
@@ -119,7 +119,7 @@ Learn more about the anti-aging effects of microdosed lithium [here](https://nov
 
 ## 4\. Glycine
 
-![](https://proxy-prod.omnivore-image-cache.app/871x733,sMMVvMDpaJ9QKhMVZHWXYMfGkQ9IfSUUyTvYpIbY_2xQ/https://i0.wp.com/novoslabs.com/wp-content/uploads/2021/06/glycine.png?resize=1024%2C861&ssl=1)
+![[bf8d404c46ffcbf926fadd50d5b87659.jpg]]
 
   
 [Glycine](https://novoslabs.com/novos-anti-aging-longevity-supplement/glycine-anti-aging-supplement-longevity/) is an amino acid that occurs naturally in our body. When we age, glycine levels decline.
@@ -138,7 +138,7 @@ Learn more about the anti-aging effects of glycine [here](https://novoslabs.com/
 
 ## 5\. Pterostilbene
 
-![](https://proxy-prod.omnivore-image-cache.app/871x490,s2tQEa8Tgiw40BXCvLH4c1E4W4PV4v2uvA5eOHcql_aI/https://i0.wp.com/novoslabs.com/wp-content/uploads/2021/06/Pterostilbene.gif?resize=1024%2C576&ssl=1)
+![[78ef043c5f6e90a623da526f28f1be95.jpg]]
 
   
 [Pterostilbene](https://novoslabs.com/novos-anti-aging-longevity-supplement/pterostilbene-anti-aging-supplement-longevity/) is the better brother of the famous anti-aging substance resveratrol.
@@ -155,11 +155,11 @@ Pterostilbene has been associated with longer lifespans ([R](https://iubmb.onlin
 
 Learn more about the anti-aging effects of pterostilbene [here](https://novoslabs.com/novos-anti-aging-longevity-supplement/pterostilbene-anti-aging-supplement-longevity/).
 
-[![](https://proxy-prod.omnivore-image-cache.app/845x104,sAnyHmh3gP6-xrgK5iU6zXw-gNpdimB9pz23xg2ZKyoU/https://i0.wp.com/novoslabs.com/wp-content/uploads/2022/01/19.png?resize=728%2C90&ssl=1)](https://novoslabs.com/product/novos-core?utm%5Fmedium=referral&utm%5Fsource=novoslabs.com&utm%5Fcampaign=blog)
+![[461ffc03f3b1cb32bc1b9004e580594c.jpg]]
 
 ## 6\. Malate or malic acid
 
-![](https://proxy-prod.omnivore-image-cache.app/871x743,szDJuYFAACyoZtGC6Rq2xcVCj-Do6xOk8Fw-7ZaR1HeU/https://i0.wp.com/novoslabs.com/wp-content/uploads/2021/06/magnesium-malate-correct.png?resize=1024%2C873&ssl=1)
+![[01d94b613c84551d43b32716f155b2c3.jpg]]
 
 Malic acid (copper & gold) with a magnesium atom (silver) (image: NOVOS)
 
@@ -178,7 +178,7 @@ Learn more about the anti-aging effects of malate [here](https://novoslabs.com/n
 
 ## 7\. Magnesium
 
-![](https://proxy-prod.omnivore-image-cache.app/871x743,szDJuYFAACyoZtGC6Rq2xcVCj-Do6xOk8Fw-7ZaR1HeU/https://i0.wp.com/novoslabs.com/wp-content/uploads/2021/06/magnesium-malate-correct.png?resize=1024%2C873&ssl=1)
+![[01d94b613c84551d43b32716f155b2c3.jpg]]
 
 Malic acid (copper & gold) with a magnesium atom (silver) (image: NOVOS)
 
@@ -197,7 +197,7 @@ Learn more about the anti-aging effects of magnesium [here](https://novoslabs.co
 
 ## 8\. Glucosamine (the sulfate form) 
 
-![](https://proxy-prod.omnivore-image-cache.app/871x731,sephegpYKl9djEDqgy2NCMDg0FhJirWsHMhmyRdOOSZ4/https://i0.wp.com/novoslabs.com/wp-content/uploads/2021/06/glucosamine-sulfate.png?resize=1024%2C859&ssl=1)
+![[4e4774763835132c9c52c3a17be38acd.jpg]]
 
   
 Most people know [glucosamine](https://novoslabs.com/novos-anti-aging-longevity-supplement/glucosamine-anti-aging-supplement-longevity/) as a substance to reduce wear and tear of cartilage and to improve joint health.
@@ -220,7 +220,7 @@ Learn more about the anti-aging effects of glucosamine [here](https://novoslabs.
 
 ## 9\. Hyaluronic acid
 
-![](https://proxy-prod.omnivore-image-cache.app/871x733,snEC0uux3AKuP2Yz24qR-ZPINha1Ix74U3MwbFKp8oMA/https://i0.wp.com/novoslabs.com/wp-content/uploads/2021/06/hyaluronic-acid.png?resize=1024%2C861&ssl=1)
+![[1db8cfc99ff7ad417aa454919a647871.jpg]]
 
   
 [Hyaluronic acid](https://novoslabs.com/novos-anti-aging-longevity-supplement/hyaluronic-acid-acetyl-glucosamine-anti-aging-supplement-longevity/) is an important component of the skin. But hyaluronic acid (HA) surrounds and embeds many other cells in the body than just the skin cells.
@@ -241,7 +241,7 @@ Acetyl-glucosamine could do this by inducing the “unfolded protein response”
 
 ## 10\. Ginger
 
-![](https://proxy-prod.omnivore-image-cache.app/871x487,s5QDQSv1pqX2IsY3SMsRByoLj9YUA07nBHd1_KkOlkd8/https://i0.wp.com/novoslabs.com/wp-content/uploads/2021/06/gingerol.png?resize=1024%2C572&ssl=1)
+![[49181a748b8683046b68b8038201b65e.jpg]]
 
 Gingerol, an important bioactive ingredient in ginger (image: NOVOS)
 
@@ -262,7 +262,7 @@ However, ginger seems to be able to mitigate this molecular onslaught.
 
 ## 11\. Rhodiola rosea
 
-![](https://proxy-prod.omnivore-image-cache.app/871x749,sP1G8csO5eyWadsX0SJ23P3m7XRBbtpnwvY-EaJ9LPRg/https://i0.wp.com/novoslabs.com/wp-content/uploads/2021/06/salidroside-rhodiola.png?resize=1024%2C881&ssl=1)
+![[a8f134227c9e6092bc45662d1c34bbc6.jpg]]
 
 Salidroside, a component of Rhodiola rosea (image: NOVOS)
 
@@ -281,7 +281,7 @@ Learn more about the anti-aging effects of Rhodiola rosea [here](https://novosla
 
 ## 12\. L-theanine
 
-![](https://proxy-prod.omnivore-image-cache.app/871x749,s4zNAS-fIOsbqNeIZ4IsBhl_oHFWjdotBXYnOy1RKsrw/https://i0.wp.com/novoslabs.com/wp-content/uploads/2021/06/theanine.png?resize=1024%2C881&ssl=1)
+![[48184a12f025e48da83a999205d43c4d.jpg]]
 
   
 [Theanine](https://novoslabs.com/novos-anti-aging-longevity-supplement/theanine-anti-aging-supplement-longevity/) is a substance found in green tea, and is one of the reasons why green tea is healthy.
@@ -298,7 +298,7 @@ In humans, theanine can improve concentration, while also improving relaxation.
 
 ## 13\. Nicotinamide mononucleotide (NMN)
 
-![](https://proxy-prod.omnivore-image-cache.app/871x490,sxT8FG_2KeTULvlRGWTNG-_Iqw1ScW0dh6ZcuWmgo-FY/https://i0.wp.com/novoslabs.com/wp-content/uploads/2021/06/NMN-nicotinamide-mononucleotide-1.jpg?resize=1024%2C576&ssl=1)
+![[aa8c8482d110fa5359499bf157076552.jpg]]
 
   
 [Nicotinamide mononucleotide](https://novoslabs.com/nicotinamide-mononucleotide-nmn-and-longevity/) (NMN) is needed to make NAD+.
@@ -321,11 +321,11 @@ NMN can also improve aging-related decline in fertility ([R](https://www.cell.co
 
 For more information on NMN and aging, click [here](https://novoslabs.com/nicotinamide-mononucleotide-nmn-and-longevity/). For a comparison between NMN and NR (nicotinamide riboside), click [here](https://novoslabs.com/nmn-vs-nr-is-nmn-better-than-nr/).
 
-[![](https://proxy-prod.omnivore-image-cache.app/846x105,smakUZEdu3hSM0Uqgqt2BfmS8XndqGW_OFsSgmfQ9xDI/https://i0.wp.com/novoslabs.com/wp-content/uploads/2022/01/15.png?resize=728%2C90&ssl=1)](https://novoslabs.com/product/novos-boost?utm%5Fmedium=referral&utm%5Fsource=novoslabs.com&utm%5Fcampaign=blog)
+![[af60effeac43ae84ddb3f3301344c661.jpg]]
 
 ## The importance of synergy in anti-aging supplements
 
-![cellular repair](https://proxy-prod.omnivore-image-cache.app/871x490,s3WVzrbkDNhxNW48Mx0NdO9Wa1sgwi16LGiceENv7spA/https://i0.wp.com/novoslabs.com/wp-content/uploads/2020/10/Intercellular_communication_1024x576.jpg?resize=1024%2C576&ssl=1)
+![[caf045f26766db3d8d67e67fe68d1d76.jpg]]
 
   
 In conclusion, many anti-aging supplements are based on outdated insights and don’t have any or just very little science backing up their claims. 
@@ -354,7 +354,7 @@ No such supplement existed, which is why we created [NOVOS Core](https://novosla
 
 ### [Learn more about the anti-aging supplement NOVOS Core](https://novoslabs.com/product/novos-core?utm%5Fmedium=referral&utm%5Fsource=novoslabs.com&utm%5Fcampaign=blog)   
 
-[![](https://proxy-prod.omnivore-image-cache.app/871x581,sY_NngZe3x2f64wdj2LIboFXHSZVr-AXtZK2h_Tj075w/https://i0.wp.com/novoslabs.com/wp-content/uploads/2022/03/CREATIVE_SHOT_04_CARE-BOOST-BOX-BOOTLE_0086-v02.jpg?resize=1024%2C683&ssl=1)](https://novoslabs.com/product/novos-core?utm%5Fmedium=referral&utm%5Fsource=novoslabs.com&utm%5Fcampaign=blog)
+![[461ffc03f3b1cb32bc1b9004e580594c.jpg]]
 
 **Further reads**:
 
@@ -366,4 +366,3 @@ No such supplement existed, which is why we created [NOVOS Core](https://novosla
 * [Why have science-based anti-aging supplements not been developed sooner? ](https://novoslabs.com/why-have-science-based-anti-aging-supplements-not-been-developed-sooner/)
 * [The 4 best supplements to reduce wrinkles and slow down skin aging, based on science](https://novoslabs.com/the-4-best-supplements-to-reduce-wrinkles-slow-skin-aging-based-on-science/)
 * [What makes the best anti-aging supplement?](https://novoslabs.com/best-anti-aging-supplement/)
-* [Is NOVOS the best anti-aging supplement? ](https://novoslabs.com/is-novos-the-best-anti-aging-supplement/)

@@ -39,7 +39,7 @@ A quick note: There are many fine, successful writers out there who equate writi
 Drastically increasing your words per day is actually pretty easy, all it takes is a shift in perspective and the ability to be honest with yourself (which is the hardest part). Because I’m a giant nerd, I ended up creating a metric, a triangle with three core requirements: Knowledge, Time, and Enthusiasm. Any one of these can noticeably boost your daily output, but all three together can turn you into a word machine. I never start writing these days unless I can hit all three.
 
 Update! The talented Vicky Teinaki made a graphic of this metric and let me use it! She is awesome!  
-[![](https://proxy-prod.omnivore-image-cache.app/400x275,s7aLHWw-U3tEnGmwTft6YkDwFI2hXJA1vjsnJwkp2fvU/https://4.bp.blogspot.com/-OvTSMEEfM7o/Tui6rV7NJ0I/AAAAAAAAAFE/_fh2knKtTk8/s400/writingmetric.gif)](http://www.rachelaaron.net/images/writingmetric.gif)
+![[writingmetric.gif]]
 
 **Side 1: Knowledge, or Know What You’re Writing Before You Write It**
 
@@ -95,4 +95,3 @@ Again, I really hope this helps you hit your goals. Good luck with your writing!
 
 •••
 
-Rachel Aaron is the author of _The Legend of Eli Monpress_, an adventure fantasy series staring a dangerously charming wizard thief published by Orbit Books, starting with _The Spirit Thief_, available now at bookstores everywhere! She writes about writing productivity, including her insane daily word counts, on [her blog](http://www.rachelaaron.net/).

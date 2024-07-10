@@ -303,4 +303,3 @@ If you have any questions or suggestions, please let me know!
 3. I still have hope that Apple will one day make such a feature available, but I also understand that features like "Advanced Data Protection" don't make that easy. [↩](#fnref:3)
 4. I think my whole backup solution using Borg might also be something I should blog about. [↩](#fnref:4)
 
- © 2012 - 2024 Stefan Zweifel

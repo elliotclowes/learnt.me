@@ -37,7 +37,7 @@ It was, essentially, self-help with science, and this pleased Warren. He became 
 
 Huberman is one of a number of popular online male personalities who are offering us the chance to become healthier, more efficient, better optimised human beings. If one of the dominant trends of the 2010s was “wellness” — think Gwyneth Paltrow, Goop, crystals, healing energies, vague spiritualism and an endless list of alternative health practices made commodifiable and Instagrammable — then what we are seeing now is the emergence of something quite different. It is, ostensibly, a rationalist alternative — a Wellness 2.0 — in which “science bros” offer advice founded, they insist, on research and data.
 
-![Dr Andrew Huberman at a conference in Boston](https://proxy-prod.omnivore-image-cache.app/0x0,suTOPug7pDto4Q9rdmIA7fFw_F6edc4bkLjLJre9DG9U/https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fab687a54-bdc8-4f3d-af3d-b51e516c3aa3.jpg?crop=2881%2C1620%2C304%2C470&resize=1533)
+![[3ee3762f503b191d77a401bdf36354a3.jpg]]
 
 Dr Andrew Huberman at a conference in Boston
 
@@ -49,7 +49,7 @@ These men, and others, all exist in the same online ecosystem. They cross-promot
 
 ==Brad Stulberg writes bestselling books about performance and psychology and has a background in public health. He could pass for a science bro — he is trim, shaven-headed and bespectacled — but instead it was he who coined the term “broscience” five years ago, and he regards this world with a thoughtful curiosity as well as scepticism. “This is the more masculine version of the Gwyneth Paltrow self-care crystal stuff,” he says. And there’s no reason why the same psychological triggers that led wellness to become such an all-consuming thing for women can’t also apply to men. “We ultimately have the same human frailties and insecurities as women. Perhaps men were just an untapped market.”==
 
-![Dr. Mark Hyman, podcaster and author of Young Forever](https://proxy-prod.omnivore-image-cache.app/0x0,shjCESn4xlMRafbfu6vJHXm6_M-XF1u7IrbGIyWxZqlw/https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F38c7d12a-f473-4745-b378-6cd0d4121d2d.jpg?crop=2280%2C3033%2C0%2C87&resize=1533)
+![[e985dd47cb66d15462478e97be759d0c.jpg]]
 
 Dr. Mark Hyman, podcaster and author of Young Forever
 
@@ -63,7 +63,7 @@ Like Wade Warren, Michael Fields is another fan of Huberman. He is 27 and, havin
 
 “I definitely feel like it’s way more targeted towards young men,” he says. “I think it’s because of that constant striving for status and purpose in life.”
 
-![David Goggins in San Diego. He has more than 11 million followers](https://proxy-prod.omnivore-image-cache.app/0x0,siTK7iW6LWl-6JYjb4B2fjtsPUlbG6IwmJ10bQIUPirU/https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fb98d0e5d-12ec-4529-9a6e-f52e281c22a3.jpg?crop=1960%2C1309%2C2065%2C239&resize=1533)
+![[5eea52acf47693810419e5ac823c5edd.jpg]]
 
 David Goggins in San Diego. He has more than 11 million followers
 
@@ -81,7 +81,7 @@ Hang on, I say. How come you get to live to at least 180 but I only get 120? He 
 
 Asprey identifies as a “biohacker”. Having spent much of his twenties overweight, arthritic and struggling with “brain fog”, he has turned his life around via a slew of different treatments and protocols, from intermittent fasting to cryotherapy and various medical interventions. He has had more stem cell injections, he believes, “than anyone out there at this point”. He recently travelled to Mexico to undergo a form of gene therapy not permitted in the United States and which “takes nine years off your measured age”. He takes 84 supplements a day and says he has had his “immune system taken out, amplified by thousands of times, and then reinjected to give myself a younger immune system”. He has, he continues, done a lot of neurofeedback therapy, which, in conjunction with taking a smart drug called modafinil, has provided him with what he describes as an “upgraded brain”.
 
-![Dr Paul Saladino, podcast host and the man behind a successful supplement brand](https://proxy-prod.omnivore-image-cache.app/0x0,s7FU3yU1YyJrNWrX8gX4jU1Znz2og18J_Hy8qWGvvgUw/https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fbdddac03-48bc-4f23-b513-929aa6a38bc7.jpg?crop=722%2C664%2C16%2C205&resize=1533)
+![[778a515d65d612d3b62cbcbc2be95e2e.jpg]]
 
 Dr Paul Saladino, podcast host and the man behind a successful supplement brand
 
@@ -101,7 +101,7 @@ Although not everybody wants or can afford to go as far as Asprey or Johnson, th
 
 What he means is, when you find yourself listening to a podcast that delves into the minutiae of exposing your body to cold water, avoiding particular types of cooking oils or the critical importance of tracking your sleep patterns, it can become easy to convince yourself that these things are all really important. In fact, you want them to be important because these are all things you can do and thus take control of. Thanks to health-tracking smartwatches and continuous glucose monitors, it is now possible to collate and crunch huge amounts of data about our bodies. “But just because something is measurable doesn’t mean it’s important,” Stulberg says. “Like, how did we get from ‘move your body for 30 minutes a day’ to ‘measure your erections for longevity’?”
 
-![Dave Asprey, the multimillionaire founder of the Bulletproof coffee and nutrition brand. He is 50 but regularly claims he will live to 180](https://proxy-prod.omnivore-image-cache.app/0x0,s8r8Jawl2fGzyZ8JmaNDE8omtSW9YDCDOJrIzoB29wwY/https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F39995cbf-1797-49b9-af27-687fc457cf53.jpg?crop=2401%2C2806%2C0%2C364&resize=1533)
+![[a6885efe77600820ffc5673642622ce4.jpg]]
 
 Dave Asprey, the multimillionaire founder of the Bulletproof coffee and nutrition brand. He is 50 but regularly claims he will live to 180
 
@@ -121,7 +121,7 @@ Of course, just like the Goop variety of wellness, there is money to be made in 
 
 **1\. Professor Valter Longo, 56**
 
-![Longevity expert Valter Longo at the Royal Society of Medicine in London](https://proxy-prod.omnivore-image-cache.app/0x0,ssZtszQn2D3WnJ2KXvWnXzyHeOPsub5oQX4UWskH2RJg/https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F0a7b4bcb-00d1-40cc-937b-7a594656d6a7.jpg?crop=4800%2C4742%2C0%2C1260&resize=1533)
+![[1e8bb301660ee0f06b918cb300930069.jpg]]
 
 Longevity expert Valter Longo at the Royal Society of Medicine in London
 
@@ -131,7 +131,7 @@ Time magazine called Longo a “fasting evangelist”. He wants to live to 120 a
 
 **2\. Wim Hof, 64**
 
-![Wim Hof taking an ice bath in his education centre in the Netherlands](https://proxy-prod.omnivore-image-cache.app/0x0,sTlSuEeeTAISoh8-CBApmC-nxPUktLUUpkJe6l26Q21w/https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fe1acd194-c207-4284-acb8-126b28a3d0a9.jpg?crop=5000%2C2782%2C0%2C218&resize=1533)![Wim Hof taking an ice bath in his education centre in the Netherlands](https://proxy-prod.omnivore-image-cache.app/0x0,sqlanmTJbTS1jVSRYmggGk93EhSwCmSKFzsESj8X8958/https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fe1acd194-c207-4284-acb8-126b28a3d0a9.jpg?crop=5000%2C2782%2C0%2C218&resize=400&quality=3)
+![[b14678f4a9e2c5744790e0d088ab73ef.jpg]]
 
 Wim Hof taking an ice bath in his education centre in the Netherlands
 
@@ -144,7 +144,7 @@ Fans of this Stanford academic call themselves “Huberman Husbands” and post 
 
 **4\. Dr Brad Stanfield, 30**
 
-![Brad Stanfield with his son in his native New Zealand](https://proxy-prod.omnivore-image-cache.app/0x0,s9HbL8vlIfJ_y0z1zSsKjdG8IF2yN5YjMrJsHIQd3nL0/https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F496fceee-9d02-467b-96ee-013962bd78b6.jpg?crop=2410%2C1943%2C0%2C727&resize=1533)![Brad Stanfield with his son in his native New Zealand](https://proxy-prod.omnivore-image-cache.app/0x0,s530w6o7He2CH1TEeJYjIx4rPRkk-stHGzU-bzt4wOWs/https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F496fceee-9d02-467b-96ee-013962bd78b6.jpg?crop=2410%2C1943%2C0%2C727&resize=400&quality=3)
+![[c7e11adfb59dcfc2e2a1ca281f5e6a9e.jpg]]
 
 Brad Stanfield with his son in his native New Zealand
 
@@ -154,7 +154,7 @@ The anti-science bro science bro. _Longevity Influencers Are Killing You_ is the
 
 **5\. Bryan Johnson, 46**
 
-![Bryan Johnson](https://proxy-prod.omnivore-image-cache.app/0x0,sKUkBIzJFAC9FH-x5_QnpYLtMxRkwLl6vbCGGBIfkKEQ/https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fd26ebdc6-cb9d-4d4a-9f5e-dd6cb61ed593.jpg?crop=1440%2C1440%2C0%2C0&resize=1533)![Bryan Johnson](https://proxy-prod.omnivore-image-cache.app/0x0,s0zpn4eQIwej5k0Y3YBzdz0ZqIdhtEyRdTrChElhjmjo/https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fd26ebdc6-cb9d-4d4a-9f5e-dd6cb61ed593.jpg?crop=1440%2C1440%2C0%2C0&resize=400&quality=3)
+![[c64533ee07e65d26c0c7f3f78086c115.jpg]]
 
 Bryan Johnson
 
@@ -167,7 +167,7 @@ More than 11 million people follow the endurance athlete and former Navy Seal on
 
 **7\. Ben Greenfield, 43**
 
-![Ben Greenfield](https://proxy-prod.omnivore-image-cache.app/0x0,s3D6bwUf_FmN4oPk5wIr2IMrCrz_jRcz31xBWVgeMw8w/https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F6020b130-75ef-413a-840e-5830d2921ef1.jpg?crop=3244%2C3544%2C241%2C98&resize=1533)![Ben Greenfield](https://proxy-prod.omnivore-image-cache.app/0x0,sSZdmk2o2rhNAOa4YIsqFoBT1ojDWb1qTs9GqVBCkGoo/https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F6020b130-75ef-413a-840e-5830d2921ef1.jpg?crop=3244%2C3544%2C241%2C98&resize=400&quality=3)
+![[373bcff25febf9d9b7ea1d47588b7461.jpg]]
 
 Ben Greenfield
 
@@ -185,7 +185,7 @@ Claims he has shaved a decade off his biological age. The Harvard genetics speci
 
 **10\. Dr Mark Hyman, 64**
 
-![Dr Mark Hyman at a conference in California last month](https://proxy-prod.omnivore-image-cache.app/0x0,sO9PmNrJubHTHYFXXBJGx7xXt-T2msZJq0eDQ1cbdzRs/https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F3f51b412-2d02-42bf-a4ba-0a6dfb686cfd.jpg?crop=3000%2C2362%2C0%2C0&resize=1533)![Dr Mark Hyman at a conference in California last month](https://proxy-prod.omnivore-image-cache.app/0x0,sE8xg_vDprtQ3CGR2GCYSkL9FvLuxNpfQe0mrboQ_Sfw/https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F3f51b412-2d02-42bf-a4ba-0a6dfb686cfd.jpg?crop=3000%2C2362%2C0%2C0&resize=400&quality=3)
+![[eb64f2106018c2ea9f46d0be300641f7.jpg]]
 
 Dr Mark Hyman at a conference in California last month
 
@@ -206,7 +206,7 @@ Graduated from medical school but lost faith in western medicine and became a �
 
 **14\. Brian Johnson, 46**
 
-![Brian Johnson](https://proxy-prod.omnivore-image-cache.app/0x0,sX_QrCYTdILvPHvQrDZjnYy_n0WbMLHbSzKzgTmDMSOQ/https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F605dfa1c-e21d-4f3f-a763-51f58d33f9e5.jpg?crop=615%2C769%2C0%2C0&resize=1533)![Brian Johnson](https://proxy-prod.omnivore-image-cache.app/0x0,sd4s3N2u8F07oWqpbt_uhPt50_gJ3sZ3b_iyFRaBRNnM/https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F605dfa1c-e21d-4f3f-a763-51f58d33f9e5.jpg?crop=615%2C769%2C0%2C0&resize=400&quality=3)
+![[53d937090f25d78b45e175ab0ef9489f.jpg]]
 
 Brian Johnson
 
@@ -216,10 +216,9 @@ Known as the Liver King because he films himself eating platefuls of raw animal 
 
 **15\. Dr Will Cole, 40**
 
-![Will Cole with Gwyneth Paltrow. He presented Goopfellas, her brand’s podcast for men](https://proxy-prod.omnivore-image-cache.app/0x0,sdXsv2Ku-gG0aQvw86zQfROFmBGgFxmrmFz0o2sR8NXY/https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fb1a3b0bc-808a-4b7e-9741-80f08e395a16.jpg?crop=1478%2C1422%2C345%2C256&resize=1533)![Will Cole with Gwyneth Paltrow. He presented Goopfellas, her brand’s podcast for men](https://proxy-prod.omnivore-image-cache.app/0x0,sDB1icjiXQtkYWToPBIb-CzdvI35mqyQzLEIIPVeKqnA/https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fb1a3b0bc-808a-4b7e-9741-80f08e395a16.jpg?crop=1478%2C1422%2C345%2C256&resize=400&quality=3)
+![[fbe6777590741bbdf737d9bc06f8e99f.jpg]]
 
 Will Cole with Gwyneth Paltrow. He presented Goopfellas, her brand’s podcast for men
 
 GETTY IMAGES
 
-Gwyneth Paltrow’s health guru — he presented [_Goopfellas_](https://www.thetimes.co.uk/article/bromeopathy-testicle-tanning-wellness-latest-tucker-carlson-j3ttc5x60), her multimillion-dollar wellness brand’s podcast aimed at men. Paltrow claimed the diet that Cole promotes, intuitive fasting, helped to cure her long Covid. In his New York Times bestseller, _Intuitive Fasting_, he detailed a four-week diet plan to “train the metabolism to recalibrate”, where fasting windows ranged from 12 hours to 20 hours. The diet faced a backlash online with some calling it “dangerous”. His latest book, _Ketotarian_, lays out a plant-based diet that he claims will burn fat, boost energy and calm inflammation.

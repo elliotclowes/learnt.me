@@ -22,7 +22,7 @@ omnivore_url: https://omnivore.app/me/37-or-so-lessons-from-a-37-year-old-ryan-h
 **Note:** Below is the text from the article, with any ==highlights== done by me. None of the writing below is by me.
 
 # Article text
-![](https://proxy-prod.omnivore-image-cache.app/624x0,s0RAiU-Oj7BgGqZGrIUypX8aTMlKL5zDlyJLcod3W6K0/https://lh7-us.googleusercontent.com/docsz/AD_4nXeQ-a0e_8fAFiBxB3eWnJ5v-GLNLP1BeO44xzLdQiKLXAFO7ep03sj0IZOhvOwItQJb2qJ1eibgcJiNHmKLVFeBOd4qtOmqrDEytQOF2Q-OMT0Ml8RWLvqKzSaj8wMgRZ1B5kx8ncmAz14z3km1hGZDD15n?key=H08Em01JtxOJjLEo7LO02g)
+![[835d137d0ddcca339e2a9647b0f87211.jpg]]
 
 Earlier this month, I gave a talk in Colorado. I got in late, but it was OK because I knew they were putting me up in a really nice hotel, one I remembered staying in before. As I walked to my room, I was struck by how run down the hotel was. The furnishings seemed staid. The walls were scuffed. The decor was tired. Even the electronics in the room were old. 
 
@@ -122,4 +122,3 @@ So with that in mind, I thought I’d pass along some lessons I’ve learned thi
 
 36b. I can’t pay Robert Greene back for things he did and the doors he opened for me, but I can pay it _forward._
 
-37\. Remember, you don’t die once at the end of your life. You are dying every second that passes. We are going in one direction. Don’t rush through it. Don’t miss it. Have something to show for it. 

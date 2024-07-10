@@ -134,4 +134,3 @@ As compared to morning types with early behavior (aligned), morning types with l
 
 Longitudinal analyses, in which the likelihood of developing _de novo_ mental health disorders was associated with chronotype, behavioral timing, and alignment between the two, confirmed cross-sectional findings.
 
-To age healthily, individuals should start sleeping before 1AM, despite chronobiological preferences.

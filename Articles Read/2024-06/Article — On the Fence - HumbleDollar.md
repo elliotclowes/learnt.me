@@ -62,4 +62,3 @@ _![](https://proxy-prod.omnivore-image-cache.app/150x150,s3wxfAn3zdSqtZVQ4OJHfSf
 
 **_Want to receive our twice-weekly newsletter? [Sign up now](https://humbledollar.com/weekly-newsletter/)._**
 
-## Free Newsletter

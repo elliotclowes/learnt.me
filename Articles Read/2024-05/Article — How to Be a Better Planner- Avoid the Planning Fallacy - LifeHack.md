@@ -94,7 +94,7 @@ And instead of the 4-year timeline they were gunning for, construction stretched
 
 [Take the Free Assessment](https://g.lifehack.org/full-life-assessment?utm%5Fsource=blog&utm%5Fmedium=cta&utm%5Fcampaign=how+balanced&utm%5Fterm=intermediary&utm%5Fcontent=global) 
 
-![Opera House planning fallacy](https://proxy-prod.omnivore-image-cache.app/810x810,sKK-HQZDFuxeoxrY4L5_jgJmF3a2lQSKugD1s1P4CabU/https://cdn.lifehack.org/wp-content/uploads/2023/08/Opera-House-Expectation-Vs-Reality.png)
+![[Opera-House-Expectation-Vs-Reality.png]]
 
 ## The Culprits Behind the Planning Fallacy
 
@@ -188,4 +188,3 @@ So, the next time you’re about to finalize a plan, invite someone with a fresh
 
 The planning fallacy is a lot like that rudderless ship. It’s easy to get caught in its current. But now, armed with insights and strategies, you’ve got a fighting chance to steer clear and navigate with purpose.
 
-Remember, it’s not about pessimism but realism. It’s about balancing our big dreams with the nitty-gritty of execution. It’s about recognizing our blind spots and inviting others in to illuminate them. Because, at the end of the day, a plan is merely a guide. What matters is the journey, the adaptability, and the resilience to keep moving, even when winds change.

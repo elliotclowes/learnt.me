@@ -43,7 +43,7 @@ So the question I sat down to answer this week was…
 
 We worked together at The Hustle, and he’s since gone on to help grow a bunch of the most successful newsletter companies out there.
 
-![](https://proxy-prod.omnivore-image-cache.app/629x316,sHfUocVs2uw_XBm_1ucYtBeQ1YV3yQxdzMrVSQJYMyWc/https://i0.wp.com/thewritetoroam.com/wp-content/uploads/2023/07/Screenshot-2023-07-09-at-6.38.10-PM.png?resize=629%2C316&ssl=1)
+![[fe4ebe66df1df1a81008e544b399aed0.jpg]]
 
 I’ll get to his thoughts in a sec, but while I was waiting for him to respond, I decided to visit some of his client’s sites just to see how they’re doing things.
 
@@ -66,7 +66,7 @@ I’ll go through each quickly, then share Matt’s insights too.
 
 Spend any time comparing major newsletter sites side-by-side, and one of the first things you notice is that a lot of them look… like… really similar.
 
-![](https://proxy-prod.omnivore-image-cache.app/629x316,sggoSqX4-uhlMNOWVTfn1sIRxZ2soYtRKjjw1-KAte_s/https://i0.wp.com/thewritetoroam.com/wp-content/uploads/2023/07/similar.gif?resize=629%2C315&ssl=1)
+![[d5d0c8e10dc93f773fd18aeabbd2610d.jpg]]
 
 After a few years in the space, I chalk this similarity up to two things:
 
@@ -87,7 +87,7 @@ We’ll zip through an example of each real quick…
 
 **1\. Above The Fold**
 
-![](https://proxy-prod.omnivore-image-cache.app/629x293,sVBzKw-hBja-e2EEM_Kn7Uegjfo0eb8mH5ZksBS2LdOA/https://i0.wp.com/thewritetoroam.com/wp-content/uploads/2023/07/Screenshot-2023-07-09-at-6.42.23-PM.png?resize=629%2C294&ssl=1)
+![[0941c7d94ede2642e722416a2c14b4a4.jpg]]
 
 “Above the fold,” is an old newspaper term used to describe any content on the top-half of the front page of a newspaper (a.k.a. the part people actually see before picking the newspaper up).
 
@@ -97,9 +97,9 @@ As you can see in the image above, while The Hustle has their daily and featured
 
 That same is true for other newsletters too. For example, Chartr and 1440…
 
-![](https://proxy-prod.omnivore-image-cache.app/629x313,sPhu9qCf3L0M5oHqNez3DI6HQs1KpC4iBcXrjD6udoCI/https://i0.wp.com/thewritetoroam.com/wp-content/uploads/2023/07/Screenshot-2023-07-09-at-6.43.41-PM.png?resize=629%2C313&ssl=1)
+![[24035d5150726bb64f93211d7faee0b0.jpg]]
 
-![](https://proxy-prod.omnivore-image-cache.app/629x311,sP7CpGsz0MU95PtSCjDtS1qSVCnj-kZWybaqCBIAeYZY/https://i0.wp.com/thewritetoroam.com/wp-content/uploads/2023/07/Screenshot-2023-07-09-at-6.43.51-PM.png?resize=629%2C311&ssl=1)
+![[656ffd43773aa85ef7241abc41b776b4.jpg]]
 
 It’s interesting to see that Chartr and 1440 don’t curate stories to their homepage or have a nav bar.
 
@@ -107,7 +107,7 @@ Makes sense. Both can be distracting, and these pages are designed to capture as
 
 The Hustle’s homepage used to be the same way. I’d be interested to know what led to the change, and how it’s performing.
 
-![](https://proxy-prod.omnivore-image-cache.app/629x281,svb3dA_IS-ttXWEAmjfNTbuNjn-8Zf_INaHKnv-ec-94/https://i0.wp.com/thewritetoroam.com/wp-content/uploads/2023/07/Screenshot-2023-07-09-at-6.44.38-PM.png?resize=629%2C281&ssl=1)
+![[e7265e07300f2bde21b36e1fce5c6981.jpg]]
 
 _An archived version of The Hustle’s homepage_
 
@@ -117,23 +117,23 @@ Regardless, the point is clear — when people land on your site, the first thin
 
 This one’s simple — at the bottom of each site, there’s another email capture.
 
-![](https://proxy-prod.omnivore-image-cache.app/629x244,sQ4f4IQZsRnpspkavP76JH4PMrZbi0JYV_D6VX9MOBmQ/https://i0.wp.com/thewritetoroam.com/wp-content/uploads/2023/07/Screenshot-2023-07-09-at-6.45.44-PM.png?resize=629%2C244&ssl=1)
+![[80eb44e5a9c8941b8f651482cddbc016.jpg]]
 
-![](https://proxy-prod.omnivore-image-cache.app/629x129,s0NosOweKjaBvvJMN4FKaMRDF93ddyL0xf0_KYf56VW8/https://i0.wp.com/thewritetoroam.com/wp-content/uploads/2023/07/Screenshot-2023-07-09-at-6.45.52-PM.png?resize=629%2C129&ssl=1)
+![[ba13af1cbcc37130e0b13a2a867ad39f.jpg]]
 
-![](https://proxy-prod.omnivore-image-cache.app/629x233,sabp8EZfNaYopAst6ZRCC1L-ZSKx8hxK-Nq7kkNvvxRQ/https://i0.wp.com/thewritetoroam.com/wp-content/uploads/2023/07/Screenshot-2023-07-09-at-6.46.00-PM.png?resize=629%2C233&ssl=1)
+![[2c0e7fd81974cfd731cbe716b3be9fd6.jpg]]
 
 **3\. Nav Bar**
 
 I almost missed this when I did my first inspection of the sites, but each has a link to join their newsletter _somewhere_ in the nav bar.
 
-![](https://proxy-prod.omnivore-image-cache.app/629x51,sQP25r2JHEPr3utpfT2CYIyESo_ZaaPml0Hr92pkWv74/https://i0.wp.com/thewritetoroam.com/wp-content/uploads/2023/07/Screenshot-2023-07-09-at-6.47.48-PM.png?resize=629%2C51&ssl=1)
+![[552b1fe724c62a17bff6024d80f747ec.jpg]]
 
 As I mentioned above, Chartr and 1440 don’t show their navigation on the homepage. But if you dig to pages deeper on the site, the C2A is there.
 
-![](https://proxy-prod.omnivore-image-cache.app/629x314,sMVIQ4mEW8WY67_VrI8pxB78nfAJKq1-32Uj1xXSji-M/https://i0.wp.com/thewritetoroam.com/wp-content/uploads/2023/07/Screenshot-2023-07-09-at-6.48.01-PM.png?resize=629%2C313&ssl=1)
+![[efaa1f0cd350393889c16294a46f6982.jpg]]
 
-![](https://proxy-prod.omnivore-image-cache.app/629x217,s6ZcAdDK9UKZpstBYE9TYV4h2roDTbxwdZMZvGO7LWvk/https://i0.wp.com/thewritetoroam.com/wp-content/uploads/2023/07/Screenshot-2023-07-09-at-6.48.10-PM.png?resize=629%2C217&ssl=1)
+![[5188b742e94bb743703d9f9671c25098.jpg]]
 
 If you’re a little OCD (like me), and wondering why this is third on the list when it’s positioned the highest up on the website, here’s why: If two of three case studies can afford to leave these C2A’s off their homepage, I’m assuming they’re less effective than the things I mentioned earlier.
 
@@ -143,15 +143,15 @@ When you click to read an individual story, each newsletter has a clear email ca
 
 For example, The Hustle uses these forms embedded directly in the text (one always about 20% into a story, the other at the very end). If a story is short, they skip the first one, and simply use the second at the end:
 
-![](https://proxy-prod.omnivore-image-cache.app/629x293,sGE-vKaJPcIjblKwWNddN0wzs6CQyG9RYwwFV-eXBwuM/https://i0.wp.com/thewritetoroam.com/wp-content/uploads/2023/07/Screenshot-2023-07-09-at-6.51.12-PM.png?resize=629%2C293&ssl=1)
+![[0b4fd09105d910b458d1f9c1fb6b09ee.jpg]]
 
-![](https://proxy-prod.omnivore-image-cache.app/629x292,sq5ZhBi-aSYC3kbjGwi3PAUUZTv7_YfhKEMmPlIXutpA/https://i0.wp.com/thewritetoroam.com/wp-content/uploads/2023/07/Screenshot-2023-07-09-at-6.51.18-PM.png?resize=629%2C292&ssl=1)
+![[e83924607b0ff57e08cb9039b0ff59f5.jpg]]
 
 Chartr is similar. Their stories are all quite short, and begin & end with embedded forms like this:
 
-![](https://proxy-prod.omnivore-image-cache.app/629x689,sHfgdhmmQwyFcBZSM4wbduWZpkiznef_4DDsFa-bo3T0/https://i0.wp.com/thewritetoroam.com/wp-content/uploads/2023/07/2023-07-09_18-54-22.png?resize=629%2C689&ssl=1)
+![[9f637181a3b7f78bab17690b43922d9a.jpg]]
 
-![](https://proxy-prod.omnivore-image-cache.app/629x331,styXkPwMO5GIvm8UNkczI-3JaRuTuLi6113qjAb1QgDk/https://i0.wp.com/thewritetoroam.com/wp-content/uploads/2023/07/Screenshot-2023-07-09-at-6.54.41-PM.png?resize=629%2C330&ssl=1)
+![[ca380a866ce593d69049b4fb2a47c79d.jpg]]
 
 But 1440 is different — they use a sticky subscribe form that’s locked to the bottom of the screen.
 
@@ -159,15 +159,15 @@ I like this idea, especially for longer stories, since it makes it easy to subsc
 
 But when that happens, you want the subscribe form to be close by.
 
-![](https://proxy-prod.omnivore-image-cache.app/629x309,saGNzMi_x_ZVePq8rPLGvt9lJ5_3QUrQjmEt0BuwMPTo/https://i0.wp.com/thewritetoroam.com/wp-content/uploads/2023/07/2023-06-11_21-57-22-1.gif?resize=629%2C309&ssl=1)
+![[0bc62e39389e4773788724002aa48c37.jpg]]
 
 **5\. Exit Intent**
 
 Finally, the pop-up. Not just any pop-up though. An exit-intent pop-up (meaning that it triggers when someone moves their cursor out of the website tab, as though they’re attempting to navigate somewhere else).
 
-![](https://proxy-prod.omnivore-image-cache.app/629x313,sj19TEy9pH8Dde8W-2YDvoLcXSxQ-aFnd1Ml8nz2bNGE/https://i0.wp.com/thewritetoroam.com/wp-content/uploads/2023/07/Screenshot-2023-07-09-at-6.56.40-PM.png?resize=629%2C313&ssl=1)
+![[f94e8bd878b27b30a316692e3301d401.jpg]]
 
-![](https://proxy-prod.omnivore-image-cache.app/629x319,saNURrihhrDMbeVvt_9ewJSglI4p1QGHLao59ywe7x0o/https://i0.wp.com/thewritetoroam.com/wp-content/uploads/2023/07/Screenshot-2023-07-09-at-6.56.49-PM.png?resize=629%2C319&ssl=1)
+![[1bc90bcce2c01f6c11867e73befa2a60.jpg]]
 
 That’s it.
 
@@ -188,11 +188,11 @@ But when it comes to major similarities, and 5 good email captures to start with
 
 ==Promise. Cost. Audience. Time.== PCAT for short (or cat pee, if you’re seven).
 
-![](https://proxy-prod.omnivore-image-cache.app/629x404,sfTTlOWc14i2zOe19GHGbhTO2PXO_pYVIbudqK5qycg0/https://i0.wp.com/thewritetoroam.com/wp-content/uploads/2023/07/Screenshot-2023-07-09-at-6.57.40-PM.png?resize=629%2C404&ssl=1)
+![[9079d960ef66a8cfb243ec016b1fe604.jpg]]
 
-![](https://proxy-prod.omnivore-image-cache.app/629x152,sLjFrFqpsSLS2_myXgi-DRWhDQIbu7dyPPERp5kC3oj0/https://i0.wp.com/thewritetoroam.com/wp-content/uploads/2023/07/Screenshot-2023-07-09-at-6.57.49-PM.png?resize=629%2C152&ssl=1)
+![[f89b65d734b88f827425fed1b4e9e5cc.jpg]]
 
-![](https://proxy-prod.omnivore-image-cache.app/629x408,sF4YVTRER6vbWkYiq9R4nTIyjomwrf7KvKB2_O3Wpgvo/https://i0.wp.com/thewritetoroam.com/wp-content/uploads/2023/07/Screenshot-2023-07-09-at-6.57.57-PM.png?resize=629%2C408&ssl=1)
+![[54d4576b64a6c68c2e2cb1d9ba900039.jpg]]
 
 Now obviously, you would want to adapt these depending on the type of newsletter you’re running. If you write 5,000 word deep dives, you probably won’t jump on the “5-minute” bandwagon.
 
@@ -222,7 +222,7 @@ It’s subtle, but I noticed that this felt different as a reader, and I think (
 
 As I mentioned, The Hustle serves two different in-content forms. One embedded about 20% into the piece looks like this:
 
-![](https://proxy-prod.omnivore-image-cache.app/629x293,sGE-vKaJPcIjblKwWNddN0wzs6CQyG9RYwwFV-eXBwuM/https://i0.wp.com/thewritetoroam.com/wp-content/uploads/2023/07/Screenshot-2023-07-09-at-6.51.12-PM.png?resize=629%2C293&ssl=1)
+![[0b4fd09105d910b458d1f9c1fb6b09ee.jpg]]
 
 Somehow it feels a little more engaging than a generic email capture. Because they’re acknowledging what I’m doing (reading/enjoying the piece)
 
@@ -232,7 +232,7 @@ The same goes for the exit pop-up. Look at the copy, and how they’re almost ha
 
 It seems like a little thing.
 
-![](https://proxy-prod.omnivore-image-cache.app/629x313,sj19TEy9pH8Dde8W-2YDvoLcXSxQ-aFnd1Ml8nz2bNGE/https://i0.wp.com/thewritetoroam.com/wp-content/uploads/2023/07/Screenshot-2023-07-09-at-6.56.40-PM.png?resize=629%2C313&ssl=1)
+![[f94e8bd878b27b30a316692e3301d401.jpg]]
 
 I think the reason this stood out to me is because I know that my default personality would be to NOT do this. I’m not typically the person who digs into the settings to customize things perfectly to my needs.
 
@@ -252,7 +252,7 @@ For example, a lot of newsletter companies have this mobile phone aesthetic on t
 
 Think about what that does for conversion when you land on this page and see images, stories, or headlines you recognize from social media chatter the last few days.
 
-![](https://proxy-prod.omnivore-image-cache.app/629x309,szRtUTwDRVzwtIddCSD46933Fc5o_Ntm30WQVfZ6dg7Q/https://i0.wp.com/thewritetoroam.com/wp-content/uploads/2023/07/2023-06-11_22-51-54-1.gif?resize=629%2C309&ssl=1)
+![[3eb6ca5a772d4e708f9d08ae783f3190.jpg]]
 
 _Notice how the subject lines are starred too – a subtle hint that you will love this newsletter if you sign up_
 
@@ -260,13 +260,13 @@ The Hustle also just does a good job of using motion in general to bring the hom
 
 This content section looks like something out of _The Daily Prophet_.
 
-![](https://proxy-prod.omnivore-image-cache.app/629x309,sl1Sb8wT2eWUnPveKrUQMFT7B9IptKkfPoH_SAPoGKq0/https://i0.wp.com/thewritetoroam.com/wp-content/uploads/2023/07/2023-06-08_16-46-05-1.gif?resize=629%2C309&ssl=1)
+![[9fa472426073a59efe23cf561c251f82.jpg]]
 
 1440 uses motion too. They have this cool little ticker on the homepage that shows how many people have opened the newsletter so far that day.
 
 When it comes to audience social proof, this is one of the cooler implementations I’ve seen so far (though I have no idea if it’s real, or just a nicely designed ticker that counts random numbers over two million).
 
-![](https://proxy-prod.omnivore-image-cache.app/629x309,sH-PVRzyKzfPv3sRRFNAB3BA9D3AZyn-CZ2HkuFG7UHU/https://i0.wp.com/thewritetoroam.com/wp-content/uploads/2023/07/2023-06-08_17-17-30-1.gif?resize=629%2C309&ssl=1)
+![[f6292ba9d532af632e46b8fd5902b562.jpg]]
 
 _Their URL is also “_[join1440.com](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwOi8vam9pbjE0NDAuY29tP3V0bV9zb3VyY2U9dGhld3JpdGV0b3JvYW0uYmVlaGlpdi5jb20mdXRtX21lZGl1bT1yZWZlcnJhbCZ1dG1fY2FtcGFpZ249aG93LXRoZS1odXN0bGUtYW5kLW90aGVycy1tYXhpbWl6ZS1lbWFpbC1zaWdudXBzIiwicG9zdF9pZCI6IjkxNGIzNzc5LWU2NzAtNGM0My1iNGRlLTVmOTZiYmZhOTMwMiIsInB1YmxpY2F0aW9uX2lkIjoiNzhhNzA1MDctOGVmNy00Y2M1LTlhMjQtNjk5ZDRmOTE2ZjU2IiwidmlzaXRfdG9rZW4iOiI0ZDk0ZjQwMi00YjliLTQ1OWYtOTg2Yy00ZjYyNTQxZWJlYTIiLCJpYXQiOjE2ODg5NDI5NzkuMDYxLCJpc3MiOiJvcmNoaWQifQ.L3bP5N8iIPKBU-ldcHGXlxrXTcIVkGuKEwD2sA-w3lA)_” — a subtle call to action, which is cool_
 
@@ -274,7 +274,7 @@ Finally, Chartr has gone ahead and updated the title tag on their homepage so th
 
 Helps readers know they found the right result, and primes them to sign up.
 
-![](https://proxy-prod.omnivore-image-cache.app/629x318,s0AgAbGn89EJwtaeMAjc7eWOEtKtxxUNRqkoIv41-bDQ/https://i0.wp.com/thewritetoroam.com/wp-content/uploads/2023/07/Screenshot-2023-07-09-at-7.02.42-PM.png?resize=629%2C318&ssl=1)
+![[6993e84d2c57ee21482e3315445b235e.jpg]]
 
 ## 5\. Matt’s Advice
 
@@ -293,4 +293,3 @@ And of course, Matt knows his stuff about email capture too.
 
 “Count how many units popular media companies have,” he said, pointing to even bigger brands, like Motley Fool, or NYT.
 
-It’s a good idea. And I’ll do it one day. But this email is already longer than I meant for it to be, so this’ll have to do for now.

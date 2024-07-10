@@ -21,9 +21,9 @@ omnivore_url: https://omnivore.app/me/the-art-of-the-desk-setup-18f8ccdc555
 **Note:** Below is the text from the article, with any ==highlights== done by me. None of the writing below is by me.
 
 # Article text
-![The Art of the Desk Setup](https://proxy-prod.omnivore-image-cache.app/0x0,sEoIm9IVwC3_oZXlwMoRyyOMEJ3OcwM2ClLlEWd3P9gw/https://arun.is/static/de98e2d3832beb9d0cd5847b3c983272/cover_wide.jpg)
+![[cover_wide.jpg]]
 
-![The Art of the Desk Setup](https://proxy-prod.omnivore-image-cache.app/0x0,sHS9nmBmZgmsdr3AiEbuzJVicrM_ONGgh5d5fyfg5dDQ/https://arun.is/static/438390934caa71c4a58fd6fd6bddac42/cover.jpg)
+![[cover.jpg]]
 
 Series
 
@@ -180,7 +180,7 @@ Last year, I was lucky enough to find one used for an unbeatable price. The toma
 
 As eye-catching as the Embody is, I stop noticing it within minutes of sitting down. The chair is unbelievably comfortable.
 
-![](https://proxy-prod.omnivore-image-cache.app/0x0,s6eFSbOVM72kal1N4QZJaQHTP7cb1g5YvJqU1v1jj_ME/https://arun.is/images/2021-02-18-desk-setup/DSCF2663.jpg)![](https://proxy-prod.omnivore-image-cache.app/0x0,seSuRTIf2TPPp9Y9B3em3xs-BdCL5FPTV2jGc0m3U-Hk/https://arun.is/images/2021-02-18-desk-setup/DSCF2667.jpg)
+![[DSCF2667.jpg]]
 
 Sometimes, after years of desiring something, when I finally acquire it, it is unable to meet my inflated expectations. Fortunately, with the Herman Miller Embody, that’s not the case. Seeing it at my desk every morning gives me a little jolt of inspiration, and sitting on it does make everything else I do at the desk better.
 
@@ -226,7 +226,7 @@ I love monitor arms since they free up desk space and enable tremendous flexibil
 
 It, and another well-designed monitor arm, the[Sapper XYZ](https://www.knoll.com/product/sapper-xyz), are challenging to find if you confine your search to e-commerce sites. I picked up my Flo Plus from a furniture supplier for less than 25% of the list price, including shipping. The elegant cylindrical shape fades into the background. It doesn’t command attention. Tension is easy to adjust because of the scale seen through a window.
 
-![](https://proxy-prod.omnivore-image-cache.app/0x0,sPo8JGlLxFQ7fLMZ-zMrrhfmVqXvVg97vzS_sJvWYqTE/https://arun.is/images/2021-02-18-desk-setup/DSCF2635.jpg)![](https://proxy-prod.omnivore-image-cache.app/0x0,sGxm2jlvQagEiiGKCjhNUNupX9b5dd_mouZNT1VqG76g/https://arun.is/images/2021-02-18-desk-setup/DSCF2646.jpg)
+![[DSCF2646.jpg]]
 
 ### Lamp
 
@@ -341,4 +341,3 @@ All photographs taken on the Fujifilm X100V and iPhone 11 Pro
 
 ## Subscribe to the newsletter
 
----

@@ -96,4 +96,3 @@ I know that social media deprived the personal site of oxygen, but you are not y
 
 I can’t possibly be on the money about all of this stuff, and you’re welcome to challenge my points of view. I’m just writing honestly about what I see and how it feels to me, even if my opinions will frustrate some of you. I sincerely believe that design needs critique; that it must be challenged and called to account to thrive. That means we shouldn’t be afraid to speak up, ask questions, and be prepared to be wrong.
 
-And so, I hope you don’t mind me throwing my hat in, but this web design thing did not go the way I thought it would and sometimes — just sometimes — it is desperately, crushingly dull.

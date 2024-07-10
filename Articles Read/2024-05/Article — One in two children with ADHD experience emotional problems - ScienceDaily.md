@@ -67,4 +67,3 @@ While it is not clear exactly what causes these problems in the first place, the
 
 Professor Sahakian added: "We already know that problems with the immune system can be linked to depression, and we've seen similar patterns in individuals with ADHD who experience emotion dysregulation."
 
-The research was supported by the National Key Research and Development Program of China, the National Natural Science Foundation of China, the Program of Shanghai Academic Research Leader and the Shanghai Municipal Science and Technology Major Project.

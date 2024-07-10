@@ -24,7 +24,7 @@ omnivore_url: https://omnivore.app/me/life-is-good-by-paul-bloom-small-potatoes-
 # Article text
 ### Or is it? Do our waking moments contain more pain than pleasure? 
 
-[![A face that looks very happy on one half and very miserable on the other half](https://proxy-prod.omnivore-image-cache.app/1024x1024,sqYYLeoM6eM1w05RDC5YI9_ESeHVcJMsNrL_Yg6wM-_U/https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9a86171f-852f-4279-aa37-413b4d35980e_1024x1024.jpeg "A face that looks very happy on one half and very miserable on the other half")](https://substackcdn.com/image/fetch/f%5Fauto,q%5Fauto:good,fl%5Fprogressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9a86171f-852f-4279-aa37-413b4d35980e%5F1024x1024.jpeg)
+![[9decc07dee85c95b5ad14475ab0b3b2a.jpg]]
 
 From DALL-E 3\. Prompt: “A face that looks very happy on one half and very miserable on the other half”
 
@@ -34,7 +34,7 @@ I find this antinatalism an interesting view, in large part because I find it so
 
 But maybe I’m wrong. I’m reading Benatar’s book [The Human Predicament](https://www.amazon.com/Human-Predicament-Candid-Biggest-Questions-ebook/dp/B071XX2QVJ/ref=tmm%5Fkin%5Fswatch%5F0?%5Fencoding=UTF8&dib%5Ftag=AUTHOR&dib=eyJ2IjoiMSJ9.o1IZKsWckXzAK-Dcy9dpmtssCbrKU-8XY932o%5FIGuN5GH6FeeK64JhiNiXvDE0KFl6Yc6B6V6eYt2-CoUDk7u4Hmndci4u6lGsRRWOnViZUwQZDFO9j%5FKx5OWnvhhashUuUKNV8WckuFhFCGeZOtYiw1IXJmbDdIHr8%5FHPIdU7NN36ZwlF4D2vK6OHjIYguY0EzXyYIhDEOg7ZOyNE%5FGgNPrvOfFRO4NY1os993d1ew.WbJ8-7cLXpllMvUNUk%5Fm8haI64uvyprRTA8rsg6Jg3g&qid=&sr=) with pleasure—he’s a clear and thoughtful writer with an occasional flash of dry wit. 
 
-[![Staring at the Void - WSJ](https://proxy-prod.omnivore-image-cache.app/426x639,sVztFLh2pp4TJgfvf6ar4iF7beTzAjYJsmpsQR632AQs/https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbd864db1-0429-4bbc-8887-105cba743117_426x639.jpeg "Staring at the Void - WSJ")](https://substackcdn.com/image/fetch/f%5Fauto,q%5Fauto:good,fl%5Fprogressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbd864db1-0429-4bbc-8887-105cba743117%5F426x639.jpeg)
+![[e59991054ddaa0e95fc734957cade8d8.jpg]]
 
 ==Benatar makes several arguments in his book (including the claim that death is also a  terrible thing), but I want to focus here on the claim that I find most provocative, which is that==
 
@@ -143,15 +143,15 @@ One [recent study](https://pubmed.ncbi.nlm.nih.gov/37744978/) was done by Yoobin
 
 For a detailed description of the results by age, check out the graph below, but the gist is that, on average, people reported positive emotions, usually of the low-key sort, more than 70% of the time.
 
-[![](https://proxy-prod.omnivore-image-cache.app/1456x622,s_zuAv64vvkYSTeKkv99YHCY3tIW6L7cpdh6TNZBuH_w/https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7675f980-d846-4803-9da5-ff66c892ecd1_2496x1066.png)](https://substackcdn.com/image/fetch/f%5Fauto,q%5Fauto:good,fl%5Fprogressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7675f980-d846-4803-9da5-ff66c892ecd1%5F2496x1066.png)
+![[https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7675f980-d846-4803-9da5-ff66c892ecd1%5F2496x1066.png]]
 
 Or consider this 2010 study by Matthew A. Killingworth and Daniel T. Gilbert—a little gem of a [paper](https://dtg.sites.fas.harvard.edu/KILLINGSWORTH%20&%20GILBERT%20%282010%29.pdf) that took up one page in the journal _Science_. 
 
-[![](https://proxy-prod.omnivore-image-cache.app/684x308,sYok0htisO4b-QChION9IwrfZwlPB8YSphjyi2qoWPX0/https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcdf478cc-64fb-424f-b908-edf22ccb3252_684x308.png)](https://substackcdn.com/image/fetch/f%5Fauto,q%5Fauto:good,fl%5Fprogressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcdf478cc-64fb-424f-b908-edf22ccb3252%5F684x308.png)
+![[https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcdf478cc-64fb-424f-b908-edf22ccb3252%5F684x308.png]]
 
 They asked people, at random times, how happy they were, and asked them as well what they were doing. The results are below. Their main finding—check out their title—is that people tended to be relatively unhappy when they were mind wandering. But for the purposes here, the important thing is that except for the category “unpleasant mind wandering”, all of the daily activities were above the midpoint (50 on a scale from 0 to 100). As you can see from the vertical line going up from the middle of the graph, the average happiness is 65\. 
 
-[![](https://proxy-prod.omnivore-image-cache.app/478x952,su3RkDr30j8MxCDvuaUh0wVOtHKXYrkhenXLHDN2fIMM/https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6721e7ea-8ee3-44a3-9fa1-2a9dd0477720_478x952.png)](https://substackcdn.com/image/fetch/f%5Fauto,q%5Fauto:good,fl%5Fprogressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6721e7ea-8ee3-44a3-9fa1-2a9dd0477720%5F478x952.png)
+![[https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6721e7ea-8ee3-44a3-9fa1-2a9dd0477720%5F478x952.png]]
 
 I’d be interested to hear if there are exceptions to this, but as far as know, these results are typical—experience sampling studies find that, on average, life is good. 
 
@@ -171,7 +171,7 @@ What if we had access to a button that we could press to strip away our consciou
 
 How often would we hit the button? I did a Twitter poll. 
 
-[![](https://proxy-prod.omnivore-image-cache.app/1456x784,s2yHiIgzCWRy_kScnEIy3Rl9PGNJNXb6y9ixo7CiJxYA/https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcb9bb802-0191-47c6-be72-972994500d16_1556x838.png)](https://substackcdn.com/image/fetch/f%5Fauto,q%5Fauto:good,fl%5Fprogressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcb9bb802-0191-47c6-be72-972994500d16%5F1556x838.png)
+![[https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcb9bb802-0191-47c6-be72-972994500d16%5F1556x838.png]]
 
 To my surprise, most people would largely stay away from the button—only about one in nine would use it more than half the time. Most of the time, then, for most of the people who responded to my poll, life is good enough to stick around for.[1](https://smallpotatoes.paulbloom.net/p/life-is-good#footnote-1-141372199)
 
@@ -195,4 +195,3 @@ Thank you for reading Small Potatoes. This post is public so feel free to share 
 
 [1](https://smallpotatoes.paulbloom.net/p/life-is-good#footnote-anchor-1-141372199)
 
-Several people on Twitter told me that there is an Adam Sandler movie called [Click](https://en.wikipedia.org/wiki/Click%5F%282006%5Ffilm%29#:~:text=Sandler%20plays%20Michael%20Newman%2C%20a,who%20gives%20Michael%20the%20remote.) that explores the idea of such a button. I’ll watch it and report back.

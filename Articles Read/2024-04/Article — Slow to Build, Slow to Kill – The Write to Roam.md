@@ -108,7 +108,7 @@ It’s great to have all three of these. But if you have two, you’re good to g
 
 The amount of money your readers have to spend dictates a lot of other things, like the price you can eventually charge for paid products, or the caliber of advertiser you can work with.
 
-![](https://proxy-prod.omnivore-image-cache.app/629x482,seQLNRYqF46_KXdwQDPr-78fx7oZwep0eqRagUym3rE8/https://i0.wp.com/thewritetoroam.com/wp-content/uploads/2024/03/Screenshot-2024-03-22-at-7.01.05-AM.png?resize=629%2C483&ssl=1)
+![[7eb7fe43d1101c84bd35c6ddc65acc12.jpg]]
 
 This is part of the reason I decided to build a local _business_ newsletter, rather than a general audience. Business owners are a higher-value audience, and in something like a local newsletter, where the total addressable market is much more capped than something like _Morning Brew_, it’s important to focus on high-value readers.
 
@@ -166,7 +166,7 @@ Sure, growth’s important to keep track of. But early on, when you’re trying 
 
 When I say I’m optimistic that my local newsletter will work (given enough time), it’s because early feedback on these things has been strong, and to me, that’s more important than growth velocity right now. It also feels like growth is getting easier, but that’s a story for a different week.
 
-![](https://proxy-prod.omnivore-image-cache.app/629x294,sWZUIYCXODCJPpJJfEkCLsO_zOTzZYQ9DgZA2hSm_zcE/https://i0.wp.com/thewritetoroam.com/wp-content/uploads/2024/03/2024-03-22_05-52-36.png?resize=629%2C294&ssl=1)
+![[48d65d24a7dd08a78b6a920b4afc332c.jpg]]
 
 **3\. Finally, pretend you’re speaking in front of them…**
 
@@ -188,4 +188,3 @@ During the research for that case study, I came across a line from the founder t
 > 
 > Christopher Schwartz
 
-It sounds trite, but the early days really are something you’re going to want back later. Don’t rush to get through them.

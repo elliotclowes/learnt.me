@@ -62,4 +62,3 @@ In the meantime, I will be rereading Gibbon.
 1. [1In the Ruins of Edward Gibbon’s Masterpiece ](https://newrepublic.com/article/181667/ruins-edward-gibbons-masterpiece-mike-duncan)
 2. [2What Was the “Paradigm Shift”?](https://newrepublic.com/article/181008/paradigm-shift-thomas-kuhn-structure-scientific-revolutions-meaning)
 3. [3The Inventor of the Chatbot Tried to Warn Us About A.I. ](https://newrepublic.com/article/181189/inventor-chatbot-tried-warn-us-ai-joseph-weizenbaum-computer-power-human-reason)
-4. [ View All ](https://newrepublic.com/series/38/hold-up)

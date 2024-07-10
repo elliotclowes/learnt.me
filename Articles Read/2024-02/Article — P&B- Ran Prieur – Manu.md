@@ -130,4 +130,3 @@ If you like this series and want to help it grow, you can:
 1. [support on Ko-Fi](https://ko-fi.com/manuelmoreale);
 2. post about it on your own blog and let your readers know about its existence;
 3. [email me](mailto:hello@manuelmoreale.com) comments and feedback on the series;
-4. [suggest a person](mailto:email@peopleandblogs.com) to interview next. I'm especially interested in people and blogs outside the tech/web bubble.

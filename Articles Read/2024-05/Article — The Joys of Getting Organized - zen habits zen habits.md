@@ -113,4 +113,3 @@ With that mindset, here are some notes on how to work with these inboxes and buc
 
 This guide is not about stridently having to remain organized all the time. It’s about the natural phenomenon of things falling apart, and how to bring a zeal for organizing to the piles that have accumulated in your life. So don’t make this another thing to try to be perfect at and beat yourself up about. Instead, make it another place to bring play, love, and joy. And just a little deliriousness!
 
-We won't send you spam. Unsubscribe at any time.

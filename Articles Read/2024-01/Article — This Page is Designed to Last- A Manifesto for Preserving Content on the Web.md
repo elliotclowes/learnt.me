@@ -74,4 +74,3 @@ If you are interested in receiving updates to [irchiver](https://irchiver.com/),
 
 Thanks to my Ph.D. students Shaun Wallace, Nediyana Daskalova, Talie Massachi, Alexandra Papoutsaki, my colleagues James Tompkin, Stephen Bach, my teaching assistant Kathleen Chai, and my research assistant Yusuf Karim for feedback on earlier drafts.
 
-See discussions on [Hacker News](https://news.ycombinator.com/item?id=21840140) and [reddit /r/programming](https://www.reddit.com/r/programming/comments/ed88ra/this%5Fpage%5Fis%5Fdesigned%5Fto%5Flast%5Fa%5Fmanifesto%5Ffor/) 

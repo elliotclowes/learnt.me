@@ -101,4 +101,3 @@ Join 3,889 others & continue your Firesides journey with more articles like this
 * Apps
 * Books
 * Videos
-* Keyboard Shortcuts

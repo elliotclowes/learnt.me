@@ -107,4 +107,3 @@ Please note that the information provided in the Polar Blog articles cannot repl
 
 [ ![heart rate variability](https://proxy-prod.omnivore-image-cache.app/0x0,s7qOhRyeSI-2f9093tVxAgQ5kFbjDGjiMq_ebAAL1KGo/https://www.polar.com/blog/wp-content/uploads/2020/11/Heart-rate-variablility-main.jpg) Next up Everything You Need to Know About Heart Rate Variability (HRV) Minor variations in heart rate variability tell a lot about critical factors like your physical fitness, stress, and sleep.  Read next ](https://www.polar.com/blog/heart-rate-variability-hrv/) 
 
-[ Sign up and get 10% off your first order ](https://www.polar.com/blog/stay-on-top-of-your-game/) 

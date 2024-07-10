@@ -21,9 +21,9 @@ omnivore_url: https://omnivore.app/me/a-desk-setup-for-two-18fa47214dc
 **Note:** Below is the text from the article, with any ==highlights== done by me. None of the writing below is by me.
 
 # Article text
-![A Desk Setup for Two](https://proxy-prod.omnivore-image-cache.app/0x0,scqN0d9nCYMAY8hHEBaEvfhABZ-UNC0A9bSHoH8Nx-jY/https://arun.is/static/01329566481b86d5d8f5884db9be4da2/cover_wide.jpg)
+![[cover_wide.jpg]]
 
-![A Desk Setup for Two](https://proxy-prod.omnivore-image-cache.app/0x0,s1rdOsBKrugkakMhBJXcWuB2_XEZvEkEktJVdEw1XY64/https://arun.is/static/98063636465ee1dc25d806c8604c7586/cover.jpg)
+![[cover.jpg]]
 
 This continues the series of posts about my desk setup.
 
@@ -98,7 +98,7 @@ The LED-based shade of the Link lamp doesn’t require a complex cable and sprin
 
 I love how both lamps share their industrial style while looking unique.
 
-![](https://proxy-prod.omnivore-image-cache.app/0x0,sKnDzvB4l0sydw3mx-6oqnaKpQRppQ40ArRT12uEESm4/https://arun.is/images/2024-05-21-desk-setup-for-two/lamp_close_arun.jpg)![](https://proxy-prod.omnivore-image-cache.app/0x0,swtPO_vmYGml9QG_N_-VNKFR9cKTAHwGR5ivRG84y8kQ/https://arun.is/images/2024-05-21-desk-setup-for-two/lamp_close_q.jpg)
+![[lamp_close_q.jpg]]
 
 ## Computer & peripherals
 
@@ -277,10 +277,9 @@ Until then, this setup is perfect for us.
 
 ### Camera setup
 
-![Camera setup](https://proxy-prod.omnivore-image-cache.app/0x0,siVTGqMX9W9O87aIDjGnL77bu2oByEW-_vLbL3xiuhMs/https://arun.is/images/gear/cl_56_60.png)
+![[cl_56_60.png]]
 
 Thanks to Q for reading drafts of this.
 
 ## Subscribe to the newsletter
 
----

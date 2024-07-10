@@ -92,4 +92,3 @@ Accelerate your career with Harvard ManageMentor®. HBR Learning’s online lead
 
 Make smarter, more purposeful choices about how you spend your day.
 
-![](https://proxy-prod.omnivore-image-cache.app/0x0,sXneWAzBgOST5_7hwM4Ng51jNMDCpvSCSeQYCPca0EMI/https://hbr.org/resources/images/hmm/Course_Illustrations/Time_Management_Course/topic_landing_page_1400.png) 

@@ -158,4 +158,3 @@ If you remain consistent with this process and don’t cherry-pick the easy task
 
 Switching away from unsustainable task-based productivity is easier than you may think. It does take a positive effort, though. To start, decide how much time you need each day to fulfil your work commitments and go from there. Once you see it working, you will be encouraged to add more focused time blocks. 
 
-Thank you Jens, for your question and thank you to you too for listening. It just remains for me know to wish you all a very very productive week. 

@@ -54,7 +54,7 @@ Stephen Hanselman, Heather Jackson, Donna Passannante, Tara Gilbride, Ilena Geor
 
 Probably not, but they’re some of the first people that Tim Ferriss thanked in the acknowledgements section of _The Four Hour Workweek_, and they belong to his agent, editor, marketing director, and publicity director, respectively, along with the four interns who helped him get the project over the finish line.
 
-![](https://proxy-prod.omnivore-image-cache.app/488x488,skqK-3TiVS9LU2X9so6piN7BlR4ZM0wi8akrOasGU_8k/https://i0.wp.com/thewritetoroam.com/wp-content/uploads/2024/02/GUEST_06781cb0-796e-4d7f-a499-2a261c53a965.jpeg?resize=488%2C488&ssl=1)
+![[79881e110d6cfca1db5942d50bfad096.jpg]]
 
 Isn’t that interesting? The stories they could tell…
 
@@ -72,7 +72,7 @@ A quick Google of Stephen’s name [reveals](https://flight.beehiiv.net/v2/click
 
 Indeed, he’s actually a co-author of at least two of Holiday’s books.
 
-![](https://proxy-prod.omnivore-image-cache.app/629x354,sqlEKFshQAvGa6bgmqPPRFpClxXLWXTsv5nD6_1B8-tE/https://i0.wp.com/thewritetoroam.com/wp-content/uploads/2024/02/Article-Images-10.png?resize=629%2C354&ssl=1)
+![[c4b57e3a9d2d481ada52ba1e8fefb8a9.jpg]]
 
 So if everyone wants to write a story about how Tim Ferriss or Ryan Holiday became best-sellers, the path taken by _most_ of your competitors will be to either…
 
@@ -97,7 +97,7 @@ Running a multi-million dollar daily newsletter is all about efficiencies. Over 
 
 Then there was the [Sunday Story](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3RoZWh1c3RsZS5jby9zdG9yaWVzL3BhZ2UvMTAvIiwicG9zdF9pZCI6IjE1YjI4ODZkLWQwZTEtNDY1Ny05ZGYxLTMxN2I4MWMxZWE5NiIsInB1YmxpY2F0aW9uX2lkIjoiNzhhNzA1MDctOGVmNy00Y2M1LTlhMjQtNjk5ZDRmOTE2ZjU2IiwidmlzaXRfdG9rZW4iOiI5MTBhYmY5Yy1kYzhlLTQ1ODAtYTM1ZC1lNDY1M2JiODJkNzgiLCJpYXQiOjE3MDc1MDM3ODgsImlzcyI6Im9yY2hpZCJ9.guXToLhCGbR%5FGJlIK6KVL%5FAL5oOm2S-pARjoqtWxfRQ).
 
-![](https://proxy-prod.omnivore-image-cache.app/600x450,sXc-2b807e1gSxCNRHTaM6Bp6tT9PFu6C5pQD9oDk20I/https://i0.wp.com/thewritetoroam.com/wp-content/uploads/2024/02/header-1-1.gif?resize=600%2C450&ssl=1)
+![[bebacedec8cc759c5cac5eef7edf832b.jpg]]
 
 The Sunday edition of _The Hustle_ was refined by [Zachary Crocket](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3R3aXR0ZXIuY29tL3p6Y3JvY2tldHQiLCJwb3N0X2lkIjoiMTViMjg4NmQtZDBlMS00NjU3LTlkZjEtMzE3YjgxYzFlYTk2IiwicHVibGljYXRpb25faWQiOiI3OGE3MDUwNy04ZWY3LTRjYzUtOWEyNC02OTlkNGY5MTZmNTYiLCJ2aXNpdF90b2tlbiI6IjkxMGFiZjljLWRjOGUtNDU4MC1hMzVkLWU0NjUzYmI4MmQ3OCIsImlhdCI6MTcwNzUwMzc4OCwiaXNzIjoib3JjaGlkIn0.JrHjJMipMKjGyTzFWz3c2hH-slYUG%5Fel3i56C5cy-YY), and it sprang from his desire to do more in-depth, long-form coverage of business stories that were further off the beaten path. Things like…
 
@@ -127,7 +127,7 @@ When I’m deconstructing a company, I start by reading a few interviews with th
 
 I chart it so I can see any major turning points. For example…
 
-![](https://proxy-prod.omnivore-image-cache.app/600x371,sGlhoabbgSX2TTzw42VDf4sJFF7ftWrod9s6QjxbloqA/https://i0.wp.com/thewritetoroam.com/wp-content/uploads/2024/02/Morning-Brew-Subscriber-and-Revenue-Milestones.png?resize=600%2C371&ssl=1)
+![[61b727a48f2cdfd014fc81766ded462c.jpg]]
 
 Then, I search LinkedIn for everyone who’s worked at a place, or was hired around major turning points in a company, and manually plot their…
 
@@ -148,7 +148,7 @@ That sort of thing happens a lot when you study startups, and that’s why I do 
 
 At any rate, if you do this, what you’re left with is a map that shows how a company grew over time – where their hiring priorities were, and by extension, the major challenges or opportunities they were facing at any given point, as well as the people who played pivotal roles in their success.
 
-![](https://proxy-prod.omnivore-image-cache.app/466x257,sdexe7IbOgKcC8u_rC7g3NKHe271NQLJWmxrHAZzBGog/https://i0.wp.com/thewritetoroam.com/wp-content/uploads/2024/02/EuW5euDXcAUnKk_.png?resize=466%2C257&ssl=1)
+![[ce1685643ec01c6e1512e7611bca2eef.jpg]]
 
 It’s not perfect. Some people don’t keep their LinkedIn up to date. But it’s directionally accurate, and enough to give you the kind of look into a company you won’t typically find on TechCrunch.
 
@@ -165,4 +165,3 @@ And so I’ll leave you with one more little tip I got from Zach when we worked 
 
 When finishing an interview, one of the last questions he always asked was, “Who else do you think I should talk to about this?”
 
-It’s small. But you wouldn’t believe what comes from that.

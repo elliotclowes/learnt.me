@@ -131,4 +131,3 @@ We also discussed questions about inequality, the number of credit cards one sho
 Further Reading:  
 [7 Benefits of Writing](https://awealthofcommonsense.com/2019/04/7-benefits-of-writing/)
 
-## Now go talk about it.

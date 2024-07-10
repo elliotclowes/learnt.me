@@ -36,11 +36,11 @@ Dr. Patrick praises ==broccoli sprouts as being “very powerful for anti-aging�
 
 ==When put to the test in both animals and human studies, sulforaphanes slowed the rate of cancer and cardiovascular biomarkers, reduced inflammation markers, and significantly removed toxins from the body. [2] For an extensive breakdown about the research on sulphoranes, you can watch Dr. Patrick discuss it== ==[here](https://www.youtube.com/watch?v=zz4YVJ4aRfg)====.==
 
-![Sulphoranes and broccoli sprouts](https://proxy-prod.omnivore-image-cache.app/438x0,sH_e6B_HLvCTFLzW2oSEDsJykuZOKa1SHa0sHoD7sQ9g/https://blog.insidetracker.com/hs-fs/hubfs/Sulphoranes%20and%20broccoli%20sprouts.jpg?width=438&name=Sulphoranes%20and%20broccoli%20sprouts.jpg)
+![[Sulphoranes%20and%20broccoli%20sprouts.jpg?width=438&name=Sulphoranes%20and%20broccoli%20sprouts.jpg]]
 
 ==Now, why sprouts rather than the 'adult' vegetable?== **==Because t==** **==hey contain 50-100 times the amount of sulforaphanes than mature broccoli and other cruciferous vegetables==**==.== \[4\] If they are hard to find at your local grocery store, you can easily sprout them yourself. And if you’d rather stick with broccoli, add some mustard seed to increase the availability of the sulforaphanes. Focus on eating cruciferous vegetables daily and monitor your hsCRP—a biomarker of inflammation in the body. 
 
-![HSCRP marker](https://proxy-prod.omnivore-image-cache.app/573x0,swmITvmPsQ6QUS75jTl3X4bwwxBp3WQ7kFQ8PxQP6ZlU/https://blog.insidetracker.com/hs-fs/hubfs/HSCRP%20marker.png?width=573&name=HSCRP%20marker.png)
+![[HSCRP%20marker.png?width=573&name=HSCRP%20marker.png]]
 
 ## [Take a tour of the InsideTracker platform.](https://blog.insidetracker.com/cs/c/?cta%5Fguid=0bb78715-6509-4c9a-b1ca-f65127c22e81&signature=AAH58kHI1KWqdz3lDzJNuRSyVL1rRaMf5Q&pageId=23748595710&placement%5Fguid=146e8389-97c8-4ff6-9077-ced079acc443&click=808476ed-2819-454e-9414-7956ee14c8c8&hsutk=&canon=https%3A%2F%2Fblog.insidetracker.com%2Ffoods-slow-aging-according-longevity-experts&portal%5Fid=419889&redirect%5Furl=APefjpE3UTYuretzxVhEV8vVC6IqYn4jqeKEESbLIiDK2ZvATPqjhidJWZ12PADWJ6KpS2Ec8ixcb2VEDe3LrIvJZE9-lSdPvKGXjx48Y%5FE1jPBKZan1OP5BsUgNTb6k6YyvEzzJHtYM "Take a tour of the InsideTracker platform.")
 
@@ -66,7 +66,7 @@ But too much folate isn’t necessarily a good thing either, though. Scientists 
 
 ==Spinach is among the foods with the highest folate content—half a cup of cooked spinach provides 131mcg or 33% of your daily value. You can also obtain folate in high amounts from asparagus, artichoke, broccoli, most legumes, and liver.== 
 
-![Folate](https://proxy-prod.omnivore-image-cache.app/603x0,soudgSvB50-afdgENjhXc0_zFJ-n5zv9yzC54YNzL1jQ/https://blog.insidetracker.com/hs-fs/hubfs/Folate.png?width=603&name=Folate.png)
+![[Folate.png?width=603&name=Folate.png]]
 
 ## [[Strawberries]] 
 
@@ -76,7 +76,7 @@ Researchers have been studying _fisetin_, a plant compound, for years for its ca
 
 These promising results drove Mayo Clinic to sponsor a clinical trial examining the direct effects of fisetin supplementation on age-related dysfunction in humans. \[15\] The trial is currently underway and is estimated to be completed sometime this year. ==As Robbins said, since no safe amount for fisetin supplementation has been established, we suggest obtaining fisetin from food. How so? Strawberries. They contain== _==significantly==_ ==greater amounts of fisetin than other dietary sources.==
 
-![Fisetin content of foods](https://proxy-prod.omnivore-image-cache.app/423x0,scGeyoPM0SGV9ZtVD8Pkq2jZO0iXqVUMLhy9IW9AbpZ0/https://blog.insidetracker.com/hs-fs/hubfs/Fisetin%20content%20of%20foods.png?width=423&name=Fisetin%20content%20of%20foods.png)
+![[Fisetin%20content%20of%20foods.png?width=423&name=Fisetin%20content%20of%20foods.png]]
 
 ## [[Mushrooms]]
 
@@ -88,7 +88,7 @@ Similar to glutathione, Ergo functions by protecting the mitochondria from stres
 
 Some scientists have suggested Ergo should be considered a new vitamin, while others have termed it a “longevity vitamin." ==In intervention studies, Ergo has been shown to increase anti-inflammatory hormones and decrease oxidative stress factors in humans. Unlike glutathione, foods contain only minuscule amounts of Ergo, with one exception—mushrooms. "What we found is that, without a doubt, mushrooms are the highest dietary source of these two antioxidants taken together, and that some types are really packed with both of them," said Beelman. [18]==
 
-![Ergo and glutathione in mushrooms](https://proxy-prod.omnivore-image-cache.app/638x0,sB4dWJETNcmfl3u-B3SVdparjfqgi42Pw_1PvzD9rsGs/https://blog.insidetracker.com/hs-fs/hubfs/Ergo%20and%20glutathione%20in%20mushrooms.png?width=638&name=Ergo%20and%20glutathione%20in%20mushrooms.png)
+![[Ergo%20and%20glutathione%20in%20mushrooms.png?width=638&name=Ergo%20and%20glutathione%20in%20mushrooms.png]]
 
 ## Summary
 
@@ -101,7 +101,7 @@ Some scientists have suggested Ergo should be considered a new vitamin, while ot
 * **==Mushrooms==** ==contain the richest amounts of== **==Ergo==** ==and== **==glutathione==**==—two of the most powerful antioxidants in our body. Even just adding 5 mushrooms daily can have profound effects.==
 * ==Monitor both== **==folate==** ==and== **==hsCRP==** ==levels in your body by testing your blood regularly.==
 
-![Recipes for Longevity](https://proxy-prod.omnivore-image-cache.app/186x0,s0ZO0uRZC2_aXpTKfDkeM8yjJxhJLPVIe0Ik0yArWvYU/https://blog.insidetracker.com/hs-fs/hubfs/Recipes%20for%20Longevity.png?width=186&name=Recipes%20for%20Longevity.png)
+![[Recipes%20for%20Longevity.png?width=186&name=Recipes%20for%20Longevity.png]]
 
 If you’re looking to extend your lifespan, then grab our free eBook **‘Recipes for Longevity’.**
 
@@ -109,7 +109,7 @@ If you’re looking to extend your lifespan, then grab our free eBook **‘Recip
 
 ---
 
-![20170517 Diana Licalzi0312 (1x1)](https://proxy-prod.omnivore-image-cache.app/103x0,seTC5j7-nuO7bO5hzYcNbL0yPaMMwkHPPe11WTi5cJwU/https://blog.insidetracker.com/hs-fs/hubfs/20170517%20Diana%20Licalzi0312%20(1x1).jpg?width=103&name=20170517%20Diana%20Licalzi0312%20(1x1).jpg)
+![[20170517%20Diana%20Licalzi0312%20(1x1).jpg?width=103&name=20170517%20Diana%20Licalzi0312%20(1x1).jpg]]
 
 ##### Diana Licalzi, MS, RD 
 
@@ -140,4 +140,3 @@ Diana is a Content Strategist and Team Nutritionist at InsideTracker. She is a R
 
 ### 
 
-More on this topic

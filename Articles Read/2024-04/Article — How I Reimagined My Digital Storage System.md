@@ -71,7 +71,7 @@ Unfortunately, they were even more expensive.
 
 I did a rough calculation on the [AWS Pricing Calculator](https://calculator.aws/?ref=hulry.com), and storing 2TB of data on S3 would cost me **₹ 4,300/month** (\~ $51/month):
 
-![](https://proxy-prod.omnivore-image-cache.app/1312x614,sFMjBa1D2-I7FRmVHOJfP-T_fgT89KHHiHYR83Et5NZg/https://hulry.com/content/images/2024/04/aws-s3-2tb-storage-pricing.png)
+![[aws-s3-2tb-storage-pricing.png]]
 
 A basic cost calculation for a 2TB AWS S3 bucket.
 
@@ -125,7 +125,7 @@ I didn't need portability, but that extra speed would be helpful.
 
 After watching a couple of reviews on various 3.5-inch external HDDs, I ordered two of the 4TB Western Digital My Book drives:
 
-![](https://proxy-prod.omnivore-image-cache.app/2000x1148,snI3c2qPi6e0f1Ws3Z5p3lsGIjhmjFjhu_Bvd511NUH4/https://hulry.com/content/images/2024/04/wd-mybook-desktop-hdd.jpg)
+![[wd-mybook-desktop-hdd.jpg]]
 
 They cost me **₹8,499** (\~ $101) each and have been an excellent storage system for my large files, videos, and raw photos.
 
@@ -151,7 +151,7 @@ I didn't want to manually mirror file changes on my primary drive to the backup 
 
 To make this job easier, I set up a backup task via an app called [Carbon Copy Cloner](https://bombich.com/?ref=hulry.com):
 
-![](https://proxy-prod.omnivore-image-cache.app/1200x546,sO5C6QkUVhMy4W3VtTxim-w1IVkoUmR6gG5cCZnJBb0I/https://hulry.com/content/images/2024/04/carbon-copy-cloner-backup-task.png)
+![[carbon-copy-cloner-backup-task.png]]
 
 The Arctic Mirroring task replicates my primary HDD on the backup drive.
 
@@ -165,11 +165,11 @@ Then, once I'm done copying everything, say a whole folder of photos or an entir
 
  /0:23 
 
-![](https://proxy-prod.omnivore-image-cache.app/0x0,sdcybXC6xYMSkfBiRxjLZr0j-Vg1Brjw8TZ1efYXZN_E/https://hulry.com/content/media/2024/04/carbon-copy-cloner-run-backup-task_thumb.jpg)
+![[carbon-copy-cloner-run-backup-task_thumb.jpg]]
 
 Turning off [the Safety Net feature](https://bombich.com/kb/ccc6/protecting-data-already-on-your-destination-volume-carbon-copy-cloner-safetynet?ref=hulry.com) on my backup drive ensures that any files I delete from the primary drive get deleted from the backup drive as well:
 
-![](https://proxy-prod.omnivore-image-cache.app/1200x655,sA93KRtSv7M-Ybs6px4R_ugNSV4FFcKifI-4d-BJW09M/https://hulry.com/content/images/2024/04/carbon-copy-cloner-safetynet-off.png)
+![[carbon-copy-cloner-safetynet-off.png]]
 
 Right-click on the destination drive to turn off SafetyNet.
 
@@ -272,4 +272,3 @@ Join 3,806 others & continue your Workflow journey with more articles like this 
 * Apps
 * Books
 * Videos
-* Keyboard Shortcuts

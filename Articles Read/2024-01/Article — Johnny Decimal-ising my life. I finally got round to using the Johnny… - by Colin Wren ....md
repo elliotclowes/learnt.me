@@ -123,4 +123,3 @@ Taking the time to go through the Johnny Decimal process allowed me to get my di
 
 It’s also given me a system to map every aspect of my life and being able to see a full hierarchy of everything I’ve done so far was really cool.
 
-I was also able to find that Bitcoin wallet which, while I don’t have the password, means I might even have some long-forgotten riches waiting for me.

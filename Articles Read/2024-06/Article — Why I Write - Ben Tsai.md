@@ -46,4 +46,3 @@ This piece was prompted by [Robert Birming](https://birming.com/)’s post entit
 ---
 
 [Reply on social](https://social.lol/@bentsai/112441312586988681)  
-[Reply via email](https://letterbird.co/bentsai)

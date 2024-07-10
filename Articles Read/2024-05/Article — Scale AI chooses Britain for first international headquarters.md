@@ -44,4 +44,3 @@ There are concerns that looming regulation could damage London’s relative attr
 
 Jeremy Huntpublicly welcomed Microsoft’s hiring in March of Mustafa Suleyman, the British founder of Inflection AI. The chancellor wrote on Twitter/X: “Mustafa and Microsoft look like a great fit — no one knows the incredible AI ecosystem that we have here in the UK better than Mustafa. Quite a thing to see the top roles in AI both at DeepMind/Google and Microsoft go to extraordinary British talent — helping us realise our ambition to be the world’s next Silicon Valley.”
 
-### Related articles

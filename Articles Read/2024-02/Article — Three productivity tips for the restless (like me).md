@@ -21,7 +21,7 @@ omnivore_url: https://omnivore.app/me/three-productivity-tips-for-the-restless-l
 **Note:** Below is the text from the article, with any ==highlights== done by me. None of the writing below is by me.
 
 # Article text
-[![](https://proxy-prod.omnivore-image-cache.app/1072x836,s_IcCGf382cnrrPRzp0Dvcx1-feZRxX1wzcSk57ML18M/https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F168fe245-0c85-40bb-be4c-85c289282e0e_1072x836.png)](https://substackcdn.com/image/fetch/f%5Fauto,q%5Fauto:good,fl%5Fprogressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F168fe245-0c85-40bb-be4c-85c289282e0e%5F1072x836.png)
+![[https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F168fe245-0c85-40bb-be4c-85c289282e0e%5F1072x836.png]]
 
 From Kafka’s dairies
 
@@ -35,7 +35,7 @@ There’s something so interesting about the daily routines of successful creati
 
 ==Or== ==[this](https://www.google.ca/books/edition/Writers%5Fon%5FWriting/He3aRBskI%5F0C?hl=en&gbpv=1&dq=jay+parini&printsec=frontcover)====, from Jay Parini’s essay “On Being Prolific”,== on the routine of Anthony Trollope.
 
-[![](https://proxy-prod.omnivore-image-cache.app/1456x744,sdQbKFI6vP_P-Zvzk3YkXLbXL90EmKPBNUt_GpwSJpvQ/https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2216f035-1354-4794-b591-59d0e4e15df5_1804x922.png)](https://substackcdn.com/image/fetch/f%5Fauto,q%5Fauto:good,fl%5Fprogressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2216f035-1354-4794-b591-59d0e4e15df5%5F1804x922.png)
+![[https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2216f035-1354-4794-b591-59d0e4e15df5%5F1804x922.png]]
 
 (In his essay, Parini recounts an old story about the literary critic, Harold Bloom. Bloom was famously prolific, and the story goes that a graduate student once phoned Bloom and his wife answered and said: “I’m sorry, he can’t talk—he’s writing a book.” The student responded: “That’s all right. I’ll wait.")
 
@@ -49,7 +49,7 @@ In a different mode, I’m reassured whenever I learn that people I admire have 
 
 Or check this out, from Ludwig Wittgenstein: 
 
-[![](https://proxy-prod.omnivore-image-cache.app/1456x1653,s2DNUCxLDdghob-XV__IHUDPUwzjA5udvd-uwRmMD6g8/https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1b386737-b037-4286-8067-db40187b09a7_1630x1850.png)](https://substackcdn.com/image/fetch/f%5Fauto,q%5Fauto:good,fl%5Fprogressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1b386737-b037-4286-8067-db40187b09a7%5F1630x1850.png)
+![[https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1b386737-b037-4286-8067-db40187b09a7%5F1630x1850.png]]
 
 Here’s Charles Darwin writing to his friend Charles Lyell in 1861, and, man, I know the feeling: 
 
@@ -77,7 +77,7 @@ I suggest doing this, every morning.
 
 This is pretty typical advice. It’s what other people will tell you, and other people will tell you this because it’s a standard practice for productive people (though they usually do more than an hour.) There’s a book called [Daily Rituals](https://www.amazon.com/Daily-Rituals-Great-Minds-Inspiration/dp/1529059968/ref=pd%5Fsbs%5Fsccl%5F1%5F2/134-9688754-6240407?pd%5Frd%5Fw=iIhFB&content-id=amzn1.sym.9e4bb0e3-6517-4128-9279-264b7296d379&pf%5Frd%5Fp=9e4bb0e3-6517-4128-9279-264b7296d379&pf%5Frd%5Fr=VACE96498Q28F3F1YD7X&pd%5Frd%5Fwg=BtB9y&pd%5Frd%5Fr=217a781b-d734-4c0c-a33f-bd3bb7c7f845&pd%5Frd%5Fi=1529059968&psc=1) which is about the schedules of the Greats, and it includes a useful graph summarizing these schedules.
 
-[![Visualizing the Daily Routines of Famous Creative People](https://proxy-prod.omnivore-image-cache.app/1200x1068,s6PZmFAZLHZDhfE7T8GPeo18aZJ7KUidm_23b05CgyH8/https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9bf7a8e7-3826-432f-a973-318e051f2b57_1200x1068.jpeg "Visualizing the Daily Routines of Famous Creative People")](https://substackcdn.com/image/fetch/f%5Fauto,q%5Fauto:good,fl%5Fprogressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9bf7a8e7-3826-432f-a973-318e051f2b57%5F1200x1068.jpeg)
+![[cd6437269dcf51302161500e15045bc8.jpg]]
 
 One shouldn’t take this as more than suggestive. Maybe the graph would look different if 25 different creative people were profiled. But it rings true for me, and I draw three conclusions from it. 
 
@@ -95,7 +95,7 @@ So that’s the first tip, but I’ll add that there are all sorts of reasons wh
 
 ==Daniel Pink, in his book,== _==[When](https://www.amazon.com/When-Scientific-Secrets-Perfect-Timing/dp/0735210632/ref=sr%5F1%5F1?crid=1CWRYSH6W4TE&keywords=daniel+pink+when&qid=1704553941&sprefix=whose+lucky+here+anyway%2Caps%2C323&sr=8-1)====,==_ ==proposes that mornings and evenings are peak times for most people.== Here are the results from [a Science paper](https://www.science.org/doi/pdf/10.1126/science.1202775?casa%5Ftoken=k5J7JTOEXKkAAAAA:7aeJ52k0ULAG1%5FVBucqXeG5pmzmqCPYEV36vXcag18hRjfhlukev3cfFv9ftufgZpwyavqmPalx-) that looked at half a billion tweets, analyzing them for how positive or negative they were, and then looking at the effects of time of day. 
 
-[![](https://proxy-prod.omnivore-image-cache.app/1174x680,sGMxqazhDDYEe87kziXthdxUgIdtftQZQ8GyAtT7LeXY/https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9d6d413c-f80f-486d-85c9-fe2755eb2bbc_1174x680.png)](https://substackcdn.com/image/fetch/f%5Fauto,q%5Fauto:good,fl%5Fprogressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9d6d413c-f80f-486d-85c9-fe2755eb2bbc%5F1174x680.png)
+![[https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9d6d413c-f80f-486d-85c9-fe2755eb2bbc%5F1174x680.png]]
 
 Summarizing the results from several studies, Pink writes 
 
@@ -111,7 +111,7 @@ Does it have to be an hour? Absolutely not. That’s just the time that works fo
 
 Almost fifty years ago, Virginia Valian wrote a terrific essay called [Learning to Work](https://static1.squarespace.com/static/5b3a3c2596e76feeba40905e/t/5b46366570a6add65490e050/1531328102222/1977workingItOut.pdf02773614), describing how she set up a plan to write her dissertation. She figured she’d work a set amount of time each day. 
 
-[![](https://proxy-prod.omnivore-image-cache.app/1016x566,sk756YnX1IfV_azyzRgqXxb9woNRTrt16FCdEBhFi16o/https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F06612646-c57b-4c31-bce1-8204ff4253e5_1016x566.png)](https://substackcdn.com/image/fetch/f%5Fauto,q%5Fauto:good,fl%5Fprogressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F06612646-c57b-4c31-bce1-8204ff4253e5%5F1016x566.png)
+![[https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F06612646-c57b-4c31-bce1-8204ff4253e5%5F1016x566.png]]
 
 Finally, some thoughts on the “every morning” part. There are advantages to consistent everyday work. Most of all, stuff accumulates. Trollope wrote 2500 words per morning. At this impressive pace, a month of work gives you 75,000 words, which is a perfectly respectable novel or work of non-fiction, or several chapters and articles. Or, more realistically, it’s a very rough and preliminary version of a book or bunch of chapters and articles. 
 
@@ -119,7 +119,7 @@ Now this is a crazy pace. But suppose you wrote for fifteen minutes a day, produ
 
 Also, an everyday schedule is just simpler. Valian again: 
 
-[![](https://proxy-prod.omnivore-image-cache.app/938x462,sucnzm-rUBXc48mhkuTAK4c6GHSecCrqO_z2phbswa7U/https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffa490ee8-9476-48ba-9c77-7ed1c50c4674_938x462.png)](https://substackcdn.com/image/fetch/f%5Fauto,q%5Fauto:good,fl%5Fprogressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffa490ee8-9476-48ba-9c77-7ed1c50c4674%5F938x462.png)
+![[https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffa490ee8-9476-48ba-9c77-7ed1c50c4674%5F938x462.png]]
 
 Do _I_ write every morning? Sadly, no. I might have to get an early flight. I might be at a conference and have to go to a talk or meeting the minute I wake up. (Unless you’re Joyce Carol Oates, travel messes with your productivity.) I might have some pressing deadline that I need to spend all my time on (though even here, I try to eke out 10 or 20 minutes of writing). 
 
@@ -150,13 +150,13 @@ Disadvantages? Well, some people find this insane. The idea of quickly switching
 
 But it _does_ work for some people. I mentioned this on a podcast, and a week later, I got a sort of celebrity endorsement from Oliver Burkeman, in his newsletter [The Imperfectionist](https://www.oliverburkeman.com/the-imperfectionist). 
 
-[![](https://proxy-prod.omnivore-image-cache.app/1214x520,szxmdyqD4c46WSC1EwiyrE759NV1VKmR0hI6UBDXr8wY/https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F219fadc3-2213-48ea-a59d-30bdcc100acc_1214x520.png)](https://substackcdn.com/image/fetch/f%5Fauto,q%5Fauto:good,fl%5Fprogressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F219fadc3-2213-48ea-a59d-30bdcc100acc%5F1214x520.png)
+![[https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F219fadc3-2213-48ea-a59d-30bdcc100acc%5F1214x520.png]]
 
 Splendidly nerdy! I can live with that. 
 
 It would be dishonest for me to stop with this quote, though, because Burkeman goes on to tell his readers not to take my advice, or any advice, too seriously. 
 
-[![](https://proxy-prod.omnivore-image-cache.app/1114x944,s6yDcJ2nAkAUGmRTWTytiV2yb1P7gCSJ40Cf9mKNYGhg/https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2925cc89-8d07-4b05-a006-5c66b6c38adb_1114x944.png)](https://substackcdn.com/image/fetch/f%5Fauto,q%5Fauto:good,fl%5Fprogressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2925cc89-8d07-4b05-a006-5c66b6c38adb%5F1114x944.png)
+![[https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2925cc89-8d07-4b05-a006-5c66b6c38adb%5F1114x944.png]]
 
 For more from Burkeman see [here](https://ckarchive.com/b/75u7h8hkdvrkri6rgg7rlaq0q4o66). 
 
@@ -174,13 +174,13 @@ The point here is that there are a lot of ways to do this well. There’s a temp
 
 For this to work, you have to know the answers to some questions. What time of day do you work best? What about particular kinds of work—is there a good time for what Daniel Pink calls “analytic work” and a different good time for what he calls “insight work”? How long can you work at a stretch before the quality drops? What’s your optimal dosage of stimulants? Some take nothing; some like a nice cuppa tea. For me, a mug of strong coffee when I start is essential, but a second cup makes me uncomfortably twitchy. But maybe I’m missing out on the powers of caffiene. Parini on Balzac:
 
-[![](https://proxy-prod.omnivore-image-cache.app/946x410,sXKRnpNPIsJ7BTi1csAMYopdY8YSrZOHGoQUJBerk22w/https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1123781e-56e3-47e7-bb2d-5428dd5d7bb3_946x410.png)](https://substackcdn.com/image/fetch/f%5Fauto,q%5Fauto:good,fl%5Fprogressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1123781e-56e3-47e7-bb2d-5428dd5d7bb3%5F946x410.png)
+![[https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1123781e-56e3-47e7-bb2d-5428dd5d7bb3%5F946x410.png]]
 
 Is your nighttime work improved by beer, whiskey, or a joint? (Mine isn’t, but some benefit from the buzz, and I’ll spare you tales of great masterpieces written by the blotto.) Silence, music, or a bustling cafe? Sitting, standing, treadmill, or lying in bed? Naked, sweatpants, or dressed as if you’re going for a job interview. 
 
 Important: The questions here aren’t about what you like; they are about the circumstances that give rise to your best work. There’s a big difference. For many years when I lived in New Haven, I would leave my office on many afternoons and walk to a cigar bar called [The Owl Shop](https://www.owlshopcigars.com/), (the only business in New Haven where indoor smoking is permitted). 
 
-[![](https://proxy-prod.omnivore-image-cache.app/1456x1003,sSiv1yutym9JL_tV4WSEFNCedJ8MHQW1RMmbd9o5im9A/https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa59f7fc2-79ca-424a-ba08-099df1b123a7_3196x2202.png)](https://substackcdn.com/image/fetch/f%5Fauto,q%5Fauto:good,fl%5Fprogressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa59f7fc2-79ca-424a-ba08-099df1b123a7%5F3196x2202.png)
+![[https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa59f7fc2-79ca-424a-ba08-099df1b123a7%5F3196x2202.png]]
 
 I’d light up a cigar, order a coffee (unless it was late, in which case I might move to beer or whiskey), sit at one of the overstuffed leather chairs, and take out my laptop.
 
@@ -196,4 +196,3 @@ Good luck!
 
 Thank you for reading Small Potatoes. This post is public so feel free to share it.
 
-[Share](https://smallpotatoes.paulbloom.net/p/three-productivity-tips-for-the-restless?utm%5Fsource=substack&utm%5Fmedium=email&utm%5Fcontent=share&action=share)

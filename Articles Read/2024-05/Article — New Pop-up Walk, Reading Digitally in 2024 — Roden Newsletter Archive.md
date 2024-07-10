@@ -124,4 +124,3 @@ And it doubly seems like I’m not the only one who had never heard of BOOX. I o
 OK, that’s all I got now! I’m shooting a Japanese TV show this weekend, and then flitting off to Kyoto to ready my soul and soles for the Tōkaidō walk that begins on Tuesday morning, four a.m. departure time. Sign up for [_The Return to Pachinko Road_](https://mailbot2000.craigmod.com/h/r/B0C90A7E34F5846C2540EF23F30FEDED) to follow along.
 
 Thanks, and read well,  
-C

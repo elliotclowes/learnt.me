@@ -54,4 +54,3 @@ Tightening regulations and changes in manufacturing could lessen our exposure to
 
 For now, we know that there is an “ongoing balance between exposure and elimination”, of PFAS in the body, as study lead author Dr Robin Gasiorowski puts it. By giving blood or plasma, “you can significantly speed up that elimination part”.
 
-* Adrienne Matei is a freelance journalist

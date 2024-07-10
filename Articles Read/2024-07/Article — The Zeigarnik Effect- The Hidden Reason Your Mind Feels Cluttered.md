@@ -22,7 +22,7 @@ omnivore_url: https://omnivore.app/me/https-www-becomingminimalist-com-the-zeiga
 **Note:** Below is the text from the article, with any ==highlights== done by me. None of the writing below is by me.
 
 # Article text
-![](https://proxy-prod.omnivore-image-cache.app/1024x684,s5dvY5XDRaLwHoLqmJLO7mBbOK6dGmKkEcmDtZSwUlYo/https://www.becomingminimalist.com/wp-content/uploads/2024/07/the-zeigarnik-effect-1024x684.jpg)
+![[the-zeigarnik-effect-1024x684.jpg]]
 
 Have you ever noticed how half-done projects seem to hang out in your brain more than those you’ve completed? 
 
@@ -94,4 +94,3 @@ You have chosen to opt-out of the sale or sharing of your information from this 
 
  This site collects information through the use of cookies and other tracking tools. Cookies and these tools do not contain any information that personally identifies a user, but personal information that would be stored about you may be linked to the information stored in and obtained from them. This information would be used and shared for Analytics, Ad Serving, Interest Based Advertising, among other purposes.
 
- For more information please visit this site's Privacy Policy.

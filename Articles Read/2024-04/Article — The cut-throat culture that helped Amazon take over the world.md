@@ -40,7 +40,7 @@ That would change. Weeks after the party, Amazon announced a deal to buy the lux
 
 The guest list of attendees that year now reads like a bankruptcy note. The CEOs of US department stores such as Filene’s Basement and Neiman Marcus were in attendance, listening to an unassuming tech CEO speak effusively about retail. They had no idea the guy with the goofy laugh would soon be eating their lunch. 
 
-![Jeff Bezos, centre, with other CEOs at the Harmonie Club in 2006](https://proxy-prod.omnivore-image-cache.app/0x0,sL1Nq8fApC5AFSw5WZUCiwRuNUdanQ2xuOctchszZmhw/https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fb52ef0b7-d143-497b-8136-8e98ed817bc2.jpg?crop=3600%2C2400%2C0%2C0&resize=1533)![Jeff Bezos, centre, with other CEOs at the Harmonie Club in 2006](https://proxy-prod.omnivore-image-cache.app/0x0,svwIzbSSz0LI6MRP8wot5PWJ0M7cZDpTOZ-GC8xtiLmQ/https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fb52ef0b7-d143-497b-8136-8e98ed817bc2.jpg?crop=3600%2C2400%2C0%2C0&resize=400&quality=3)
+![[f3b26e445063f6ea0541c5cd43efad99.jpg]]
 
 Jeff Bezos, centre, with other CEOs at the Harmonie Club in 2006
 
@@ -78,7 +78,7 @@ In 2015 Amazon was developing a new private-label food brand, Wickedly Prime. A 
 
 The problem was Trader Joe’s secrets were well guarded. The grocer doesn’t offer online shopping, so less is known about its top sellers than those of other brands that sell online and have reviews. Trader Joe’s makes much of its food itself, with interesting concoctions that fly off the shelves, such as cinnamon bun spread. It was hard for Amazon to figure out which 200 items to copy because of this secretiveness, but it was determined to find out.
 
-![Trader Joe’s grocery store, the inspiration for Amazon’s Wickedly Prime](https://proxy-prod.omnivore-image-cache.app/0x0,sKr-bpMYPeZDJbNaFyc9CG3McWt76G3_XXdVZrjeHFx8/https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fcfc1b9fb-d345-4ce5-ac8d-d387764c2361.jpg?crop=4000%2C2670%2C0%2C0&resize=1533)![Trader Joe’s grocery store, the inspiration for Amazon’s Wickedly Prime](https://proxy-prod.omnivore-image-cache.app/0x0,sOG7VLBdaco_Co-r8BJyCKCxi8rTgSBdxGhysNfSA5IU/https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fcfc1b9fb-d345-4ce5-ac8d-d387764c2361.jpg?crop=4000%2C2670%2C0%2C0&resize=400&quality=3)
+![[acc7fd17ed10dc1b7f8f38b0ae501443.jpg]]
 
 Trader Joe’s grocery store, the inspiration for Amazon’s Wickedly Prime
 
@@ -102,7 +102,7 @@ But in subsequent years she had to reduce her monthly salary. First she lowered 
 
 She held on for a few years without taking any pay, with her partner supporting her, but eventually in early May 2019 she made the difficult decision to close the store she had owned since 2003\. She describes that period as a “month-long surgery without anaesthetic”. ==Since 1995 the number of independent bookshop owners in the UK has dwindled from 1,894 to 1,072 (although there has been a resurgence in recent years), according to the Booksellers Association.==
 
-![The Amazon.com website in 1995](https://proxy-prod.omnivore-image-cache.app/0x0,sDPMzGN0b4329gpUMxEi8GClHUV1HFLbw2rwMhCbelOE/https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F29aa05f6-ad0a-41e6-98cb-8b569bf06b4b.jpg?crop=631%2C614%2C120%2C154&resize=1533)![The Amazon.com website in 1995](https://proxy-prod.omnivore-image-cache.app/0x0,seFMuRlQ8D20lLSiRy3ACVyhIKtNrHpWDTwce0hy0NFw/https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F29aa05f6-ad0a-41e6-98cb-8b569bf06b4b.jpg?crop=631%2C614%2C120%2C154&resize=400&quality=3)
+![[08a28ab50afedb0baf16f7cd3347c942.jpg]]
 
 The Amazon.com website in 1995
 
@@ -124,7 +124,7 @@ On September 26, 2023, the Federal Trade Commission sued Amazon for being an ill
 
 “The company fundamentally disagrees with the FTC’s allegations because they are wrong or misleading, and they would harm consumers and independent businesses,” Amazon says. It also says it has innovated for customers, spurred lower prices, enabled millions of successful small businesses and significantly increased competition in retail.
 
-![Bezos with Lauren Sánchez on board Koru, the largest sailing yacht in the world, during last year’s Cannes Film Festival](https://proxy-prod.omnivore-image-cache.app/0x0,sxh5wwZoIBg7kesoo-sYrlDbw5uCsUX3J3jW3Qe3rM3o/https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F7b12c3a8-8d07-40f9-9424-362ae00c1b38.jpg?crop=1076%2C978%2C0%2C112&resize=1533)![Bezos with Lauren Sánchez on board Koru, the largest sailing yacht in the world, during last year’s Cannes Film Festival](https://proxy-prod.omnivore-image-cache.app/0x0,s0wDhn7GQetuF3YsxdUkx7y2IbWYFgpgb-dpnVYDO3Ik/https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F7b12c3a8-8d07-40f9-9424-362ae00c1b38.jpg?crop=1076%2C978%2C0%2C112&resize=400&quality=3)
+![[da078f90b236b2ca9672ae0a88a1e12b.jpg]]
 
 Bezos with Lauren Sánchez on board Koru, the largest sailing yacht in the world, during last year’s Cannes Film Festival
 
@@ -139,25 +139,25 @@ These days Jeff Bezos seems to spend more time on his $500 million megayacht wit
 Where we go from here is anyone’s guess, but it’s impossible to ignore what Amazon has achieved in industry after industry, and what that means for the rest of us. Even if the FTC wins its case and breaks Amazon up, the pieces themselves are market leaders in their own right. And that’s assuming the FTC manages to break it up. While it’s impossible to forecast the future, the impact of Amazon on our daily life — and on this century — has already been substantial.  
 **© Dana Mattioli. Extracted from** **_The Everything War: Amazon’s Ruthless Quest to Own the World and Remake Corporate Power_** **by Dana Mattioli (Torva £22), published on April 25\. Buy at** [**timesbookshop.co.uk**](https://timesbookshop.co.uk/the-everything-war-9781911709565?utm%5Fsource=timesandsundaytimes&utm%5Fmedium=online&utm%5Fcampaign=weekly)
 
-![](https://proxy-prod.omnivore-image-cache.app/0x0,s1KxlGVk_S1a84pSMKquAl9-T3f0XBudj9Li8uNvCxac/https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fe77b4483-3a57-472c-9d39-87adebba0b7f.jpg?crop=441%2C415%2C77%2C91&resize=1533)![](https://proxy-prod.omnivore-image-cache.app/0x0,slTb6QfDSnX8MeujTJlVpkF8_Dmz0jvlnRHiFZx9uSiM/https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fe77b4483-3a57-472c-9d39-87adebba0b7f.jpg?crop=441%2C415%2C77%2C91&resize=400&quality=3)
+![[56fa0bac75cd10b5d6e709b10fd8af9b.jpg]]
 
 ### 1997
 
 Three years after founding Amazon as an online bookstore in his garage, Jeff Bezos lists Amazon. It is valued at about $300 million 
 
-![](https://proxy-prod.omnivore-image-cache.app/0x0,shTjLsVoOaHkfuMlDwB2-j6aRK9R5A2C1wTvQe7Iz_Uo/https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F2f00adb5-e5ee-479e-b5a4-1b8049f6328b.jpg?crop=610%2C889%2C0%2C0&resize=1533)![](https://proxy-prod.omnivore-image-cache.app/0x0,s1CQr6du6jlhTsReHVUK8dSs8ToKfdqXyiSKEXMK2BpE/https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F2f00adb5-e5ee-479e-b5a4-1b8049f6328b.jpg?crop=610%2C889%2C0%2C0&resize=400&quality=3)
+![[ab5902f203e56db207d837489609ed91.jpg]]
 
 ### 2005
 
 After surviving the dotcom crash and moving beyond book sales, Amazon introduces its Prime scheme. Two years later it releases the Kindle
 
-![](https://proxy-prod.omnivore-image-cache.app/0x0,stZVPice2BMsfbOBawnPBWZM3grpvuiEsYIvvlJe-gxg/https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F8605c342-49ba-4d7d-ae0e-df49f97d27b4.jpg?crop=1570%2C413%2C0%2C0&resize=1533)![](https://proxy-prod.omnivore-image-cache.app/0x0,sCd58cZNofLrmdqqDRdtaMhNKAkASzYoC_ick4BSP5Xk/https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F8605c342-49ba-4d7d-ae0e-df49f97d27b4.jpg?crop=1570%2C413%2C0%2C0&resize=400&quality=3)
+![[4dafbe09cfd142ae5ff62b205429f189.jpg]]
 
 ### 2011
 
 Amazon launches Instant Video for Prime members, a service now known as Prime Video 
 
-![NINTCHDBPICT000891423000](https://proxy-prod.omnivore-image-cache.app/0x0,sVIh7d-8_cAl6u5oV7JaZiTtjFBpG7tNRSv7YJ8Dx1f8/https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F8b777dc7-b509-4d0a-9f69-1685a2def383.jpg?crop=1234%2C2970%2C796%2C421&resize=1533)![NINTCHDBPICT000891423000](https://proxy-prod.omnivore-image-cache.app/0x0,sXJ8T9-WXwnL09Q8WPN_ijilp3lpviBDY0zLF-xHHaX8/https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F8b777dc7-b509-4d0a-9f69-1685a2def383.jpg?crop=1234%2C2970%2C796%2C421&resize=400&quality=3)
+![[50d13d86fb0d38ebf7cc110521563470.jpg]]
 
 NINTCHDBPICT000891423000
 
@@ -167,13 +167,13 @@ ALAMY
 
 Amazon Echo, the smart speaker anchored by Alexa, goes on general sale
 
-![](https://proxy-prod.omnivore-image-cache.app/0x0,s8MqrhxLb3shBN6SGJK1UmUTawzWMvtGNWM8ABUwsnt0/https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fa20379c8-2479-4a29-8cb5-f8acc77ca8a4.jpg?crop=417%2C394%2C142%2C0&resize=1533)![](https://proxy-prod.omnivore-image-cache.app/0x0,sA1K0YWp9_dj2iYSfnSoOkmNeXFqK4jXuWVT9agovk_M/https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fa20379c8-2479-4a29-8cb5-f8acc77ca8a4.jpg?crop=417%2C394%2C142%2C0&resize=400&quality=3)
+![[96572512078d574a7f6a56b8dafb527e.jpg]]
 
 ### 2017
 
 Seeking to establish itself in the grocery business, Amazon buys Whole Foods for $13.7 billion, its largest acquisition to date
 
-![](https://proxy-prod.omnivore-image-cache.app/0x0,sUBFBVaxPTwHoT96iYqxGp8VZvMAo8_MLtIz8HF2C15k/https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F3a7cc3cb-ac0e-4515-888f-0063b71d283d.jpg?crop=3800%2C1640%2C0%2C0&resize=1533)![](https://proxy-prod.omnivore-image-cache.app/0x0,s4dYBNt1_lGtnejX7ybOhHqRrDBkK_LhUjGAtHd29snc/https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F3a7cc3cb-ac0e-4515-888f-0063b71d283d.jpg?crop=3800%2C1640%2C0%2C0&resize=400&quality=3)
+![[b5dd9a5a0e2375abff02a9ee4228ca2e.jpg]]
 
 ### 2021
 
@@ -181,4 +181,3 @@ With Amazon’s share price trading near an all-time high thanks to a boom in on
 
 ### Now
 
-Along with other tech giants, Amazon saw its share price fall significantly after the pandemic. But it is now trading near its peak, giving the company a value of $1.88 trillion

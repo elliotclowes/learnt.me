@@ -106,4 +106,3 @@ These are just a few of the things that stop me from writing. I'll still have my
 
 Published under #personal. [Edit this post](https://github.com/remy/remysharp.com/blob/main/public/blog/why-i-write-and-when-i-dont.md)
 
-👍 1 likes

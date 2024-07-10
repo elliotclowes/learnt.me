@@ -87,4 +87,3 @@ It’s not enough to earn praise, we must deserve it. We can’t just be loved; 
 
 In order to feel fulfilled, you must deserve the success you achieve. And the only person that can tell you if you deserved success is you. You know.
 
-Our dissatisfaction with ourselves will always trump the satisfaction we feel with false rewards. We must, [as Charlie Munger puts it](https://fs.blog/2016/04/munger-operating-system/), _earn and deserve the success we desire_.

@@ -45,7 +45,7 @@ Schumann would later become part of a conflict within the mid-19th century Germa
 
 **A Restoration**
 
-![](https://proxy-prod.omnivore-image-cache.app/800x0,sbidErGjpKbkNGwdDGrXZmmiR7wRIVL_M5yBJ1coF_YY/https://embed.filekitcdn.com/e/35PyK6bxgCL8ChLJwpyZvd/61yQ5R7E2MUEvArf8PH3gr)
+![[08c5359e712d1f8997e93bb16c682888.jpg]]
 
 _The arrival of Charles II of England in Rotterdam, on the way to England, May 24 1660_ by Lieve Verschuier (1665)
 
@@ -55,7 +55,7 @@ Charles' return to England is a well-known historical event but, as with all thi
 
 Although it can no way be doubted, but that his Majesty's Right and Title to his Crowns and Kingdoms, is and was every way completed, by the Death of his most Royal Father, of glorious Memory, without the Ceremony or Solemnity of a Proclamation; yet, since Proclamations in such Cases have been always used, to the end that all good Subjects might, upon this Occasion, testify their Duty and respect; and since the armed Violence, and other the Calamities, of many Years last past, have hitherto deprived us of any such Opportunity, wherein we might express our Loyalty and Allegiance to his Majesty: We, therefore, the Lords and Commons now assembled in Parliament, together with the Lord Mayor, Aldermen, and Commons of the City of _London_, and other Freemen of this Kingdom, now present, do, according to our Duty and Allegiance, heartily, joyfully, and unanimously acknowledge and proclaim; that, immediately upon the Decease of our late Sovereign Lord King _Charles_, the Imperial Crown of the Realm of _England_, and of all the Kingdoms, Dominions and Rights belonging to the same, did, by inherent Birthright, and lawful and undoubted Succession, descend and come to His Most Excellent Majesty _Charles_ the Second, as being lineally, justly and lawfully next Heir of the Blood Royal of this Realm; and that, by the Goodness and Providence of Almighty God, he is, of _England, Scotland, France_, and _Ireland_, the most potent, mighty and undoubted King: And thereunto we do most humbly and faithfully submit, and oblige ourselves, our Heirs and Posterities for ever.
 
-![](https://proxy-prod.omnivore-image-cache.app/800x0,sXiCCy6ELCaNFJJwFbYhgb4p8DpAsMIB2AoHBd3_NuE8/https://embed.filekitcdn.com/e/35PyK6bxgCL8ChLJwpyZvd/ueUjb5HzrVhGQodvegTMDG)
+![[3d3f05d890e9a7326d206f8f4d4082c7.jpg]]
 
 Departure of King Charles II from Scheveningen to England, 1660
 
@@ -69,49 +69,49 @@ What am I driving at? That the thing we call "the state" or "the government" doe
 
 Charles Meryon
 
-![](https://proxy-prod.omnivore-image-cache.app/800x0,sjUemszSEIRi4V2vhSz0c41MFC95Y4Rbbd0U9gTirPyo/https://embed.filekitcdn.com/e/35PyK6bxgCL8ChLJwpyZvd/jAWjEoyjqGrXBq2KhJT5cY)
+![[04b0adf81415a80d2316429e0e7fae6b.jpg]]
 
 Charles Meryon was born in Paris in 1821, the son a French opera dancer and an English physician. He joined the navy, sailed around the world, and took up art on the high seas. When he returned to France he fought in the Revolution of 1848 and, several bouts of schizophrenia and depression later, interspersed with phases of creative ecstasy, died in an asylum at the age of 46.
 
-![](https://proxy-prod.omnivore-image-cache.app/800x0,sOOm_vJpusU4674uruuw_050LJ4rg9FYJ0_BZL9KkEnA/https://embed.filekitcdn.com/e/35PyK6bxgCL8ChLJwpyZvd/5wYcnC3xocdLbzoH2v6DKF)
+![[63108c13c6da040a7678c7a3a1efd6dd.jpg]]
 
 What sort of art did Meryon produce? Well, he wanted to be a painter. But the trouble is that he was severely colourblind. Thus he turned to engraving — and became a master of this medium instead. For his subject he took the world around him, and Paris above all. The beauty of Meryon's work — not so different from that of the English watercolourist Samuel Prout — is how architecture seems to be a character of its own. Hence I have included a handful of his prints, rather than focussing on one, to give you some sense of his multi-faceted portrait of Paris. Notice Meryon's command of light and shadow: how gloom clusters beneath arcades or scaffolding, how sunlight seems to glitter on the tower-tops. It is all fabulously Gothic, defined by the contrast between imposing architecture and miniature, often industrial, frequently grimy vignettes. Little wonder Victor Hugo and Charles Baudelaire were among his admirers.
 
-![](https://proxy-prod.omnivore-image-cache.app/800x0,sP_WnIyUJJhAEFa9GMcWEPjrg_dBvVt_0qfBFYwhF3Bo/https://embed.filekitcdn.com/e/35PyK6bxgCL8ChLJwpyZvd/k8GZCt7CHLrwERRg497vxd)
+![[51b3ee23ddae12157ab6404a1bf27af6.jpg]]
 
 So they are true _works of art_. But that's not all — Meryon's engravings also serve as a wonderful historical record of a world now lost. There are other paintings, and also photographs, of the Medieval Paris that was destroyed during Baron Hausmann's grand renovation in the second half of the 19th century. But Meryon's engravings, precisely _because_ of their atmosphere, and _because_ they show us the city through the eyes of a man with an intense personality, give us a _feeling_ of that lost Paris otherwise only accessible in poetry and prose. 
 
-![](https://proxy-prod.omnivore-image-cache.app/800x0,sSKFLsQpCwfMUnn5_RnebbfOj1283ht5-dz1YqirbPQs/https://embed.filekitcdn.com/e/35PyK6bxgCL8ChLJwpyZvd/9fuHqzarqBgSDy3etrXnFG)
+![[7aa3aa420868bdde1ff64299866632f2.jpg]]
 
 ## IV - Architecture
 
 **The Dunmore Pineapple**
 
-![](https://proxy-prod.omnivore-image-cache.app/800x0,su2FJgmzUYLW_53zROCi1jCepBAL9SLqw8xuuCf2OFYs/https://embed.filekitcdn.com/e/35PyK6bxgCL8ChLJwpyZvd/mAiZjSZwXNRpAUYKXm1H49)
+![[587399fa34a597040ad5270375229f31.jpg]]
 
 The Dunmore Pineapple is, as you can see, a sort of small neoclassical pavilion with a colossal stone pineapple on top. This is a _folly,_ an architectural whimsy, of the sort that became popular all around Europe in the 18th and 19th centuries. What defines a folly? They have no obvious "purpose" and they are usually extravagant, experimental, or fantastical in some way. Think of mock Gothic towers in the grounds of the British aristocracy, or the fake Roman ruins at Schönbrunn Palace in Vienna:
 
-![](https://proxy-prod.omnivore-image-cache.app/609x0,sU8UqAMshoEsL7261skGfcICgmOenYFJX5p_fdBidTfM/https://embed.filekitcdn.com/e/35PyK6bxgCL8ChLJwpyZvd/egi6jRPEPBDxaHWpzFfwR7)
+![[7007547d6ad1530a41d1c137c4a1946f.jpg]]
 
 The Dunmore Pineapple was commissioned by John Murray, 4th Earl of Dunmore, in the 1760s. It sits in the grounds of Dunmore Park, the ancestral home of the Earls of Dunmore in the Scottish county of Stirlingshire, and is surrounded by large gardens. The building itself was connected to a greenhouse where, among other things, pineapples themselves were grown.
 
-![](https://proxy-prod.omnivore-image-cache.app/800x0,sYv6TolSyPsV7U-FmdoPcQmdtDTlq9uSC8pw9EVgOJVo/https://embed.filekitcdn.com/e/35PyK6bxgCL8ChLJwpyZvd/8XiMiXNVzv1P3H76asK4kz)
+![[2e87a14ed1b9243c69bcaace96798c1f.jpg]]
 
-![](https://proxy-prod.omnivore-image-cache.app/800x0,sVfMsMx41Y9rMeA5Y_3CNLIH7a9QfNFJHirZj644_JSE/https://embed.filekitcdn.com/e/35PyK6bxgCL8ChLJwpyZvd/qtRgLsjQKagmrE3C1WA9h8)
+![[8f44de697bfab53a553627a97253f895.jpg]]
 
 But... why the pineapple? Because these were then among the most fashionable and expensive objects in Europe. A single painting should tell you as much — it is the aforementioned King Charles II being presented with the first ever pineapple grown in England. That such a moment apparently deserved memorialising says everything.
 
-![](https://proxy-prod.omnivore-image-cache.app/800x0,shgpsSUz2j7PyUHw6yde9pYPqg8uLQxSb9AfDAGNw71I/https://embed.filekitcdn.com/e/35PyK6bxgCL8ChLJwpyZvd/n2wDdx1849yyf2iFudUwm1)
+![[d3936242cb2abbdc43e4e88147a2e769.jpg]]
 
 ==By Hendrick Danckerts (1675)==
 
 Pineapples did become an entirely serious decorative feature of British architecture and design, hence their prevalence on gateposts, fences, and even the Wimbledon trophy. But the Earl of Dunmore's wildly oversized pineapple is a knowingly frivolous take on this fashion craze. Though, that being said, as an architectural project it was taken very seriously. The craftsmanship of the stone pineapple is astonishing; that it is in such good condition nearly three centuries later is testament to how well it was planned, executed, and assembled.
 
-![](https://proxy-prod.omnivore-image-cache.app/800x0,sKkfWxpEe-j8p3amwqyrcN-C0oi1cK3Rd_ELnpausYPw/https://embed.filekitcdn.com/e/35PyK6bxgCL8ChLJwpyZvd/oPUmWFATAgkFEe2ABfhD77)
+![[6a73723a93e79b4a56d0645b5bc72b74.jpg]]
 
 So this building is a tripartite reminder of the age of follies, of the pineapple craze that once swept Europe, and of the fact that architecture can — though we often forget it — be funny. And would not the world benefit from a few more buildings that took themselves a little less seriously, or buildings that refused to be — like so much else around us — merely boring? Yes, buildings can make us laugh, can raise our spirits even for a moment, and the Dunmore Pineapple is one of these.
 
-![](https://proxy-prod.omnivore-image-cache.app/640x0,skOSF73ARoDyhCBGW1jM7TbCEJwJInjCDNQVDV_QdZRw/https://embed.filekitcdn.com/e/35PyK6bxgCL8ChLJwpyZvd/KWcHcmUuvy2XmSGACc7tv)
+![[197b0b70342b6506b944706f09be2ba7.jpg]]
 
 ## V - Rhetoric
 
@@ -294,14 +294,13 @@ Email me your answers and I'll share them in next week's newsletter.
 
 We end with a poem shown to me by a good friend. For as I sit here, in the dark of the night, pondering things past and present, wondering whether you will find anything of interest or use in this week's Areopagus, it was these lines that wandered, unasked for, into my mind:
 
-![](https://proxy-prod.omnivore-image-cache.app/478x0,sB8e-P3hgEdCSVnD362_itmnx18iGFURKltm0TIVZr8I/https://embed.filekitcdn.com/e/35PyK6bxgCL8ChLJwpyZvd/bZELqFk2Qw8teQzvrCirDi)
+![[b6875cecd3eb6c1442aee4fcef35193f.jpg]]
 
 Yours,
 
 ​
 
-[![](https://proxy-prod.omnivore-image-cache.app/492x0,sJbO0sN3nG6if22Q794pB3ZbxWKmMdwyBlntxkydSCI0/https://embed.filekitcdn.com/e/35PyK6bxgCL8ChLJwpyZvd/bawssdXJtC8ZwHxZ7RAkWJ)](https://writeofpassage.com/)
+![[a5021ea00c69446a6d5bc61f0c7d8a37.jpg]]
 
 ​
 
-![](https://proxy-prod.omnivore-image-cache.app/0x0,sr8aiz5x1K3W-RLkxqXsCWiDf1ziu8QF6Z7E7tpe4EzQ/https://preview.convertkit-mail2.com/open) 

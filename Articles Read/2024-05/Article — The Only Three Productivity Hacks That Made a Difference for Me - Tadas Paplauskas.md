@@ -44,4 +44,3 @@ Like all healthy communities, you _should_ help each other. Say you are too lazy
 
 Some days will be more meaningful than others, but you should still contribute something on any given day. Whether you clean the kitchen, go to the gym, or apply for that dream job - do your part.
 
-This works so well because humans are naturally social creatures, we are hardwired to help each other, sometimes to a borderline people-pleasing level. So why not use that instinct on yourself?

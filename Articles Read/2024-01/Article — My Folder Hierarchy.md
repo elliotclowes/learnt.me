@@ -92,4 +92,3 @@ The described folder hierarchy is not the first one I am using. I have designed 
 
 You can find many things that may be questionable choices ("why putting talks under `art/` ..."). The main aspect is, that I personally am able to re-find stuff within this hierarchy. So far, re-finding stuff within my hierarchy is not a problem to me.
 
-You most probably want to read [this blog article](https://karl-voit.at/managing-digital-photographs) as well, where I explain workflows using my various tools on managing files within my folder hierarchy. This makes my digital life a very easy one.

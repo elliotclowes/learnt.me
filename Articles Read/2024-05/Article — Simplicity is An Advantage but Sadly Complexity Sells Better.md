@@ -64,7 +64,7 @@ Simple systems have fewer moving parts that can break, making them more reliable
 * [Simple methods > complex methods](https://www.sciencedirect.com/science/article/abs/pii/S014829631500140X) in forecasting accuracy across 32 papers
 * [Dot product > neural collaborative filtering](https://dl.acm.org/doi/10.1145/3383313.3412488) in item recommendation and retrieval
 
-![The simple dot product outperforms deep learning methods for recommendations.](https://proxy-prod.omnivore-image-cache.app/0x0,sq672i8O-sXZX_uzNpyIPnBHfYIpH4vVQNRcYJ1uJGI4/https://eugeneyan.com/assets/dot-product-vs-mlp.jpg "The simple dot product outperforms deep learning methods for recommendations.")
+![[f4955767fe0d199f0ce86f21e1934af5.jpg]]
 
 The humble dot product outperforms deep learning methods for recommendations ([source](https://dl.acm.org/doi/10.1145/3383313.3412488))
 
@@ -123,4 +123,3 @@ Browse related tags: \[[machinelearning](https://eugeneyan.com/tag/machinelearni
 
 Join **6,700+** readers getting updates on machine learning, RecSys, LLMs, and engineering.
 
----

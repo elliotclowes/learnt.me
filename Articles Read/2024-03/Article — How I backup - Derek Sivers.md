@@ -48,4 +48,3 @@ Rarely-accessed files I want to keep forever: videos and photos of my kid, music
 
 So that’s five copies of my keepsakes in four different locations. Each one also has a recent copy of my every-day documents from above. So a few minutes a month to connect the USB drives, and I only do the safe deposit box when I’m going that way anyway, and only takes a couple minutes.
 
-In the days of spinning-platter hard drives, they used to die surprisingly often, so I like the security of many copies. But it also helps to have some deliberately behind others, so on the rare case where I’ve deleted something, then rsynced my dailies and even my monthly, then realized I need that thing I deleted, then I know the drive in the safe deposit box has it since I haven’t updated that one in a couple months.

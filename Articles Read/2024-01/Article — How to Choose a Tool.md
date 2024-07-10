@@ -121,4 +121,3 @@ There are other approaches on methods on how to choose a software tool. I'll col
    * Try to use standard stuff.  
    * efficiency of a program.  
    * Short configurations  
-   * Take one, leave one

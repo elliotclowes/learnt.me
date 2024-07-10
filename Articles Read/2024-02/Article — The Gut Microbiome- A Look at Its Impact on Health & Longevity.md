@@ -64,7 +64,7 @@ Like in ecology, the diversity of the human gut microbiome is critical and can b
 
 Each species (e.g., _Acidophilus_) is assigned to a genus, resulting in a two-part scientific name (e.g., _Lactobacillus Acidophilus_). This naming system is based on a hierarchy of ranks that groups species based on common traits (Fig 1).
 
-![](https://proxy-prod.omnivore-image-cache.app/768x422,sQQorkeA1udxEsQ_Pnl2uPaWn8NfXBEz3xQFuI4UKzFc/https://i0.wp.com/novoslabs.com/wp-content/uploads/2023/06/image1-1.png?resize=768%2C422&ssl=1)
+![[5a080b90cc7886288f7ec510c3002763.jpg]]
 
 _Figure 1: representation of the bacteria taxonomic hierarchy. Figure adapted from Aakash.com._ 
 
@@ -171,7 +171,7 @@ In the next articles of this series, we will delve further into the [gut-microbi
 
 ---
 
-![](https://proxy-prod.omnivore-image-cache.app/559x559,snxONQSqqfA9OLdOq2ThAKUkIxJfvCxFf4gTEddJ-U6A/https://i0.wp.com/novoslabs.com/wp-content/uploads/2023/06/maria_headshot_720-e1686931065392.jpg?resize=559%2C559&ssl=1)
+![[0c5a48a3113130550d1eb2e379bcdec6.jpg]]
 
 * [](https://www.instagram.com/guthealth.dr/)
 
@@ -230,4 +230,3 @@ Dr. Maria Corlianò is now the Co-founder and CTO of [OSbiome](https://osbiome.c
 43. Wensel, C. R., Pluznick, J. L., Salzberg, S. L., & Sears, C. L. (2022). Next-generation sequencing: Insights to advance clinical investigations of the microbiome. _Journal of Clinical Investigation_, _132_(7), e154944\. <https://doi.org/10.1172/JCI154944>
 44. Wiertsema, S. P., van Bergenhenegouwen, J., Garssen, J., & Knippels, L. M. J. (2021). The Interplay between the Gut Microbiome and the Immune System in the Context of Infectious Diseases throughout Life and the Role of Nutrition in Optimizing Treatment Strategies. _Nutrients_, _13_(3), 886\. <https://doi.org/10.3390/nu13030886>
 45. Wilmanski, T., Diener, C., Rappaport, N., Patwardhan, S., Wiedrick, J., Lapidus, J., Earls, J. C., Zimmer, A., Glusman, G., Robinson, M., Yurkovich, J. T., Kado, D. M., Cauley, J. A., Zmuda, J., Lane, N. E., Magis, A. T., Lovejoy, J. C., Hood, L., Gibbons, S. M., … Price, N. D. (2021). Gut microbiome pattern reflects healthy ageing and predicts survival in humans. _Nature Metabolism_, _3_(2), 274–286\. <https://doi.org/10.1038/s42255-021-00348-0>
-46. Winham, D. M., & Hutchins, A. M. (2011). Perceptions of flatulence from bean consumption among adults in 3 feeding studies. _Nutrition Journal_, _10_(1), 128\. https://doi.org/10.1186/1475-2891-10-128Wu, L., Zeng, T., Zinellu, A., Rubino, S., Kelvin, D. J., & Carru, C. (2019). A Cross-Sectional Study of Compositional and Functional Profiles of Gut Microbiota in Sardinian Centenarians. _MSystems_, _4_(4), e00325-19\. <https://doi.org/10.1128/mSystems.00325-19>

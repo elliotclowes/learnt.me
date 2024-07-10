@@ -64,4 +64,3 @@ In June, the country said it would scrap its “[manifestation of interest](http
 
 Scrapping the clause appeared to be directed at lower-income migrants from countries like India, Nepal, and Bangladesh, who took advantage of it most.
 
-Subscribe to the Fortune Next to Lead newsletter to get weekly strategies on how to make it to the corner office. [Sign up for free](https://fortune.com/newsletters/next-to-lead?&itm%5Fsource=fortune&itm%5Fmedium=article%5Ftout&itm%5Fcampaign=next%5Fto%5Flead).

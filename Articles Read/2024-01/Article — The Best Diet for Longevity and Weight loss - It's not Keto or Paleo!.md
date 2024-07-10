@@ -48,7 +48,7 @@ Most diets have noticeable short term results as compared to the unhealthy Stand
 
 ## The first diet to focus on slowing down aging
 
-![](https://proxy-prod.omnivore-image-cache.app/871x387,sx1mySfZS-03sGYgpHxR-AKJ9GZIclwcqFt7hGQO1new/https://i0.wp.com/novoslabs.com/wp-content/uploads/2021/06/shutterstock_722718097.jpg?resize=1024%2C455&ssl=1)
+![[dd6a073651815534fbcb2022fd77a98c.jpg]]
 
   
 **Therefore, we at NOVOS propose a diet that approaches nutrition from an entirely new angle: aging.** 
@@ -77,7 +77,7 @@ Take milk, for example. Whether milk is healthy or not is a fierce debate that h
 
 ## Is high protein good or bad?
 
-![](https://proxy-prod.omnivore-image-cache.app/744x558,s1O5pCQBy2fM3wtYAqfzm6mZvJB6fskXoowBhNMwCRbs/https://i0.wp.com/novoslabs.com/wp-content/uploads/2021/06/pexels-pascal-claivaz-410648.jpg?resize=744%2C558&ssl=1)
+![[723f120e1267a35bcedcd82f3ba4fc7b.jpg]]
 
   
 Another example are high-protein diets, like the classic paleo diet, Dukan or Atkins diet. Often, these diets result in substantial weight loss, improved insulin sensitivity, lower triglycerides, and so on. 
@@ -94,7 +94,7 @@ Too much animal protein accelerates aging, as hundreds of scientific studies hav
 
 ## What about the keto diet?
 
-![](https://proxy-prod.omnivore-image-cache.app/795x277,sIK_2x1io-SzpjFOnomcDc28TRlUmY5r8GVmYTjKaksU/https://i0.wp.com/novoslabs.com/wp-content/uploads/2021/06/Screenshot_2.jpg?resize=795%2C277&ssl=1)
+![[464cb1e0c02fa21cfdc28c9bb4fdc2ee.jpg]]
 
   
 Another very popular diet is the ketogenic or keto diet. Like the Atkins diet, it is also a very low-carbohydrate diet (you eat few sugars and starches), but instead of lots of protein, you consume lots of fats. 
@@ -107,7 +107,7 @@ Keto diets bring people into ketosis (because very few carbs are consumed), but 
 
 ## The Mediterranean diet
 
-![](https://proxy-prod.omnivore-image-cache.app/701x466,sYLHfsPeBrhuB5TWvKSuMlZluqVrsTVv7pdguLa-_Eqk/https://i0.wp.com/novoslabs.com/wp-content/uploads/2021/06/pexels-engin-akyurt-1435904.jpg?resize=701%2C466&ssl=1)
+![[ba5627ccecf5f4469301202df554cd1e.jpg]]
 
 Then there is the Mediterranean diet. This diet promotes the consumption of vegetables, fruits, nuts, fish, white meat, and whole grains, and is the approximate diet of the longest lived people in the five Blue Zones across the world. It is also consistently shown in studies to be the healthiest of all diets, according to a variety of measures. So, among the most well-known diets, this is the one we would choose for longevity purposes. However, there are still ways in which it can be further improved, based on the latest research into human longevity.
 
@@ -128,7 +128,7 @@ The NOVOS Longevity Diet consists of these **simple rules**:
 7. **Minimize your alcohol intake**. Studies as recent as 2023 have shown that even the smallest intake of alcohol has a negative impact on health. If you are going to drink, try to keep it to one serving per day and have alcohol-free days.
 8. Take **smart health supplements**, such as selenium, vitamin D3, vitamin K2, B vitamins, magnesium malate, potassium and iodine – nutrients that are extremely difficult to get an adequate dosage of, even from the healthiest of diets. Also, take **[smart longevity supplements](https://novoslabs.com/best-anti-aging-supplements-science-based/)** (that contain ingredients like alpha-ketoglutarate, fisetin, glycine, NMN, etc.), like [**NOVOS Core**](https://novoslabs.com/product/novos-core/) and [**NOVOS Boost**](http://novoslabs.com/product/novos-boost).
 
-[![](https://proxy-prod.omnivore-image-cache.app/850x105,sINMLs6W4jqYGef2mhvQg-u1wtgy-exP9GXkfjRSQR-w/https://i0.wp.com/novoslabs.com/wp-content/uploads/2022/04/Younger-For-Longer.png?resize=850%2C105&ssl=1)](https://novoslabs.com/product/novos-core/?utm%5Fmedium=referral&utm%5Fsource=novoslabs.com&utm%5Fcampaign=blog)
+![[77507a8df97ffec1f35e3c59a0107811.jpg]]
 
 As you can see, this diet is not an “extreme” diet like so many others.
 
@@ -145,4 +145,3 @@ You can stick it on your refrigerator and email it to friends and family that yo
 
 ### [**Learn more about the anti-aging supplement NOVOS Core**](https://novoslabs.com/product/novos-core/?utm%5Fmedium=referral&utm%5Fsource=novoslabs.com&utm%5Fcampaign=blog)
 
-[![](https://proxy-prod.omnivore-image-cache.app/871x581,sY_NngZe3x2f64wdj2LIboFXHSZVr-AXtZK2h_Tj075w/https://i0.wp.com/novoslabs.com/wp-content/uploads/2022/03/CREATIVE_SHOT_04_CARE-BOOST-BOX-BOOTLE_0086-v02.jpg?resize=1024%2C683&ssl=1)](https://novoslabs.com/product/novos-core/?utm%5Fmedium=referral&utm%5Fsource=novoslabs.com&utm%5Fcampaign=blog)

@@ -60,15 +60,15 @@ Bryan Johnson reduced his biological age by 2.5 years versus his chronological a
 
 And according to perhaps the most powerful and accurate of all [epigenetic clock](https://novoslabs.com/what-are-the-best-epigenetic-clocks/) tests, the [DunedinPACE clock](https://novoslabs.com/novos-age-the-best-epigenetic-aging-test/), which measures one’s current rate of aging, the third-party lab reported that Chris is aging at 0.69 (31% slower than average), while Bryan Johnson is aging at 0.72 (28% slower than average). Many additional physiological aging measures further corroborate these results.
 
-![Chris Mirabile Bryan Johnson Biological Age comparison](https://proxy-prod.omnivore-image-cache.app/388x512,sQkW0WmM5ILIhCj2RdX-mZl-ek_rnhkSidUHetdsyTsI/https://i0.wp.com/novoslabs.com/wp-content/uploads/2023/02/chris-life-extension-3-e1654907112311-776x1024-1.png?resize=776%2C1024&ssl=1)
+![[a009b37061b4b5bd88727626b27c8fec.jpg]]
 
 NOVOS Founder, Chris Mirabile, aged 38 chronologically
 
 Other NOVOS customers who elected to submit their results to Bryan Johnson’s own Rejuvenation Olympics have achieved fantastic results as shared on his leaderboard. Specifically, three NOVOS customers, outranked Bryan Johnson (Julie Gibson Clark, Amy Hardison, and Lil Eskey), with Rick Chiovarelli being just a hair behind Bryan. When asked, all four NOVOS customers said they achieved these results by simply taking NOVOS Core and Boost, and generally following NOVOS’ lifestyle guidance.
 
-![](https://proxy-prod.omnivore-image-cache.app/871x288,sppe5BKWyDwDoZQlhsnHXFhr0Dm8QrmTWpkg1rS8L86w/https://i0.wp.com/novoslabs.com/wp-content/uploads/2023/10/image-1.png?resize=1024%2C338&ssl=1)
+![[1206bf2d6fb0d7e6cc415528434696bc.jpg]]
 
-![](https://proxy-prod.omnivore-image-cache.app/840x317,sWEKpWFom7WpYuA8W9XyfcfMUbB10NeiD2QCLN3d7Zos/https://i0.wp.com/novoslabs.com/wp-content/uploads/2023/10/image.png?resize=1024%2C387&ssl=1)
+![[5975779518a6072e1eeb8c3c9c874939.jpg]]
 
 Here’s a closer look at just a few of the noteworthy facts and stats mentioned in the Bloomberg article, along with our thoughts on why Bryan Johnson’s regime is not one we would recommend.
 
@@ -124,4 +124,3 @@ Track your pace of aging and learn about the impacts of lifestyle changes. Inclu
 
 ### Related Articles
 
-[ ![](https://proxy-prod.omnivore-image-cache.app/300x250,sgSZwy2TUlZaL0hdx7MikN6pl2zWmLKYvGb3AabJbPLU/https://i0.wp.com/novoslabs.com/wp-content/uploads/2022/02/shutterstock_1966698709_1600x736.jpg?resize=300%2C250&ssl=1) ![](https://proxy-prod.omnivore-image-cache.app/90x100,s3mVLuQOKdyG3xasrLKYkSs4nhjNGDwuBDgg9hB38IGQ/https://i0.wp.com/novoslabs.com/wp-content/uploads/2022/02/shutterstock_1966698709_1600x736.jpg?resize=90%2C100&ssl=1) ](https://novoslabs.com/does-microdosed-low-dose-lithium-cause-kidney-dysfunction/) [ ![](https://proxy-prod.omnivore-image-cache.app/300x250,scVY3G8IzTRHPRsWeVvZjhfGSzlVaZVAnJm8xYHTj4S8/https://i0.wp.com/novoslabs.com/wp-content/uploads/2023/02/Coffee_beans.png?resize=300%2C250&ssl=1) ![](https://proxy-prod.omnivore-image-cache.app/90x100,sBgzaQG1S0AJ9ipBBLsCCf-B49MsolSYZZm-8Dj4L1qY/https://i0.wp.com/novoslabs.com/wp-content/uploads/2023/02/Coffee_beans.png?resize=90%2C100&ssl=1) ](https://novoslabs.com/are-caffeine-and-coffee-good-for-my-health-and-longevity/) [ ![](https://proxy-prod.omnivore-image-cache.app/300x250,skQjIYdx_oqhK5SIm6BdlW7POh5j4Y7l4Fm0RyD_fqIU/https://i0.wp.com/novoslabs.com/wp-content/uploads/2022/03/shutterstock_640904416_1575x1050.jpg?resize=300%2C250&ssl=1) ![](https://proxy-prod.omnivore-image-cache.app/90x100,sTR-nYUk2FuVP-iFZ_JQOrRYYIXB8yEpXgpyJqjxX99k/https://i0.wp.com/novoslabs.com/wp-content/uploads/2022/03/shutterstock_640904416_1575x1050.jpg?resize=90%2C100&ssl=1) ](https://novoslabs.com/why-high-animal-protein-carnivore-diets-accelerate-aging/)

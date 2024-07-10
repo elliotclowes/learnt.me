@@ -28,7 +28,7 @@ The “Tower” is a wonderful lookout point in [Minca](https://www.travellifex.
 
 My sister has seen dozens of “lifers” on this trip, namely birds she had not seen before. For me they are almost all lifers, except the pigeons.
 
-![](https://proxy-prod.omnivore-image-cache.app/275x183,siLQXkcPSkA9SLx4PsIBUSOrPhLDfGZrgghF3eeGxnYU/https://marginalrevolution.com/wp-content/uploads/2024/06/toucan.jpg)
+![[toucan.jpg]]
 
 You can take a several hour small boat trip to see a village on stilts, [Pueblo Palafito](https://www.roadtrip.travel/roadtrips/inmersion-cienaga-grande-y-sus-pueblos-palafiticos). The locale supports 1000 or so people, all using water taxis to get around and mostly working as fishermen. It is not near anything else, and their power source is solar, due to a gift from the Italian government. This was the highlight of the trip. I am told families there typically average five children, and the schools were indeed full of enthusiastic young people. Best is [this video](https://www.youtube.com/watch?v=-Qn1PY93SYM), you don’t need to understand the Spanish.
 
@@ -44,4 +44,3 @@ This is what the Caribbean should be, but rarely is. Visiting Santa Marta, as a 
 
 It is a common trope that genetic influences on individual behavior strengthen as people age. If you take a trip with your sibling, you will see further evidence that this is true.
 
-It is rare for me to get on a plane for reasons that have basically no work components. That said, it is also easy to get work done here.

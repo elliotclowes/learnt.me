@@ -67,7 +67,7 @@ The content here is not intended to replace your relationship with your own medi
 
 Diet is deeply personal, and what works for one individual may not necessarily work for another. While there's no one-size-fits-all 'best' diet, there are foundational principles that can guide us towards healthier choices. The food decisions we make profoundly influence our health and longevity. Recent 2022 data suggests that transitioning from a typical Western diet to an optimal one could potentially add over a decade to one's life.\[1\]
 
-![](https://proxy-prod.omnivore-image-cache.app/0x0,sZ9sKCUm4ld0wA0B1D5nlqfcuCFx7Go6UyFNhNo_PxqI/https://cdn.shopify.com/s/files/1/0736/2907/3693/files/diet_life_expectancy_1024x1024.webp?v=1694047171)
+![[6a168b138df508cb9b93f434b301b73e.jpg]]
 
 While this section offers guidance on the three primary macronutrients: protein, carbohydrates, and fats, it's essential to tailor these recommendations to your tastes, preferences, and individual needs. The goal is to provide a framework that you can personalize, ensuring a diet that not only nourishes your body but also resonates with your lifestyle.
 
@@ -100,7 +100,7 @@ For those struggling to meet their protein targets through food alone, consider 
 
 Here is one option: <https://amzn.to/45jgBnP> 
 
-[![](https://proxy-prod.omnivore-image-cache.app/0x0,s9RtX-jHartyLMbczvcqzpgrj8MrUV0lheC3BUfFgsKQ/https://cdn.shopify.com/s/files/1/0736/2907/3693/files/orgain_combined_1024x1024.webp?v=1694047747)](https://amzn.to/45jgBnP)
+![[3cb6ced4163d1ff9ece90801585f5df7.jpg]]
 
 ### Carbohydrates
 
@@ -142,7 +142,7 @@ However, it's essential to consume caffeine mindfully. Its long half-life means 
 
 Excessive salt consumption is linked to high blood pressure, which is a risk factor for heart disease, stroke, and other cardiovascular ailments. Meta-analyses of randomized controlled trials examining salt intake reduction show a relatively linear decrease in blood pressure.\[21, 22\]
 
-![](https://proxy-prod.omnivore-image-cache.app/0x0,szQThO-JPbipmj0ZzXS5Kuh3xGqM_VQFu8ptYalACHIo/https://cdn.shopify.com/s/files/1/0736/2907/3693/files/salt_blood_pressure_copy_1024x1024.jpg?v=1694985220)
+![[fc9c50a9475519540da77d77a66fb8b1.jpg]]
 
 While our bodies need a certain amount of salt to function correctly, most people consume far more than the recommended daily limit. Here are some tips to reduce your salt intake:
 
@@ -184,7 +184,7 @@ If you’re interested in giving it a try, you can use my affiliate link: <https
 * Large observational studies suggest that regular exercise reduces risk of all-cause and disease-specific mortality.\[23-29\]
 * For example, males who engaged in moderately vigorous sports activity had a 23 percent lower risk of death than those who were less active.\[27\]
 
-![](https://proxy-prod.omnivore-image-cache.app/0x0,s3KokYNtOSblhVtbsKpmD2zJwKjOvDRo9ezkM2xlM4vA/https://cdn.shopify.com/s/files/1/0736/2907/3693/files/mortality_physical_activity_1024x1024.webp?v=1694048937)
+![[86bd0c6a2646fecbacb89737e5968442.jpg]]
 
 ### Beginner’s Guide
 
@@ -555,7 +555,7 @@ Alcohol, even in moderate amounts, can have profound effects on your body and br
 
 <https://www.cdc.gov/vaccines/schedules/hcp/imz/adult.html#table-age>
 
-![](https://proxy-prod.omnivore-image-cache.app/0x0,sGdJlMChRmqt-FHmeWtI8CX8177wzm6PKlLq7tgnmQII/https://cdn.shopify.com/s/files/1/0736/2907/3693/files/Screenshot_2023-08-17_at_3.21.58_PM_1024x1024.png?v=1692242569)
+![[d71133996f7b441a6828aea661b352a3.jpg]]
 
 ## Blood Pressure Below 120/80 At Home
 
@@ -578,7 +578,7 @@ For younger adults under 60, a relaxed, seated blood pressure reading should ide
 
 Here is an example of an at-home blood pressure monitor: <https://amzn.to/3YJjFax>
 
-[![](https://proxy-prod.omnivore-image-cache.app/0x0,s5ynv0iDXTb0BR-Y1AWVMW1KXFLJx1Uc8_4T8MCMFkYM/https://cdn.shopify.com/s/files/1/0736/2907/3693/files/ihealth_blood_pressure_monitor_db20d876-2ca0-491a-a850-bcedcf5da2e3_1024x1024.webp?v=1694049480)](https://amzn.to/3YJjFax)
+![[bec78f43d44ba5fa182f25e047ce21d4.jpg]]
 
 **Lifestyle Modifications**
 
@@ -681,13 +681,13 @@ A prevalent myth on social media claims that LDL-cholesterol doesn't contribute 
 
 This reinforces the idea that desirable LDL-C concentrations are probably much lower than those currently recommended, and suggest that atherosclerosis in both men and women develops above an LDL-C threshold concentration of approximately 50-60 mg/dL.\[55\]
 
-![](https://proxy-prod.omnivore-image-cache.app/0x0,sSrC3lW1S1663gG7z_yV3ynS_XQrPERtqgUtEQThBHDw/https://cdn.shopify.com/s/files/1/0736/2907/3693/files/PESA_trial_LDL_web_version_copy_1024x1024.webp?v=1694656511)
+![[0852b58f95f677b22ac8a3b74e3917e4.jpg]]
 
 For further evidence of LDL-C’s causal link to atherosclerosis, the European Atherosclerosis Society released a consensus statement on the mechanism explaining how LDL particles enter the blood vessel walls. They stated that LDL particles don’t just passively move across blood vessel walls. Instead, it uses a specific pathway involving various receptors:
 
 _“A considerable body of evidence in recent years has challenged the concept that movement of LDL occurs by passive filtration (i.e. as a function of particle size and concentration) across a compromised endothelium of high permeability. Studies have demonstrated that LDL transcytosis occurs through a vesicular pathway, involving caveolae, scavenger receptor B1 (SR-B1), activin receptor-like kinase 1 (ALK1), and the LDL receptor.”_\[56\]
 
-![](https://proxy-prod.omnivore-image-cache.app/0x0,sthBUR1XmYr-CLQh-bKW7r_L_I-J24cWE80np7l9YOFM/https://cdn.shopify.com/s/files/1/0736/2907/3693/files/ldl-atherosclerosis_1024x1024.jpg?v=1697407765)
+![[1a721cb15387405790f3894139d5ad07.jpg]]
 
 **In Conclusion**
 
@@ -1042,4 +1042,3 @@ Apigenin is an inhibitor of an enzyme called CD38, and CD38 might be a reason wh
 * 14th September 2023: Added subsection on caffeine, changed the wording of the blood pressure section, expanded cholesterol section.
 * 7th September 2023: formatting fixes, minor wording improvements, added images to the diet and exercise sections.
 * 31st August 2023: re-wrote the exercise section into beginner, intermediate, and advanced sections and added significant extra details.
-* 21st August 2023: Initial write-up

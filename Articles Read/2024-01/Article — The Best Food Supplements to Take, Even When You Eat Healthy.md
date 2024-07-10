@@ -86,7 +86,7 @@ One would need to take magnesium malate in powder form because capsules are just
 
 Or you can just take [NOVOS Core](https://novoslabs.com/product/novos-core/), which contains this amount of magnesium malate.
 
-[![](https://proxy-prod.omnivore-image-cache.app/841x104,sNmFde-rtTPM6gIJ1tTB1Dktk9-x5Z9irAS0zdUs29p4/https://i0.wp.com/novoslabs.com/wp-content/uploads/2022/01/18.png?resize=841%2C104&ssl=1)](https://novoslabs.com/product/novos-core/?utm%5Fmedium=referral&utm%5Fsource=novoslabs.com&utm%5Fcampaign=blog)
+![[77507a8df97ffec1f35e3c59a0107811.jpg]]
 
 ## 3\. Vitamin D3 – sufficiently highly dosed 
 
@@ -144,7 +144,7 @@ Many governments recommend eating omega-3 containing fatty fish, two times per w
 
 Make sure you buy high-quality omega-3 fatty acid supplements, meaning that the omega-3 fatty acids are pure and have not oxidized much (having low “TOTOX” value). You can read more about Omega-3 supplements [here](https://novoslabs.com/what-are-the-best-omega-3-supplements-a-guide/).
 
-[![](https://proxy-prod.omnivore-image-cache.app/844x104,sODZuH1PX0cxttEsrB-2oabPaPQ75C4mato3QUk6dXBQ/https://i0.wp.com/novoslabs.com/wp-content/uploads/2022/04/Younger-For-Longer.png?resize=844%2C104&ssl=1)](https://novoslabs.com/product/novos-core/?utm%5Fmedium=referral&utm%5Fsource=novoslabs.com&utm%5Fcampaign=blog)
+![[77507a8df97ffec1f35e3c59a0107811.jpg]]
 
 ## 8\. Vitamin A – the retinoid form 
 
@@ -224,4 +224,3 @@ From multivitamins to omega-3 supplements, there are a wide variety of supplemen
 
 [Learn more about the anti-aging supplement NOVOS Core](https://novoslabs.com/product/novos-core/?utm%5Fmedium=referral&utm%5Fsource=novoslabs.com&utm%5Fcampaign=blog)
 
-[![](https://proxy-prod.omnivore-image-cache.app/840x560,sQZTsSTYidiLWIbzLYz3MaolywargqK0F58QCiB9ZUBc/https://i0.wp.com/novoslabs.com/wp-content/uploads/2022/03/CREATIVE_SHOT_04_CARE-BOOST-BOX-BOOTLE_0086-v02.jpg?resize=840%2C560&ssl=1)](https://novoslabs.com/product/novos-core/?utm%5Fmedium=referral&utm%5Fsource=novoslabs.com&utm%5Fcampaign=blog)

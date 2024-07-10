@@ -32,4 +32,3 @@ The process takes a minute or two, just enough time to eat your salad (be carefu
 
 On occasion I have left the butter in the heat too long, and it liquifies, but then I just use it as a pour or dip my bread into it, imagining myself at [Peter Luger’s](https://peterluger.com/) dipping my steak into the collected deliciousness at the bottom of the dish. If you’re serving at home, softening the butter and warming plates is an easy way to elevate your game.
 
-##  Post navigation 

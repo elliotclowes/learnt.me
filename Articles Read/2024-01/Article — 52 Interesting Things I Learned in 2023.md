@@ -78,4 +78,3 @@ Inspired by [Tom Whitwell’s annual list](https://medium.com/magnetic/52-things
 
 Here are my lists from [2022](https://kottke.org/22/12/36-things-i-learned-in-2022) and [2021](https://kottke.org/22/01/52-things-i-learned-in-2021-1).
 
-      * [lists](https://kottke.org/tag/lists)

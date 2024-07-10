@@ -66,4 +66,3 @@ As a drawback, I sometimes seem to repel others when I start praising my setup. 
 
 ## Others
 
-In case you liked this blog post, you might be as well interested in [this reddit thread about personal Emacs stories](https://www.reddit.com/r/emacs/comments/6fytr5/when%5Fdid%5Fyou%5Fstart%5Fusing%5Femacs/). [Here](https://www.reddit.com/r/emacs/comments/7uswkc/my%5Fjourney%5Fto%5Femacs/) is another reddit thread about the same topic.

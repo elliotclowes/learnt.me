@@ -42,4 +42,3 @@ The university is aiming to double its spin-out creation to 20 companies a year 
 
 Universities have been criticised for subjecting academic and entrepreneurs to “predatory” deal terms, and a slow and “secretive” process. 
 
-An independent [review published in November](https://www.thetimes.co.uk/article/spin-out-founders-set-to-gain-more-financial-benefits-8kv2qw79v) and accepted by the government called for standardised and transparent deal terms among other reforms to allow UK university spin-outs to grow more effectively. 

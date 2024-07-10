@@ -22,7 +22,7 @@ omnivore_url: https://omnivore.app/me/https-hulry-com-yutori-18fa46b987b
 **Note:** Below is the text from the article, with any ==highlights== done by me. None of the writing below is by me.
 
 # Article text
-![Note](https://proxy-prod.omnivore-image-cache.app/0x0,siWZn2V9a-2T-7oTWzX1-6KthvMD6cKv6ISpn-Tx8r60/https://hulry.com/content/images/2024/05/book-open.png)
+![[book-open.png]]
 
 This post is an adapted version of a chapter in my book, **Kokoro**. Learn more about this concept and 30 other Japanese philosophies by [getting a copy](https://kokorothebook.com/?ref=Hulry).
 
@@ -44,7 +44,7 @@ It all starts with:
 
 My morning routine has been consistent throughout the last few years. I wake up at 5:30 am every morning, spend 30–40 minutes freshening up, and then take my dog for his morning walk:
 
-![Walking my dog in the park every morning.](https://proxy-prod.omnivore-image-cache.app/1200x673,sU9d50b0yFkiCAyMxlhz5xa4Rq3CVDI2lk5-Cl-t60Yw/https://hulry.com/content/images/2024/05/walking-dog-in-park.jpg)
+![[walking-dog-in-park.jpg]]
 
 The walk around the neighbourhood takes another 30–45 minutes, and I'm back home by around 7–7:10 am.
 
@@ -54,7 +54,7 @@ There's no agenda to follow, and [I don't try to optimise that free time block](
 
 Sometimes, I watch a video on YouTube that has been on my watchlist for months. For example, one morning, I watched this incredible [introduction to robotics from Mark Rober](https://www.youtube.com/watch?v=yi29dbPnu28&ref=hulry.com), which was fun and sparked my curiosity about the topic.
 
-![Watching fun and curious videos is Yutori for me.](https://proxy-prod.omnivore-image-cache.app/1200x673,slkb73jkdbpwWi2aEuEVAvh-PNDfOKs1VxAMpiIDy0uM/https://hulry.com/content/images/2024/05/watching-videos-ipad.jpg)
+![[watching-videos-ipad.jpg]]
 
 Another day, I sat comfortably devouring [a fantastic piece on AI gadgets](https://www.wheresyoured.at/rabbit-holed/?ref=hulry.com) by Ed Zitron.
 
@@ -94,7 +94,7 @@ Instead of fighting these feelings, I've noticed that taking a break from what I
 
 During such moments, I step away from my desk, walk around the house, relax and try to understand what I'm going through:
 
-![My best Yutori moment is expansively thinking while walking.](https://proxy-prod.omnivore-image-cache.app/1200x673,sCrNw46lnTi3Y7l_qbteaQ37rPGMwbube07xQ7UVSBsw/https://hulry.com/content/images/2024/05/walk-think-yutori-moment.jpg)
+![[walk-think-yutori-moment.jpg]]
 
 Even if a deadline is approaching quickly, taking 10 minutes out of my schedule to calm down, not think about the deadline, and [give my mind some breathing space](https://hulry.com/firesides/5-4-3-2-1/) helps me taper my stressful feelings and return to work more resiliently.
 
@@ -134,7 +134,7 @@ For example:
 
 If you love photography, you can take your camera and spend an hour or two on the weekend shooting photos around your neighbourhood or elsewhere without rushing. Don't think of it as another chore for the weekend; consider it a gift of quality time with yourself and the world around you:
 
-![Relaxing photoshoots is a good example of enjoying Yutori moments.](https://proxy-prod.omnivore-image-cache.app/1200x673,seDFDsMqBhypQAcm7cNUNarmHLc8VFFJCBrF4BkKNE_s/https://hulry.com/content/images/2024/05/photography-meadows-dslr-camera.jpg)
+![[photography-meadows-dslr-camera.jpg]]
 
 If cooking is your jam, Yutori can help you savour those delightful moments where you feel connected to food and various kitchen scents without working like a food processor to churn out dinner.
 
@@ -142,7 +142,7 @@ You might be fond of gardening, and being in your garden and tending to your pla
 
 Or, like me, you can schedule an hour or so every evening to read, think, play or retrospect:
 
-![](https://proxy-prod.omnivore-image-cache.app/1391x796,s90PhzynhcCMXFg4xutD6b27XiwM7OPN1ObHYfFNYr9c/https://hulry.com/content/images/2024/05/yutori-read-time.png)
+![[yutori-read-time.png]]
 
 Sometimes, I use this time for those __"walk-and-think"_ sessions.
 
@@ -150,7 +150,7 @@ However you do it, give yourself the gift of unhurried time through Yutori.
 
 It'll be an experience you'll come to love.
 
-![Note](https://proxy-prod.omnivore-image-cache.app/0x0,siWZn2V9a-2T-7oTWzX1-6KthvMD6cKv6ISpn-Tx8r60/https://hulry.com/content/images/2024/05/book-open.png)
+![[book-open.png]]
 
 If you enjoyed this post, you'll love the 30 other Japanese philosophies in my book, **Kokoro**. Continue learning by [getting a copy here](https://kokorothebook.com/?ref=Hulry).
 
@@ -167,4 +167,3 @@ Join 3,889 others & continue your Culture journey with more articles like this o
 * Apps
 * Books
 * Videos
-* Keyboard Shortcuts

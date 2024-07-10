@@ -22,7 +22,7 @@ omnivore_url: https://omnivore.app/me/accomplish-more-with-a-3-item-to-do-list-1
 **Note:** Below is the text from the article, with any ==highlights== done by me. None of the writing below is by me.
 
 # Article text
-![The 3-Item To Do List is as simple and profound as it sounds.](https://proxy-prod.omnivore-image-cache.app/600x290,sAl0bjvRiufPtfVZA8w1Wr49uApWRNHn9-IM_QCL2wSE/https://www.becomingminimalist.com/wp-content/uploads/2016/05/3-item-to-do-list.jpg)
+![[3-item-to-do-list.jpg]]
 
 First, let me give credit where credit is due. It was [Melissa Camara Wilkins](http://melissacamarawilkins.com/) who first introduced me to the 3-Item To Do List.
 
@@ -54,6 +54,5 @@ Additionally, and equally important, the 3-Item List provides a sense of accompl
 
 The importance of identifying the three most important things to accomplish in a day is revolutionary regardless of where you apply it. It is a helpful productivity hack at work. It can be used equally well by a stay-at-home mom or dad. It can be uniquely tailored for a hobby or side-business.
 
-![](https://proxy-prod.omnivore-image-cache.app/1024x684,s5dvY5XDRaLwHoLqmJLO7mBbOK6dGmKkEcmDtZSwUlYo/https://www.becomingminimalist.com/wp-content/uploads/2024/07/the-zeigarnik-effect-1024x684.jpg)
+![[the-zeigarnik-effect-1024x684.jpg]]
 
-In order to accomplish our most important tasks, it is essential to remain focused on them. The 3-Item To Do List accomplishes that _and_ requires you to identify them anew each morning.

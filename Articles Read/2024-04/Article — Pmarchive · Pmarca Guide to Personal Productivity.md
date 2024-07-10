@@ -185,4 +185,3 @@ While I find GTD to be highly inspiring, in practice I think it’s awfully comp
 
 For me, an organization system that requires significant time to deal with in and of itself is not optimal. Much better, for me at least, is to focus on stripping away nonessentials and freeing up as much time as possible to deal with whatever is most important.
 
-Finally, I discovered after writing this post that [Paul Graham](http://www.paulgraham.com/marginal.html) talks a bit about the role of time and focus in personal productivity in his essay on “The Power of the Marginal”.

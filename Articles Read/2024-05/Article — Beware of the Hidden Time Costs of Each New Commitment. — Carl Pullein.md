@@ -66,4 +66,3 @@ Thank you for reading my stories! 😊
 
 **If you would like to receive the best productivity and time management tips and tricks each week in one convenient email, you can subscribe** [**to my weekly newsletter here**](http://eepurl.com/cOAmvz)**.**
 
-You can also learn more about what I do here on my [website](http://www.carlpullein.com/)

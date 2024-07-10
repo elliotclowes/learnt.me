@@ -54,4 +54,3 @@ While many factors have contributed to the delay in the research, production, an
 
 Every month that our collective global culture hinders the deployment of higher-yielding, more nutritious, more extreme environmentally tolerant crops which require less fertilizer and pesticide; is another month for which future generations will look back with regret. 
 
-Over the next 25 years, the development, and successful use of genetic engineering in the production of agricultural crops, will play a vital role in the support of human flourishing and save and enrich the lives of millions. This will, however, only be possible if we support the research, development, and use of GE technologies in a rational manner. 

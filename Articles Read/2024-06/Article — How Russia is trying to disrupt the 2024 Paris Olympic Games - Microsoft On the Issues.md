@@ -35,7 +35,7 @@ Several prolific Russian influence actors, which Microsoft tracks as Storm-1679 
 
 Olympics-focused activity kicked off in June 2023, when Storm-1679 released on Telegram and then spread online a feature-length film called “Olympics Has Fallen”, mimicking the 2013 American political action thriller “Olympus Has Fallen”. Using a fake AI-generated audio impersonating the actor Tom Cruise to imply his participation, the film disparaged the IOC leadership. The use of slick computer-generated special effects and a broad marketing campaign, including faked endorsements from Western media outlets and celebrities, indicates a significant increase in skill and effort compared to most Influence Operations (IO) campaigns.
 
-[![](https://proxy-prod.omnivore-image-cache.app/507x294,sYpHO863eG5ZZvAWnZuzzGN4HkKfKfVxTY82p-VIeK3U/https://blogs.microsoft.com/wp-content/uploads/prod/sites/5/2024/05/olympdp1.jpg)](https://blogs.microsoft.com/wp-content/uploads/prod/sites/5/2024/05/olympdp1.jpg)
+![[olympdp1.jpg]]
 
 Figure 1: A visual from the fake documentary “Olympics Has Fallen”, produced by Russia-affiliated influence actor Storm-1679, which targets the International Olympic Committee and advances pro-Kremlin disinformation. The documentary uses the image and likeness of American actor Tom Cruise, who did not participate in any such documentary.
 
@@ -51,7 +51,7 @@ Figure 2: A faked video press release warning the public of possible terror atta
 * Storm-1679 has also sought to use the Israel-Hamas conflict to fabricate threats to the Games. In November 2023, it posted images claiming to show graffiti in Paris threatening violence against Israeli citizens attending the Games. Microsoft assesses this graffiti was digitally generated and unlikely to exist at a physical location.
 * Other images and videos referenced the 1972 Munich Olympics where members of Black September, a militant organization, killed 11 members of the Israeli Olympic team and a West German police officer. Microsoft does not presently have enough information to attribute the video to a specific actor, but its heavy amplification by pro-Russian bot accounts suggests the video may be another operation in the broader Olympics campaign.
 
-[![portmanteau of two images described in caption](https://proxy-prod.omnivore-image-cache.app/885x328,sW2flGAlBF4FoaGhahdCN9HX4cwbDgnHeeH-qolyiXRs/https://blogs.microsoft.com/wp-content/uploads/prod/sites/5/2024/05/olympdpport.jpg)](https://blogs.microsoft.com/wp-content/uploads/prod/sites/5/2024/05/olympdpport.jpg)
+![[olympdpport.jpg]]
 
 Figure 3: An image of graffiti, reportedly left in Paris, threatening a repeat of the 1972 Munich terror attacks at the upcoming Olympic Games in Paris (left). A still image from the false-flag terror threat, purportedly from Turkish ultranationalist group the Grey Wolves, whose symbol is visible in the top-right corner of the screen. The video was widely publicized by pro-Russian bot accounts and prompted a response from the Israeli Olympic Committee (right).
 
@@ -59,7 +59,7 @@ Figure 3: An image of graffiti, reportedly left in Paris, threatening a repeat o
 
 Storm-1679 is not the only Russia-aligned actor seeking to undermine the 2024 Games. The Russia-affiliated actor that Microsoft tracks as Storm-1099, better known as “Doppelganger,” has ramped up its anti-Olympics messaging in the past two months. Using its array of 15 unique French language “news” sites, including its core disinformation outlet ==Reliable Recent News (RRN)==, it makes claims of rampant IOC corruption and warns of potential violence at the Games. The actor also makes forgeries of French outlets Le Parisien and Le Point to echo such claims and castigate Macron and his government, his supposed showmanship around the Games and his indifference to the hardships faced by French citizens.
 
-[![A selection of fake news stories](https://proxy-prod.omnivore-image-cache.app/636x340,sJ7paK_rRUzc71gQcRActNAHQWicPhZPj5D6JFr_fZIk/https://blogs.microsoft.com/wp-content/uploads/prod/sites/5/2024/05/olympdp5.jpg)](https://blogs.microsoft.com/wp-content/uploads/prod/sites/5/2024/05/olympdp5.jpg)
+![[olympdp5.jpg]]
 
 Fig 4: A selection of Storm-1099’s anti-Olympics messaging, including from its core disinformation outlet Reliable Recent News (RRN).
 
@@ -71,4 +71,3 @@ On the ground, Russian actors may look to exploit the focus on stringent securit
 
 Microsoft remains committed to protecting the conduct and integrity of the 2024 Summer Olympic Games. MTAC will monitor and report on any campaigns stemming from Kremlin-backed actors in the lead up to and opening of the Paris Games.
 
-Tags: [cyber influence](https://blogs.microsoft.com/on-the-issues/tag/cyber-influence/), [influence operations](https://blogs.microsoft.com/on-the-issues/tag/influence-operations/), [Microsoft Threat Analysis Center](https://blogs.microsoft.com/on-the-issues/tag/microsoft-threat-analysis-center/), [MTAC](https://blogs.microsoft.com/on-the-issues/tag/mtac/), [Russia](https://blogs.microsoft.com/on-the-issues/tag/russia/)

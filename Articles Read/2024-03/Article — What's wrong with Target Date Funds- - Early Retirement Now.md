@@ -36,13 +36,13 @@ I also like the whole TDF philosophy because it has made it a lot more palatable
 
 Glidepaths toward retirement normally involve starting with a high equity share and low bond share for young investors and shifting to a portfolio with lower risk and thus lower equity share over time as they approach retirement. See the glidepath parameters for the Vanguard TDF family with retirement dates 2015 through 2065\. Notice that they still keep the 2015 fund around, so this for folks who retired 5 years ago!
 
-![Vanguard TDF Weights Table](https://proxy-prod.omnivore-image-cache.app/577x448,slvsqGr0DmmllbQzd21Be1LJe6M8KU2Pz6WLjEuqh1xA/https://i0.wp.com/earlyretirementnow.com/wp-content/uploads/2020/11/Vanguard-TDF-Weights-Table.png?resize=577%2C448&ssl=1)
+![[b14706dbaa5ba9c27c6d0aff4c73e6ec.jpg]]
 
 Glidepath asset allocation as of 9/30/2020\. Source: vanguard.com
 
 If we now assume that the glidepath parameters as a function of years to retirement stay the same over time (i.e., the 2065 fund in 2065 will look like the 2020 fund in 2020), then we can plot the projected path of the asset allocation over the life-cycle of a typical employee, see below:
 
-![Vanguard TDF Weights Chart](https://proxy-prod.omnivore-image-cache.app/863x627,srNNtkFxhbHHxJkIM70f_Jk4O59qjmwE-mqETHHYFkjM/https://i0.wp.com/earlyretirementnow.com/wp-content/uploads/2020/11/Vanguard-TDF-Weights-Chart-671358558-1604878150876.png?resize=863%2C627&ssl=1)
+![[ce5c4a5005fa955d8c0da6b698cb7913.jpg]]
 
 Glidepath over the life-cycle. Source: vanguard.com as of 9/30/2020
 
@@ -60,7 +60,7 @@ Most of us in the FIRE community are extremely cost-conscious. Almost maniacally
 
 But even with Vanguard, the TDFs have an additional layer of fees. For example, the Vanguard expense ratios for the 2015 to 2065 TDFs range from 0.13% to 0.15%. If you had built the same asset allocation with the underlying funds yourself you’d pay only 0.07%. You could even move your money to Fidelity and achieve the same result with an even lower expense ratio. All the way down to 0.003% for the 2045 to 2065 funds, thanks to the zero-expense-ratio funds for both domestic and international equities!
 
-![Vanguard TDF Expense Ratios](https://proxy-prod.omnivore-image-cache.app/863x626,sa7nRpVEbPpxXGGdWSUGPzwPc-pOezGjX13RrKRJyxMQ/https://i0.wp.com/earlyretirementnow.com/wp-content/uploads/2020/11/Vanguard-TDF-Expense-Ratios.png?resize=863%2C626&ssl=1)
+![[b74e4b5526c84202e5289ec2f919c03d.jpg]]
 
 Expense Ratios of Vanguard TDFs vs. reconstructing them from scratch with Vanguard (VTSAX, VTIAX, VBTLX, VTABX, VTAPX) and Fidelity funds (FZROX, FZILX, FXNAX, FBIIX, FIPDX). Source: vanguard.com, fidelity.com
 
@@ -98,7 +98,7 @@ For full disclosure: Some experts find that “[Target-Date Funds Are Too Risky 
 
 So, how do “optimal” glidepaths look like? My initial “Optimal” GP kept equities at 100% until 20 years before retirement and then shifts down to 60%. But notice that the entire red line is always above the Vanguard GP. Maybe I didn’t set the risk aversion parameter high enough and that explains the 100% initial allocation. So, then I jacked up the risk-aversion to a pretty unrealistically high level and get the yellow line. And I’d indeed push the final equity share to 40%, well below the Vanguard 50%. In fact, this very risk-averse investor would spend about 27 years before retirement with a lower equity share than under the Vanguard assumptions. But the initial equity allocation still stays at 100%! Even the craziest risk-averse investors would still want to start with 100%. And the rationale, again, are the two points I made in the intro. 100% equities might imply a high risk in **percentage** terms. But in **dollar terms,** it’s still relatively low-risk, considering the big chunk of future contributions, which almost works like an implicit non-shortable bond allocation when starting out.   _(and yes, yes, yes, I’ve done a lot of sensitivity analysis and the 100% starting point is indeed quite robust. I am not going to get into the details here but it’s something I worked on 4 years ago while still advising clients on this issue)_
 
-![Vanguard TDF Weights vs MC Sims](https://proxy-prod.omnivore-image-cache.app/863x626,sIszjmP7kjSKOBigNdglgPReEQ3yq1Z2hyXeZ2nv9qew/https://i0.wp.com/earlyretirementnow.com/wp-content/uploads/2020/11/Vanguard-TDF-Weights-vs-MC-Sims.png?resize=863%2C626&ssl=1)
+![[a0b8fd6cb0fa0dfcb5751f20d7cb9367.jpg]]
 
 Vanguard TDF vs. optimized GPs in a Monte-Carlo simulation. It’s very hard to push the initial weight below 100%.
 
@@ -153,4 +153,3 @@ Also, this is not the last time I want to write about this topic. I’m particul
 
 ### Hope you enjoyed today’s post! Please leave your comments and suggestions below!
 
-## Post navigation

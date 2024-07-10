@@ -24,7 +24,7 @@ omnivore_url: https://omnivore.app/me/wretched-children-by-paul-bloom-small-pota
 # Article text
 ### Is the first year of life miserable? 
 
-[![](https://proxy-prod.omnivore-image-cache.app/764x788,snVtAkGNZ-NObuZzzJV7bcufskmXgRZ8A4lCUNU16_iM/https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F96cd8915-14a2-4333-b9c8-b8cfa283ac8a_764x788.png)](https://substackcdn.com/image/fetch/f%5Fauto,q%5Fauto:good,fl%5Fprogressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F96cd8915-14a2-4333-b9c8-b8cfa283ac8a%5F764x788.png)
+![[https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F96cd8915-14a2-4333-b9c8-b8cfa283ac8a%5F764x788.png]]
 
 From Dall-E 3: I forget the prompt I used
 
@@ -70,7 +70,7 @@ As a final twist that I can’t explain, baby cries are seen as adorable in a wa
 
 (This can go too far, though. There is something disturbing in the second video, just 5 seconds in—a paddle covered in something like whipped cream smacks a baby in the face, and the woman holding him just about passes out in laughter. I get that cruelty can sometimes be funny, but this was a bit much for me.)
 
-[![](https://proxy-prod.omnivore-image-cache.app/1456x847,s8mVz0012cyW6OYZFD7saYQw9eTt7t2fN9CbTNSw9JIU/https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7338c7d8-dcaf-4547-bd47-5c0f45254714_3530x2054.png)](https://substackcdn.com/image/fetch/f%5Fauto,q%5Fauto:good,fl%5Fprogressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7338c7d8-dcaf-4547-bd47-5c0f45254714%5F3530x2054.png)
+![[https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7338c7d8-dcaf-4547-bd47-5c0f45254714%5F3530x2054.png]]
 
 What does it feel like to be one of these babies? I began my review of Gopnik’s book with this.
 
@@ -86,7 +86,7 @@ Of course, you can’t get babies to answer questions. But they do express their
 
 It’s been a while since I’ve hung out with babies on a regular basis, so I did a Twitter poll:
 
-[![](https://proxy-prod.omnivore-image-cache.app/1456x610,s0wDXXkxKjF7gRZZn5gfc0Xeb0MpbcV2VZ0e73JO6iXM/https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc755e266-e245-4d3d-9ca8-15948b5188b9_1528x640.png)](https://substackcdn.com/image/fetch/f%5Fauto,q%5Fauto:good,fl%5Fprogressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc755e266-e245-4d3d-9ca8-15948b5188b9%5F1528x640.png)
+![[https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc755e266-e245-4d3d-9ca8-15948b5188b9%5F1528x640.png]]
 
 Throwing out the abstainers, you get about 70% positive and 30% negative—a strong majority of respondents feel that babies have more positive feelings than negative ones. 
 
@@ -112,4 +112,3 @@ Yes, my heterodox friends—a trigger warning! See [here](https://smallpotatoes.
 
 Thank you for reading Small Potatoes. This post is public so feel free to share it.
 
-[Share](https://smallpotatoes.paulbloom.net/p/wretched-children?utm%5Fsource=substack&utm%5Fmedium=email&utm%5Fcontent=share&action=share&token=eyJ1c2VyX2lkIjozNTA0Nzk5LCJwb3N0X2lkIjoxNDIyNDgyMTMsImlhdCI6MTcxMzI0OTYyMCwiZXhwIjoxNzE1ODQxNjIwLCJpc3MiOiJwdWItMTkwMDAxNCIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.26F7JzKUjC2jdgTORExrd0o%5FR5z-Ith4jWGW872TxAg)

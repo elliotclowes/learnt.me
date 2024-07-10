@@ -1,0 +1,12 @@
+- https://apple.news/AyMRCvmJqQ_qybAoxOQOGRg
+- [[Ozempic]] is in a class of drugs known as [GLP-1 receptor agonists](https://apple.news/Pgys1MZ6VYIACqRFYg3dy9i).
+- GLP-1 is a [[gut]] hormone which stimulates insulin production.
+	- This reduces the blood sugar of those with Type 2 [[diabetes]].
+	- It also reduces appetite.
+- Ozempic is actually just for diabetes. The company that produces it makes a higher-dose variant called [[Wegovy]] that is meant for weight loss.
+	- > “Because of [shortages](https://www.nytimes.com/2023/10/05/well/live/wegovy-shortage-ozempic-fda.html) of Wegovy and similarities between the drugs, Ozempic and [[Mounjaro]] have also been widely used for weight loss, even though they’re only approved in the US for diabetes.”
+- Mounjaro is a rival drug by a rival drug manufacturer.
+- > “Wegovy has been shown to [reduce the risk of heart attacks and strokes](https://www.bloomberg.com/news/videos/2023-08-08/novo-nordisk-obesity-drug-shown-to-help-heart-health-video) by 20% in overweight people with a history of heart issues.”
+- The main problem in Ozempics' way is its cost.
+	- > “The [list price](https://www.bloomberg.com/news/articles/2023-08-17/weight-loss-drugs-cost-far-more-in-us-than-other-nations) for Ozempic is about $900 a month, and for Wegovy it’s more than $1,000.”
+	- So although it might be useful in helping people, it comes at cost:

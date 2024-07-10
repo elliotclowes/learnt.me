@@ -32,4 +32,3 @@ Some people are obviously freaking out about the recent news. That’s because a
 
 I think curation, actual human curation, is going to play an important role in the future. In a web filled with generated nonsense, content curated by knowledgeable human beings is going to be incredibly valuable.
 
-I find this current phase of the web incredibly interesting. I have no idea how things will evolve but I’m glad I can be part of it, even just as an external observer.

@@ -44,4 +44,3 @@ I plan to use my next sabbatical for traveling, but I’m thrilled with how I sp
 
 “King of Web Standards”—Bloomberg Businessweek. Author, Designer, Founder. Talent Content Director at Automattic. Publisher, alistapart.com & abookapart.com. Ava’s dad.
 
-[View Archive ](https://zeldman.com/author/admin/) 

@@ -57,7 +57,7 @@ The unassuming nature of an email — the modern form of correspondence — made
 
 “That is sort of the original spirit of the internet,” Shane says. “What if we made no money? What if money wasn’t even something we were thinking about?”
 
-![Photo illustration of a TinyLetter subscribe box as the card in a funerary floral arrangement. ](https://proxy-prod.omnivore-image-cache.app/0x0,sq5gBxFcTWBdcv9u3dgaFlffZmH8YAv8S1R-Fk6sWf3k/https://duet-cdn.vox-cdn.com/thumbor/0x0:1500x1500/2400x2400/filters:focal(750x750:751x751):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25309568/247034_Death_of_TinyLetter_SPOT_A_CVirginia.jpg)
+![[247034_Death_of_TinyLetter_SPOT_A_CVirginia.jpg]]
 
 TinyLetter was designed without any ways to collect payment. Philip Kaplan built the original version in about two weeks. According to him, it was simple from a technical level: “a signup form and a loop that sends emails over and over.”
 
@@ -123,4 +123,3 @@ When I talk to Maddux, she is similarly wistful but more understanding. At least
 
 To her, the history of the internet is about platforms having specific moments, and sometimes, it’s okay to just let those moments pass naturally. TinyLetter lived briefly and died slowly. And on the internet, that’s about as good as it gets.
 
-Comments9 Comments / 9 New

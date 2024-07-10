@@ -30,7 +30,7 @@ But:
 
 With mindful breaks between your work and life, it’s easy to combat burnout and live a calmer life.
 
-![](https://proxy-prod.omnivore-image-cache.app/1200x655,sf3xzWQ0ZNBoszS__e86O6oPW9cqXAcCjsdZJQY7yAgU/https://hulry.com/content/images/2022/05/be-relaxed-calm.JPG)
+![[24724e031af25db7e57b475a5e81e11a.jpg]]
 
 Let me show you how:
 
@@ -108,7 +108,7 @@ Think of it as [a Sabbath](https://en.wikipedia.org/wiki/Sabbath?ref=hulry.com).
 
 If you were to visualise this Macro break on a calendar, this is how it would look:
 
-![Visualising a whole day Macro break on a calendar.](https://proxy-prod.omnivore-image-cache.app/1200x708,s3BZ-ZwWzmJTKGtF_B3BMdAk25oNNUIn-c6p2mucaKE8/https://hulry.com/content/images/2022/05/macro-breaks-calendar.png)
+![[macro-breaks-calendar.png]]
 
 Visualising a whole day Macro break on a calendar.
 
@@ -164,7 +164,7 @@ Good sleep not only preps us for the next day but is also [essential to flushing
 
 Taking our earlier visualisation example, this is how a Meso break would look in a calendar:
 
-![Visualising a Meso break on a calendar.](https://proxy-prod.omnivore-image-cache.app/1200x1011,sOTMyzwMUziXcElotIsLYkqc7ud-Wq8H8QJPzq-hmipk/https://hulry.com/content/images/2022/05/meso-break-calendar.png)
+![[meso-break-calendar.png]]
 
 Visualising a Meso break on a calendar.
 
@@ -212,7 +212,7 @@ And, unlike Macro and Meso, Micro breaks occur multiple times throughout the day
 
 This is how a Micro break would look like on a calendar:
 
-![Visualising Micro breaks on a calendar.](https://proxy-prod.omnivore-image-cache.app/1200x640,sBmR0xNB4cUQvZqTzaajlsh_pSn3-dSFopjV8fzvVrvw/https://hulry.com/content/images/2022/05/micro-breaks-calendar.png)
+![[micro-breaks-calendar.png]]
 
 Visualising Micro breaks on a calendar.
 
@@ -291,4 +291,3 @@ Join 3,889 others & continue your Thriving journey with more articles like this 
 * Apps
 * Books
 * Videos
-* Keyboard Shortcuts

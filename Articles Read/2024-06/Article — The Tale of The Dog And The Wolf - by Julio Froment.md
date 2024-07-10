@@ -22,7 +22,7 @@ omnivore_url: https://omnivore.app/me/https-www-littlealmanack-com-p-the-tale-of
 **Note:** Below is the text from the article, with any ==highlights== done by me. None of the writing below is by me.
 
 # Article text
-[![](https://proxy-prod.omnivore-image-cache.app/633x0,stX9nPYEPuOY5NJVwGZMtWEFkifincmUXiXkfisCdz6U/https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4b159110-f844-468f-b408-f11c65ffc196_3000x813.png)](https://substackcdn.com/image/fetch/f%5Fauto,q%5Fauto:good,fl%5Fprogressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4b159110-f844-468f-b408-f11c65ffc196%5F3000x813.png)
+![[https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4b159110-f844-468f-b408-f11c65ffc196%5F3000x813.png]]
 
 Hey friend!
 
@@ -32,7 +32,7 @@ Little did I expect to very quickly find an engaging and gem-packed tale (actual
 
 So, in today’s letter, I’m sharing this tale with you!
 
-[![](https://proxy-prod.omnivore-image-cache.app/1456x369,sU4itASWOUaDHinKL3vPbSZux0qF2ftW0943tNL5e6rw/https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7b8fb90a-6a31-4fe2-aa6a-167812b27f3a_1460x370.png)](https://substackcdn.com/image/fetch/f%5Fauto,q%5Fauto:good,fl%5Fprogressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7b8fb90a-6a31-4fe2-aa6a-167812b27f3a%5F1460x370.png)
+![[https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7b8fb90a-6a31-4fe2-aa6a-167812b27f3a%5F1460x370.png]]
 
 ## 💡Nugget
 
@@ -70,27 +70,27 @@ So, in today’s letter, I’m sharing this tale with you!
 > 
 > Consider that English “manners” were imposed on the middle class as a way of domesticating them, along with instilling in them the fear of breaking rules and violating social norms."
 
-[![](https://proxy-prod.omnivore-image-cache.app/1456x323,st-DYWKs0jyuOp-mxgYjPquqBk8D2HthYv4P4QUdxqZE/https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F254f41a0-255f-4794-8a78-8e24d93499c0_2036x452.png)](https://substackcdn.com/image/fetch/f%5Fauto,q%5Fauto:good,fl%5Fprogressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F254f41a0-255f-4794-8a78-8e24d93499c0%5F2036x452.png)
+![[https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F254f41a0-255f-4794-8a78-8e24d93499c0%5F2036x452.png]]
 
-[![](https://proxy-prod.omnivore-image-cache.app/1456x1151,sX4ue_wAh7wl_CfIZ9ibdSFfpDLW07YRjZKT7RWO8XUY/https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc4aae365-c87d-4d37-bec2-7bf455bf449f_3000x2371.png)](https://substackcdn.com/image/fetch/f%5Fauto,q%5Fauto:good,fl%5Fprogressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc4aae365-c87d-4d37-bec2-7bf455bf449f%5F3000x2371.png)
+![[https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc4aae365-c87d-4d37-bec2-7bf455bf449f%5F3000x2371.png]]
 
-[![](https://proxy-prod.omnivore-image-cache.app/1456x8,s5X3JG2aUuZ7c3fmekITUzS9UZIWvXHZ4Xkkzf3JVMLg/https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F82580c57-c07c-48a4-a3da-01ef99f8a471_2969x16.png)](https://substackcdn.com/image/fetch/f%5Fauto,q%5Fauto:good,fl%5Fprogressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F82580c57-c07c-48a4-a3da-01ef99f8a471%5F2969x16.png)
+![[https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F82580c57-c07c-48a4-a3da-01ef99f8a471%5F2969x16.png]]
 
 ## **💥 Stuff I Loved**
 
-[![](https://proxy-prod.omnivore-image-cache.app/1344x80,sZomcQn9MDrFSdqV1Q_Dc5G7JAtVxAKqhkk7jq93cfsA/https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc160f756-c189-4fa0-a0de-bc0b308dccef_1344x80.png)](https://substackcdn.com/image/fetch/f%5Fauto,q%5Fauto:good,fl%5Fprogressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc160f756-c189-4fa0-a0de-bc0b308dccef%5F1344x80.png)
+![[https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc160f756-c189-4fa0-a0de-bc0b308dccef%5F1344x80.png]]
 
-[![](https://proxy-prod.omnivore-image-cache.app/947x302,sfTs6L9FnlR-nF8wAsg6L0WD-IrBLx8729KqkkuVPzGQ/https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0afc9119-569d-496a-9441-03b813ca8e2f_947x302.png)](https://substackcdn.com/image/fetch/f%5Fauto,q%5Fauto:good,fl%5Fprogressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0afc9119-569d-496a-9441-03b813ca8e2f%5F947x302.png)
+![[https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0afc9119-569d-496a-9441-03b813ca8e2f%5F947x302.png]]
 
 “To be interesting, be interested.” - Dale Carnegie
 
-[![](https://proxy-prod.omnivore-image-cache.app/1344x80,s4iaFgx8VDuoYZVg0acPLxnGESgoSnumS1QOsROeQe2k/https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc7251738-7d97-4659-a363-69f16b042ed0_1344x80.png)](https://substackcdn.com/image/fetch/f%5Fauto,q%5Fauto:good,fl%5Fprogressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc7251738-7d97-4659-a363-69f16b042ed0%5F1344x80.png)
+![[https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc7251738-7d97-4659-a363-69f16b042ed0%5F1344x80.png]]
 
-[![](https://proxy-prod.omnivore-image-cache.app/1344x80,sW7WkafQD78VQQviHTSGY0XAG9gAOlnZSZmnVgFbQymI/https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F40c790f4-5e45-4b0c-98fa-28410065168f_1344x80.png)](https://substackcdn.com/image/fetch/f%5Fauto,q%5Fauto:good,fl%5Fprogressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F40c790f4-5e45-4b0c-98fa-28410065168f%5F1344x80.png)
+![[https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F40c790f4-5e45-4b0c-98fa-28410065168f%5F1344x80.png]]
 
 Best Podcast Episode I heard in the last 2 weeks!
 
-[![](https://proxy-prod.omnivore-image-cache.app/1456x8,s5X3JG2aUuZ7c3fmekITUzS9UZIWvXHZ4Xkkzf3JVMLg/https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F82580c57-c07c-48a4-a3da-01ef99f8a471_2969x16.png)](https://substackcdn.com/image/fetch/f%5Fauto,q%5Fauto:good,fl%5Fprogressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F82580c57-c07c-48a4-a3da-01ef99f8a471%5F2969x16.png)
+![[https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F82580c57-c07c-48a4-a3da-01ef99f8a471%5F2969x16.png]]
 
 Over the past 3 years, while building _**Picking Nuggets**_ and _**The Little Almanack**_, I’ve encountered powerful ideas from world-class Doers and Entrepreneurs.
 
@@ -128,9 +128,9 @@ Also, I built a _Media Feed_ app that shows all the insights from the Database a
 
 _👉 Here you can watch how I use this Database/Notebook (and the Media Feed), and how you can get instant access - <https://www.doersnotebook.co/#demo>_
 
-[![](https://proxy-prod.omnivore-image-cache.app/1456x8,s5X3JG2aUuZ7c3fmekITUzS9UZIWvXHZ4Xkkzf3JVMLg/https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F82580c57-c07c-48a4-a3da-01ef99f8a471_2969x16.png)](https://substackcdn.com/image/fetch/f%5Fauto,q%5Fauto:good,fl%5Fprogressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F82580c57-c07c-48a4-a3da-01ef99f8a471%5F2969x16.png)
+![[https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F82580c57-c07c-48a4-a3da-01ef99f8a471%5F2969x16.png]]
 
-[![](https://proxy-prod.omnivore-image-cache.app/639x0,slUklhOerVuEahgCny5UqqJVozqwHG91iJKywt26xV4c/https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd83ae347-fe04-4465-baff-bbe8b52f485c_4032x3024.jpeg)](https://substackcdn.com/image/fetch/f%5Fauto,q%5Fauto:good,fl%5Fprogressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd83ae347-fe04-4465-baff-bbe8b52f485c%5F4032x3024.jpeg)
+![[7b4311fd1428918cff610f07d0fe69fd.jpg]]
 
 ❤️ Found a new cool spot to write the letters!
 
@@ -138,4 +138,3 @@ I hope you enjoyed today’s edition!
 
 Happy Friday ;)
 
-Julio

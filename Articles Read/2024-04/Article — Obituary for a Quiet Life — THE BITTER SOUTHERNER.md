@@ -75,4 +75,3 @@ They waved.
 
 “Love you, buddy,” he whispered. 
 
-“You done good,” I said because that’s how he would’ve said it, but also because that’s how I meant it. He’d done so much good, even if it couldn’t be listed on official records or captured in the stat sheet of an obituary. The good of his life was ever-rippling water, quiet and steady, and my boys and I would long be swept up in it. 

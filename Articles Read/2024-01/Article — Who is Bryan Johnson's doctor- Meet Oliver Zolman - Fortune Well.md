@@ -22,7 +22,7 @@ omnivore_url: https://omnivore.app/me/who-is-bryan-johnson-s-doctor-meet-oliver-
 **Note:** Below is the text from the article, with any ==highlights== done by me. None of the writing below is by me.
 
 # Article text
-![Photo of Bryan Johnson](https://proxy-prod.omnivore-image-cache.app/0x0,sY57XZTCcW0Ap8-c6aZXA67xlWvC3YsgKFAJD1ueMt0g/https://content.fortune.com/wp-content/uploads/2023/07/GettyImages-1236026498-e1688843970764.jpg?w=1440&q=75)
+![[35d1ff78be716f15a842e656291ff5a2.jpg]]
 
 Behind Bryan Johnson’s (pictured) $2 million anti-aging regimen is 29-year-old doctor Oliver Zolman.
 
@@ -96,4 +96,3 @@ And to those who question him, he has a simple response.
 
 And for those fascinated by Zolman’s approach, it underscores another important factor in the race for longevity: The game to live longer is also deeply fueled by the amount of money you can invest to get there. 
 
-Learn more about all things crypto with short, easy-to-read lesson cards. Click here for [Fortune's Crypto Crash Course](https://fortune.com/crypto/crash-course/).

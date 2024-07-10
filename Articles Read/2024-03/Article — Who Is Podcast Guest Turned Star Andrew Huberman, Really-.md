@@ -255,4 +255,3 @@ Three of the women on the group text met up in New York in February, and the gro
 
 _Additional reporting by Amelia Schonbek and Laura Thompson._
 
-Andrew Huberman’s Mechanisms of Control 

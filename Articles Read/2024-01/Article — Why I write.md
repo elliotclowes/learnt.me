@@ -84,4 +84,3 @@ Thus, I feel that to not write would be squandering my potential.
 * [Paul Graham: Writing, Briefly](http://www.paulgraham.com/writing44.html)
 * [Putting Ideas into Words](http://www.paulgraham.com/words.html)
 
----

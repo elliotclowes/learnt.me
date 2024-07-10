@@ -21,7 +21,7 @@ omnivore_url: https://omnivore.app/me/introducing-arun-is-2-0-18f8fc164e0
 **Note:** Below is the text from the article, with any ==highlights== done by me. None of the writing below is by me.
 
 # Article text
-![Introducing arun.is 2.0](https://proxy-prod.omnivore-image-cache.app/0x0,sXLgkJ7HGSa40CRpWgKqNEaCjji45k3Y4CjrZEwqtVQY/https://arun.is/static/eac3aef12a589daac8745d28238abc60/cover.jpg)
+![[cover.jpg]]
 
 Today, I’m announcing the most significant set of improvements to this website since I started it in 2016\. This is part of an ongoing series of posts about how this site is made.
 
@@ -201,4 +201,3 @@ Thanks to Q for reading drafts of this.
 
 ## Subscribe to the newsletter
 
----

@@ -33,4 +33,3 @@ I agree with Manu’s general idea, but I might disagree a bit with how it can b
 
 In my opinion we must look within for the solution. _We_ are the human beings that are meant to curate the web. We should continue to spread the word about how we use the web, which is very personal and as active participants. We should make clear our desire for technologies that are accessible for non-technical people to be able to join us in controlling their own web presence. We build our websites and share our thoughts and link our links. Over time the web becomes surfable to more and more people.
 
-There will be many knowledgeable humans taking part in this mass curation. I thank them in advance for their involvement in this effort. But [don’t let your lack of deep knowledge dissuade you from sharing some thoughts](https://bjhess.com/posts/you-re-a-blogger-not-an-essayist), linking some links, and actively participating in _our_ World Wide Web.

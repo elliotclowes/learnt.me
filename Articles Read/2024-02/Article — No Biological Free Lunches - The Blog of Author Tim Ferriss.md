@@ -97,4 +97,3 @@ He also created the designer steroid tetrahydrogestrinone, best known as THG and
 
 _[**The Tim Ferriss Show**](https://tim.blog/podcast)_ is one of the most popular podcasts in the world with more than 900 million downloads. It has been selected for "Best of Apple Podcasts" three times, it is often the #1 interview podcast across all of Apple Podcasts, and it's been ranked #1 out of 400,000+ podcasts on many occasions. To listen to any of the past episodes for free, check out **[this page](https://tim.blog/podcast)**.
 
-## Post navigation

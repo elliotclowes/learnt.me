@@ -80,7 +80,7 @@ The results are more than troubling, especially considering smartphones and soci
 
 From a mental health perspective, the correlation is hard to dispute.
 
-![Screenshot 2024-06-09 at 3.45.44 PM.png](https://proxy-prod.omnivore-image-cache.app/0x0,svKN1mybZxNmkGuTrvaM2yqKw_v5Ns6X-zgIXcvC9C6I/https://collabfund.com/uploads/Screenshot%202024-06-09%20at%203.45.44%E2%80%AFPM.png)
+![[Screenshot%202024-06-09%20at%203.45.44%E2%80%AFPM.png]]
 
 Gen Z’s reading and math scores also began to decline around the same time ([Nation’s Report Card](https://www.nationsreportcard.gov/highlights/ltt/2023/)), while many reports indicate that this generation is shyer, more risk averse, and less ambitious than previous generations.
 
@@ -96,7 +96,7 @@ So, I did something a bit odd — I went out and bought a flip phone.
 
 That’s right, a flip phone. This is it.
 
-![Screenshot 2024-06-09 at 3.45.53 PM.png](https://proxy-prod.omnivore-image-cache.app/0x0,sgv3J5n4-wUHOAbYJyg1lmvnAX2U7dfegWmWPorCJFlQ/https://collabfund.com/uploads/Screenshot%202024-06-09%20at%203.45.53%E2%80%AFPM.png)
+![[Screenshot%202024-06-09%20at%203.45.53%E2%80%AFPM.png]]
 
 Anyone over the age of 40 remembers it. Basic screen, grainy pictures, no email, no apps, multiple clicks to text one letter, and most importantly, no social media.
 
@@ -105,7 +105,7 @@ When I turned it on for the first time, it felt like traveling back in time.
 I used it for a month and here are my biggest takeaways:
 
 **1\. I was significantly less distracted**  
-Think about the last time you were waiting in line for lunch, to catch the subway, or at a stoplight. Did you reach for your phone? How about the last time you were out to dinner. Did you check a text when someone you were with went to the bathroom, or worse, in the middle of your conversation? You have. We all have. A flip phone liberated me from this.\\
+Think about the last time you were waiting in line for lunch, to catch the subway, or at a stoplight. Did you reach for your phone? How about the last time you were out to dinner. Did you check a text when someone you were with went to the bathroom, or worse, in the middle of your conversation? You have. We all have. A flip phone liberated me from this.\
 
 **2\. I could focus for longer periods of time**  
 I was able to truly concentrate. This meant doing things like reading long-form articles and books, working on projects, and writing without being distracted by a meaningless alert.
@@ -139,11 +139,11 @@ Access to emails, in moderation, is also likely a net positive of smartphones as
 
 Cameras are a bit dicier. I originally thought they were a “nice to have”. However, after experiencing a month without one, it made me wonder why we are choosing to live life like this,
 
-![Screenshot 2024-06-09 at 3.46.02 PM.png](https://proxy-prod.omnivore-image-cache.app/0x0,sLte81vxc6wz4-k-NkofIJ20vZkUDoazP_yRoE_87V58/https://collabfund.com/uploads/Screenshot%202024-06-09%20at%203.46.02%E2%80%AFPM.png)
+![[Screenshot%202024-06-09%20at%203.46.02%E2%80%AFPM.png]]
 
 When we could be living like this.
 
-![Screenshot 2024-06-09 at 3.46.09 PM.png](https://proxy-prod.omnivore-image-cache.app/0x0,s9kgE6t08LT2-Q37LZLlTASvIU8C6HtOZKwMCj1KHIM4/https://collabfund.com/uploads/Screenshot%202024-06-09%20at%203.46.09%E2%80%AFPM.png)
+![[Screenshot%202024-06-09%20at%203.46.09%E2%80%AFPM.png]]
 
 Takeaways
 
@@ -161,17 +161,17 @@ They don’t need to be though.
 
 This is what my iPhone used to look like:
 
-![Screenshot 2024-06-09 at 3.46.16 PM.png](https://proxy-prod.omnivore-image-cache.app/0x0,sa6-zUrMVBaYQmo6mK5FbtRP33zIN2OVMyh8_KJnRvAY/https://collabfund.com/uploads/Screenshot%202024-06-09%20at%203.46.16%E2%80%AFPM.png)
+![[Screenshot%202024-06-09%20at%203.46.16%E2%80%AFPM.png]]
 
 This is what my iPhone looks like today.
 
-![Screenshot 2024-06-09 at 3.46.22 PM.png](https://proxy-prod.omnivore-image-cache.app/0x0,sVLGsl31KkIKNKsky9UxCF77bJKqUDiHvMbRhI-va4qs/https://collabfund.com/uploads/Screenshot%202024-06-09%20at%203.46.22%E2%80%AFPM.png)
+![[Screenshot%202024-06-09%20at%203.46.22%E2%80%AFPM.png]]
 
 Twelve apps, all of which are relatively productive. Also, I found this grayscale feature that has made the phone infinitely less interesting, and yes, boring…which is a good thing.
 
 The result?
 
-My daily usage is down more than 75%, I don’t feel myself reaching for it nearly as much, and most importantly, my kids don’t see me on it very often (or at least they have said anything yet…).\\
+My daily usage is down more than 75%, I don’t feel myself reaching for it nearly as much, and most importantly, my kids don’t see me on it very often (or at least they have said anything yet…).\
 
 3\. **Incentivize Kids to Not Use Phones in School**  
 I am in no place to tell anyone what to do with their kids. That said, I think the evidence is pretty compelling in favor of finding ways to limit smartphone usage during the school day for many of the reasons I have highlighted. Even more compelling is the fact that _most kids don’t even seem to want them there_, so long as that means NO ONE has them at school.
@@ -196,4 +196,3 @@ Look no further than a recent study led by the University of Chicago economist L
 
 So, what, if any, investment implications should come from this?
 
-That’s for a later date.

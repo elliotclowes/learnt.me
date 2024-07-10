@@ -94,4 +94,3 @@ But who cares about that? Well, _I_ do, but you don’t. You haven’t even read
 
 Thank you, Riz, and everyone else who reads anything I write. I appreciate it so, so much.
 
-By the way: if you liked this, my friend Remy recently explained why [why he writes and why he won’t](https://remysharp.com/2021/11/21/why-i-write-and-when-i-dont). It’s a great read.

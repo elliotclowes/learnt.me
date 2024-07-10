@@ -25,7 +25,7 @@ The architect of Osborne’s pension changes in 2016, Steve Webb, is behind a sl
 
 Why is this happening – house prices are high relative to earnings. In particular, they are high near decent paying work. Take a look at [this from Schroders](https://www.schroders.com/en-gb/uk/individual/insights/what-174-years-of-data-tell-us-about-house-price-affordability-in-the-uk/), who are at least trying to put BTL landlords off from buying all the houses ahead of you.
 
-![](https://proxy-prod.omnivore-image-cache.app/0x0,sQ8L1v1cOpMM8vdKK5nFNx6M9N9DSSeXb1n0vxNR4l5U/https://simplelivingsomerset.wordpress.com/wp-content/uploads/2024/05/schorders1.png?w=840)
+![[18f5735934bf2c3e9d6bf6d809e08841.jpg]]
 
 house prices earnings multiples from [Schroders](https://www.schroders.com/en-gb/uk/individual/insights/what-174-years-of-data-tell-us-about-house-price-affordability-in-the-uk/) report
 
@@ -68,4 +68,3 @@ This is only really relevant to those below 35\. Obviously if you take out a 40 
 2. While it was a bloody stupid thing to do for a single man, this meagre win can only be computed in hindsight, and the expectation of that time was better. Inflation and interest rates had been historically higher in the period before taking that endowment. You’ve heard the pack drill ‘past performance is does not guarantee future results’ but honestly, what the bloody hell else are you to do? Use tea leaves or Tarot cards? Inquire within of any investing scenario and all to often it comes to making exactly that assumption, this CYA statement is to help them, [it doesn’t help you at all](https://business.leeds.ac.uk/faculty/news/article/713/past-performance-disclaimer-does-not-lead-to-good-investment-decisions) [↩](#fnref-16948-3 "Return to main content.")
 3. Equity being the difference in what you can sell the house for and what it would cost to discharge the mortgage loan. It’s nice if this is a positive number 😉 It tends to rise with time, both because house prices tend to rise, inflation makes all prices rise, and in an ideal world you would also be repaying some of the capital cost of the house [↩](#fnref-16948-2 "Return to main content.")
 
-## Post navigation

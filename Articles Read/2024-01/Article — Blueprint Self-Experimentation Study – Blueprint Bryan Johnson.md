@@ -97,7 +97,7 @@ Blueprint is about health and wellness. Also, it’s a secret plan to kickstart 
 2. Blueprint Community: <https://discord.gg/CZHTFBjq6h>
 3. Blueprint food road map through Q2 2024: <https://cdn.shopify.com/s/files/1/0772/3129/2701/files/Product%5FNutrition%5FFacts.pdf?v=1704325409>
 
-![](https://proxy-prod.omnivore-image-cache.app/0x0,smYawzvWOn_QmR4PoI-kRtnY16Fv05ALaACFTq9gAG74/https://cdn.shopify.com/s/files/1/0772/3129/2701/files/Blueprint_Clinical_Trial_v2-02_1_600x600.png?v=1704747831)
+![[fbd3fcaa0839c0aba97d42ef0d21924b.jpg]]
 
 ## FAQ
 
@@ -176,4 +176,3 @@ Yes, we love that.
 
 ### Can I use my blood draw data from 3 months or 3 years ago instead of getting new labs?
 
-As long as it's within the last three months you can use it.

@@ -22,7 +22,7 @@ omnivore_url: https://omnivore.app/me/how-much-time-and-energy-do-we-waste-toggl
 **Note:** Below is the text from the article, with any ==highlights== done by me. None of the writing below is by me.
 
 # Article text
-![](https://proxy-prod.omnivore-image-cache.app/0x0,sS-WVHbKxY8ifXTlh2xBfMFtrlRbqGpLhygKs1ZvF4cE/https://hbr.org/resources/images/article_assets/2022/08/Aug22_26_1241300535.1243070076.gif)
+![[Aug22_26_1241300535.1243070076.gif]]
 
 HBR Staff/Alexey Yakovenko/Makrushka/Getty Images 
 
@@ -101,4 +101,3 @@ In the age of high attrition, it’s vital for leaders to prioritize improving e
 * SD  
 [Sandeep Dadlani](https://hbr.org/search?term=sandeep%20dadlani&search%5Ftype=search-all) is the Chief Digital & Technology Officer of UnitedHealth Group, where he drives enterprise-wide digital transformation. He was previously the Chief Digital Officer of Mars and the president of Infosys.
 * RD  
-[Rajath B. Das](https://hbr.org/search?term=rajath%20b.%20das&search%5Ftype=search-all) is a senior research analyst at Soroco, focusing on analytical insights derived from the work graph — patterns in how teams get work done in the enterprise.

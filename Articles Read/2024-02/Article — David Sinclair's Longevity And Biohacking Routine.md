@@ -21,7 +21,7 @@ omnivore_url: https://omnivore.app/me/david-sinclair-s-longevity-and-biohacking-
 **Note:** Below is the text from the article, with any ==highlights== done by me. None of the writing below is by me.
 
 # Article text
-![](https://proxy-prod.omnivore-image-cache.app/0x0,ssji484ryXmOa9DnhrEJfG74ksSgi0dWp2QB1ETuawGc/https://novoslabs.com/wp-content/themes/ageless/assets/img/close.svg)
+![[9f0fe0f9f136b603c97f9574d18f869e.jpg]]
 
 #### All Categories
 
@@ -136,4 +136,3 @@ Track your pace of aging and learn about the impacts of lifestyle changes. Inclu
 
 ### Related Articles
 
-[ ![](https://proxy-prod.omnivore-image-cache.app/300x250,slJS4uU7eUusJ540BfS2fc8hWItEveHDhlp0piYSvW18/https://i0.wp.com/novoslabs.com/wp-content/uploads/2021/03/NOVOS-Longevity-Diet-Poster.jpg?resize=300%2C250&ssl=1) ![](https://proxy-prod.omnivore-image-cache.app/90x100,snoiIv4-iMuOEovHomeKVPStCMrQr4JSLQXPR9sOzme0/https://i0.wp.com/novoslabs.com/wp-content/uploads/2021/03/NOVOS-Longevity-Diet-Poster.jpg?resize=90%2C100&ssl=1) ](https://novoslabs.com/what-is-the-best-diet-for-longevity/) [ ![anti aging serum](https://proxy-prod.omnivore-image-cache.app/300x250,stcSjgY-k-q_Zzco2Ge0x5Ix1miXQ7CwfmgHgV8-HhQ0/https://i0.wp.com/novoslabs.com/wp-content/uploads/2020/12/best-foods-to-slow-down-aging-scaled.jpg?resize=300%2C250&ssl=1) ![anti aging serum](https://proxy-prod.omnivore-image-cache.app/90x100,sn1R4YGtMphBVg_FHIW93ENjmuwNIkyIcTP5_N8BcT98/https://i0.wp.com/novoslabs.com/wp-content/uploads/2020/12/best-foods-to-slow-down-aging-scaled.jpg?resize=90%2C100&ssl=1) ](https://novoslabs.com/15-best-foods-to-slow-down-aging/) [ ![](https://proxy-prod.omnivore-image-cache.app/300x250,slHQarl-d-vjGT2AOEJkC47FLVhziXB-9tI8ObQhyCC0/https://i0.wp.com/novoslabs.com/wp-content/uploads/2022/06/shutterstock_195967052_1575x1050.jpg?resize=300%2C250&ssl=1) ![](https://proxy-prod.omnivore-image-cache.app/90x100,stQwuGxrdI_pUpVeGMIfCBnPdRvQxGXAUcwHHIESlfmo/https://i0.wp.com/novoslabs.com/wp-content/uploads/2022/06/shutterstock_195967052_1575x1050.jpg?resize=90%2C100&ssl=1) ](https://novoslabs.com/potassium-for-health-and-longevity/)

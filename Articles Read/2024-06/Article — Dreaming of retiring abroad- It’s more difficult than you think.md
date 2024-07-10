@@ -24,9 +24,9 @@ omnivore_url: https://omnivore.app/me/dreaming-of-retiring-abroad-it-s-more-diff
 # Article text
 Popular destinations for expats have tightened their tax regimes
 
-![Headshot for Moira O'Neill](https://proxy-prod.omnivore-image-cache.app/0x0,s5kHoTFtOsA6N4oANLYy4KaohOEH6q5UIJd5Z2NjnPBE/https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fuploaded-files%2FMoira-O'Neill-9740dc05-c48c-45fc-a60e-34a77277ae21.png?source=next-article&fit=scale-down&quality=highest&width=150&dpr=2)
+![[0f6311826ae1e8d0ceebae414ac8c7f0.jpg]]
 
-![](https://proxy-prod.omnivore-image-cache.app/2048x1152,sFPaWElcYLWo0ZuA3ryX_WghQZvL2MogvWm9gKsxPFZw/https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F3029180a-3f01-4793-bd5f-7aa23a187c9d.jpg?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1)
+![[b01219ee14b7ace13e2f6595838268b9.jpg]]
 
 © Miss Peach
 
@@ -86,4 +86,3 @@ And expect to pay more for the advice. Navigating changing rules and taxation in
 
 Plus, Reeves warns: “Most European advisers run a commission model — often charging commissions upfront — that was knocked on the head by regulators in the UK.” Advice under this fee structure may feel opaque and uncomfortable, but with so much uncertainty around you may be more at risk without it.
 
-_Moira O’Neill is a freelance money and investment writer. X:_ [_@MoiraONeill_](https://twitter.com/MoiraONeill)_, Instagram_ [_@MoiraOnMoney_](https://www.instagram.com/moiraonmoney/?hl=en)_, email:_ [_moira.o’neill@ft.com_](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=moira.o%E2%80%99neill@ft.com)

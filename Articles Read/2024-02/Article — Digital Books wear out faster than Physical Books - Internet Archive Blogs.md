@@ -20,7 +20,7 @@ omnivore_url: https://omnivore.app/me/digital-books-wear-out-faster-than-physica
 **Note:** Below is the text from the article, with any ==highlights== done by me. None of the writing below is by me.
 
 # Article text
-[![](https://proxy-prod.omnivore-image-cache.app/1024x699,sVPVtCouhoenFXHv2XiXfHo1jARvrrP4imGZ-NTDfCvM/https://blog.archive.org/wp-content/uploads/2022/11/ebook-graveyard-1024x699.png)](https://blog.archive.org/wp-content/uploads/2022/11/ebook-graveyard.png)
+![[ebook-graveyard.png]]
 
 Ever try to read a physical book passed down in your family from 100 years ago? Probably worked well. Ever try reading an ebook you paid for 10 years ago? Probably a different experience. From the leasing business model of mega publishers to physical device evolution to format obsolescence, digital books are fragile and threatened.
 
@@ -44,4 +44,3 @@ The first step is to recognize preservation and access to our digital heritage i
 
 Long live books.
 
-_Illustration: midjourney AI generated._

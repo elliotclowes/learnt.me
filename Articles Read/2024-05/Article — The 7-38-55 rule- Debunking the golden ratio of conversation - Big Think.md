@@ -78,7 +78,7 @@ This would normally mean that any attempt to debunk the 7-38-55 rule would fall 
 
 ==In a similar vein, if words were really only 7% of communication, then why would anybody need to learn a foreign language? You should be able to navigate any foreign culture handily with nods, meek smiles, and the occasional chest bump. But as anyone who has traveled internationally can tell you, a good translation dictionary clues you into more than 7% of a person’s meaning. It’s vital without an intimate grasp of a language, including its words.==
 
-![Advertisement for x-ray spex with instructions and illustrations demonstrating its use, claiming to allow users to see bones in their hand.](https://proxy-prod.omnivore-image-cache.app/600x389,sppwYKhfioawfIVWosPbW0AANvCGBilXpzcT8iGTSoG0/https://bigthink.com/wp-content/uploads/2024/05/x-ray-spex-2.jpg?w=600)
+![[3b13649412697cd60d4fdecf54e86f02.jpg]]
 
 The 7-38-55 rule is the conversational equivalent of X-ray glasses. It promises to allow you to see through any conversation, but those promises are flimsy on closer inspection. ([Credit](https://orau.org/health-physics-museum/collection/toys/x-ray-spex.html): ORAU)
 
@@ -100,4 +100,3 @@ And then there’s convergence: Do the words match the nonverbal signals we’re
 
 It’s nice to think that science and psychology can offer us precise formulas for solving life’s complex problems, but the truth is that such rules are false comforts. It takes hard work to master a skill, form a habit, and be happy in life. Similarly, it takes curiosity, empathy, perceptivity, and emotional intelligence to converse with others and create meaningful connections.
 
-There’s no easy number to manage that, but maybe there’s also comfort to be found in knowing that you aren’t beholden to some prescribed formula. You can make your conversations your own.

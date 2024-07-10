@@ -27,11 +27,11 @@ All this to say: **Discord**.
 
 Twitter, in its own death throes, its own misery, will always stand in its later years as a fantastic tool for raining down misery and pain on others with a simple “quote tweet”, and I’ve been guilty of such on the absolute regular. Few of my tweets maneuvered past 100,000 “impressions”, but this one most definitely did:
 
-[![](https://proxy-prod.omnivore-image-cache.app/775x877,sKn86OnaS-Udbqj8W3Srs3lDCVBs4VRYN-NVz3p5gwUM/http://ascii.textfiles.com/wp-content/uploads/2023/03/image-6.png)](http://ascii.textfiles.com/wp-content/uploads/2023/03/image-6.png)
+![[image-6.png]]
 
 The last I checked, that tweet got the attention of over a quarter-million individuals and/or machines, and the next two follow-ups got a smaller amount, but are still worth noting:
 
-[![](https://proxy-prod.omnivore-image-cache.app/763x457,sFmd0nLWKZPhx7pnffI4wlVbsWwsrHDhzxb7gRvifovY/http://ascii.textfiles.com/wp-content/uploads/2023/03/image-7.png)](http://ascii.textfiles.com/wp-content/uploads/2023/03/image-7.png)
+![[image-7.png]]
 
 There is absolutely nothing new about Discord, say people with experience of IRC. Of course, they’re wrong: Discord has speed, ease of use, and (at this point in time) general societal acceptance far beyond IRC. IRC is a bouncer looking you up and down and asking you to do a small dance of proof of worth before entering a text-only cave of obscurity; Discord added skylights, pretty lights, cross-platform access and verification, and centralization, not all of them great additions but very welcome for their intended audience…. who is now everyone.
 
@@ -43,7 +43,7 @@ I just happen to be the sort of person who notices there’s no decent fire exit
 
 Discord’s official birthday is 2012, but it’s really 2009, when OpenFeint was created.
 
-[![](https://proxy-prod.omnivore-image-cache.app/984x1024,sC0zCZkiBnk58xbj-HpxSKrl8Jw89nXI2feyAhZlkglo/http://ascii.textfiles.com/wp-content/uploads/2023/03/image-8-984x1024.png)](http://ascii.textfiles.com/wp-content/uploads/2023/03/image-8.png)
+![[image-8.png]]
 
 [OpenFeint](https://en.wikipedia.org/wiki/OpenFeint) is the pile of bones worn into the foundation of Discord telling us it was built on land that will very occasionally flood to great catastrophe. It was founded in 2009, was given a huge ecosystem of plugins and support, gained ten million followers, took in roughly $12 million of known VC investment, was sold to a Japanese company in 2011 for $104 million, and was fucking _dead in the ground_ by 2012\. By the flickering light of its Viking funeral, Discord was founded and the cycle began anew.
 
@@ -51,7 +51,7 @@ Spare me the “they learned their lesson speech”, and please store it in this
 
 The main considerations I have are what will be lost.
 
-[![](https://proxy-prod.omnivore-image-cache.app/152x131,saaoXOUtnGZQt8Ze_6T4F-LGyMsNpE8846o_3PWfKwUo/http://ascii.textfiles.com/wp-content/uploads/2023/03/image-10.png)](http://ascii.textfiles.com/wp-content/uploads/2023/03/image-10.png)
+![[image-10.png]]
 
 When the free image-hosting site ImageShack made the realization that they were losing buckets of money hosting images for free, and shifted over to a subscription model that also cut off legacy accounts, deleting them in fact, the question was who would care. Perhaps the original uploaders of the images, too cheap to pay the additional fees of a few bucks per month, or maybe someone who took amusement from this image or that, but probably had downloaded it anyway?
 
@@ -65,7 +65,7 @@ Documents are documents. Books are books, recordings are recordings, and so on. 
 
 Certainly, the ideal situation is lore is inlaid into a framework of knowledge. As the joke goes, there’s no real conflict between herbs and medicine – we took herbs and the ones that worked became medicine. In the same way, the lore of knots became the rules of the sea and the lore of practiced building that was vital to share across long distances of time and space became engineering. This is an overly simplistic view, but it holds true that “lore” joins “knowledge” in a very haphazard fashion, usually relying on someone so driven to push the process that they create a 400 page behemoth of writing that is gleaned by social calls and favors into the story of How It Has Been Done.
 
-[![](https://proxy-prod.omnivore-image-cache.app/802x454,sHMj9egtpjjnCpqd4KqUfFWV-o93zRPmYAt4VV0izCXM/http://ascii.textfiles.com/wp-content/uploads/2023/03/image-11.png)](http://ascii.textfiles.com/wp-content/uploads/2023/03/image-11.png)
+![[image-11.png]]
 
 The danger in this process, the potential lost ballast in the rise to the skies, is that the lore-to-knowledge transfer is lossy, messy, and arbitrary. Maybe those in the know want to keep the information to themselves, so it won’t be given to whoever the person or persons are who are laying down the written form. Maybe the chronicler of information has blind spots they don’t know about and not enough people to correct them. Or, more likely, you have to set the “noise filter” of the information to not go down the rabbit and rat holes of contingencies that maybe a dozen or two people will even want to know about, to the favor of that which _everyone_ will need. The outcome is always the same: Lore loses in the long run.
 
@@ -77,7 +77,7 @@ There are more Discords than you realize, and more lore pouring into them than a
 
 The two-line discussion at the center of my first public lambasting of Discord’s nature is telling, not because of the individual who responded as they did, but the situation they were unintentionally highlighting:
 
-[![](https://proxy-prod.omnivore-image-cache.app/685x296,sFQr8ouikYzaDruIPhsODPiWI-A37CHIqPGmCjopcD3c/http://ascii.textfiles.com/wp-content/uploads/2023/03/image-12.png)](http://ascii.textfiles.com/wp-content/uploads/2023/03/image-12.png)
+![[image-12.png]]
 
 EmoSaru is not evil or a paragon of Knowledge’s Destruction; they’re a shopkeeper noticing that fresh tomatoes aren’t selling as well as ketchup and ketchup is cheaper to keep on the shelves and lasts longer, and everyone who might come along and complain about losing fresh tomatoes aren’t _buying_ said beloved tomatoes. They’re following the wind. Only fools stay in the field when the herd has gone in from the rain. I highlighted them just because the exchange was, as they say, _el perfecto._
 
@@ -85,7 +85,7 @@ My grandmother would always scold me, lightly of course, about my cartoons I’d
 
 To that end, I am, again, the angel-winged herald of the Death of Discord and I only wish to highlight what might blunt the pain of the inevitable decay and destruction of what it is.
 
-[![](https://proxy-prod.omnivore-image-cache.app/1024x585,snt5zNnkCv_HqTaRajQ_m5vuJuWU-k-RlGhwDA4O67HQ/http://ascii.textfiles.com/wp-content/uploads/2023/03/image-13-1024x585.png)](http://ascii.textfiles.com/wp-content/uploads/2023/03/image-13.png)
+![[image-13.png]]
 
 In the unlikely event that Discord sits across from me at a table and asks What Exactly Do You Want To Leave Us Alone, my list of demands is both logical and impossible:
 
@@ -107,4 +107,3 @@ Categorised as: [Uncategorized](http://ascii.textfiles.com/archives/category/unc
 
 Comments are disabled on this post
 
----

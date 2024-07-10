@@ -85,4 +85,3 @@ It’s important to note that these are observational studies, which can only sh
 
 More research is needed to fully elucidate why ultra-processed foods are so harmful. But the current evidence linking ultra-processed foods to poor health, particularly concerning [gut health and immune function](https://www.nature.com/articles/s41577-024-01049-x#:%7E:text=Ultra%2Dprocessed%20foods%20%28UPFs%29,disease%20and%20potentially%20autoimmune%20disease.), is compelling. As ultra-processed foods become a more significant part of global diets, understanding how they affect our health is crucial.
 
-### You might also like

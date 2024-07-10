@@ -47,7 +47,7 @@ I’ve turned off the graph view and tab view using combinations of the [Hider](
 
 ## Theme & aesthetic
 
-![](https://proxy-prod.omnivore-image-cache.app/0x0,saVfiLiZuqvHUz6sA3PDiSC_Vj3phuVvYm1fpNennPB8/https://tmcw-dropover.s3.us-east-1.amazonaws.com/Dropover/20240616113134/B955B5AF-E953-4350-8525-DE73E958126D/CleanShot%202024-06-16%20at%2011.26.33%402x.png)
+![[CleanShot%202024-06-16%20at%2011.26.33%402x.png]]
 
 This is what my Obsidian setup looks like right now, as I’m writing this. I followed a lot of advice in [Everyday Obsidian](https://www.everydayobsidian.com/) to get it there, so I don’t want to share everything that got me there, but anyway: it’s the Minimal theme, and the [iA Quattro](https://github.com/iaolo/iA-Fonts) font. Like I said, the graph view, canvas, and tags aren’t useful to me, so I hide them. I usually hide the right bar too. I’ve been trying out vertical tabs, and am on the fence as to whether I’ll keep them around.
 
@@ -91,4 +91,3 @@ All together, I use:
 * [Hider](https://obsidian.md/plugins?id=obsidian-hider) for tweaking even more theme settings.
 * [Dataview](https://obsidian.md/plugins?id=dataview) for making automatic tables of notes for which I’ve added properties.
 * [Tasks](https://obsidian.md/plugins?id=obsidian-tasks-plugin) for fancier todo lists. I am on the fence about this one and might not use it for much longer. I still use [Things](https://culturedcode.com/things/) for tasks, too, and it’s better in most ways.
-* And I use [Obsidian Sync](https://obsidian.md/sync), in part to get a good mobile editing experience. Also I _want to_ pay these folks some money. I want Obsidian to stick around, and like that they’re [user-supported](https://stephango.com/vcware).

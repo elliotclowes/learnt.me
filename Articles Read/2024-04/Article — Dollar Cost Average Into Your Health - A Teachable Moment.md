@@ -74,4 +74,3 @@ The stock market isn’t the only thing that benefits from compounding.
 
 If you’re still a skeptic, ask 40-year-old – I mean 93-year-old Richard Morgan.
 
-## Now go talk about it.

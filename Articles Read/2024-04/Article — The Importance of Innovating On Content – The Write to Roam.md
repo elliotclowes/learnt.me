@@ -38,7 +38,7 @@ He also had his reporters pour over southern newspapers, tallying up any mention
 
 “The resulting list was, when published, so accurate and comprehensive that the Confederate war command arrested several clerks at its Richmond headquarters, on the assumption they had leaked secret documents.”
 
-![](https://proxy-prod.omnivore-image-cache.app/629x401,sd52hd2s67XsStPu5PQqaCmiZG3pUytlGh3CW7zKQD0Y/https://i0.wp.com/thewritetoroam.com/wp-content/uploads/2024/03/Screenshot-2024-03-07-at-7.01.06-PM.png?resize=629%2C400&ssl=1)
+![[7fc940305ca934a4f304f54057f5a570.jpg]]
 
 Literally the day after the war broke out, Bennett began publishing battle maps
 
@@ -64,7 +64,7 @@ Oh… And a townhouse in Manhattan, a mansion on 182nd street, a country club es
 
 It was, in short, very, very, very profitable to be good at capturing the attention of the masses. And the key to that seems to be a continual focus on innovating content.
 
-![](https://proxy-prod.omnivore-image-cache.app/629x415,sz1f49QK5lGwqROjRiBAdv8QNmCzzdUmjJbdhBdzygsw/https://i0.wp.com/thewritetoroam.com/wp-content/uploads/2024/03/Screenshot-2024-03-08-at-5.07.38-AM.png?resize=629%2C415&ssl=1)
+![[8994ddf5a01abd49a29a0529affb3ef1.jpg]]
 
 All of this is chronicled well in a book I picked up recently, _[Battle of Ink and Ice](https://amzn.to/3Vl8Ag4)_.
 
@@ -80,13 +80,13 @@ So far, I think I’ve found four…
 
 Sahil Bloom was the first person I ever noticed purposefully testing new content formats. Maybe you’ve seen it too – he tries different things, some catch on, then he repeats those (often with further small tweaks).
 
-![](https://proxy-prod.omnivore-image-cache.app/629x356,syKS1tfibtW91Gg_bLuGIet1QbV0-xRh8x39SXQbG6Yc/https://i0.wp.com/thewritetoroam.com/wp-content/uploads/2024/03/Screenshot-2024-03-15-at-12.26.13-PM.png?resize=629%2C356&ssl=1)
+![[56f2ca843ef66a0a871028258c5bd0e2.jpg]]
 
 Pay attention to the dates, and slight format tweaks
 
 Eventually, the world catches on, and people start copying.
 
-![](https://proxy-prod.omnivore-image-cache.app/629x332,s3JMVeI-4SVvO0kFhtd5jQWy-lnZwBmPcxv4xfo669rI/https://i0.wp.com/thewritetoroam.com/wp-content/uploads/2024/03/Screenshot-2024-03-15-at-12.32.12-PM.png?resize=629%2C332&ssl=1)
+![[bd6ebb706c7381e1de1ad486db437227.jpg]]
 
 I don’t think there’s anything wrong with recycling formats that seem to be working for other people. I’ve done it myself. BUT it’s important to realize the limitations.
 
@@ -96,7 +96,7 @@ If you don’t know the law of shitty clickthroughs, it basically says that peop
 
 It’s one reason growth teams are constantly experimenting with new ideas.
 
-![](https://proxy-prod.omnivore-image-cache.app/629x469,sPA6zaixZS_OONpTAb2DRhla7-79t6_o4X1ieMgI5jKQ/https://i0.wp.com/thewritetoroam.com/wp-content/uploads/2024/03/Screenshot-2024-03-15-at-12.50.37-PM.png?resize=629%2C469&ssl=1)
+![[993b2e5dbdd77bddb0a238e84770bb49.jpg]]
 
 One issue with copying what’s working for other people is that by default, you’re joining further along the curve and get less time before the idea stops working.
 
@@ -104,7 +104,7 @@ But much more importantly, if you only copy others, you don’t form opinions ab
 
 It’s also hard to build a position as a leader if your audience notices that you’re always following someone else.
 
-![](https://proxy-prod.omnivore-image-cache.app/629x496,sVcSziOZimpEbnSQwPNFmsNIKKs6Bkdp_evSffscAKmY/https://i0.wp.com/thewritetoroam.com/wp-content/uploads/2024/03/Screenshot-2024-03-15-at-12.56.29-PM.png?resize=629%2C496&ssl=1)
+![[e13fbae5229096d7f585ccb1f9f4a559.jpg]]
 
 So the first rule I can see of content innovation is that you generally want to be at the front of the curve, trying new things. That will help you wring the most out of formats that hit, but it will also help you develop an opinion of your own around what to try, and that’s the most valuable part.
 
@@ -146,7 +146,7 @@ He’s relatively new to the platform. At the time of this writing, his oldest v
 
 I want you to pay attention to these view counts.
 
-![](https://proxy-prod.omnivore-image-cache.app/629x292,sItN5fWIK788cCWCgg5zBnCU8o97KqMKev6LxiZlL7ds/https://i0.wp.com/thewritetoroam.com/wp-content/uploads/2024/03/2024-03-11_10-46-03.png?resize=629%2C292&ssl=1)
+![[99b21ec7c8b4eddd3ac936aab1e66391.jpg]]
 
 When he joined Youtube, he had over a million Twitter followers. An average tweet from him gets hundreds of thousands of views – often millions – and his newsletter list is 700k+ strong.
 
@@ -158,7 +158,7 @@ Think about how hard it’d be to go thousands of likes and shares every day, to
 
 [My prediction](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3R3aXR0ZXIuY29tL2RhbW5fZXRoYW4vc3RhdHVzLzE3NjI3Mjg0Njk1NTU3NTczOTEiLCJwb3N0X2lkIjoiNzg5NzhiZDEtMTllMy00NmE1LTgyZTMtMDdiNDE4YjYzZGNhIiwicHVibGljYXRpb25faWQiOiI3OGE3MDUwNy04ZWY3LTRjYzUtOWEyNC02OTlkNGY5MTZmNTYiLCJ2aXNpdF90b2tlbiI6IjZiMDg4YThkLTRlNDQtNGVkNy1hY2E2LWQ3NTEyYjk0NmYyZCIsImlhdCI6MTcxMDc5NzYxNCwiaXNzIjoib3JjaGlkIn0.DFB8zlJqOebuP89PaJfzfFdZrboJaFozRN-q92sXz7U) is that within a year, Youtube will be his biggest audience. But you can’t get that kind of growth unless you’re willing to repeatedly go back to basics.
 
-![](https://proxy-prod.omnivore-image-cache.app/629x617,sr-qUyCHypBgXTHGy3OEk4Iu67U2frtUufKOimFFzcwU/https://i0.wp.com/thewritetoroam.com/wp-content/uploads/2024/03/Screenshot-2024-03-15-at-1.17.36-PM.png?resize=629%2C617&ssl=1)
+![[71fba3c8862d4bbfdab5f9e7fcc23396.jpg]]
 
 In their book, _[Dual Transformation](https://amzn.to/3vfh262)_, the authors use the metaphor of a mountain range.
 
@@ -199,4 +199,3 @@ But most know him for just one or two things.
 
 The lesson here is that over the course of your career, you’ll try a lot. Some of it will fail, a decent amount will be successful, and then a few things will be so overwhelmingly successful that they eclipse all your other work in people’s minds.
 
-We don’t control what we’re remembered for. All we can control is what we put out into the world, and the effort that goes into making it better and different than what came before.

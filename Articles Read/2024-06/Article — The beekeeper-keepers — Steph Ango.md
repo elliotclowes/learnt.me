@@ -39,4 +39,3 @@ You might also enjoy
 * [Caloric energy is precious](https://stephango.com/precious)
 * [Earth is becoming sentient](https://stephango.com/earth)
 * [Style is consistent constraint](https://stephango.com/style)
-* [Concise explanations accelerate progress](https://stephango.com/concise)

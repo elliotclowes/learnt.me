@@ -45,4 +45,3 @@ So most bloggers use both social media and a personal site to write long and sho
 
 My [thanks to Kev](https://kevquirk.com/blog/why-have-a-personal-site-instead-of-social-media) for posting on his own blog about this topic, causing me to think and thus blog about it.
 
-If you’re thinking about starting a blog yourself, I highly recommend the service I use, [Pika](https://pika.page/). It’s simple, making it easy to start writing on your own site.

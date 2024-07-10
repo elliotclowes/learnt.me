@@ -40,7 +40,7 @@ Her children, a mainstay of the gossip columns, are used to being fawned upon, b
 
 On a more scandalous note, he relates his own drug-fuelled sexual rampage — “an escape valve” — around 1980s Madrid, when he was one of Spain’s most eligible bachelors after Crown Prince Felipe, now King Felipe VI. In those days the duke was partial to cocaine, but it became an addiction and he checked himself into a rehab clinic in London.
 
-![A Goya portrait of the 13th Duchess of Alba hangs at the Liria Palace, which opened its doors to the public for the first time last week](https://proxy-prod.omnivore-image-cache.app/0x0,s_4whLq6mxwd6NCZrm1gtGXtufCHkGZV9tb5BsGCLuko/https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Fsundaytimes%2Fprod%2Fweb%2Fbin%2F64c8738c-dc88-11e9-8fc3-6e1b00e49ce4.jpg?crop=1281%2C854%2C10%2C86&resize=1180)
+![[a04583b1208a9bf6362d101b8cfc5c4a.jpg]]
 
 A Goya portrait of the 13th Duchess of Alba hangs at the Liria Palace, which opened its doors to the public for the first time last week
 
@@ -80,4 +80,3 @@ He was also cross with his brother for selling a painting by Fra Angelico — hi
 
 [@MCinParis](https://twitter.com/MCinParis)
 
-### Related articles

@@ -24,7 +24,7 @@ omnivore_url: https://omnivore.app/me/the-hunt-for-truly-alternative-investments
 # Article text
 With regular asset classes increasingly correlated, wealthy investors look to some esoteric choices 
 
-![](https://proxy-prod.omnivore-image-cache.app/0x0,s_O83TShDpEnIbYi7_OUP3wm0YNp1vfRNBPDmGpr7ecM/https://www.ft.com/__origami/service/image/v2/images/raw/ftcms%3Ad6231954-191b-4174-8218-716d80f4c97c?source=next-article&fit=scale-down&quality=highest&width=1440&dpr=1)
+![[63a9e0f41e43bae18840488083258a84.jpg]]
 
 © Daniel Crespo
 
@@ -76,7 +76,7 @@ Some ideas have lost their niche status in recent years, as increasing amounts o
 
 But when interest rates rose it hurt the net asset values of some of these portfolios, such as the London-listed [Hipgnosis Song Fund](https://www.ft.com/content/030cf28e-3ba9-4ffb-b3f1-70bfce9176cd). Despite a sharp rebound in this closed-end fund since March, its share price has dipped only slightly in the past five years. 
 
-![](https://proxy-prod.omnivore-image-cache.app/2048x1152,sThIlbmT-ZTK3CX3GoL6xDdJHQuBNn5SbRu8sBmMUJtE/https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fbe51cba5-1877-465b-a649-7e64c1d25940.jpg?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1)
+![[1deb5730418614b8a623cc2a04ffd4cf.jpg]]
 
 Another offbeat investment idea? Boat marinas: collecting a portfolio of these enables the creation of tax-efficient real estate investment trusts © Daniel Crespo
 
@@ -90,7 +90,7 @@ In effect, Cordillera helps finance the production of craft whisky in both Scotl
 
 “We prefer not to use collectibles because \[their values\] tend to ebb and flow with local GDP trends and discretionary income,” Heller says. Whisky, and other areas such as cheese and even soy sauce, have more fragmented markets with less competition. 
 
-![Line chart of Bloomberg global equity: fixed income 60/40 index ($) showing Typically diversified portfolios had a bad year in 2022](https://proxy-prod.omnivore-image-cache.app/1540x1100,sg2I0DzC2hTjxdJ0kQzbC8V5FlVttwPlqr0oW2Mh4dQ8/https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd6c748xw2pzm8.cloudfront.net%2Fprod%2F7e2e8250-23fd-11ef-bf70-f5b69afe748d-standard.png?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1)
+![[0b814e0a433bdc395faf6d6191dfdabc.jpg]]
 
 ---
 
@@ -116,4 +116,3 @@ Another Planet First investment uses a crystalline additive from a group called 
 
 Unusual investment ideas with big growth potential are not a new concept, of course. Finding non-correlated investments which offer both a return on one’s capital, as well as a reasonable assurance of the return of one’s capital, does matter.
 
-Heller may have decided to pass on investing in alligator farming, but the search for head-turning investment ideas goes on. 

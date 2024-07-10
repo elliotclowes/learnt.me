@@ -64,7 +64,7 @@ It has slowly pushed me down a path of burnout.
 
 Here's a visual from [The Tiny Wisdom](https://twitter.com/briandito/status/1556896365526990849?ref=hulry.com) that depicts this situation:
 
-![](https://proxy-prod.omnivore-image-cache.app/1200x1500,s8oF8bNHsPdEYUuNMn8nvy-aCyxLvnqpdSCTuSPdNo7I/https://hulry.com/content/images/2022/08/burning-out-thetinywisdom.jpeg)
+![[3c951a5c02a20e5418ae1e48048c39d7.jpg]]
 
 Aiming for a life of sustainable productivity.
 
@@ -125,4 +125,3 @@ Join 3,889 others & continue your Firesides journey with more articles like this
 * Apps
 * Books
 * Videos
-* Keyboard Shortcuts
