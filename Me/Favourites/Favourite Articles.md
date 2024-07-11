@@ -10,3 +10,4 @@
 - [The Chameleon: The Many Lives of Frédéric Bourdin](https://www.newyorker.com/magazine/2008/08/11/the-chameleon-annals-of-crime-david-grann) – David Grann, New Yorker, 2008
 - [Top Five Regrets of the Dying](https://www.theguardian.com/lifeandstyle/2012/feb/01/top-five-regrets-of-the-dying?cat=lifeandstyle&type=article) – Susie Steiner, The Guardian, 2012
 - [Take With You A Go-With-Me: Making Your Own Wisdom](https://quentinbroughall.com/journal-entries/take-with-you-a-go-with-me-making-your-own-wisdom/) – Quentin Broughall, 2018
+- [Want to Remember Everything You'll Ever Learn? Surrender to This Algorithm](https://www.wired.com/2008/04/ff-wozniak/)[°](https://elliotclowes.com/cold/2024/https://elliotclowes.com/cold/2024/https__www.wired.com_2008_04_ff-wozniak_.html) – Gary Wolf, Wired, 2008

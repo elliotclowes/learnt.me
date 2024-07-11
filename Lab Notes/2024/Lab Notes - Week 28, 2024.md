@@ -67,3 +67,18 @@ echo "All files processed."
 
 ***
 
+## Thursday
+
+### Oliver Burkeman book
+
+Oliver Burkeman has a new book out: “ MEDITATIONS FOR MORTALS: Four Weeks to Embrace Your Limitations and Make Time for What Counts”.
+
+Here’s a description: 
+
+> Meditations for Mortals is intended as a ‘retreat of the mind’: four weeks of digestible daily chapters – though of course you don’t have to read it that way – offering perspective shifts and practical tools for confronting reality and taking action on what matters most to you, while navigating an increasingly volatile and anxiety-inducing world. (Some chapters are based on greatest hits from The Imperfectionist; there’s also a ton of new material.) The structure is designed to let the outlook I call ‘imperfectionism’ really sink into your bones, where it can make a concrete and lasting difference.
+
+After I read his last book, XXXX, I[ created an 8 week plan](https://blot.blog/2024/04/27/4000-weeks-embracing-limits-for-a-fuller-life/) you could follow to implement its ideas. Its sounds like his new book does something similar. 
+
+*** 
+
+Lesson of the morning: always set notification reminders for appointments. I didn’t notice I had a 9AM dentist appointment today and I’ve come into work at London 😬
