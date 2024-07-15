@@ -1,7 +1,7 @@
 ![[IMG_2103.jpeg]]
 ### [[2024-06-22]]
 
-I watched this straight after [[Road House (2024)]] and it made for a good “dumb but fun” double bill.
+I watched this straight after [[Road House (2024) 1]] and it made for a good “dumb but fun” double bill.
 
 I have to say I do have a tiny soft spot for this film. I wouldn’t call it a staple of my teenage years, but I certainly watched it a few times. My teenage self rather liked it. And my adult self rather likes it too, it turns out.
 

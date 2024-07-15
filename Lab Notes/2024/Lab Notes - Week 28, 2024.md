@@ -82,3 +82,9 @@ After I read his last book, XXXX, I[ created an 8 week plan](https://blot.blog/2
 *** 
 
 Lesson of the morning: always set notification reminders for appointments. I didn’t notice I had a 9AM dentist appointment today and I’ve come into work at London 😬
+
+***
+
+## Saturday
+
+I subscribed to my first Substack today. It's [Escaping Flatland](https://www.henrikkarlsson.xyz/) by [[Henrik Karlsson]]. I read his article [[Article — How to think in writing - by Henrik Karlsson]] and loved it and started reading more of his work. He's generous with his paywall, with about 1 out of 5 of his posts being subscriber-only. But I loved his writing so much I wanted to have access to every one.

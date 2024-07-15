@@ -1,4 +1,7 @@
 
+> “Notice that, while lots of people are happy to tell you about Golden Ages, nobody ever seems to think one is happening right now. Maybe that’s because the only place a Golden Age can ever happen is in our memory.” – Adam Mastroianni (via [Morgan Housel](https://collabfund.com/blog/smart-words-from-smart-people/))
+
+*** 
 
 > **"If only it were all so simple! If only there were evil people somewhere insidiously committing evil deeds, and it were necessary only to separate them from the rest of us and destroy them. But the line dividing good and evil cuts through the heart of every human being. And who is willing to destroy a piece of his own heart?"** – Aleksandr Solzhenitsyn in "[The Gulag Archipelago 1918–1956"](https://www.goodreads.com/work/quotes/2944012)
 

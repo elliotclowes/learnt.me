@@ -13,7 +13,7 @@ omnivore_url: https://omnivore.app/me/1-re-noted-sylvia-plath-s-visual-notes-by-
  - Site: Noted
  - By: Jillian Hess
  - Date published: 2024-07-08
- - Date read: [[2024-07-08]]
+ - Date read: [[2024-07-08 1]]
  - [Read Original](https://jillianhess.substack.com/p/re-noted-sylvia-plaths-visual-notes)
  - [Read on Omnivore](https://omnivore.app/me/1-re-noted-sylvia-plath-s-visual-notes-by-jillian-hess-19092def6b2)
  - Tags:  #Note_taking  #Writing 
