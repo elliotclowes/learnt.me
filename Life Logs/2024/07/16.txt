@@ -1,3 +1,16 @@
-[2024-07-16 12:34:57 PM] just seen this: https://www.notion.so/help/database-templates
+[2024-07-16 04:25:49 PM] this is a test
 
-[2024-07-16 12:35:33 PM] a test
+[2024-07-16 04:26:11 PM] let's see if this works
+
+[2024-07-16 04:26:28 PM] this is done directly in journal
+
+[2024-07-16 04:26:41 PM] do question marks work?
+
+[2024-07-16 04:26:57 PM] what about links? https://imlefthanded.com/2024/apples-vision-pro-lacks-a-killer-app/
+
+[2024-07-16 04:37:34 PM] I have installed iTerm.
+
+[2024-07-16 05:06:04 PM] I've got iTerm looking how I like it.
+I'd been meaning to customise Terminal.app for a long time (well ever since my MacBook had a run-in with leaking coffee and it was 'fixed' by essentially becoming a new Mac) so installing iTerm was a good time. It's not a whole new world, as software. But I'm sure there's loads of features under the hood that power users will use, but not me. Anyway, it was important I got it looking good if I plan on using jrnl lots.
+
+[2024-07-16 05:11:44 PM] ![](https://elliotclowes.com/cold/2024/iterm-cust.png)
