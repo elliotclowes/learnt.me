@@ -1,5 +1,9 @@
 ## Album Reviews
 
+### Forbidden Fruit (1961)
+
+
+
 ### Nina Simone at Newport (1960)
 
 https://open.spotify.com/album/4Ds7zZYzM5rtaemaVOfFOs?si=K-TSpwRxRqGGRH2EkKBbpw
