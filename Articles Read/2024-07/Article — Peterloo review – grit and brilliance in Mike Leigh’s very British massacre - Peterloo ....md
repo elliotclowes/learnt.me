@@ -13,7 +13,7 @@ omnivore_url: https://omnivore.app/me/peterloo-review-grit-and-brilliance-in-mik
  - Site: The Guardian
  - By: Peter Bradshaw
  - Date published: 2018-09-01
- - Date read: [[2024-07-08 1]]
+ - Date read: [[2024-07-08]]
  - [Read Original](https://www.theguardian.com/film/2018/sep/01/peterloo-review-grit-and-brilliance-in-mike-leighs-very-british-massacre?_m_utk=4877f48a53bade858225a909191a8bd8)
  - [Read on Omnivore](https://omnivore.app/me/peterloo-review-grit-and-brilliance-in-mike-leigh-s-very-british-190929f2446)
  - Tags:  #Film_and_TV  #History 

@@ -2,7 +2,7 @@
 
 90% = Masterpiece: Life changing stuff.  
 80% = Amazing: One of the films of the year.  
-70% = Good: Certainly worth a trip to the cinema.  
+70% = Very good: Certainly worth a trip to the cinema.  
 60% = Decent: Flawed, but still watch it.  
 50% = Average: Only if you’ve got spare time and like the genre/actor/etc.  
 40% = Disappointing: Not worth your money and watch it in the background.  
@@ -12,19 +12,17 @@
 
 ## Translated into stars
 
-★★★★★ = 90%+
-★★★★1/2 = 82%
-★★★★ = 72%
-★★★1/2 = 65%
-★★★ = 57%
-★★1/2 = 50%
-★★ = 40%
-★1/2 = 30%
-★ = 10%
+★★★★★ = 90%+  
+★★★★1/2 = 82%  
+★★★★ = 72%  
+★★★1/2 = 65%  
+★★★ = 57%  
+★★1/2 = 50%  
+★★ = 40%  
+★1/2 = 30%  
+★ = 10%  
 
-## Notes
-- If a film is ==highlighted== in means it’s a particular favourite of mine or I consider it underrated/under-watched.
-- These are personal ratings, not objective ones. There are plenty of films no here with an equal rating to an obviously technically superior film. But because they connected with me they have been given a high score.
+**Note**: If a film is ==highlighted== it means it’s a favourite of mine and/or particularly spoke to me. Those films might have an equal rating with an obviously technically superior film. But because they connected with me they have been given a high score.
 
 ## Ratings
 
@@ -55,13 +53,14 @@
 - Hellboy - 76%
 - Looper - 75%
 - Bridge of Spies - 74%
+- [[Air (2023)]] - 71%
 - Role Models - 68%
 - [[Bullet Train (2022)]] - 66%
 - [[Jackass Forever (2022)]] - 62%
 - [[Road House (2024) 1]] - 62%
 - [[Green Street Hooligans (2005)]] - 62%
 - [[The Fall Guy (2024)]] - 61%
-- [[Dumb Money (2024)]] - 59%
+- [[Dumb Money (2024)]] - 61%
 - [[The Ministry of Ungentlemanly Warfare (2024)]] - 58%
 - [[Your Christmas Or Mine? (2022)]] - 53%
 - [[Wonka (2023)]] - 48%
