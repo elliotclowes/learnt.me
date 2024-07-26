@@ -2,17 +2,15 @@
 
 The best way to use to use *Learnt.me* is probably just to to poke around and explore.
 
-You could search for something you're interested in. But this site isn't extensive – unlike actual Wikipedia – so there's a good chance I haven't written about the thing you're searching for.
-
-Also the search box at the top left will only search for pages or headings within pages. That makes it a bit limited. I'd recommend [searching via Google](https://www.google.com/search?q=site%3Alearnt.me&rlz=1C5CHFA_enGB1082GB1083&oq=site%3Alearnt.me&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgYIARBFGEAyBggCEEUYOzIGCAMQRRg60gEIMzgzN2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8) instead if you're looking for something specific.
+There's also a search box at the top left. It will only search for specific notes or headings within notes. If you want to search for specific text *within* my notes you need to put the search within double quotes. So if you want to see if I've ever mentioned the song Southern Man by [[Neil Young]] you just have to put this in the search box: `"Southern Man"`
 
 ## How this site works
 
-This website is essentially just a collection of plain text notes that I have written in a piece of software called Obsidian. Obsidian has an add-on service which turns your notes into a website. That's how *Learnt.me* is made.
+This website is essentially just a collection of plain text notes that I have written in a piece of software called [Obsidian](https://obsidian.md/). Obsidian has an add-on service which turns your notes into a website. That's how *Learnt.me* is made.
 
 ### Backlinks
 
-One of the big features of Obsidian is backlinks. This means that when I write about [[Virginia Woolf]] in my notes for the book [["English Food - A People’s History" by Diane Purkiss]] a two-way link is automatically registered. So when you go to the bottom of the page for [[Virginia Woolf]] you can see all the other pages where she is mentioned under the 'LINKS TO THIS PAGE' section (see screenshot below). These backlinks help when it comes to exploring. As you can see other pages where something is mentioned.
+One of the big features of Obsidian is backlinks. This means that when I write about [[Virginia Woolf]] in my notes for the book [["English Food - A People’s History" by Diane Purkiss]] a two-way link is automatically registered. So when you go to the bottom of the page for [[Virginia Woolf]] you can see all the other pages where she is mentioned under the 'Links To This Page' section (see screenshot below). These backlinks help when it comes to exploring. As you can see other pages where something is mentioned.
 
 ![[backlinking.png]]
 

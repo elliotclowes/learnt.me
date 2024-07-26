@@ -13,6 +13,7 @@
 - [Allmusic 5 Star Electronic Albums](https://redacted.ch/collages.php?id=7351)
 - [Audiophile picks by Faunts](https://redacted.ch/collages.php?id=8204)
 - [Rare Groove A to Z](https://redacted.ch/collages.php?id=2912)
+- /r/jazz: "[Hi guys, i made a top 100 of my favourite jazz albums. What do you think?](https://old.reddit.com/r/Jazz/comments/177v2v6/hi_guys_i_made_a_top_100_of_my_favourite_jazz/)"[°](https://elliotclowes.com/cold/2024/https__old.reddit.com_r_Jazz_comments_177v2v6_hi_guys_i_made_a_top_100_of_my_favourite_jazz_2.html)
 
 ## Artists
 - Otis Redding
@@ -57,6 +58,7 @@
 - Grateful Dead
 - The Smiths
 - The Bee Gee’s
+- Ella Fitzgerald
 
 ## Albums
 - Richard Thompson - Rumor and Sigh

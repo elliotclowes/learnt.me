@@ -1,4 +1,4 @@
-
+> "It takes a pretty good drummer to be better than no drummer at all". *– Chet Baker*
 
 ***
 
