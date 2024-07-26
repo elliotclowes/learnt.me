@@ -1,9 +1,27 @@
 ![[nina-simone.jpeg|300]]
 ## Album Reviews
 
+### Broadway-Blues-Ballads (1964)
+
+
+### Nina Simone in Concert (1964)
+
+![[in-concert.jpeg|200]]
+
+There's something about how Nina delivers her voice and the instrumentation that I sometimes find annoying. And this is the case here. I found this album a little bit difficult to listen to. She's at her best on this one when she's doing the slow numbers from the best tracks list below. [[3/10]] - [[2024-07-26]]
+
+**Best tracks:**
+- "I Loves You Porgy"
+- "Don't Smoke In Bed"
+
 ### Folksy Nina (1964)
 
+![[folksy-nina.jpeg|200]]
 
+It's *mildly* folky and massively dull. [[3/10]] - [[2024-07-26]]
+
+**Best tracks:**
+- "The Twelveth of Never"
 ### Nina Simone at Carnegie Hall (1963)
 
 ![[Nina Simone at Carnegie Hall.jpeg|200]]
@@ -42,15 +60,21 @@ It's pleasant enough, but not outstanding. Aside from the best tracks below I wo
 
 ### Forbidden Fruit (1961)
 
+![[forbidden-fruit.jpeg|200]]
+
 I listened to this bad sadly can't remember what I thought of it.
 
 
 ### Nina Simone at Newport (1960)
 
+![[nina-simone-at-newport.jpeg|200]]
+
 https://open.spotify.com/album/4Ds7zZYzM5rtaemaVOfFOs?si=K-TSpwRxRqGGRH2EkKBbpw
 
 
 ### Little Girl Blue (1959)
+
+![[little-girl-blue.jpeg|200]]
 
 Listened whilst playing [[Battlefield 1]] and I was weirdly annoyed by the album. I think the beat of the songs disagreed with me. So I can't really give it an honest view. I'm sure if I listened again I wouldn't have an issue. [[6/10]] ([[2024-07-16]])
 
