@@ -1,7 +1,7 @@
 Inspired by [AirMail's 'Favourite Things'](https://airmail.news/shop/guest).
 
 To add:
-- Herman Miller chair
+- Leatherman
 - Uniqlo t-shirts
 - iPhone
 
