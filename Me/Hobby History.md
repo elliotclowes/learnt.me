@@ -1,1 +1,16 @@
-#TODO
+- **Harry Potter and the Sorcerer's Stone** (also known as _Harry Potter and the Philosopher's Stone_ outside the U.S.)
+- **Harry Potter and the Chamber of Secrets**
+- **Harry Potter and the Prisoner of Azkaban**
+- **Harry Potter and the Goblet of Fire**
+- **Harry Potter and the Order of the Phoenix**
+- **Harry Potter and the Half-Blood Prince**
+- **Harry Potter and the Deathly Hallows – Part 1**
+- **Harry Potter and the Deathly Hallows – Part 2**
+- **Info**
+    - **The Short Answer**
+        - Because this book’s only source of revenue is readers like you. If you don’t pay, the book dies.
+    - **The Long Answer**
+        - This book is partly an ongoing experiment in taking the web seriously as a book-publishing medium. I have a role to play in making the experiment work. And so do you.
+        - For my part, I wanted to deliver a level of writing and design quality that you’d find in a printed book. Not that print will always be the gold standard. But today it is. Because so far, web-based books—nice ones, anyhow—have been slow to emerge.
+        - Yet these books can’t emerge until writers put in the effort to make them. So I did. I wrote the text. I designed the fonts. I made the illustrations. I created a book-publishing system called Pollen. I paid for the web servers. It was, in short, expensive.
+        - But I don’t want you to pay for this book because it was a lot of work. So what? All books are. Rather, I want you to judge it on the criteria you’d apply to any other book. Most of all:
