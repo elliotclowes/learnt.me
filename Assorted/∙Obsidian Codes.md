@@ -8,6 +8,11 @@ tags:
 
 NOTE: IGNORE THIS PAGE. IT'S JUST A PLACE FOR ME TO STORE THE VARIOUS CODES TO DO THINGS WITH OBSIDIAN.
 
+### ~~Strike through text~~
+`~~Strike through text~~`
+
+### ==Highlight text==
+`==highlight text==`
 
 ### Link to an internal note but give the link a custom name
 `[[Favourite Podcasts|a list of favourite podcasts]].`

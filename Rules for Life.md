@@ -44,7 +44,11 @@ Think of each of your beliefs as a brick. Ideally, your collection of beliefs sh
 
 ### Health
 
-Don’t eat too much. Know the human who cooks your food. Avoid sugar and processed food. And focus on having lots of vegetables, plenty of fruit, fats from non-mammal flesh, wholegrain carbs, and make meat part of the meal, not the whole. Alcohol is far worse for you than you think.
+Improving your health is about focusing on the simple things and ignoring the rest. Just get good sleep, regular exercise, a balanced diet and have a vibrant social life. All the rest is are distractions until you’ve totally nailed the simple things.
+
+***
+
+Don’t eat too much. Eat food that a human has made. Avoid sugar and processed food. Focus on having lots of vegetables, plenty of fruit, fats from non-mammal flesh, wholegrain carbs, and make meat part of the meal, not the whole. Alcohol is far worse for you than you think.
 
 Aside from that, all the rest is just details and only worth worrying about unless you’re doing the above *very* well. 
 

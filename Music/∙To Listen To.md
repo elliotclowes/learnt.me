@@ -59,6 +59,8 @@
 - The Smiths
 - The Bee Gee’s
 - Ella Fitzgerald
+- Labi Siffre
+- Roy Buchanan
 
 ## Albums
 - Richard Thompson - Rumor and Sigh

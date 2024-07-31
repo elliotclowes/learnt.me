@@ -1,0 +1,38 @@
+- ## Plan
+    - [[2024-08-03]]: d
+    - [[2024-08-10]]:
+    - [[2024-08-17]]: d
+    - [[2024-08-24]]:
+    - [[2024-08-31]]: d
+    - [[2024-09-07]]:
+    - [[2024-09-14]]: d
+    - [[2024-09-21]]:
+        - x
+    - [[2024-09-28]]: d
+        - Reuben Kaye
+        - LOTR 1
+    - [[2024-10-05]]:
+        - LOTR 2
+        - LOTR 3
+    - [[2024-10-12]]: d
+        - King Kong?
+    - [[2024-10-19]]:
+        - Ex Machina
+    - [[2024-10-26]]: d
+        - Harry Potter and the Philosopher's Stone (==does Abigail actually want to watch it though?==)
+        - Harry Potter and the Chamber of Secrets
+    - [[2024-11-02]]:
+        - Harry Potter and the Prisoner of Azkaban
+        - Harry Potter and the Goblet of Fire
+    - [[2024-11-09]]: d
+        - Harry Potter Studio Tour / The Royal Standard / Harry Potter and the Order of the Phoenix
+        - Harry Potter and the Half-Blood Prince
+    - [[2024-11-16]]:
+        - Harry Potter and the Deathly Hallows – Part 1
+        - Harry Potter and the Deathly Hallows – Part 2
+    - [[2024-11-23]]: d
+    - [[2024-11-30]]:
+    - [[2024-12-07]]: d
+    - [[2024-12-14]]:
+    - [[2024-12-21]]: d
+    - [[2024-12-28]]:
