@@ -1,0 +1,3 @@
+The practise of *re*viewing the previous days notes and tasks and *pre*viewing the current days tasks.
+
+This is useful for me as I have a poor memory, so it's good to get a memory jog on what happened yesterday. It also helps me focus my mind on what needs to be done for the day. I use a technique called [[J3T (Just 3 Things)]] (Just 3 Things), where I set three tasks I want to achieve that day. A small, medium and large one. If I have time for more than that, great. But those are my minimum tasks to get done.

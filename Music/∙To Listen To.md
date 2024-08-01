@@ -61,6 +61,9 @@
 - Ella Fitzgerald
 - Labi Siffre
 - Roy Buchanan
+- Gary B.B. Coleman
+	-  via https://vm.tiktok.com/ZGe7kGG4V/
+	- Only one album is on Spotify.
 
 ## Albums
 - Richard Thompson - Rumor and Sigh

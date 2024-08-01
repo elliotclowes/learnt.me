@@ -23,7 +23,7 @@
 
 > Anyone over 50 can currently get free guidance from Pension Wise, the national service, but an expansion of that to finances as a whole would be a good move ([View Highlight](https://instapaper.com/read/1523751064/20149719))
 
-Tags: [[pension]] [[money]] 
+Tags: [[pension]] [[Money]] 
 
 ***
 

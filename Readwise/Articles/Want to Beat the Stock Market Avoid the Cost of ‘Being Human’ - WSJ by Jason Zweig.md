@@ -12,11 +12,11 @@
 
 > On average, only 46% of funds outperformed the total market over monthly horizons; 39% beat the market over 12-month periods; 34% over decadelong horizons; and a mere 24% for their full history. ([View Highlight](https://read.readwise.io/read/01gy7b7t6nbpn7k18eteyh53py))
 
-Tags: [[money]] [[investing]] 
+Tags: [[Money]] [[investing]] 
 
 ***
 
 > [Earlier research](https://jasonzweig.com/amazons-49000-gain-the-most-super-of-superstocks-since-1926/) by Prof. Bessembinder shows that less than half of all stocks even generate positive returns over their publicly traded lifetimes, and that only 4.3% of stocks created all the net gains in the U.S. market between 1926 and 2016. ([View Highlight](https://read.readwise.io/read/01gy7bbxgkgappb941tps47z8b))
 
-Tags: [[investing]] [[money]] 
+Tags: [[investing]] [[Money]] 
 
