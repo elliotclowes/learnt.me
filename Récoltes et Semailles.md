@@ -1,8 +1,0 @@
-Récoltes et Semailles is a 2000 page philosophical and autobiographical work by [[Alexander Grothendieck]] that has deep reflections on mathematics, his experiences in the mathematical community, and his personal philosophy.
-
-The writing style is idiosyncratic and unedited. He often goes into length discussions and tangents.
-
-[[Article — Cultivating a state of mind where new ideas are born]]:
-
-> When the preface, known as _Récoltes et Semailles,_ was finished, in October 1986, it numbered, in some accounts, more than 2000 pages. It is in an unnerving piece of writing, seething with pain, curling with insanity at the edges—Grothendieck is convinced that the mathematical community is morally degraded and intent on burying his work, and aligns himself with a series of saints (and the mathematician Riemann) whom he calls _les mutants_. One of his colleagues, who received a copy over mail, noticed that Grothendieck had written with such force that the letters at times punched holes through the pages. Despite this unhinged quality, or rather because of it, _Récoltes et Semailles_ is a profound portrait of the creative act and the conditions that enable our ability to reach out toward the unknown. (Extracts from it can be read in unauthorized English translations, [here](https://tongchow.github.io/ReSI.pdf) and [here](https://web.ma.utexas.edu/users/slaoui/notes/recoltes%5Fet%5Fsemailles.pdf).) 
->

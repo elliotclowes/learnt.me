@@ -22,46 +22,45 @@
 ★1/2 = 30%  
 ★ = 10%  
 
-**Note**: If a film is ==highlighted== it means it’s a favourite of mine and/or particularly spoke to me. Those films might have an equal rating with an obviously technically superior film. But because they connected with me they have been given a high score.
-
 ## Ratings
 
-- The Green Mile - 97%
-- Schindler’s List - 97%
-- 12 Angry Men - 93%
-- [[The Matrix (1999)]] - 91%
-- [[Good Will Hunting (1997)]] - 91%
-- ==The Girl with the Dragon Tattoo - 85%==
-- ==Sicario - 85%==
-- ==Ex Machina - 83%==
-- ==[[The Holdovers (2023)]] - 82%==
-- A Star is Born (2018) - 82%
-- L.A. Confidential - 82%
-- Nightcrawler - 81%
-- Titanic - 81%
-- [[The Lobster (2015)]] - 81%
-- Swiss Army Man - 81%
-- Birdman - 80%
-- Gangs of New York - 79%
-- The Nice Guys - 79%
-- The Martian - 78%
-- [[Challengers (2024)]] - 77%
-- The Thin Red Line - 77%
-- Spotlight - 77%
-- Napoleon Dynamite - 76%
-- Tim’s Vermeer - 76%
-- Hellboy - 76%
-- Looper - 75%
-- Bridge of Spies - 74%
-- [[Air (2023)]] - 71%
-- Role Models - 68%
-- [[Bullet Train (2022)]] - 66%
-- [[Jackass Forever (2022)]] - 62%
-- [[Road House (2024) 1]] - 62%
-- [[Green Street Hooligans (2005)]] - 62%
-- [[The Fall Guy (2024)]] - 61%
-- [[Dumb Money (2024)]] - 61%
-- [[The Ministry of Ungentlemanly Warfare (2024)]] - 58%
-- [[Your Christmas Or Mine? (2022)]] - 53%
-- [[Wonka (2023)]] - 48%
-- Avatar: The Way of Water - 34%
+- 97% – The Green Mile
+- 97% – Schindler’s List
+- 93% – 12 Angry Men
+- 91% – [[The Matrix (1999)]]
+- 91% – [[Good Will Hunting (1997)]]
+- 85% – The Girl with the Dragon Tattoo
+- 85% – Sicario
+- 83% – Ex Machina
+- 82% – [[The Holdovers (2023)]]
+- 82% – A Star is Born (2018)
+- 82% – L.A. Confidential
+- 82% – [[Shrek (2001)]]
+- 81% – Nightcrawler
+- 81% – Titanic
+- 81% – [[The Lobster (2015)]]
+- 81% – Swiss Army Man
+- 80% – Birdman
+- 79% – Gangs of New York
+- 79% – The Nice Guys
+- 78% – The Martian
+- 77% – [[Challengers (2024)]]
+- 77% – The Thin Red Line
+- 77% – Spotlight
+- 76% – Napoleon Dynamite
+- 76% – Tim’s Vermeer
+- 76% – Hellboy
+- 75% – Looper
+- 74% – Bridge of Spies
+- 71% – [[Air (2023)]]
+- 68% – Role Models
+- 66% – [[Bullet Train (2022)]]
+- 62% – [[Jackass Forever (2022)]]
+- 62% – [[Road House (2024) 1]]
+- 62% – [[Green Street Hooligans (2005)]]
+- 61% – [[The Fall Guy (2024)]]
+- 61% – [[Dumb Money (2024)]]
+- 58% – [[The Ministry of Ungentlemanly Warfare (2024)]]
+- 53% – [[Your Christmas Or Mine? (2022)]]
+- 48% – [[Wonka (2023)]]
+- 34% – Avatar: The Way of Water
