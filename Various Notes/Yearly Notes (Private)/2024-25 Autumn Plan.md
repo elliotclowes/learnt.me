@@ -1,5 +1,7 @@
 - **Note:** Add events into calendar.
 - ### Activities
+	- **Notes**
+		- It looks like last year I already separated Autumn and Christmas a bit. See [Autumn-Winter 2023-24](roam://#/app/clowes/page/huO8dWa5B) in Roam.
 	- **TV**
 		- [ ] Stranger Things
 		- [ ] Twin Peaks (to watch)
@@ -50,12 +52,14 @@
 		- [ ] Walk with coffee
 	- **Videos**
 		- [ ] [huge halloween haul || summerween vlog - decor, home, clothes, & books](https://youtu.be/k6DSs8ICrDM?si=3RUYbcPGVC1anLVl)
+	- **Links**
+		- [/r/filson](https://www.reddit.com/r/filson/top/?sort=top&t=year)
 - ### Past dates
 	- **August 3rd, 2024**
 		- Was sick with food poisoning.
-- ### Future dates
 	- **August 10th, 2024**
 		- Curry
+- ### Future dates
 	- **August 17th, 2024**
 	- **August 24th, 2024**
 		- 🗓️ Malta Holiday

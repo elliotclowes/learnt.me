@@ -92,3 +92,27 @@
 > What does this have to do with social fear? Well, remember that the volunteers in the Asch and Berns studies didn't always conform. Sometimes they picked the right answer despite their peers' influence. And Berns and his team found something very interesting about these moments. They were linked to heightened activation in the amygdala, a small organ in the brain associated with upsetting emotions such as the fear of rejection.
 > Berns refers to this as "the pain of independence," and it has serious implications. Many of our most important civic institutions, from elections to jury trials to the very idea of majority rule, depend on dissenting voices. But when the group is literally capable of changing our perceptions, and when to stand alone is to activate primitive, powerful, and unconscious feelings of rejection, then the health of these institutions seems far more vulnerable than we think. (Page 90)
 
+***
+
+> In another famous study, introverts and extroverts were asked to play a challenging word game in which they had to learn, through trial and error, the governing principle of the game. While playing, they wore headphones that emitted random bursts of noise. They were asked to adjust the volume of their headsets up or down to the level that was "just right." On average, the extroverts chose a noise level of 72 decibels, while the introverts selected only 55 decibels. When working at the volume that they had selected-loud for the extroverts, quiet for the introverts-the two types were about equally aroused (as measured by their heart rates and other indicators). They also played equally well.
+> When the introverts were asked to work at the noise level preferred by the extroverts, and vice versa, everything changed. Not only were the introverts over-aroused by the loud noise, but they also underperformed-taking an average of 9.1 trials rather than 5.8 to learn the game. The opposite was true for the extroverts-they were under-aroused (and possibly bored) by the quieter conditions, and took an average of 7.3 trials, compared with the 5.4 they'd averaged under noisier conditions. (Page 124)
+
+***
+
+> First Aron interviewed thirty-nine people who described themselves as being either introverted or easily overwhelmed by stimulation. She asked them about the movies they liked, their first memories, relationships with parents, friendships, love lives, creative activities, philosophical and religious views. Based on these interviews, she created a voluminous questionnaire that she gave to several large groups of people. Then she boiled their responses down to a constellation of twenty-seven attributes. She named the people who embodied these attributes "highly sensitive.'"
+> Some of these twenty-seven attributes were familiar from Kagan and others' work. For example, highly sensitive people tend to be keen observers who look before they leap. They arrange their lives in ways that limit surprises. They're often sensitive to sights, sounds, smells, pain, coffee. They have difficulty when being observed (at work, say, or performing at a music recital) or judged for general worthiness (dating, job interviews).
+> But there were also new insights. The highly sensitive tend to be philosophical or spiritual in their orientation, rather than materialistic or hedonistic. They dislike small talk. They often describe themselves as creative or intuitive (just as Aron's husband had described her). They dream vividly, and can often recall their dreams the next day. They love music, nature, art, physical beauty. They feel exceptionally strong emotionssometimes acute bouts of joy, but also sorrow, melancholy, and fear.
+> Highly sensitive people also process information about their environments-both physical and emotional-unusually deeply. They tend to notice subtleties that others missanother person's shift in mood, say, or a lightbulb burning a touch too brightly. (Page 136)
+
+***
+
+> A 2010 University of Michigan study shows that college students today are 40 percent less empathetic than they were thirty years ago, with much of the drop having occurred since 2000. (The study's authors speculate that the decline in empathy is related to the prevalence of social media, reality TV, and "hyper-competitiveness.") (Page 141)
+
+***
+
+> Human extroverts have more sex partners than introverts do-a boon to any species wanting to reproduce itself— but they commit more adultery and divorce more frequently, which is not a good thing for the children of all those couplings. Extroverts exercise more, but introverts suffer fewer accidents and traumatic injuries. Extroverts enjoy wider networks of social support, but commit more crimes. (Page 148)
+
+***
+
+> It's not that there's no small talk, observes Strickland, the leader of the gathering. It's that it comes not at the beginning of conversations but at the end. In most settings, people use small talk as a way of relaxing into a new relationship, and only once they're comfortable do they connect more seriously. Sensitive people seem to do the reverse. They "enjoy small talk only after they've gone deep," says Strickland. "When sensitive people are in environments that nurture their authenticity, they laugh and chitchat just as much as anyone else." (Page 152)
+

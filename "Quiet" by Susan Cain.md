@@ -302,3 +302,628 @@ Extroverts start conversations with small talk before considering going to “de
 
 ### Why did Wall Street crash and Warren Buffett Prosper?
 
+
+
+## Index
+
+- [[Aaron, brother of Moses]], 61
+- [[John Quincy Adams]], 30
+- [[Alfred Adler]], 40
+  - Understanding Human Nature, 26
+- adolescence, and self-esteem, 263
+- studies of adolescent girls, 112-13
+- Advanced International Benchmark, 200-201
+- [[Advertising]]
+  - early print, 24-25
+  - modern, 48-49
+- [[Bradley Agle]], 53
+- agreeableness, 227, 304
+- alert attention, 103
+- [[Gordon Allport]], 26, 281
+- [[ambivert]], 14
+- [[Amygdala]]
+  - and emotions, 92, 101-2, 138
+  - and high reactivity, 102
+  - and [[limbic system]], 118, 158
+  - and personality, 116, 117, 142, 159
+  - and reward system, 160
+- [[Marian Anderson]], 130-31, 139
+- animal personalities, 146-47
+- anxiety, 12, 29, 110, 270
+- [[AOL-Time Warner merger]] and reward sensitivity, 157, 161
+- [[ARAS (ascending reticular activating system)]], 123
+- [[Dan Ariely]], 90
+- [[Aristotle]], 270
+- [[Elaine Aron]]
+  - and balance, 154
+  - and conscience, 141
+  - and empathy, 137, 138
+  - and inner behavior, 136
+  - and parent-child fit, 247-48
+  - and responsiveness to beauty, 137
+  - and sensitivity, 133-38, 145-46, 148, 150, 151-52, 270
+  - and survival, 146, 148
+- optimal levels of arousal, 125
+- [[Solomon Asch]], 90-92
+- [[Asian cultural styles]], 187-97, 200-202
+- Asians, and Israelis, 231-32
+- [[Jens Aspendorf]], 227
+- autonomic nervous system, 223
+- [[Brenda Barnes]], 53
+- [[J. M. Barrie]], 5n
+- [[Batten, Barton, Durstine, and Osborn (BBDO)]], 87
+- responsiveness to beauty, 137
+- behavioral leakage, 212
+- [[Jay Belsky]], 111-12, 13
+- [[Warren Bennis]], Organizing Genius, 75
+- [[Jon Berghoff]], 237-38, 239-40
+- [[Gregory Berns]], 91-92
+  - Iconoclast, 52
+- Character, Culture of, 21, 22, 25, 30
+- Big Five school of personality, 10, 269, 304
+- character guides, nineteenth century, 32
+- Chautauqua movement, 19-20, 284
+- Big Five personality traits, 227
+- [[Frédéric Chopin]], 5
+- blank slate, 106
+- [[Bill Clinton]], 35, 118
+- [[Priscilla Blinco]], 201
+- Coding War Games, 83-85
+- blushing, 143-45
+- collaboration, 78-79
+  - face-to-face, 92-94
+  - online, 89
+- brain:
+  - [[amygdala]], 92, 101-2, 116, 117, 118, 138, 142, 158, 159, 160
+  - cortical arousal levels, 122-24
+  - [[limbic system]], 118, 158
+  - [[neocortex]], 118, 159
+  - [[nucleus accumbens]], 158, 160
+  - [[orbitofrontal cortex]], 160
+  - pleasure center, 158-59
+- [[brainstorming]], 87-92
+  - and evaluation apprehension, 89
+  - failure of, 89-92
+  - online, 89
+  - and production blocking, 89
+  - rules of, 87, 90
+  - and social loafing, 89
+- [[John Brebner]], 166
+- [[Paul Buck]], 28
+- [[Warren Buffett]], 6, 175-76
+- [[Jill Burruss]], 253
+- [[Michael Burry]], 175
+- "Bus to Abilene," 52
+- [[David Buss]], 226
+- buzz, 160, 161-62, 165, 167, 170-71, 314
+- career transition, 218, 219-20
+- [[Dale Carnegie]], 19-23, 41, 44, 284
+  - How to Win Friends and Influence People, 32, 3
+  - Public Speaking and Influencing Men in Business, 20-21
+- [[Lewis Carroll]], 266
+- [[Peter Cashmore]], 63
+- catharsis hypothesis, 233
+- Collier's, 26-27, 282
+- [[Jim Collins]]
+  - Good to Great, 54-55
+  - and "Level 5 Leaders," 54
+- conformity, 90-92
+- conscience, 151
+  - development of, 110
+  - and sensitivity, 140-41
+- conscientiousness, 227, 270
+- [[Chris Cooper]], 166
+- [[James Copeland]], 53
+- core personal projects, identification of, 218, 219
+- cortical arousal, 122-24
+- [[cortisol]], 102
+- [[Daniel Coyle]], The Talent Code, 80
+- [[Craigslist]], 62
+- creativity:
+  - and brainstorming, 87-89
+  - nature of, 74-75
+  - and shyness, 73, 74
+  - and solitude, 74, 75, 82-83, 86, 266
+  - and teamwork, 75-79
+- [[Mihaly Csikszentmihalyi]], 82, 115, 172-73
+- Cupertino, California, 182-84, 186, 191, 193, 194, 202
+- [[Marie Curie]], 78
+- [[Boykin Curry]], 164, 173, 174, 175
+- [[Dalai Lama]], 144
+- [[Dale Carnegie Institute]], 20
+- [[Charles Darwin]], 78, 83, 130
+- [[Matt Davis]], 94
+- Deliberate Practice, 81-83, 256
+- [[Tom DeMarco]], 83-84
+- [[Richard Depue]], 160
+- desensitization, 126-29
+- Diagnostic and Statistical Manual (DSM-IV), 31
+- [[Corine Dijk]], 143-44
+- divorce:
+  - and extroverts, 148
+  - and orchid children, 113-14
+- [[Dorothy Dix]], 25
+- [[David Dobbs]], 111, 12
+- [[dopamine]], 160, 171
+- dopamine-regulating gene (DRD4), 162
+- [[Janice Dorn]], 155-57, 158-59, 165
+- [[dot-com bubble]] ([[2000]]), 176-77
+- down time, need for, 15
+- [[Peter Drucker]], 53
+- [[Marvin Dunnette]], 8
+- [[Albert Einstein]], 5n, 71, 169
+- [[T. S. Eliot]], 101
+  - "The Love Song of J. Alfred Prufrock," 31
+  - "The Waste Land," 12
+- [[Ralph Waldo Emerson]], 2
+- emotional brain, 92, 101-2, 138
+- emotional stability, 227
+- empathy, 137, 138, 141, 247, 304
+- [[Enron]], 4, 164-65
+- environment-gene interaction, 109
+- [[Equanil]], 29
+- [[Anders Ericsson]], 80-82, 256
+- evaluation apprehension, 89
+- evangelical churches, 64-70
+  - and empathy, 304
+  - and the evangelical church, 65-69
+  - and leadership, 55-58, 65, 78
+  - and low-reactivity, 99-100, 142
+  - and optimal level of stimulation, 122-25
+  - gene linked to, 148
+- reward-sensitivity theory of, 158-60, 166, 171
+- Extrovert Ideal, 4-5, 21-22, 29-30, 35, 69, 151, 190-91, 193
+- extrovert-introvert spectrum, 12-14, 227
+- extroverts, 102
+  - and adultery, 148
+  - anxious (or impulsive), 12, 16
+  - archetypal, 4, 1
+  - blindness to danger, 161-62
+  - and "buzz," 160-61
+  - calm, 12
+  - and competition, 230-34
+  - and [[divorce]], 148
+  - dopamine pathways of, 160
+  - and exercise, 148
+  - in history, 29-30
+  - and multitasking, 168, 237
+  - and outside stimulation, 1
+  - overconfidence of, 162
+  - as parents, 243-63
+  - performance in school of, 167
+  - pretending to be, 4, 6, 48, 173, 196, 205-223, 246, 255, 265, 266, 268
+  - and problem-solving, 167-69
+  - in relationship to introverts, 224-63
+  - and restorative niches, 220
+  - and sex partners, 148
+  - shy, 13
+  - uses of term, 10, 269-71
+- [[Hans Eysenck]], 74, 122-24
+- [[evolution]], 145
+  - and "hawks" and "doves," 149
+  - and natural selection, 147
+  - and survival, 146, 148-49
+  - trade-off theory of, 146, 147, 148
+- [[Exodus]], story of, 61
+- extravert, use of term, 271
+- [[extroversion]]:
+  - definition, 10-11
+- [[James Farmer]], 131
+- Janet Farrall, and Leonie Kronborg, Leadership Development for the Gifted and Talented, 78, 79
+- fear:
+    - of failure, 261
+    - of public humiliation, 90
+    - of public speaking, 31, 126-29
+- fear conditioning, 118-19
+- [[financial crash (2008)]], 162-65, 173, 174-75
+- financial risk, genetic tendency to, 162-65
+- [[state of flow]], 172-73
+- [[MRI]] machine, 115-16, 206
+- [[E. M. Forster]], 12
+- Free Trait Agreement, 220-23
+- Free Trait Theory, 209-10, 215, 21
+- [[free will]], 105, 118, 207
+- [[Sigmund Freud]], 233
+- [[Jason Fried]], 85-86
+- FUD (Fear, Uncertainty, and Doubt), 164, 165, 174-75
+- [[David Funder]], 123
+- [[Adrian Furnham]], 89
+- [[Galen]], 270
+- [[Winifred Gallagher]], 5, 103
+- [[Mohandas K. Gandhi (Mahatma)]], 6, 59, 144, 181, 197-200, 202
+- [[Bill Gates]], 12, 53, 118
+- [[Theodor Geisel (Dr. Seuss)]], 5n, 86
+- gene-environment interaction, 109
+- [[Lou Gerstner]], 54
+- [[Francesca Gino]], 56, 57
+- [[Malcolm Gladwell]], 75
+    - The Tipping Point, 61-62
+- [[John Glenn]], 143
+- [[Erving Goffman]], The Presentation of Self in Everyday Life, 207
+- [[Al Gore]], 6, 149-51
+    - An Inconvenient Truth, 150-51
+    - and conscience, 151
+- [[Adam Grant]], 55-58, 169
+- [[William Graziano]], 227, 230-31
+- [[Great Awakening]]:
+    - First, 30, 284-85
+    - Second, 285
+- Great Recession (2008), 162-65, 173-74, 175
+- [[Judith Grob]], 223
+- groups:
+    - brainstorming, 87-92
+    - conformity in, 90-92
+    - peer pressure, 86, 92
+- [[Peter Gzowski]], 209
+- [[Harvard Business School]] (HBS), 42-51, 53, 64, 70
+    - and Subarctic Survival Situation role-playing game, 49-50, 63
+    - teaching methods of, 45-47
+- [[Heejung Kim]], 186
+- [[Heinrich Heine]], 271
+- [[Laurie Helgoe]], 5
+- high reactivity:
+    - alert attention in, 103
+    - and [[amygdala]], 102
+    - and [[anxiety]], 270
+    - and inhibition, 120, 133
+    - and low reactivity, 100
+    - and nature-nurture debate, 106, 109
+    - and orchid hypothesis, 111
+    - and physionomy, 104
+    - research on rhesus monkeys, 112
+    - and sensitivity, 135, 137
+    - and [[social anxiety disorder]], 111
+    - and stimulation, 124-26
+    - and twin studies, 108-9
+- [[Hippocrates]], 206, 270
+- [[hive mind]], 78
+- [[David Hofman]], 56
+- [[Richard Hofstadter]], 155
+- [[Homebrew Computer Club]], 71-73, 81
+- [[Roger Horchow]], 62
+- [[Richard Howard]], 161, 168
+- hyperthymic temperament, 38
+- iatrogenic problem, 242-43
+- [[IBM]], 28, 54, 62
+- independence, pain of, 92
+- independent work, 74, 75
+- infants:
+    - alert attention of, 103
+    - research on behavior of, 99-101
+- [[inferiority complex]] (IC), 26
+- inhibition, 120, 133
+- innovation, 74, 75
+- insightful problem solving, 168
+- [[Interactionism]], 207
+- Internet, as driver of the new Groupthink, 78, 79
+- intimacy, need for, 226
+- introvert-extrovert pairs:
+    - couples, 224-36, 240
+    - parent-child fit, 242-50
+    - research on, 236-37
+- introvert-extrovert spectrum, 12-14, 227
+- introvert-extrovert students, 250-58
+- Introvert Retreat, 7
+- introverts:
+    - ability to decode social cues, 236-37
+    - achievements of, 5-6
+    - anxious, 12
+    - Asian American, 181-202
+    - bias against, 5
+    - calm, 12
+    - [[CEO]]s who are, 53
+    - and complex problem-solving, 167-69
+    - creative advantage of, 74-75
+    - [[delayed gratification]] by, 163
+    - and evangelical church, 64-70
+    - and high reactivity, 99-114, 142
+    - and inner life, 26
+    - and the Internet, 62-63, 79-80
+    - and leadership, 55-58, 62, 78, 164
+    - and novelty, 248-49
+    - optimal level of stimulation for, 11, 122-26, 135
+    - pretending to be extroverts, 4, 6, 48, 173, 196, 205-223, 246, 255, 265, 266, 268
+    - in relationship to extroverts, 224-63
+    - and reward sensitivity, 158-61, 165-67, 171-72
+    - in school, 250-59
+    - sensitive, 15, 136-38, 145-46
+    - and shyness, 12-13
+    - uses of term, 10-15, 269-71
+    - working style of, 11, 73-74
+- inventors, shyness of, 73-74
+- Israelis, and Asians, 231-32
+- [[Andrew Jackson]], 30
+- [[Jadzia Jagiellowicz]], 137
+- [[William James]], 205
+- [[Jesus of Nazareth]], 67, 285
+- [[Steve Jobs]], 72
+- [[LouAnne Johnson]], 254
+- [[Roger Johnson]], 256
+- [[Carl Gustav Jung]], 26, 100, 148, 206, 224, 269
+    - Psychological Types, 10, 11, 13
+- "Just Do It," 49
+- [[Lisa Kaenzig]], 253
+- [[Franz Kafka]], 86
+- [[Jerome Kagan]], 99-108
+    - Galen's Prophecy, 100, 105
+    - and high reactivity, 100, 102-3, 104, 106, 108-9, 111-12, 120, 124, 133, 135, 137, 146, 270
+    - on inhibition, 120
+    - on introverts/extroverts, 99-105, 109, 111
+    - longitudinal studies of personality, 116-17, 136, 150
+    - and low reactivity, 100
+    - on nature-nurture debate, 106, 109
+    - on physionomy of high-reactives, 104
+    - and relaxation, 142
+- [[Vincent Kaminski]], 164-65
+- [[Kamo No Chomei]], 188
+- [[Guy Kawasaki]], 63
+- [[Dacher Keltner]], Born to Be Good, 144
+- [[Dan McAdams]], 263
+- [[Rev. Martin Luther King Jr.]], 2, 3, 60
+- [[James McCroskey]], 256
+- [[Adam McHugh]], 65-69
+- [[Seth Klarman]], 174
+- [[Brian Knutson]], 170
+- Introverts in the Church, 67
+- [[Grazyna Kochanska]], 140, 141
+- [[Robert McRae]], 186-87
+- [[Camelia Kuhnen]], 162, 170
+- [[Mike Mika]], 85
+- [[Kenneth Kwong]], 115
+- [[Emily Miller]], 246, 260
+- [[Lao Zi]], 188
+- [[Jim Lavoie]], 52-53
+- leadership, 44-64
+- [[Charlie Ledley]], 175
+- [[Nicholas Lemann]], 194
+- [[Madeleine L'Engle]], 83
+- [[Tiffany Liao]], 184, 201-2
+- [[Matthew Lieberman]], 236, 237
+- [[lie detector]]s, 142
+- [[limbic system]], 118, 158
+- [[Abraham Lincoln]], 22, 26, 42
+- [[Richard Lippa]], 212
+- [[Timothy Lister]], 83-84
+- [[Brian Little]], 143, 205-10, 211, 214-15, 219, 220, 222-23, 254
+    - and Free Trait Theory, 209-10, 220, 222-23
+    - and reputational confusion, 222-23, 254
+    - and self-monitoring, 214-15
+- loss avoidance system, 311-12
+- low reactivity, 100
+- [[David Lykken]], 109, 110
+- [[Jamie Mai]], 175
+- [[Eric Malpass]], 141
+- managers, tips for, 265-66
+- [[Roland Marchand]], 2
+- Orison Swett Marden:
+    - Character: The Grandest Thing in the World, 2, 32
+    - Masterful Personality, 23
+- [[Joe Marino]], 52-53
+- [[Jerry Miller]], 110, 241-43
+- [[Lydia Millet]], 190
+- [[Quinn Mills]], 50-51, 53-54
+- [[John Milton]], 206, 271
+- Miltown, 29
+- [[Walter Mischel]], Personality and Assessment, 206, 207
+- Monta Vista High School, Cupertino, 182-83
+- [[Frederick Morgeson]], 76
+- [[Moses]], 60-61
+- multitasking, 85, 168, 237, 240
+- [[Myers-Briggs]] personality test, 10
+- [[natural selection]], 147
+- nature-nurture debate, 106, 109
+- Nazi [[eugenics]], 106
+- neocortex, 118, 159
+- [[Daniel Nettle]], 159-60, 161
+- neuroticism, 171, 270, 297
+- neurotransmitters, 160
+- New Groupthink, 75-80, 89, 26
+    - and the Internet, 78, 79
+    - and Linux, 78-80, 89
+    - in open office plans, 76, 78-79
+    - in schools, 77-78
+    - teamwork in, 75-76
+- [[Joseph Newman]], 165-67, 168
+- [[Craig Newmark]], 62
+- [[Sir Isaac Newton]], 5n, 75
+- [[Preston Ni]], 195-97, 200
+- [[Anaïs Nin]], 264
+- nucleus accumbens, 158, 160
+- [[Barack Obama]], 41, 64, 228-29
+- [[Kenneth Olson]], 29
+- openness to experience, 227, 270
+- open office plans, disadvantages of, 76, 78-79, 84, 85, 94
+- optimal levels of arousal, 125
+- orbitofrontal cortex, 160
+- orchid hypothesis, 111
+- [[George Orwell]], 5
+- [[Alex Osborn]], 86-88, 89-90
+- overarousal, 126, 260
+- [[Larry Page]], 5n
+- pain of independence, 92
+- parent-child fit, 242-50
+- parenting:
+    - creative expression encouraged by, 262-63
+    - and divorce, 113-14, 148
+    - pseudo-extrovert, 246
+    - and self-esteem, 246-47, 259-60
+    - teaching social skills, 249-50
+    - tips for, 256-59, 265
+- [[Rosa Parks]], 1-2, 3, 6, 58-60, 61
+- passive resistance, 59, 199-200
+- [[Paxil]], 49
+- peer pressure, 86, 92
+- persistence, 169, 200, 201
+- personality:
+    - and [[amygdala]], 116, 117, 142, 159
+    - and conflict resolution, 230
+    - evolution of the word, 21
+    - temperament vs., 101, 106
+- Personality, Culture of, 21, 22-23, 25-26, 30, 31, 32, 42, 65
+- personality types, 13-14
+- person-situation debate, 206
+- [[Pilgrim's Progress, The]], 2
+- [[Pixar Animation Studios]], 94
+- [[Plato]], The Republic, 241
+- polygraphs, 142
+- [[Chuck Prince]], 173
+- production blocking, 89
+- [[Marcel Proust]], 5, 68-69
+- [[Ptahhotep]], 188
+- public humiliation, fear of, 90
+- public speaking:
+    - and [[Elaine Aron]], 138
+    - and [[Dale Carnegie]], 20-21
+    - and desensitization, 126
+    - and high reactivity, 99, 107, 108
+    - and optimal levels of stimulation, 126
+    - and [[Eleanor Roosevelt]], 138
+    - and [[E. O. Wilson]], 107, 108
+- quiz: introvert-extrovert spectrum, 12-14
+- Raven Standard Progressive Matrices, 169
+- redemptive life story, 263
+- [[Reebok International]], 85
+- reflective, use of term, 297-98
+- reputational confusion, 222-23, 254
+- restorative niches, 219-20
+- reward-oriented, 171
+- reward sensitivity, 157, 158, 159-60, 162
+- reward-sensitivity theory of extroversion, 171
+- reward system, 160-61
+- rhesus monkeys, research on, 112, 138
+- risk-taking, 162-65
+- [[Tony Robbins]], 34-42, 68, 70
+    - Awaken the Giant Within, 40
+- [[Eleanor Roosevelt]], 6, 60, 130-32, 138
+    - and [[Marian Anderson]], 130-31, 139
+    - and social welfare issues, 139
+- [[Franklin D. Roosevelt]], 131-32, 138-40
+- [[Theodore Roosevelt]], 26, 131
+- [[J. K. Rowling]], 5n
+- [[Kenneth Rubin]], 249
+- [[Robert Rubin]], 97, 219
+- Saddleback Church, 64-70
+- satyagraha (firmness in pursuit of truth), 199, 202
+- schools:
+    - admissions decisions of, 256
+    - group work in, 77-78
+    - interests developed in, 261-63
+    - introvert-extrovert students in, 250-58
+    - popularity in, 258
+    - tips for parents, 256-59
+    - tips for teachers, 255-56, 265
+    - unnatural environment of, 253-54
+- [[Arthur Schopenhauer]], 206, 271
+- [[Charles Schultz]], 5n
+- [[Charles Schwab]], 53
+- [[Carl Schwartz]], 115-18, 119
+- self-coaxing skills, 249
+- self-help tradition, 22-24
+- self-monitoring, 212-15, 217-18
+- Self-Monitoring Scale, 212-14
+- self-presentation, 24, 212, 215-17
+- sensitivity:
+    - and [[Elaine Aron]], 133-38, 145-46, 148, 150, 151-52, 270
+    - and conscience, 140-41
+    - and empathy, 137, 138, 141
+    - high, 136, 145-46
+    - and high reactivity, 135, 137
+    - reward, 157, 158, 159-60, 162
+    - and survival, 146, 148-49
+    - and the thin-skinned, 141-42
+- [[Serentil]], 29
+- [[serotonin]], 112, 312
+- serotonin-transporter (SERT) gene, 112-13
+- [[Dr. Seuss (Theodor Geisel)]], 5n, 86
+- [[William Shakespeare]], 26, 210
+- [[Clay Shirky]], 75-76
+    - Here Comes Everybody, 76
+- shyness, 27, 31, 49
+    - and creativity, 73, 74
+    - and deference, 12
+    - introversion vs., 12-13
+    - label of, 249
+    - and social anxiety disorder, 111
+    - and submissiveness, 12
+- silence, value of, 67, 86, 94, 186, 190, 200
+- Silicon Valley SpeakUp Association, 195-97
+- [[Curtis Sittenfeld]], 143
+- situationism, 206-7
+- skin conductance tests, 142, 206
+- sleep deprivation, 125-26
+- [[Darwin Smith]], 54-55
+- [[Mark Snyder]]:
+    - Public Appearances, Private Realities, 212
+    - Self-Monitoring Scale, 212, 213-14, 215
+- social anxiety disorder, 1, 190, 286
+- social cues, 236
+- socialization, 27
+- social loafing, 89
+- social media, 62-63, 66-67
+- social skills, 249-50, 258-59
+- soft power, 197, 200, 202
+- solitude:
+    - communication in, 69
+    - and creativity, 74, 75, 82-83, 86, 266
+    - and Deliberate Practice, 81
+    - and performance, 84
+    - in quiet zones, 94
+- [[Steven Spielberg]], 5n
+- stimulation, optimal level of, 122-26
+- strangers, greeting, 118-19
+- [[Barbra Streisand]], 12
+- [[Jacquelyn Strickland]], 133, 134, 152
+- submissiveness, 12, 199
+- [[Stephen Suomi]], 112
+- [[Warren Susman]], 21, 23
+- sweet spot, 125-26
+- [[Taijin kyofusho]], 190
+- [[Carol Tavris]], Anger, 232-33
+- teachers, tips for, 255-56, 265
+- teamwork, 75-79, 231
+- temperament vs. personality, 101, 106
+- [[Mother Teresa]], 35, 197
+- [[Philip Tetlock]], 52
+- thin-skinned, 141-42
+- [[37signals]], 85-86
+- [[Henry David Thoreau]], 31
+- [[Avril Thorne]], 238-39
+- Time Warner, 157, 161
+- TIMSS exam (Trends in International Mathematics and Science Study), 200-201
+- [[Toastmasters]], 32
+- [[Alexis de Tocqueville]], 15
+- [[Leo Tolstoy]], 59
+- trade-off theory of evolution, 146, 147
+- Trinidadian guppies, 147
+- [[Ted Turner]], 158, 161, 166-67
+- [[Mark Twain]], 241
+- twin studies, 105, 108
+- [[C. A. Valentine]], 270
+- [[Vincent van Gogh]], 5
+- Walker Creek Ranch, 133-34
+- [[Rebecca Wallace-Segall]], 260
+- [[Rick Warren]], 68
+    - The Purpose Driven Life, 64
+- [[Larry Watson]], 167-68
+- [[Mike Wei]], 181-82, 191-93, 202
+- [[David Weiss]], 261-63
+- [[Jack Welch]], 173, 207
+- [[Patrick White]], 78
+- [[George Whitefield]], 285
+- [[Alfred North Whitehead]], 101
+- [[William Whyte]], 28, 34
+    - The Organization Man, 27
+- [[Bruce Williams]], 77
+- [[Susanne Wilpers]], 227
+- [[David Sloan Wilson]], 146-47
+- [[E. O. Wilson]], 107
+- [[winner's curse]], 51, 157
+- [[David Winter]], 1
+- [[Katarina Witt]], 260
+- [[Uwe Wolfradt]], 292
+- [[William Wordsworth]], 31, 75
+- [[World Wide Web]], 78, 79
+- [[Stephen Wozniak]], 72-73, 81-82, 94
+- [[Writopia Lab]], 260
+- [[Chuck Yeager]], 109
+- [[W. B. Yeats]], 5

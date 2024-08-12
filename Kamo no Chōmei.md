@@ -1,0 +1,4 @@
+---
+aliases:
+  - Kamo No Chomei
+---
