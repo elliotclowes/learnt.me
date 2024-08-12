@@ -3,6 +3,9 @@
 - **06:30**: Get ready for work.
 - **06:40**: Read.
 - **07:10**: Commute.
+	- Anki revision.
+	- Readwise review.
+	- Read.
 - **08:15**: Arrive at office. Focus work time.
 - **09:25**: [[Review & Preview]].
 - **09:45**: Stand-up meeting.

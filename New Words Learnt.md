@@ -8,3 +8,5 @@
 - **appurtenance**
 	- an accessory or other item associated with a particular activity or style of living.
 	- "the appurtenances of consumer culture"
+- https://www.merriam-webster.com/dictionary/appurtenance
+- https://dictionary.cambridge.org/dictionary/english/appurtenance

@@ -1,0 +1,5 @@
+- ## Chest freezer
+	- [[2024-08-10]] - For Abigail
+		- ![[IMG_3722.jpeg]]
+	- [[2024-08-10]]
+		- ![[IMG_3723.jpeg]]

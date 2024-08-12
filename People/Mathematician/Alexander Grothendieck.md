@@ -1,3 +1,9 @@
+---
+aliases:
+  - Grothendieck
+spaced: monthly
+---
+
 ![[Alexander-Grothendieck.png]]
 
 Alexander Grothendieck was a highly influential [[mathematician]] known for his work in algebraic [[geometry]], homological [[algebra]], and category theory.
@@ -6,4 +12,4 @@ I heard about him in [[Article — Cultivating a state of mind where new ideas a
 
 ***
 
-*Created: [[2024-08-01]]*
+Created: [[2024-08-01]]

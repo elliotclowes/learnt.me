@@ -3,6 +3,7 @@
 ### General
 - [Mojo: Last Night A Record Changed My Life](https://redacted.ch/collages.php?id=12479)
 - [Mojo: The 50 Best Albums Of 2023](https://www.mojo4music.com/articles/stories/the-50-best-albums-of-2023/)
+- [redacted: American Rare Groove Nuggets](https://redacted.ch/collages.php?id=98)
 
 ### Jazz
 - [The Great Jazz and Pop Vocal Albums](https://redacted.ch/collages.php?id=23602)
@@ -64,6 +65,8 @@
 - Gary B.B. Coleman
 	-  via https://vm.tiktok.com/ZGe7kGG4V/
 	- Only one album is on Spotify.
+- Mazzy Star
+- Elliott Smith
 
 ## Albums
 - Richard Thompson - Rumor and Sigh

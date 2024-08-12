@@ -22,6 +22,7 @@ It's *mildly* folky and massively dull. [[3/10]] - [[2024-07-26]]
 
 **Best tracks:**
 - "The Twelveth of Never"
+
 ### Nina Simone at Carnegie Hall (1963)
 
 ![[Nina Simone at Carnegie Hall.jpeg|200]]

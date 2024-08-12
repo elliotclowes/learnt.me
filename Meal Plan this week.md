@@ -1,0 +1,26 @@
+- **Friday**
+	- Greek yogurt, fruit, etc.
+	- Curry takeaway
+- **Saturday**
+	- Eggs, smoked salmon, toast
+	- Chili con carne
+- **Sunday** ☀️
+	- Eggs, smoked salmon, toast
+	- Chicken breast fino pita
+		- Abigail: with sweet potato
+- **Monday** (half office day)
+	- Greek yogurt, fruit, etc.
+	- Chicken breast fino pita
+		- Abigail: with sweet potato
+- **Tuesday**
+	- ?
+	- Chili con carne
+- **Wednesday** (office)
+	- Huel
+	- Chicken fajitas
+- **Thursday** (cold day)
+	- ?
+	- ?
+- **Friday** (office)
+	- 
+	- Chicken burger and home made chips (if Abigail home)

@@ -1,0 +1,1 @@
+A business school of the University of Pennsylvania. Founded in [[1881]], it's considered one of the best business schools in the [[US]].

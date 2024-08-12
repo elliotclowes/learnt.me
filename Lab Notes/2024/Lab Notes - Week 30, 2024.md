@@ -34,7 +34,7 @@ The method is done on unroasted beans, not roasted ones.
 
 It's chemically impossible to dissolve only the caffeine and not other chemical compounds. To get around this some methods reintroduce the flavourful chemical compounds after the caffeine has been extracted.
 
-**Carbon dioxide method**
+#### Carbon dioxide method
 
 - Developed in the [[1970s]].
 - The moisten the beans.
@@ -42,7 +42,7 @@ It's chemically impossible to dissolve only the caffeine and not other chemical 
 - The beans are then dried, which removes any leftover CO₂.
 - It requires expensive equipment. So is used by commercial suppliers or supermarkets.
 
-**Swiss water process**
+#### Swiss water process
 
 - Developed in the [[1980s]].
 - The beans are soaked in hot water which extracts the caffeine and other compounds.
@@ -51,6 +51,6 @@ It's chemically impossible to dissolve only the caffeine and not other chemical 
 - The water is then passed through activated charcoal filters. They trap caffeine and other compounds.
 - The water, full of flavour, but devoid of caffeine is then soaked in the decaffeinated beans to give them the flavour they lost.
 
-**Solvent-based methods**
+#### Solvent-based methods
 
 - Simple really. The beans are left in solvents to get rid of the caffeine. Often ethyl acetate and methylene chloride.

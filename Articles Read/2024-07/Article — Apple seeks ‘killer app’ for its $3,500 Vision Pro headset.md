@@ -4,7 +4,7 @@ site_name: Financial Times
 author: Tim Bradshaw, Michael Acton
 date_published: 2024-07-12
 date_saved: 2024-07-12
-date_read: 2024-07-13
+date_read: 2024-08-05
 date_archived: 2024-07-13T12:46:22.000Z
 original_url: https://www.ft.com/content/d43cdae5-7d8c-4acf-b398-edfc8063a096
 omnivore_url: https://omnivore.app/me/apple-seeks-killer-app-for-its-3-500-vision-pro-headset-190a7a79b86
@@ -13,7 +13,7 @@ omnivore_url: https://omnivore.app/me/apple-seeks-killer-app-for-its-3-500-visio
  - Site: Financial Times
  - By: Tim Bradshaw, Michael Acton
  - Date published: 2024-07-12
- - Date read: [[2024-07-13]]
+ - Date read: [[2024-08-05]]
  - [Read Original](https://www.ft.com/content/d43cdae5-7d8c-4acf-b398-edfc8063a096)
  - [Read on Omnivore](https://omnivore.app/me/apple-seeks-killer-app-for-its-3-500-vision-pro-headset-190a7a79b86)
  - Tags:  #Apple  #Technology  #Vision_Pro 
