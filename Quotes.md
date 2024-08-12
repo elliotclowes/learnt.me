@@ -1,4 +1,26 @@
 
+
+
+> “One hour solving the right problem beats ten hours on the wrong one.” – [[Shane Parrish]] ([source](https://fs.blog/brain-food/july-21-2024/#:~:text=%E2%80%9CIt's%20not%20enough%20to%20simply,about%20what%20to%20focus%20on.%E2%80%9D))
+
+***
+
+> “It is difficult to remove by logic an idea not placed there by logic in the first place.” – Gordon Livingston
+
+***
+
+> “Humans don’t mind hardship, in fact they thrive on it; what they mind is not feeling necessary. Modern society has perfected the art of making people not feel necessary.” – Sebastian Junger
+
+***
+
+> “No amount of sophistication is going to allay the fact that all your knowledge is about the past and all your decisions are about the future.” – Ian Wilson
+
+***
+
+> “The secret to doing good research is always to be a little underemployed. You waste years by not being able to waste hours.” – Amos Tversky
+
+***
+
 > “Notice that, while lots of people are happy to tell you about Golden Ages, nobody ever seems to think one is happening right now. Maybe that’s because the only place a Golden Age can ever happen is in our memory.” – Adam Mastroianni (via [Morgan Housel](https://collabfund.com/blog/smart-words-from-smart-people/))
 
 *** 

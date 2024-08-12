@@ -9,6 +9,7 @@
 		- [ ] Gilmore Girls
 		- [ ] Over The Garden Wall
 		- [ ] X-Files
+		- [ ] Add Social Network to autumn/winter films
 	- **Films**
 		- [ ] Practical Magic
 		- [ ] The Craft (1996)
@@ -68,6 +69,7 @@
 	- **September 7th, 2024**
 		- 🗓️ Malta Holiday
 	- **September 14th, 2024** 💊
+		- **Plan Autumn and preliminary plan Christmas**
 		- Stranger Things (eat Nerds)
 	- **September 21st, 2024**
 		- *Note: A break from codeine is important this week as next week I'm having both codeine and alcohol.*
@@ -88,6 +90,7 @@
 		- Harry Potter and the Chamber of Secrets
 		- **Thursday**: 🎃 Practical Magic / Hubie Halloween
 	- **November 2nd, 2024**
+		- **Plan Christmas?**
 		- Harry Potter and the Prisoner of Azkaban
 		- Harry Potter and the Goblet of Fire
 	- **November 9th, 2024**
