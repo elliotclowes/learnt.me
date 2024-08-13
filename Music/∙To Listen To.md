@@ -67,6 +67,7 @@
 	- Only one album is on Spotify.
 - Mazzy Star
 - Elliott Smith
+- Tom Waits
 
 ## Albums
 - Richard Thompson - Rumor and Sigh

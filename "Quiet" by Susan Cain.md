@@ -42,6 +42,7 @@ Started: [[2024-07-07]]
 - > “A 2010 University of Michigan study shows that college students today are 40 percent less empathetic than they were thirty years ago, with much of the drop having occurred since 2000. (The study's authors speculate that the decline in empathy is related to the prevalence of social media, reality TV, and "hyper-competitiveness.")” P141
 - Blushing is largely uncontrollable and difficult to fake. That makes it useful in judging what people are feeling. P144
 - Extroverts seem to get a bigger hit of dopamine from dopamine-rewarding activities.
+- There’s a test down on students worldwide every 4 years called TIMSS (Trends in International Mathematics and Science Study). Asian countries like Korea, Singapore, Japan and Taiwan consistently rank highest. There’s many reasons for that. But one is ‘quiet persistence’. The exam has a long winded personal questionnaire that gives students no extra points for completing. However, the nations whose students often fill out the questionnaire also tend to have students who do well in the test. “In other words, excellent students seem not only to possess the cognitive ability to solve math and science problems, but also to have a useful personality characteristic: quiet persistence.” p201
 
 ### Introduction
 
@@ -300,7 +301,19 @@ Extroverts start conversations with small talk before considering going to “de
 
 > It's not that there's no small talk, observes Strickland, the leader of the gathering. It's that it comes not at the beginning of conversations but at the end. In most settings, people use small talk as a way of relaxing into a new relationship, and only once they're comfortable do they connect more seriously. Sensitive people seem to do the reverse. They "enjoy small talk only after they've gone deep," says Strickland. "When sensitive people are in environments that nurture their authenticity, they laugh and chitchat just as much as anyone else." p152
 
-### Why did Wall Street crash and Warren Buffett Prosper?
+### 8. Soft Power
+
+#### [[Mahatma Gandhi|Gandhi]]
+
+He was incredibly shy as a youth. And even when he became a leader later in life he disliked giving speeches.
+
+He was good at choosing his battles. If there was going to be no benefit to resisting something, he wouldn’t. He’d bide his time for the right issue or the right moment.
+
+> “I have naturally formed the habit of restraining my thoughts. A thoughtless word hardly ever escaped my tongue or pen. Experience has taught me that silence is part of the spiritual discipline of a votary of truth. We find so many people impatient to talk. All this talking can hardly be said to be of any benefit to the world. It is so much waste of time. My shyness has been in reality my shield and buckler. It has allowed me to grow. It has helped me in my discernment of truth.” — Gandhi
+
+
+### When should you act more extroverted than you really are?
+
 
 
 
