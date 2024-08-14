@@ -1,6 +1,86 @@
+## 2024
+
+### August
+- 13: [[Twisters (2024)]]
+- 10: [[Deadpool & Wolverine (2024)]]
+- 05: [[St. Trinian's (2007)]]
+- 04: [[King Kong (2005)]]
+
+### July
+- 28: [[Shrek (2001)]]
+- 21: [[The Village (2004)]]
+- 17: [[Air (2023)]]
+- 13: [[Firebrand (2024)]]
+- 08: [[Zodiac (2007)]]
+- 05: [[Good Will Hunting (1997)]]
+
+### June
+- 30: [[The Lobster (2015)]]
+- 28: [[Hit Man (2024)]]
+- 28: [[Wonka (2023)]]
+- 23: [[The Matrix (1999)]]
+- 23: [[Green Street Hooligans (2005)]]
+- 22: [[Road House (2024)]]
+- 18: [[Dumb Money (2024)]]
+- 16: [[Jackass: The Movie (2002)]]
+- 15: [[Jackass Forever (2022)]]
+- 14: [[Jackass 4.5 (2022)]]
+- 14: [[Bullet Train (2022)]]
+- 12: [[Helvetica (2007)]]
+- 03: [[Rams (2018)]]
+
+### May
+- 18: [[Mulan (1998)]]
+- 11: [[The Ministry of Ungentlemanly Warfare (2024)]]
+- 10: [[The Last Waltz (1978)]]
+- 10: [[La La Land (2016)]]
+
+### April
+- 21: [[The Big Short (2015)]]
+- 21: [[Challengers (2024)]]
+- 19: [[Rise of the Planet of the Apes (2011)]]
+- 10: [[Amy (2015)]]
+- 09: [[Civil War (2024)]]
+- 08: [[Scoop (2024)]]
+- 07: [[Midsommar (2019)]]
+
+### March
+- 17: [[Dune: Part Two (2024)]]
+- 16: [[Dune (2021)]]
+- 03: [[Anyone But You (2023)]]
+- 02: [[BlackBerry (2023)]]
+
+### February
+- 20: [[One Life (2023)]]
+- 19: [[Beast (2018)]]
+- 18: [[The Iron Claw (2023)]]
+- 11: [[Romeo + Juliet (1996)]]
+- 06: [[Killers of the Flower Moon (2023)]]
+
+### January
+- 16: [[Super Troopers (2001)]]
+- 14: [[Poor Things (2023)]]
+- 14: [[Black Knight (2001)]]
+- 07: [[A Christmas Carol (2009)]]
+
 ## 2023
 
 ### December
+- 31: [[About a Boy (2002)]]
+- 31: [[Notting Hill (1999)]]
+- 30: [[The Hunger Games: Mockingjay - Part 2 (2015)]]
+- 30: [[The Hunger Games: Mockingjay - Part 1 (2014)]]
+- 29: [[Saltburn (2023)]]
+- 29: [[The Hunger Games: Catching Fire (2013)]]
+- 29: [[The Hunger Games (2012)]]
+- 24: [[Home Alone (1990)]]
+- 24: [[The Holiday (2006)]]
+- 22: [[Elf (2003)]]
+- 21: [[Daddy's Home 2 (2017)]]
+- 20: [[Jack Frost (1998)]]
+- 20: [[Love Actually (2003)]]
+- 20: [[Nativity! (2009)]]
+- 20: [[The Man Who Invented Christmas (2017)]]
 - 19: [[Home Alone 2: Lost in New York (1992)]]
 - 13: [[Love Actually (2003)]]
 - 04: [[The Holdovers (2023)]]
