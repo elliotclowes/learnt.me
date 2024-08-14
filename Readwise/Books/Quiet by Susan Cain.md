@@ -116,3 +116,11 @@
 
 > It's not that there's no small talk, observes Strickland, the leader of the gathering. It's that it comes not at the beginning of conversations but at the end. In most settings, people use small talk as a way of relaxing into a new relationship, and only once they're comfortable do they connect more seriously. Sensitive people seem to do the reverse. They "enjoy small talk only after they've gone deep," says Strickland. "When sensitive people are in environments that nurture their authenticity, they laugh and chitchat just as much as anyone else." (Page 152)
 
+***
+
+> Boykin Curry, a managing director of the investment firm Eagle Capital, who had front-row seats to the 2008 meltdown. Too much power was concentrated in the hands of aggressive risk-takers. "For twenty years, the DNA of nearly every financial institution... morphed dangerously," he told Newsweek magazine at the height of the crash. "Each time someone at the table pressed for more leverage and more risk, the next few years proved them 'right.' These people were emboldened, they were promoted and they gained control of ever more capital. Meanwhile, anyone in power who hesitated, who argued for caution, was proved 'wrong.' The cautious types were increasingly intimidated, passed over for promotion. They lost their hold on capital. This happened every day in almost every financial institution, over and over, until we ended up with a very specific kind of person running things." (Page 168)
+
+***
+
+> “I have naturally formed the habit of restraining my thoughts. A thoughtless word hardly ever escaped my tongue or pen. Experience has taught me that silence is part of the spiritual discipline of a votary of truth. We find so many people impatient to talk. All this talking can hardly be said to be of any benefit to the world. It is so much waste of time. My shyness has been in reality my shield and buckler. It has allowed me to grow. It has helped me in my discernment of truth.” — Gandhi (Page 200)
+

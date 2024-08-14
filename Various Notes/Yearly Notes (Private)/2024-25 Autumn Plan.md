@@ -2,6 +2,15 @@
 - ### Activities
 	- **Notes**
 		- It looks like last year I already separated Autumn and Christmas a bit. See [Autumn-Winter 2023-24](roam://#/app/clowes/page/huO8dWa5B) in Roam.
+		- **Add to Autumn list**
+			- All films in ‘Films’ section br
+			- Social Network
+			- Knives Out
+			- Twilight
+			- Good Will Hunting
+			- When Harry Met Sally
+	- **Notes**
+		- It looks like last year I already separated Autumn and Christmas a bit. See [Autumn-Winter 2023-24](roam://#/app/clowes/page/huO8dWa5B) in Roam.
 	- **TV**
 		- [ ] Stranger Things
 		- [ ] Twin Peaks (to watch)
@@ -72,6 +81,25 @@
 		- **Plan Autumn and preliminary plan Christmas**
 		- Stranger Things (eat Nerds)
 	- **September 21st, 2024**
+		- *Note: A break from codeine is important this week as next week I'm having both codeine and alcohol.*
+		- Tinker Tailor Soldier Spy
+	- **September 28th, 2024** 💊
+		- 🗓️ Reuben Kaye
+		- LOTR 1
+	- **October 5th, 2024** 💊
+		- LOTR 2
+		- LOTR 3
+	- **October 12th, 2024**
+		- ???
+	- **October 19th, 2024**
+		- Ex Machina?
+	- **October 26th, 2024** 🎃 💊
+		- Harry Potter and the Philosopher's Stone
+			- Have sweets at same time as trolly train sweet scene.
+		- Harry Potter and the Chamber of Secrets
+		- **Thursday**: 🎃 Practical Magic / Hubie Halloween
+	- **November 2nd, 2024**
+		- **Plan Christmas?**
 		- *Note: A break from codeine is important this week as next week I'm having both codeine and alcohol.*
 		- Tinker Tailor Soldier Spy
 	- **September 28th, 2024** 💊
