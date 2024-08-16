@@ -930,7 +930,7 @@ He was good at choosing his battles. If there was going to be no benefit to resi
 - [[Susanne Wilpers]], 227
 - [[David Sloan Wilson]], 146-47
 - [[E. O. Wilson]], 107
-- [[winner's curse]], 51, 157
+- [[Winner's curse]], 51, 157
 - [[David Winter]], 1
 - [[Katarina Witt]], 260
 - [[Uwe Wolfradt]], 292

@@ -1,0 +1,12 @@
+---
+aliases:
+  - U.S.
+  - U.S.A.
+  - USA
+  - The States
+  - United States
+  - The United States
+  - The United States of America
+  - Yank
+  - Yanks
+---
