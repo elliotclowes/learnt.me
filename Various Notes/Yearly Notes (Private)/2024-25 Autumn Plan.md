@@ -1,6 +1,7 @@
 - **Note:** Add events into calendar.
 - ### Activities
 	- **Notes**
+		- Windsor Castle
 		- See if [Prince Charles Cinema](https://princecharlescinema.com/whats-on/) Christmas listings have been released.
 		- It looks like last year I already separated Autumn and Christmas a bit. See [Autumn-Winter 2023-24](roam://#/app/clowes/page/huO8dWa5B) in Roam.
 		- **Add to Autumn list**
@@ -30,7 +31,11 @@
 		- [ ] Sherlock Holmes audiobook
 		- [ ] [Mazzy Star - Among My Swan](https://open.spotify.com/album/4mhpbf7jYc0L1nBceoebIE?si=hfSl7eZqSgyka5W1tyoLYg)
 		- [ ] Bon Iver
-		- [ ] Phil Collins - One More Night
+		- [ ] Phil Collins 
+			- [ ] One More Night
+			- [ ] Against All Odds
+			- [ ] A Groovy Kind of Love
+			- [ ] Another Day in Paradise
 		- [ ] Byrd: Mass for five voices; Choral works
 		- [ ] Sade
 	- **Baking**

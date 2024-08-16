@@ -68,6 +68,7 @@
 - Mazzy Star
 - Elliott Smith
 - Tom Waits
+- Pearl Jam
 
 ## Albums
 - Richard Thompson - Rumor and Sigh

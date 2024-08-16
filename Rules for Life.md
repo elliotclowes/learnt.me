@@ -1,5 +1,9 @@
 ## You
 
+Make sure you listen to your favourite music regularly. Your soul needs it. It's a happiness cheat code. ([[2024-08-16]])
+
+***
+
 The lazy person works twice as hard.
 
 ***

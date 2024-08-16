@@ -1,3 +1,6 @@
+- **London Trip**
+	- Friends
+	- Mercato Mayfair (foodcourt)
 - Coach & Horses - Sunday -> Monday
 	- Kew Gardens
 	- Hollyhock Vegetarian Fairtrade Cafe
@@ -17,3 +20,7 @@
 	- [Apartment in a Stately Home](https://www.airbnb.co.uk/rooms/1139923150055232633?adults=2&category_tag=Tag%3A8047&enable_m3_private_room=true&photo_id=1889238892&search_mode=regular_search&check_in=2024-08-16&check_out=2024-08-18&source_impression_id=p3_1723752273_P3KuCSsQNRU9Odkp&previous_page_section_name=1000&federated_search_id=c2c77fd9-ee45-4f47-8a09-b66d17f283f2)
 	- [York Minster View](https://www.airbnb.co.uk/rooms/1046397399799033080?adults=2&category_tag=Tag%3A8102&enable_m3_private_room=true&photo_id=1801380929&search_mode=regular_search&check_in=2024-08-16&check_out=2024-08-18&source_impression_id=p3_1723752339_P3xHw7riIKoPJsVF&previous_page_section_name=1000&federated_search_id=c2a83030-b134-47e2-ac12-cb696771dcb9)
 	- [Exquisite Farthingdales Cottage](https://www.airbnb.co.uk/rooms/559129314278861226?adults=4&category_tag=Tag%3A4104&enable_m3_private_room=true&photo_id=1599710134&search_mode=flex_destinations_search&check_in=2024-08-16&check_out=2024-08-18&source_impression_id=p3_1723752512_P3j3f4jTbjmI-wh_&previous_page_section_name=1000&federated_search_id=17c53743-4cb0-4a14-80ac-db5feecbdb28)
+- **Random local ones**
+	- Go to Windmill where oats are sold
+	- Dog's Trust
+- **Natalie needs to watch Barbie!**
