@@ -1,9 +1,10 @@
 - **Note:** Add events into calendar.
 - ### Activities
 	- **Notes**
+		- See if [Prince Charles Cinema](https://princecharlescinema.com/whats-on/) Christmas listings have been released.
 		- It looks like last year I already separated Autumn and Christmas a bit. See [Autumn-Winter 2023-24](roam://#/app/clowes/page/huO8dWa5B) in Roam.
 		- **Add to Autumn list**
-			- All films in ‘Films’ section br
+			- All films in ‘Films’ section below
 			- Social Network
 			- Knives Out
 			- Twilight
@@ -13,6 +14,7 @@
 		- It looks like last year I already separated Autumn and Christmas a bit. See [Autumn-Winter 2023-24](roam://#/app/clowes/page/huO8dWa5B) in Roam.
 	- **TV**
 		- [ ] Stranger Things
+		- [ ] Gilmore Girls
 		- [ ] Twin Peaks (to watch)
 			- There’s a film too.
 		- [ ] Gilmore Girls
@@ -23,6 +25,7 @@
 		- [ ] Practical Magic
 		- [ ] The Craft (1996)
 		- [ ] Dead Poets Society
+		- [ ] You’ve Got Mail
 	- **Music**
 		- [ ] Sherlock Holmes audiobook
 		- [ ] [Mazzy Star - Among My Swan](https://open.spotify.com/album/4mhpbf7jYc0L1nBceoebIE?si=hfSl7eZqSgyka5W1tyoLYg)

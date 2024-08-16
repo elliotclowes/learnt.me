@@ -1,0 +1,15 @@
+- Coach & Horses - Sunday -> Monday
+	- Kew Gardens
+	- Hollyhock Vegetarian Fairtrade Cafe
+- Hemel
+	- Cinema
+	- Mulligans
+- Cotswold
+	- Hotels
+		- [The Lamb Inn, Burford](https://booking.cotswold-inns-hotels.co.uk/en/bookcore/availability/rooms/lambinn/?rrc=1&adults=2&occupancies=%255B%257B%2522adults%2522%253A%25202%252C%2520%2522children%2522%253A%25200%252C%2520%2522ages%2522%253A%2520%2522%2522%257D%255D&occp=1)
+		- [The Slaughters Country Inn](https://be.synxis.com/?adult=2&arrive=2024-08-16&chain=5301&child=0&currency=GBP&depart=2024-08-17&hotel=12807&level=hotel&locale=en-US&productcurrency=GBP&rooms=1)
+			- £285 - breakfast
+- Oxford / Burford
+	- Hotels
+		- [Prince of Burford](https://www.booking.com/hotel/gb/cotswold-gateway.en-gb.html?aid=356980&label=gog235jc-1FCAsoUEIQd2FzaGJvdXJuZS1jb3VydEgJWANoUIgBAZgBCbgBB8gBDNgBAegBAfgBAogCAagCA7gCq7z5tQbAAgHSAiQ3OTY3NjllOS1iMmMyLTQwYmMtOGZmNy1iNDczOTkzOGQyZWTYAgXgAgE&sid=a4511172ffc5983291be9b8ac171d7d2&all_sr_blocks=3529415_332294115_2_41_0;checkin=2024-08-17;checkout=2024-08-19;dest_id=-2602133;dest_type=city;dist=0;group_adults=2;group_children=0;hapos=20;highlighted_blocks=3529415_332294115_2_41_0;hpos=20;matching_block_id=3529415_332294115_2_41_0;no_rooms=1;req_adults=2;req_children=0;room1=A%2CA;sb_price_type=total;sr_order=popularity;sr_pri_blocks=3529415_332294115_2_41_0__38080;srepoch=1723752080;srpvid=74648cbb7eb101ac;type=total;ucfs=1&#_)
+		- [AirBNB](https://www.airbnb.co.uk/rooms/559129314278861226?adults=4&category_tag=Tag%3A4104&enable_m3_private_room=true&photo_id=1599710134&search_mode=flex_destinations_search&check_in=2024-08-16&check_out=2024-08-18&source_impression_id=p3_1723752512_P3j3f4jTbjmI-wh_&previous_page_section_name=1000&federated_search_id=17c53743-4cb0-4a14-80ac-db5feecbdb28)
