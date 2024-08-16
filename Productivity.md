@@ -13,6 +13,7 @@
 		- Only DM's on on Slack.
 		- Hide the Gmail favicon that shows unread count.
 	- At the end of the day look at the work and to-dos you've done that day. It's easy to forget.
+	- Set a timer for 15 or 30 or 60 minutes and see how much you can get done.
 
 ## [[Marc Andreessen]]’s productivity advice
 
