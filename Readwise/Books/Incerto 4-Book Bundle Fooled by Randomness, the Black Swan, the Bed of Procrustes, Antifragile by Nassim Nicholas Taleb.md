@@ -157,7 +157,7 @@ Tags: [[word]]
 
 > Likewise with tonsils: the removal of tonsils may lead to a higher incidence of throat cancer, but for decades doctors never suspected that this “useless” tissue might actually have a use that escaped their detection. The same with the dietary fiber found in fruits and vegetables: doctors in the 1960s found it useless because they saw no immediate evidence of its necessity, and so they created a malnourished generation. Fiber, it turns out, acts to slow down the absorption of sugars in the blood and scrapes the intestinal tract of precancerous cells. Indeed medicine has caused plenty of damage throughout history, owing to this simple kind of inferential confusion. ([View Highlight](https://read.readwise.io/read/01gmbe5z6yxhn96ny4bt0p0f5t))
 
-Tags: [[tonsils]] [[cancer]] [[fibre]] [[diet]] 
+Tags: [[Tonsils]] [[Cancer]] [[fibre]] [[diet]] 
 
 ***
 

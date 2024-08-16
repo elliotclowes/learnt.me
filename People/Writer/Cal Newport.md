@@ -1,1 +1,1 @@
-I am yet to read one of his books. But I listened to a few of this [[podcasts]] but I found their information density too low. And just too slow. – [[2024-05-23]]
+I am yet to read one of his books. But I listened to a few of this [[Podcasts]] but I found their information density too low. And just too slow. – [[2024-05-23]]

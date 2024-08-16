@@ -1,0 +1,183 @@
+
+- 01-Humanities
+    - 01-Philosophy
+        - Epistemology
+        - Ethics
+        - Logic
+        - Metaphysics
+        - Political Philosophy
+        - Philosophy of Mind
+        - Philosophy of Science
+        - History of Philosophy
+        - Major Philosophers
+    - 02-History
+        - Ancient History
+        - Medieval History
+        - Modern History
+        - World History
+            - Africa
+            - Asia
+            - Europe
+            - Americas
+            - Oceania
+        - Historiography
+    - 03-Literature
+        - Poetry
+        - Prose
+        - Drama
+        - Literary Criticism
+        - World Literature
+            - African Literature
+            - Asian Literature
+            - European Literature
+            - North American Literature
+            - South American Literature
+            - Oceanian Literature
+    - 04-Arts
+        - Visual Arts
+            - Painting
+            - Sculpture
+            - Photography
+            - Film
+        - Performing Arts
+            - Music
+            - Dance
+            - Theatre
+        - Applied Arts
+            - Architecture
+            - Design
+            - Fashion
+    - 05-Religion & Spirituality
+        - World Religions
+            - Buddhism
+            - Christianity
+            - Hinduism
+            - Islam
+            - Judaism
+            - Other Religions
+        - Mythology
+        - Spirituality & Mysticism
+    - 06-Languages
+        - Linguistics
+        - Specific Languages
+            - English
+            - Spanish
+            - French
+            - German
+            - Chinese
+            - (Add more as needed)
+- 02-Social Sciences
+    - 01-Psychology
+        - Cognitive Psychology
+        - Developmental Psychology
+        - Social Psychology
+        - Abnormal Psychology
+        - Clinical Psychology
+    - 02-Sociology
+        - Culture and Society
+        - Social Stratification
+        - Social Change
+        - Social Problems
+        - Demography
+    - 03-Economics
+        - Microeconomics
+        - Macroeconomics
+        - Behavioral Economics
+        - Economic History
+        - Economic Systems
+    - 04-Political Science
+        - Political Theory
+        - Comparative Politics
+        - International Relations
+        - Public Policy
+        - Political Systems
+    - 05-Anthropology
+        - Cultural Anthropology
+        - Biological Anthropology
+        - Linguistic Anthropology
+        - Archaeology
+    - 06-Law
+        - Constitutional Law
+        - Criminal Law
+        - Civil Law
+        - International Law
+        - Legal History
+- 03-Natural Sciences
+    - 01-Physics
+        - Classical Mechanics
+        - Electromagnetism
+        - Thermodynamics
+        - Quantum Mechanics
+        - Relativity
+        - Astrophysics
+    - 02-Chemistry
+        - Organic Chemistry
+        - Inorganic Chemistry
+        - Physical Chemistry
+        - Analytical Chemistry
+        - Biochemistry
+    - 03-Biology
+        - Cell Biology
+        - Genetics
+        - Evolution
+        - Ecology
+        - Botany
+        - Zoology
+    - 04-Astronomy
+        - Solar System
+        - Stars
+        - Galaxies
+        - Cosmology
+        - Astrobiology
+    - 05-Earth Sciences
+        - Geology
+        - Meteorology
+        - Oceanography
+        - Environmental Science
+- 04-Formal Sciences
+    - 01-Mathematics
+        - Algebra
+        - Calculus
+        - Geometry
+        - Statistics
+        - Discrete Mathematics
+    - 02-Computer Science
+        - Algorithms
+        - Data Structures
+        - Programming Languages
+        - Software Engineering
+        - Artificial Intelligence
+    - 03-Logic
+        - Propositional Logic
+        - Predicate Logic
+        - Modal Logic
+        - Philosophical Logic
+- 05-Applied Sciences
+    - 01-Engineering
+        - Civil Engineering
+        - Mechanical Engineering
+        - Electrical Engineering
+        - Chemical Engineering
+        - Aerospace Engineering
+    - 02-Medicine
+        - Anatomy
+        - Physiology
+        - Pathology, Disease and Injury
+        - Pharmacology
+        - Surgery
+    - 03-Agriculture
+        - Crop Science
+        - Soil Science
+        - Animal Science
+        - Agricultural Economics
+    - 04-Technology
+        - Information Technology
+        - Biotechnology
+        - Nanotechnology
+        - Energy Technology
+- 06-Personal Development
+    - 01-Productivity & Time Management
+    - 02-Learning & Memory
+    - 03-Communication & Social Skills
+    - 04-Personal Finance
+    - 05-Health & Wellness
