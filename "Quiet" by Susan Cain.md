@@ -322,7 +322,7 @@ He was good at choosing his battles. If there was going to be no benefit to resi
 - [[Aaron, brother of Moses]], 61
 - [[John Quincy Adams]], 30
 - [[Alfred Adler]], 40
-- Understanding Human Nature, 26
+	- Understanding Human Nature, 26
 - adolescence, and self-esteem, 263
 - studies of adolescent girls, 112-13
 - Advanced International Benchmark, 200-201
