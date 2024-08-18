@@ -70,6 +70,7 @@
 		- [ ] Walk with coffee
 	- **Videos**
 		- [ ] [huge halloween haul || summerween vlog - decor, home, clothes, & books](https://youtu.be/k6DSs8ICrDM?si=3RUYbcPGVC1anLVl)
+		- [ ] https://youtube.com/watch?v=BhhBSUmdgmo&si=SbZwrsqmftFE0AYw
 	- **Links**
 		- [/r/filson](https://www.reddit.com/r/filson/top/?sort=top&t=year)
 - ### Past dates
@@ -95,7 +96,7 @@
 		- 🗓️ Reuben Kaye
 		- LOTR 1
 	- **October 5th, 2024** 💊
-		- LOTR 2
+		- Windsor Castle / LOTR 2
 		- LOTR 3
 	- **October 12th, 2024**
 		- ???

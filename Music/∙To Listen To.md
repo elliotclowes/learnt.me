@@ -69,6 +69,7 @@
 - Elliott Smith
 - Tom Waits
 - Pearl Jam
+- Massive Attack
 
 ## Albums
 - Richard Thompson - Rumor and Sigh
