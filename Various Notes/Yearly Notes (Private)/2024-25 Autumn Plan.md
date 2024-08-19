@@ -77,8 +77,10 @@
 		- Was sick with food poisoning.
 	- **August 10th, 2024**
 		- Curry
-- ### Future dates
 	- **August 17th, 2024**
+		- Nando's for lunch. [[Deadpool & Wolverine (2024)]] after
+		- Walk with Ryan in the morning. Then family barbecue.
+- ### Future dates
 	- **August 24th, 2024**
 		- 🗓️ Malta Holiday
 	- **August 31st, 2024**
@@ -88,29 +90,30 @@
 	- **September 14th, 2024** 💊
 		- **Plan Autumn and preliminary plan Christmas**
 		- Stranger Things (eat Nerds)
+		- The Hobbit
 	- **September 21st, 2024** 🍁
 		- *Note: A break from codeine is important this week as next week I'm having both codeine and alcohol.*
-		- Tinker Tailor Soldier Spy
+		- Tinker Tailor Soldier Spy OR The Hobbit
 	- **September 28th, 2024** 💊 🍂
 		- 🗓️ Reuben Kaye
 		- LOTR 1
 	- **October 5th, 2024** 💊 🥮
 		- Windsor Castle / LOTR 2
 		- LOTR 3
-	- **October 12th, 2024** 🍁
-		- ???
+	- **October 12th, 2024** 💊 🍁
+		- See [[My Birthday Plan]]
 	- **October 19th, 2024** 🍂
 		- Ex Machina?
 	- **October 26th, 2024** 🎃 💊
+		- **Plan Christmas?**
 		- Harry Potter and the Philosopher's Stone
 			- Have sweets at same time as trolly train sweet scene.
 		- Harry Potter and the Chamber of Secrets
 		- **Thursday**: 🎃 Practical Magic / Hubie Halloween
 	- **November 2nd, 2024** 🍁
-		- **Plan Christmas?**
-		- *Note: A break from codeine is important this week as next week I'm having both codeine and alcohol.*
 		- Harry Potter and the Prisoner of Azkaban
 		- Harry Potter and the Goblet of Fire
+		- **Tuesday, Guy Fawkes night**: [[V for Vendetta (2006)]]
 	- **November 9th, 2024** 🍂
 		- 🗓️ Harry Potter Studio Tour / The Royal Standard / Harry Potter and the Order of the Phoenix
 		- Harry Potter and the Half-Blood Prince
@@ -122,13 +125,15 @@
 	- **November 30th, 2024** 🎄
 		- Christmas
 	- **December 7th, 2024** 🎅
-		- Christmas
+		- Tower of London (to book)
 	- **December 14th, 2024** 🌲
 		- Christmas
 	- **December 21st, 2024** 🎄
-		- Christmas
+		- Kew Gardens
 	- **December 28th, 2024** 🎅
 		- Christmas
+- ## Film Lists
+	- ![[Film Lists#Autumn]]
 - ## Feasts
     - **August 15:** The Dormition of our Most Holy Lady the Mother of God and Ever-Virgin Mary
     - **August 19:** Transfiguration of the Lord

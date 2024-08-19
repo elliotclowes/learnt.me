@@ -1,165 +1,256 @@
-- **Sword/Fantasy/Medieval**
-    - Lord of the Rings
-    - A Knight's Tale
-    - Hansel & Gretel: Witch Hunters
-    - Kingdom of Heaven
-    - Brotherhood of the Wolf
-    - King Arthur (2004)
-    - King Arthur: Legend of the Sword
-    - Warcraft
-    - _First Knight_
-    - Seventh Son
-    - **TV**
-        - Wolf Hall
-        - Shardlake
-- **Ill/Sick**
-    - David Holmes: The Boy Who Lived
-    - Whatever is on BBC1
-    - Starter for 10
-    - The Hobbit Appendices (behind the scene)
-    - Wallace and Gromit: Curse of the Were Rabbit
-    - School of Rock
-    - The Princess Bride
-    - Mean Girls
-    - Taxi
-    - St. Trinian's
-    - Magicians
-    - [[The Terminal]]
-    - Wild Hogs
-    - Employee of the Month
-    - National Treasure
-    - Land of the Lost
-    - Tropic Thunder
-    - Longest Yard
-    - Cuban Fury
-    - The Watch
-    - Wedding Crashers
-    - The Devil Wears Prada
-    - Johnny English
-    - Chicken Run
-    - White Chicks
-    - Run Fatboy Run
-    - Wimbledon
-    - Gulliver’s Travels
-    - Mr Beans Holiday
-    - Fast & Furious: Tokyo Drift
-    - The Boxtrolls
-    - King Kong
-    - The Black Knight
-    - Night at the Museum
-    - Freaky Friday
-    - Star Wars: The Force Awakens
-    - Dodgeball
-    - Pirates of the Caribbean
-    - Shrek
-    - Parent Trap
-    - Clueless
-    - Onward
-    - Stardust
-    - The Ringer
-    - Paul
-    - Year One
-    - 10 Things I Hate About You
-    - What a Girl Wants
-    - Hunt for the Wilderpeople
-    - **TV**
-	    - [[Clarkson's Farm]]
-        - Top Gear
-        - Viva La Bam
-        - [[The Detectorists]]
-        - The Office
-        - That Mitchell and Webb Look
-        - Mid Morning Matters
-        - Come Fly With Me
-        - This Country - S01E02
-        - An Idiot Abroad
-        - Only Fools & Horses
-	        - Best episodes
-			    - 2x3: Poker episode. Mostly interiors.
-			    - 3x1: Quite a cosy, indoor episode. Grandad is bed bound.
-			    - 5x3: Del has dressing gown with towel draped inside. Mention of it being a frosty day. Also Uncle Albert falls down hole.
-			    - 5x6: Indoorsy episode.
-			    - 0x6: Posh episode with shooting.
-			    - 6x7: Rodney gets married.
-			    - 7x1: Del is on a diet by Raquel. He eats grapefruit but tries to eat Albert's fry-up.
-- **Simple Living**
-    - Nomadland
-    - The Truffle Hunters
-    - Leave No Trace
-    - Captain Fantastic
-    - Paterson
-- **Intimate, slow**
-    - Paterson
-    - Columbus
-    - End of the Tour
-- **Outdoor/Camping**
-    - Free Solo
-    - The Dawn Wall
-    - The Barkley Marathons: The Race That Eats Its Young
-    - Hunt for the Wilderpeople
-    - Into the Wild
-- **Sleep**
-    - Death on the Nile
-    - Murder on the Orient Express
-    - Fantastic Beasts: The Secrets of Dumbledore
-    - Jack & Jill
-    - Blithe Spirit
-- **Pizza Films**
-    - Super Troopers
-    - Little Nicky
-    - Cirque du Freak
-    - Bullet Train
-    - Kick-Ass
-    - Jurassic Park
-    - Zombieland
-    - Teenage Mutant Ninja Turtles (Out of the Shadows)?
-    - Employee of the Month
-    - Paul
-    - Land of the Lost
-    - Step Brothers
-    - Hubie Halloween
-    - The Suicide Squad
-    - TV Shows
-        - Rick and Morty
-        - Peacemaker
-        - The Mandolorian
-- **Airplane Films**
-	- ![[Travel Tips#Film and TV]]
-- **Treasure/Adventure**
-    - The Da Vinci Code
-    - Angels & Demons
-    - National Treasure
-    - National Treasure: Book of Secrets
-    - Sahara
-    - Jungle Cruise
-    - Lara Croft Tomb Raider: The Cradle of Life
-    - The Mummy
-    - Uncharted
-    - Welcome to the Jungle
-    - Fool's Gold
-    - Lara Croft: Tomb Raider
-    - Lara Croft: Tomb Raider - The Cradle of Life
-    - Tomb Raider
-    - The Adventures of Tintin
-    - **The Ninth Gate?**
-    - The Lost City of Z
-    - **The Order?**
-- **[[Halloween]]**
-    - **30 Days of Halloween Movies**
-        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fclowes%2Fn2FG8qKm-U.jpeg?alt=media&token=660c5764-55d2-4146-b047-f9520b05acef)
-    - **Autumn Movies**
-        - ![](https://elt.s3.amazonaws.com/file/IMG_0065.JPG)
-    - Hubie Halloween
-    - Mean Girls
-    - ParaNorman
-    - Hocus Pocus
-    - Practical Magic (to watch)
-    - Sleepy Hollow
-    - The Craft (to watch)
-    - Corpse Bride
-    - **TV**
-	    - Stranger Things
-	    - Wednesday
-- **Summer**
-    - **TV**
-        - Rome
+### Sword/Fantasy/Medieval
+- Lord of the Rings
+- A Knight's Tale
+- Hansel & Gretel: Witch Hunters
+- Kingdom of Heaven
+- Brotherhood of the Wolf
+- King Arthur (2004)
+- King Arthur: Legend of the Sword
+- Warcraft
+- _First Knight_
+- Seventh Son
+- **TV**
+	- Wolf Hall
+	- Shardlake
+
+
+### Ill/Sick
+- David Holmes: The Boy Who Lived
+- Whatever is on BBC1
+- Starter for 10
+- The Hobbit Appendices (behind the scene)
+- Wallace and Gromit: Curse of the Were Rabbit
+- School of Rock
+- The Princess Bride
+- Mean Girls
+- Taxi
+- St. Trinian's
+- Magicians
+- [[The Terminal]]
+- Wild Hogs
+- Employee of the Month
+- National Treasure
+- Land of the Lost
+- Tropic Thunder
+- Longest Yard
+- Cuban Fury
+- The Watch
+- Wedding Crashers
+- The Devil Wears Prada
+- Johnny English
+- Chicken Run
+- White Chicks
+- Run Fatboy Run
+- Wimbledon
+- Gulliver’s Travels
+- Mr Beans Holiday
+- Fast & Furious: Tokyo Drift
+- The Boxtrolls
+- King Kong
+- The Black Knight
+- Night at the Museum
+- Freaky Friday
+- Star Wars: The Force Awakens
+- Dodgeball
+- Pirates of the Caribbean
+- Shrek
+- Parent Trap
+- Clueless
+- Onward
+- Stardust
+- The Ringer
+- Paul
+- Year One
+- 10 Things I Hate About You
+- What a Girl Wants
+- Hunt for the Wilderpeople
+- **TV**
+	- [[Clarkson's Farm]]
+	- Top Gear
+	- Viva La Bam
+	- [[The Detectorists]]
+	- The Office
+	- That Mitchell and Webb Look
+	- Mid Morning Matters
+	- Come Fly With Me
+	- This Country - S01E02
+	- An Idiot Abroad
+	- Only Fools & Horses
+		- Best episodes
+			- 2x3: Poker episode. Mostly interiors.
+			- 3x1: Quite a cosy, indoor episode. Grandad is bed bound.
+			- 5x3: Del has dressing gown with towel draped inside. Mention of it being a frosty day. Also Uncle Albert falls down hole.
+			- 5x6: Indoorsy episode.
+			- 0x6: Posh episode with shooting.
+			- 6x7: Rodney gets married.
+			- 7x1: Del is on a diet by Raquel. He eats grapefruit but tries to eat Albert's fry-up.
+
+
+### Simple Living
+- Nomadland
+- The Truffle Hunters
+- Leave No Trace
+- Captain Fantastic
+- Paterson
+
+### Intimate, slow
+- Paterson
+- Columbus
+- End of the Tour
+
+### Outdoor/Camping
+- Free Solo
+- The Dawn Wall
+- The Barkley Marathons: The Race That Eats Its Young
+- Hunt for the Wilderpeople
+- Into the Wild
+
+### Sleep
+- Death on the Nile
+- Murder on the Orient Express
+- Fantastic Beasts: The Secrets of Dumbledore
+- Jack & Jill
+- Blithe Spirit
+
+### Pizza Films
+- Super Troopers
+- Little Nicky
+- Cirque du Freak
+- Bullet Train
+- Kick-Ass
+- Jurassic Park
+- Zombieland
+- Teenage Mutant Ninja Turtles (Out of the Shadows)?
+- Employee of the Month
+- Paul
+- Land of the Lost
+- Step Brothers
+- Hubie Halloween
+- The Suicide Squad
+- TV Shows
+	- Rick and Morty
+	- Peacemaker
+	- The Mandolorian
+
+### Airplane Films
+![[Travel Tips#Film and TV]]
+
+### Treasure/Adventure
+- The Da Vinci Code
+- Angels & Demons
+- National Treasure
+- National Treasure: Book of Secrets
+- Sahara
+- Jungle Cruise
+- Lara Croft Tomb Raider: The Cradle of Life
+- The Mummy
+- Uncharted
+- Welcome to the Jungle
+- Fool's Gold
+- Lara Croft: Tomb Raider
+- Lara Croft: Tomb Raider - The Cradle of Life
+- Tomb Raider
+- The Adventures of Tintin
+- **The Ninth Gate?**
+- The Lost City of Z
+- **The Order?**
+
+### Autumn
+- [Trakt](https://trakt.tv/users/ejclowes/lists/autumn?sort=title,asc)
+- Alan Partridge: Alpha Papa
+- Barry Lyndon
+- The BFG
+- Braveheart
+- Bright Star
+- Centurion
+- Chicken Run
+- Cirque de Freak: The Vampire's Assistant
+- Creation
+- Crimson Peak
+- The Duchess
+- The Eagle
+- Enola Holmes
+- Extra Ordinary
+- The Fifth Estate
+- From Hell
+- The Ghost Writer
+- Hansel & Gretel
+- Harry Potter
+- The Hobbit
+- Hotel Transylvania 2
+- The Invisible Woman
+- King Arthur
+- The King's Speech
+- The Lighthouse
+- LOTR
+- A Monster Calls
+- A Most Wanted Man
+- Mr. Turner
+- Nanny McPhee
+- Nightmare Alley
+- The Nightmare Before Christmas
+- Outlaw King
+- Paddington
+- Pilgrimage
+- Robin Hood
+- Stardust
+- Tinker Tailor Soldier Spy
+- Victor Frankenstein
+- Wallace & Gromit: The Curse of the Were-Rabbit
+- The Young Victoria
+- **TV**
+	- [Trakt](https://trakt.tv/users/ejclowes/lists/autumn-winter-tv?sort=title,asc)
+	- Black Books
+	- Blackadder
+	- Downton Abbey
+	- Dracula
+	- Fargo
+	- Fleabag
+	- Flowers
+	- Game of Thrones
+	- Ghosts
+	- House of Cards
+	- London Spy
+	- Over the Garden Wall
+	- Penny Dreadful
+	- Quacks
+	- Ripper Street
+	- Shardlake
+	- Sherlock
+	- Sherlock Holmes
+	- Taboo
+	- The Alienist
+	- The Crown
+	- The Frankenstein Chronicles
+	- The Knick
+	- The Last Kingdom
+	- The North Water
+	- The Old Guys
+	- The Secret Agent
+	- The Terror
+	- The Trip
+	- The Witcher
+	- The Witness for the Prosecution
+	- Vicious
+	- Vikings
+
+### [[Halloween]]
+- Hubie Halloween
+- Mean Girls
+- ParaNorman
+- Hocus Pocus
+- Practical Magic (to watch)
+- Sleepy Hollow
+- The Craft (to watch)
+- Corpse Bride
+- **TV**
+	- Stranger Things
+	- Wednesday
+- **Autumn Movies**
+	- ![](https://elt.s3.amazonaws.com/file/IMG_0065.JPG)
+- **30 Days of Halloween Movies**
+	- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fclowes%2Fn2FG8qKm-U.jpeg?alt=media&token=660c5764-55d2-4146-b047-f9520b05acef)
+
+### Summer
+- **TV**
+	- Rome

@@ -1,0 +1,38 @@
+- **Plan 1**
+	- 09:00: Starbucks.
+	- 09:45: Walk at Ashridge.
+	- 11:30: Shopping (see [[2024-25 Autumn Plan]] for list of shops)
+	- 18:00: Make cookies.
+	- 19:00: Steak pie.
+	- 20:00: Cookies.
+- **Plan 2**
+	- 09:00: Starbucks.
+	- 09:30: Shopping (see [[2024-25 Autumn Plan]] for list of shops)
+	- 11:30: Walk at Ashridge.
+	- 13:00: Roast dinner (somewhere?)
+	- 17:30: Make cookies.
+	- 18:30: Alan Partridge: Alpha Papa
+	- 19:00: Takeaway.
+	- 20:00: Cookies.
+- **Random**
+	- Cinema
+	- Tring reservoir and farm shop
+	- Starbucks
+	- Making cookies
+- **Food**
+	- Natalie's steak pie
+	- Tring Farm Shop steak pie
+	- Make my own pick'n'mix
+		- Buy jar.
+		- Don't have any sugar for two weeks prior.
+- **Film/TV**
+	- **Film**
+		- Push LOTR later and start watching it on my birthday?
+			- Maybe see how Abigail feels closer to the time. If she keeps on asking when we're going to watch it, then maybe leave it as is.
+		- Alan Partridge: Alpha Papa - with pizza
+		- Brotherhood of the Wolf
+		- Extra Ordinary
+	- **TV**
+		- Shardlake
+		- [[Clarkson's Farm]]
+		- The Crown
