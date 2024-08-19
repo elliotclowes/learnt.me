@@ -1,6 +1,8 @@
 - **Note:** Add events into calendar.
 - ### Activities
 	- **Notes**
+		- Make sure to allot codeine and alcohol time for Christmas.
+		- Don’t buy new Yankee Candles? Check what I’ve got and use those?
 		- Windsor Castle
 		- See if [Prince Charles Cinema](https://princecharlescinema.com/whats-on/) Christmas listings have been released.
 		- It looks like last year I already separated Autumn and Christmas a bit. See [Autumn-Winter 2023-24](roam://#/app/clowes/page/huO8dWa5B) in Roam.
@@ -11,14 +13,11 @@
 			- Twilight
 			- Good Will Hunting
 			- When Harry Met Sally
-	- **Notes**
-		- It looks like last year I already separated Autumn and Christmas a bit. See [Autumn-Winter 2023-24](roam://#/app/clowes/page/huO8dWa5B) in Roam.
 	- **TV**
 		- [ ] Stranger Things
 		- [ ] Gilmore Girls
 		- [ ] Twin Peaks (to watch)
 			- There’s a film too.
-		- [ ] Gilmore Girls
 		- [ ] Over The Garden Wall
 		- [ ] X-Files
 		- [ ] Add Social Network to autumn/winter films
@@ -89,64 +88,46 @@
 	- **September 14th, 2024** 💊
 		- **Plan Autumn and preliminary plan Christmas**
 		- Stranger Things (eat Nerds)
-	- **September 21st, 2024**
+	- **September 21st, 2024** 🍁
 		- *Note: A break from codeine is important this week as next week I'm having both codeine and alcohol.*
 		- Tinker Tailor Soldier Spy
-	- **September 28th, 2024** 💊
+	- **September 28th, 2024** 💊 🍂
 		- 🗓️ Reuben Kaye
 		- LOTR 1
-	- **October 5th, 2024** 💊
+	- **October 5th, 2024** 💊 🥮
 		- Windsor Castle / LOTR 2
 		- LOTR 3
-	- **October 12th, 2024**
+	- **October 12th, 2024** 🍁
 		- ???
-	- **October 19th, 2024**
+	- **October 19th, 2024** 🍂
 		- Ex Machina?
 	- **October 26th, 2024** 🎃 💊
 		- Harry Potter and the Philosopher's Stone
 			- Have sweets at same time as trolly train sweet scene.
 		- Harry Potter and the Chamber of Secrets
 		- **Thursday**: 🎃 Practical Magic / Hubie Halloween
-	- **November 2nd, 2024**
+	- **November 2nd, 2024** 🍁
 		- **Plan Christmas?**
 		- *Note: A break from codeine is important this week as next week I'm having both codeine and alcohol.*
-		- Tinker Tailor Soldier Spy
-	- **September 28th, 2024** 💊
-		- 🗓️ Reuben Kaye
-		- LOTR 1
-	- **October 5th, 2024** 💊
-		- LOTR 2
-		- LOTR 3
-	- **October 12th, 2024**
-		- ???
-	- **October 19th, 2024**
-		- Ex Machina?
-	- **October 26th, 2024** 🎃 💊
-		- Harry Potter and the Philosopher's Stone
-			- Have sweets at same time as trolly train sweet scene.
-		- Harry Potter and the Chamber of Secrets
-		- **Thursday**: 🎃 Practical Magic / Hubie Halloween
-	- **November 2nd, 2024**
-		- **Plan Christmas?**
 		- Harry Potter and the Prisoner of Azkaban
 		- Harry Potter and the Goblet of Fire
-	- **November 9th, 2024**
+	- **November 9th, 2024** 🍂
 		- 🗓️ Harry Potter Studio Tour / The Royal Standard / Harry Potter and the Order of the Phoenix
 		- Harry Potter and the Half-Blood Prince
-	- **November 16th, 2024**
+	- **November 16th, 2024** 🥮
 		- Harry Potter and the Deathly Hallows – Part 1
 		- Harry Potter and the Deathly Hallows – Part 2
-	- **November 23rd, 2024**
+	- **November 23rd, 2024** 🌲
 		- ???
-	- **November 30th, 2024**
+	- **November 30th, 2024** 🎄
 		- Christmas
-	- **December 7th, 2024**
+	- **December 7th, 2024** 🎅
 		- Christmas
-	- **December 14th, 2024**
+	- **December 14th, 2024** 🌲
 		- Christmas
-	- **December 21st, 2024**
+	- **December 21st, 2024** 🎄
 		- Christmas
-	- **December 28th, 2024**
+	- **December 28th, 2024** 🎅
 		- Christmas
 - ## Feasts
     - **August 15:** The Dormition of our Most Holy Lady the Mother of God and Ever-Virgin Mary
@@ -163,3 +144,7 @@
     - **November 21:** The Entry of the Most Holy Theotokos into the Temple
     - **December 4:** Introduction to the Church of the Most Holy Theotokos
     - **December 25:** Nativity of our Lord God and Savior Jesus Christ. Christmas
+- ## Photos
+	- ![[temp_image_EF36C8C8-3513-4F2D-A1B8-4903CB412AFE.webp]]
+	- ![[temp_image_2CD03BEF-4781-44D4-8E0C-67FCD9690B03.webp]]
+	- ![[temp_image_97B80438-BB4C-44C3-A357-39A3E6EEBA12.webp]]

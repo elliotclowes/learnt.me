@@ -70,6 +70,7 @@
 - Tom Waits
 - Pearl Jam
 - Massive Attack
+- The Police
 
 ## Albums
 - Richard Thompson - Rumor and Sigh

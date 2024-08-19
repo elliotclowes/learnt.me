@@ -43,6 +43,8 @@ Started: [[2024-07-07]]
 - Blushing is largely uncontrollable and difficult to fake. That makes it useful in judging what people are feeling. P144
 - Extroverts seem to get a bigger hit of dopamine from dopamine-rewarding activities.
 - There’s a test down on students worldwide every 4 years called TIMSS (Trends in International Mathematics and Science Study). Asian countries like Korea, Singapore, Japan and Taiwan consistently rank highest. There’s many reasons for that. But one is ‘quiet persistence’. The exam has a long winded personal questionnaire that gives students no extra points for completing. However, the nations whose students often fill out the questionnaire also tend to have students who do well in the test. “In other words, excellent students seem not only to possess the cognitive ability to solve math and science problems, but also to have a useful personality characteristic: quiet persistence.” p201
+- People who have Botox, which limits their ability to frown and make angry faces, are less anger-prone. The very act of frowning triggers the amygdala to process negative emotions. p233 ([citation](https://www.discovermagazine.com/planet-earth/why-darwin-would-have-loved-botox))
+- 
 
 ### Introduction
 
@@ -312,10 +314,21 @@ He was good at choosing his battles. If there was going to be no benefit to resi
 > “I have naturally formed the habit of restraining my thoughts. A thoughtless word hardly ever escaped my tongue or pen. Experience has taught me that silence is part of the spiritual discipline of a votary of truth. We find so many people impatient to talk. All this talking can hardly be said to be of any benefit to the world. It is so much waste of time. My shyness has been in reality my shield and buckler. It has allowed me to grow. It has helped me in my discernment of truth.” — Gandhi
 
 
-### When should you act more extroverted than you really are?
+### 10. The Communication Gap
 
+#### Reading social cues
 
+Introverts and extroverts are just as good at reading social cues. However, introverts aren’t as good whilst *in* a social encounter. They’re good at reading social cues from afar. But they seem to find there to be too much going whilst in an actual conversation and struggle. It’s only when they’re played back a recording that they might understand these social cues. P236-237
 
+![[IMG_3931.jpeg]]
+
+#### How introverts and extroverts talk
+
+One study found that introverts tend to focus on one or two serious subjects whilst talking to one another. And they often talked about problems or issues. 
+
+Whereas extroverts would cover more subjects, and they’d be lighter.
+
+But one interesting thing is that when the two types talk to the other they can like it. Then introverts like how the extroverts take the lead and let them ‘rest’. And the extroverts like how the introverts will deeply listen to them and they felt freer to confide in them. P239
 
 ## Index
 
