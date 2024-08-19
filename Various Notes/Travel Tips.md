@@ -65,7 +65,6 @@ Things that are great to read on holiday.
 - Monocle magazine.
 - “The Rum Diary” by [[Hunter S. Thompson]].
 - James Bond book series by Ian Fleming.
-ames Bond book series by Ian Fleming.
 
 *Created: [[2024-06-02]]*
 
