@@ -56,7 +56,7 @@
 - 68% – Role Models
 - 66% – [[Bullet Train (2022)]]
 - 62% – [[Jackass Forever (2022)]]
-- 62% – [[Road House (2024) 1]]
+- 62% – [[Road House (2024]]
 - 62% – [[Green Street Hooligans (2005)]]
 - 61% – [[The Fall Guy (2024)]]
 - 61% – [[Dumb Money (2024)]]
