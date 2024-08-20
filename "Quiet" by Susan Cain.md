@@ -44,7 +44,12 @@ Started: [[2024-07-07]]
 - Extroverts seem to get a bigger hit of dopamine from dopamine-rewarding activities.
 - There’s a test down on students worldwide every 4 years called TIMSS (Trends in International Mathematics and Science Study). Asian countries like Korea, Singapore, Japan and Taiwan consistently rank highest. There’s many reasons for that. But one is ‘quiet persistence’. The exam has a long winded personal questionnaire that gives students no extra points for completing. However, the nations whose students often fill out the questionnaire also tend to have students who do well in the test. “In other words, excellent students seem not only to possess the cognitive ability to solve math and science problems, but also to have a useful personality characteristic: quiet persistence.” p201
 - People who have Botox, which limits their ability to frown and make angry faces, are less anger-prone. The very act of frowning triggers the amygdala to process negative emotions. p233 ([citation](https://www.discovermagazine.com/planet-earth/why-darwin-would-have-loved-botox))
-- 
+- Introverts are often “recoiling from novelty or overstimulation, not from human contact.” But from the outside it nearly always looks like the later. P248
+- A common theme is that for extroverts school is often the best time of their life. And for introverts it’s often the worst. P262
+- “ The secret of life is to put yourself in the right lighting.
+
+For some is a Broadway spotlight; for other
+- “Introverts are offered keys to private gardens full of riches.” P266
 
 ### Introduction
 
@@ -318,7 +323,7 @@ He was good at choosing his battles. If there was going to be no benefit to resi
 
 #### Reading social cues
 
-Introverts and extroverts are just as good at reading social cues. However, introverts aren’t as good whilst *in* a social encounter. They’re good at reading social cues from afar. But they seem to find there to be too much going whilst in an actual conversation and struggle. It’s only when they’re played back a recording that they might understand these social cues. P236-237
+Introverts and extroverts are just as good at reading social cues. However, introverts aren’t as good whilst *in* a social encounter. They’re good at reading social cues from afar. But they seem to find there to be too much going whilst in an actual conversation, and they struggle. It’s only when they’re played back a recording or think about it later that they might register these social cues. P236-237
 
 ![[IMG_3931.jpeg]]
 
@@ -326,9 +331,28 @@ Introverts and extroverts are just as good at reading social cues. However, intr
 
 One study found that introverts tend to focus on one or two serious subjects whilst talking to one another. And they often talked about problems or issues. 
 
-Whereas extroverts would cover more subjects, and they’d be lighter.
+Whereas extroverts would cover more subjects, and they’d be lighter in nature.
 
-But one interesting thing is that when the two types talk to the other they can like it. Then introverts like how the extroverts take the lead and let them ‘rest’. And the extroverts like how the introverts will deeply listen to them and they felt freer to confide in them. P239
+But one interesting thing is that when the two types talk to the other they really like it. The introverts like how the extroverts take the lead and let them ‘rest’. And the extroverts like how the introverts will deeply listen to them and they felt freer to confide in them. P239
+
+### 11. On Cobblers and Generals
+
+#### Helping your introverted child
+
+Finding out from your introverted child how they’re finding school is important, but can be difficult.
+
+“Many kids won’t share experiences that made them feel ashamed.”
+
+It’s easier for younger kids to open up, so nurture this within them early. 
+
+Don’t just say “how was your day?” or “what did you do today?” Say “do you like your teacher?” And “what do you not like so much?”. 
+
+“Try to avoid asking, in an overly bright voice of parents everywhere, “Did you have fun in school today?” She’ll sense how important it is that the answer is yes.
+
+And sometimes right after school or at the dinner table is a bad time to ask. They need time to decompress and process. Cozy, relaxed moments in the evening can be a better time. During bath time or reading time.
+
+P258
+
 
 ## Index
 

@@ -1,6 +1,8 @@
 - **Note:** Add events into calendar.
 - ### Activities
 	- **Notes**
+		- Make sure to spent time with Natalie. 
+			- ![[IMG_3934.jpeg]]
 		- Make sure to allot codeine and alcohol time for Christmas.
 		- Don’t buy new Yankee Candles? Check what I’ve got and use those?
 		- Windsor Castle
@@ -13,6 +15,10 @@
 			- Twilight
 			- Good Will Hunting
 			- When Harry Met Sally
+	- **Christmas**
+		- More Huel’s in lead up.
+		- Plan books
+			- Village Christmas book. The thin one with kids playing in snow on the cover.
 	- **TV**
 		- [ ] Stranger Things
 		- [ ] Gilmore Girls
@@ -68,6 +74,7 @@
 	- **Walking**
 		- [ ] Walk with coffee
 	- **Videos**
+		- [Intellectual YouTube playlist](https://youtube.com/playlist?list=PLvA0caarRB0Mm9RMwGZGQl-adAJ-utL57&si=SbQ914Jy_kXJPPHL)
 		- [ ] [huge halloween haul || summerween vlog - decor, home, clothes, & books](https://youtu.be/k6DSs8ICrDM?si=3RUYbcPGVC1anLVl)
 		- [ ] https://youtube.com/watch?v=BhhBSUmdgmo&si=SbZwrsqmftFE0AYw
 	- **Links**
