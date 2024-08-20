@@ -35,15 +35,15 @@ Started: [[2024-07-07]]
 ### Small notes
 
 - Shyness and introversion are two different things. P12
-- > A popular 1926 sex guide observed, “homosexuals are invariably timid, shy, retiring.” P25
-- At 37signals they have “No-Talk Thursdays” where employees aren’t allowed to talk to one another so they can focus on work. P86
+- > A popular [[1926]] sex guide observed, “[[homosexuals]] are invariably timid, shy, retiring.” P25
+- At [[37signals]] they have “No-Talk Thursdays” where employees aren’t allowed to talk to one another so they can focus on work. P86
 - “Overarousal interferes with attention and short-term memory”. Introverts are aroused more easily than extroverts (and we’re talking about brain, not sexual arousal here). That’s why they might remember less of a conversation in a busy, noisy environment than an extrovert. P126
 - “When someone offers you a beer, they’re really saying ‘hi, have a glass of extroversion’” — Brian Little. P143
 - > “A 2010 University of Michigan study shows that college students today are 40 percent less empathetic than they were thirty years ago, with much of the drop having occurred since 2000. (The study's authors speculate that the decline in empathy is related to the prevalence of social media, reality TV, and "hyper-competitiveness.")” P141
 - Blushing is largely uncontrollable and difficult to fake. That makes it useful in judging what people are feeling. P144
 - Extroverts seem to get a bigger hit of dopamine from dopamine-rewarding activities.
 - There’s a test down on students worldwide every 4 years called TIMSS (Trends in International Mathematics and Science Study). Asian countries like Korea, Singapore, Japan and Taiwan consistently rank highest. There’s many reasons for that. But one is ‘quiet persistence’. The exam has a long winded personal questionnaire that gives students no extra points for completing. However, the nations whose students often fill out the questionnaire also tend to have students who do well in the test. “In other words, excellent students seem not only to possess the cognitive ability to solve math and science problems, but also to have a useful personality characteristic: quiet persistence.” p201
-- People who have Botox, which limits their ability to frown and make angry faces, are less anger-prone. The very act of frowning triggers the amygdala to process negative emotions. p233 ([citation](https://www.discovermagazine.com/planet-earth/why-darwin-would-have-loved-botox))
+- People who have [[Botox]], which limits their ability to frown and make angry faces, are less anger-prone. The very act of frowning triggers the amygdala to process negative emotions. p233 ([citation](https://www.discovermagazine.com/planet-earth/why-darwin-would-have-loved-botox))
 - Introverts are often “recoiling from novelty or overstimulation, not from human contact.” But from the outside it nearly always looks like the later. P248
 - A common theme is that for extroverts school is often the best time of their life. And for introverts it’s often the worst. P262
 - “ The secret of life is to put yourself in the right lighting.
@@ -57,7 +57,7 @@ For some is a Broadway spotlight; for other
 
 Despite being known for a defiant act that required bravery, Rosa Parks was known to be timid and shy. She was described as soft-spoken, sweet and small in stature.
 
-I didn’t realise that the Montgomery Improvement Association arranged a boycott of the city buses after the Parks incident. It lasted 381 days. P1-2
+I didn’t realise that the [[Montgomery Improvement Association]] arranged a boycott of the city buses after the Parks incident. It lasted 381 days. P1-2
 
 Parks had had a run-in with the bus driver of the bus she refused to move out of the seat of 12 years prior. He was a known bigot and she strongly disliked him:
 
@@ -69,7 +69,7 @@ Parks had had a run-in with the bus driver of the bus she refused to move out of
 
 ### The Rise of the “Mighty Likeable Fellow”
 
-#### Dale Carnegie
+#### [[Dale Carnegie]]
 
 Dale Carnegie changed his last name to that from “Carnagey” to evoke Andrew Carnegie. 
 
@@ -87,9 +87,9 @@ He started teaching a public speaking class at the YMCA. He asked the $2 a sessi
 
 #### Extrovert Ideal
 
-According to the cultural historian Warren Susman America changed from the Culture of Character to the Culture of Personality.
+According to the cultural historian [[Warren Susman]] America changed from the Culture of Character to the Culture of Personality.
 
-The word ‘personality’ didn’t exist in English until the 1700s.
+The word ‘personality’ didn’t exist in English until the [[1700s]].
 
 One of the easiest ways to track this transition is via self help books, always popular in America. Pre-1920 they were mostly about ‘character’. The modesty of Abraham Lincoln was an ideal. 
 
@@ -101,7 +101,7 @@ But by 1920 self help books were less about inner virtue and more about outer ch
 
 The Inferiority Complex (IC) was one of the first ‘fashionable’ mental conditions. It started to be retroactively applied to everyone from [[Abraham Lincoln]] to [[Napoleon]]. It was used as an all purpose explanation for many problem areas in life. P26
 
-> The field of psychology also began to grapple with the pressure to project confidence. In the 1920s an influential psychologist named Gordon Allport created a diagnostic test of "Ascendance-Submission" t measure social dominance. "Our current civilization," observed Allport, who was himself shy and reserved, "seems to place a premium upon the aggressive person, the 'go-getter."" In 1921, Carl Jung noted the newly precarious status of introversion. Jung himself saw introverts as "educators and promoters of culture" who showed the value of "the interior life which is so painfully wanting in our civilization.” But he acknowledged that their “reserve and apparently groundless embarrassment naturally arouse all the current prejudices against this type.  
+> The field of psychology also began to grapple with the pressure to project confidence. In the 1920s an influential psychologist named Gordon Allport created a diagnostic test of "Ascendance-Submission" to measure social dominance. "Our current civilization," observed Allport, who was himself shy and reserved, "seems to place a premium upon the aggressive person, the 'go-getter."" In 1921, [[Carl Jung]] noted the newly precarious status of introversion. Jung himself saw introverts as "educators and promoters of culture" who showed the value of "the interior life which is so painfully wanting in our civilization.” But he acknowledged that their “reserve and apparently groundless embarrassment naturally arouse all the current prejudices against this type.  
 >
 > But nowhere was the need to appear self-assured more apparent than in a new concept in psychology called the inferiority complex. The IC, as it became known in the popular press, was developed in the 1920s by a Viennese psychologist named Alfred Adler to describe feelings of inadequacy and their consequences. "Do you feel insecure?" inquired the cover of Adler's best-selling book, Understanding Human Nature. "Are you fainthearted? Are you submissive?" Adler explained that all infants and small children feel inferior, living as they do in a world of adults and older siblings. In the normal process of growing up they learn to direct these feelings into pursuing their goals. But if things go awry as they mature, they might be saddled with the dreaded IC-a grave liability in an increasingly competitive society.  
 >
@@ -116,8 +116,6 @@ In the [[1920s]] schools and parents started aiming to improve children’s pers
 In the [[1950s]] Universities weren’t just focused on test results. The person had to be ‘well-rounded’, a “pretty gregarious, active type” who has done “plenty of extracurricular activities.
 
 How true this is today, I don’t know. But it’s still presumed to be his way. When I was young lots of people did a [[Duke of Edinburgh Award]]. Not because they wanted to, but because it would make their TV “stand out”. Based on the number of kids I see doing the award each time I go to [[Ashridge]] I presume this is still the case. I remember also being told that the fact that I played rugby would help my cause when it came to jobs and University admissions.
-
-I NEED TO HIGHLIGHT PAGE 26 - 29
 
 #### Europe and America is more extroverted
 
@@ -349,9 +347,141 @@ Don’t just say “how was your day?” or “what did you do today?” Say “
 
 “Try to avoid asking, in an overly bright voice of parents everywhere, “Did you have fun in school today?” She’ll sense how important it is that the answer is yes.
 
-And sometimes right after school or at the dinner table is a bad time to ask. They need time to decompress and process. Cozy, relaxed moments in the evening can be a better time. During bath time or reading time.
+And sometimes right after school or at the dinner table is a bad time to ask. They need time to decompress and process. Cozy, relaxed moments in the evening can be a better time. During bath time or reading time. P258
 
-P258
+
+## Highlights
+
+> “A species in which everyone was General Patton would not succeed, any more than would a race in which everyone was Vincent van Gogh. I prefer to think that the planet needs athletes, philosophers, sex symbols, painters, scientists; it needs the warmhearted, the hardhearted, the coldhearted, and the weakhearted. It needs those who can devote their lives to studying how many droplets of water are secreted by the salivary glands of dogs under which circumstances, and it needs those who can capture the passing impression of cherry blossoms in a fourteen-syllable poem or devote twenty-five pages to the dissection of a small boy's feelings as he lies in bed in the dark waiting for his mother to kiss him goodnight.” – [[Allen Shawn]] (Page 1)
+
+***
+
+Poets and philosophers have been thinking about introverts and extroverts since the dawn of recorded time. Both personality types appear in the Bible and in the writings of Greek and Roman physicians, and some evolutionary psychologists say that the history of these types reaches back even farther than that: the animal kingdom also boasts "introverts" and "extroverts," as we'll see, from fruit flies to pumpkinseed fish to rhesus monkeys. As with other complementary pairings-masculinity and femininity, East and West, liberal and conservative-humanity would be unrecognizable, and vastly diminished, without both personality styles.  
+  
+Take the partnership of Rosa Parks and [[Martin Luther King Jr.]]: a formidable orator refusing to give up his seat on a segregated bus wouldn't have had the same effect as a modest woman who'd clearly prefer to keep silent but for the exigencies of the situation. (Page 3)
+
+***
+
+It makes sense that so many introverts hide even from themselves. We live with a value system that I call the Extrovert Ideal—the omnipresent belief that the ideal self is gregarious, alpha, and comfortable in the spotlight. The archetypal extrovert prefers action to contemplation, risk-taking to heed-taking, certainty to doubt. He favors quick decisions, even at the risk of being wrong. She works well in teams and socializes in groups. We like to think that we value individuality, but all too often we admire one type of individual-the kind who's comfortable "putting himself out there." Sure, we allow technologically gifted loners who launch companies in garages to have any personality they please, but they are the exceptions, not the rule, and our tolerance extends mainly to those who get fabulously wealthy or hold the promise of doing so.  
+  
+Introversion-along with its cousins sensitivity, seriousness, and shyness-is now a second-class personality trait, somewhere between a disappointment and a pathology. Introverts living under the Extrovert Ideal are like women in a man's world, discounted because of a trait that goes to the core of who they are. Extroversion is an enormously appealing personality style, but we've turned it into an oppressive standard to which most of us feel we must conform. (Page 4)
+
+***
+
+[[Dale Carnegie]]'s metamorphosis from farmboy to salesman to public-speaking icon is also the story of the rise of the Extrovert Ideal. Carnegie's journey reflected a cultural evolution that reached a tipping point around the turn of the twentieth century, changing forever who we are and whom we admire, how we act at job interviews and what we look for in an employee, how we court our mates and raise our children. America had shifted from what the influential cultural historian Warren Susman called a Culture of Character to a Culture of Personality-and opened up a Pandora's Box of personal anxieties from which we would never quite recover.  
+  
+In the Culture of Character, the ideal self was serious, disciplined, and honorable. What counted was not so much the impression one made in public as how one behaved in private. The word personality didn't exist in English until the eighteenth century, and the idea of "having a good personality" was not widespread until the twentieth.  
+  
+But when they embraced the Culture of Personality, Americans started to focus on how others perceived them. They became captivated by people who were bold and entertaining. "The social role demanded of all in the new Culture of Personality was that of a performer," Susman famously wrote. "Every American was to become a performing self." (Page 21)
+
+***
+
+Despite the hopeful tone of this piece, child guidance experts of the 1920s set about helping children to develop winning personalities. Until then, these professionals had worried mainly about sexually precocious girls and delinquent boys, but now psychologists, social workers, and doctors focused on the everyday child with the "maladjusted personality", particularly shy children. Shyness could lead to dire outcomes, they warned, from alcoholism to suicide, while an outgoing personality would bring social and financial success. The experts advised parents to socialize their children well and schools to change their emphasis from booklearning to "assisting and guiding the developing personality." Educators took up this mantle enthusiastically. By 1950 the slogan of the Mid-Century White House Conference on Children and Youth was "A healthy personality for every child."  
+  
+Well-meaning parents of the midcentury agreed that quiet was unacceptable and gregariousness ideal for both girls and boys. Some discouraged their children from solitary and serious hobbies, like classical music, that could make them unpopular. They sent their kids to school at increasingly young ages, where the main assignment was learning to socialize. Introverted children were often singled out as problem cases (a situation familiar to anyone with an introverted child today).  
+  
+William Whyte's The Organization Man, a 1956 best-seller, describes how parents and teachers conspired to overhaul the personalities of quiet children. "Johnny wasn't doing so well at school," Whyte recalls a mother telling him. "The teacher explained to me that he was doing fine on his lessons but that his social adjustment was not as good as it might be. He would pick just one or two friends to play with, and sometimes he was happy to remain by himself." Parents welcomed such interventions, said Whyte. "Save for a few odd parents, most are grateful that the schools work so hard to offset tendencies to introversion and other suburban abnormalities."  
+  
+Parents caught up in this value system were not unkind, or even obtuse; they were only preparing their kids for the "real world." When these children grew older and applied to college and later for their first jobs, they faced the same standards of gregariousness. University admissions officers looked not for the most exceptional candidates, but for the most extroverted. Harvard's provost Paul Buck declared in the late 1940s that Harvard should reject the "sensitive, neurotic" type and the "intellectually over-stimulated" in favor of boys of the "healthy extrovert kind." In 1950, Yale's president, Alfred Whitney Griswold, declared that the ideal Yalie was not a "beetle-browed, highly specialized intellectual, but a well-rounded man." Another dean told Whyte that "in screening applications from secondary schools he felt it was only common sense to take into account not only what the college wanted, but what, four later, corporations' recruiters would want. "They like a pretty gregarious, active type,' he said. 'So we find that the best man is the one who's had an 80 or 85 average in school and plenty of extracurricular activity. We see little use for the "brilliant" introvert.  
+This college dean grasped very well that the model employee of the midcentury—even one whose job rarely involved dealing with the public, like a research scientist in a corporate lab-was not a deep thinker but a hearty extrovert with a salesman's personality. "Customarily, whenever the word brilliant is used," explains Whyte, "it either precedes the word 'but' (e.g., 'We are all for brilliance, but...') or is coupled with such words as erratic, eccentric, introvert, screwball, etc." "These fellows will be having contact with other people in the organization," said one 1950s executive about the hapless scientists in his employ, "and it helps if they make a good impression."  
+  
+The scientist's job was not only to do the research but also to help sell it, and that required a hail-fellow-well-met demeanor., At IBM, a corporation that embodied the ideal of the company man, the sales force gathered each morning to belt out the company anthem, "Ever Onward,"  and to harmonize on the "Selling IBM" song, set to the tune of "Singin' in the Rain." "Selling IBM," it began, "we're selling IBM. What a glori ous feeling, the world is our friend." The ditty built to a stirring close: "We're always in trim, we work with a vim. We're selling, just selling, IBM."  
+  
+Then they went off to pay their sales calls, proving that the admissions people at Harvard and Yale were probably right: only a certain type of fellow could possibly have been interested in kicking off his mornings this way.  
+  
+The rest of the organization men would have to manage as best they could. And if the history of pharmaceutical consumption is any indication, many buckled under such pressures. In 1955 a drug company named Carter-Wallace released the anti-anxiety drug Miltown, reframing anxiety as the natural product of a society that was both dog-eat-dog and relentlessly social. Miltown was marketed to men and immediately became the fastest-selling pharmaceutical in American history, according to the social historian Andrea Tone. By 1956 one of every twenty Americans had tried it; by 1960 a third of all prescriptions from U.S. doctors were for Miltown or a similar drug called Equanil. "ANXIETY AND TENSION ARE THE COMMONPLACE OF THE AGE," read the Equanil ad. The 1960s tranquilizer Serentil followed with an ad campaign even more direct in its appeal to improve social performance. "FOR THE ANXIETY THAT COMES FROM NOT FITTING IN," it empathized. (Page 27)
+
+***
+
+Early Americans revered action and were suspicious of intellect, associating the life of the mind with the languid, ineffectual European aristocracy they had left behind. The 1828 presidential campaign pitted a former Harvard professor, [[John Quincy Adams]], against [[Andrew Jackson]], a forceful military hero. A Jackson campaign slogan tellingly distinguished the two: "John Quincy Adams who can write / And Andrew Jackson who can fight."  
+  
+The victor of that campaign? The fighter beat the writer, as the cultural historian Neal Gabler puts it. (John Quincy Adams, incidentally, is considered by political psychologists to be one of the few introverts in presidential history.) (Page 30)
+
+***
+
+The most recent version of the Diagnostic and Statistical Manual (DSMIV), the psychiatrist's bible of mental disorders, considers the fear of public speaking to be a -not an annoyance, not a disadvantage, but a disease—if it inpathologyterferes with the sufferer's job performance. "It's not enough," one senior manager at Eastman Kodak told the author Daniel Goleman, "to be able to sit at your computer excited about a fantastic regression analysis if you're squeamish about presenting those results to an executive group.” (Page 31)
+
+***
+
+"Socializing here is an extreme sport," one of Don's friends tells me. "People go out all the time. If you don't go out one night, the next day people will ask, 'Where were you?' I go out at night like it's my job." Don has noticed that the people who organize social events-happy hours, dinners, drinking fests-are at the top of the social hierarchy. "The professors tell us that our classmates are the people who will go to our weddings," says Don. "If you leave [[HBS]] without having built an extensive social network, it's like you failed your HBS experience."  
+  
+By the time Don falls into bed at night, he's exhausted. And sometimes he wonders why, exactly, he should have to work so hard at being outgoing. Don is Chinese-American, and recently he worked a summer job in China. He was struck by how different the social norms were, and how much more comfortable he felt. In China there was more emphasis on listening, on asking questions rather than holding forth, on putting others' needs first. In the United States, he feels, conversation is about how effective you are at turning your experiences into stories, whereas a Chinese person might be concerned with taking up too much of the other person's time with inconsequential information.  
+  
+"That summer, I said to myself, 'Now I know why these are my people,'" he says.  
+  
+But that was China, this is Cambridge, Massachusetts. And if one judges HBS by how well it prepares students for the "real world," it seems to be doing an excellent job. After all, Don Chen will graduate into a business culture in which verbal fluency and sociability are the two most important predictors of success, according to a Stanford Business School study. (Page 47)
+
+***
+
+Ericsson and his cohorts found similar effects of solitude when they studied other kinds of expert performers. "Serious study alone" is the strongest predictor of skill for tournament-rated chess players, for example; grandmasters typically spend a whopping five thousand hours almost five times as many hours as intermediate-level players-studying the game by themselves during their first ten years of learning to play. College students who tend to study alone learn more over time than those who work in groups. Even elite athletes in team sports often spend unusual amounts of time in solitary practice.  
+  
+What's so magical about solitude? In many fields, Ericsson told me, it's only when you're alone that you can engage in Deliberate Practice, which he has identified as the key to exceptional achievement. When you practice deliberately, you identify the tasks or knowledge that are just out of your reach, strive to upgrade your performance, monitor your progress, and revise accordingly. Practice sessions that fall short of this standard are not only less useful—they're counterproductive. They reinforce existing cognitive mechanisms instead of improving them.  
+  
+[[Deliberate Practice]] is best conducted alone for several reasons. It takes intense concentration, and other people can be distracting. It requires deep motivation, often self-generated. But most important, it involves working on the task that's most challenging to you personally. Only when you're alone, Ericsson told me, can you "go directly to the part that's challenging to you. If you want to improve what you're doing, you have to be the one who generates the move. Imagine a group classyou're the one generating the move only a small percentage of the time”.
+
+(Page 81)
+
+***
+
+A mountain of recent data on open-plan offices from many different industries corroborates the results of the games. Open-plan offices have been found to reduce productivity and impair memory. They're associated with high staff turnover. They make people sick, hostile, unmotivated, and insecure. Open-plan workers are more likely to suffer from high blood pressure and elevated stress levels and to get the flu; they argue more with their colleagues; they worry about coworkers eavesdropping on their phone calls and spying on their computer screens. They have fewer personal and confidential conversations with colleagues. They're often subject to loud and uncontrollable noise, which raises heart rates; releases cortisol, the body's fight-or-flight "stress" hormone; and makes people socially distant, quick to anger, aggressive, and slow to help others. (Page 84)
+
+***
+
+Between 1951 and 1956, just as Osborn was promoting the power of group brainstorming, a psychologist named Solomon Asch conducted a series of now-famous experiments on the dangers of group influence. Asch gathered student volunteers into groups and had them take a vision test. He showed them a picture of three lines of varying lengths and asked questions about how the lines compared with one another: which was longer, which one matched the length of a fourth line, and so on. His questions were so simple that 95 percent of students answered every question correctly.  
+  
+But when Asch planted actors in the groups, and the actors confidently volunteered the same incorrect answer, the number of students who gave all correct answers plunged to 25 percent. That is, a staggering 75 percent of the participants went along with the group's wrong answer to at least one question.  
+  
+The Asch experiments demonstrated the power of conformity at exactly the time that Osborn was trying to release us from its chains. What they didn't tell us was why we were so prone to conform. What was going on in the minds of the kowtowers? Had their perception of the lines' lengths been altered by peer pressure, or did they knowingly give wrong answers for fear of being the odd one out? For decades, psychologists puzzled over this question.  
+  
+Today, with the help of brain-scanning technology, we may be getting closer to the answer. In 2005 an Emory University neuroscientist named Gregory Berns decided to conduct an updated version of Asch's experiments. Berns and his team recruited thirty-two volunteers, men and women between the ages of nineteen and forty-one. The volunteers played a game in which each group member was shown two different three-dimensional objects on a computer screen and asked to decide whether the first object could be rotated to match the second. The experimenters used an fMRI scanner to take snapshots of the volunteers' brains as they conformed to or broke with group opinion.  
+  
+The results were both disturbing and illuminating. First, they corroborated Asch's findings. When the volunteers played the game on their own, they gave the wrong answer only 13.8 percent of the time.  
+  
+But when they played with a group whose members gave unanimously wrong answers, they agreed with the group 41 percent of the time. But Berns's study also shed light on exactly why we're such conformists. When the volunteers played alone, the brain scans showed activity in a network of brain regions including the occipital cortex and parietal cortex, which are associated with visual and spatial perception, and in the frontal cortex, which is associated with conscious decision-making. But when they went along with their group's wrong answer, their brain activity revealed something very different.  
+  
+Remember, what Asch wanted to know was whether people conformed despite knowing that the group was wrong, or whether their perceptions had been altered by the group. If the former was true, Berns and his team reasoned, then they should see more brain activity in the decision-making prefrontal cortex. That is, the brain scans would pick up the volunteers deciding consciously to abandon their own beliefs to fit in with the group. But if the brain scans showed heightened activity in regions associated with visual and spatial perception, this would suggest that the group had somehow managed to change the individual's perceptions.  
+  
+That was exactly what happened-the conformists showed less brain activity in the frontal, decision-making regions and more in the areas of the brain associated with perception. Peer pressure, in other words, is not only unpleasant, but can actually change your view of a problem.  
+  
+These early findings suggest that groups are like mind-altering substances. If the group thinks the answer is A, you're much more likely to believe that A is correct, too. It's not that you're saying consciously, "Hmm, I'm not sure, but they all think the answer's A, so I'll go with that." Nor are you saying, "I want them to like me, so I'll just pretend that the answer's A." No, you are doing something much more unexpected-and dangerous. Most of Berns's volunteers reported having gone along with the group because "they thought that they had arrived serendipitously at the same correct answer." They were utterly blind, in other words, to how much their peers had influenced them.  
+  
+What does this have to do with social fear? Well, remember that the volunteers in the Asch and Berns studies didn't always conform. Sometimes they picked the right answer despite their peers' influence. And Berns and his team found something very interesting about these moments. They were linked to heightened activation in the amygdala, a small organ in the brain associated with upsetting emotions such as the fear of rejection.  
+  
+Berns refers to this as "the pain of independence," and it has serious implications. Many of our most important civic institutions, from elections to jury trials to the very idea of majority rule, depend on dissenting voices. But when the group is literally capable of changing our perceptions, and when to stand alone is to activate primitive, powerful, and unconscious feelings of rejection, then the health of these institutions seems far more vulnerable than we think. (Page 90)
+
+***
+
+In another famous study, introverts and extroverts were asked to play a challenging word game in which they had to learn, through trial and error, the governing principle of the game. While playing, they wore headphones that emitted random bursts of noise. They were asked to adjust the volume of their headsets up or down to the level that was "just right." On average, the extroverts chose a noise level of 72 decibels, while the introverts selected only 55 decibels. When working at the volume that they had selected-loud for the extroverts, quiet for the introverts-the two types were about equally aroused (as measured by their heart rates and other indicators). They also played equally well.  
+  
+When the introverts were asked to work at the noise level preferred by the extroverts, and vice versa, everything changed. Not only were the introverts over-aroused by the loud noise, but they also underperformed-taking an average of 9.1 trials rather than 5.8 to learn the game. The opposite was true for the extroverts-they were under-aroused (and possibly bored) by the quieter conditions, and took an average of 7.3 trials, compared with the 5.4 they'd averaged under noisier conditions. (Page 124)
+
+***
+
+First Aron interviewed thirty-nine people who described themselves as being either introverted or easily overwhelmed by stimulation. She asked them about the movies they liked, their first memories, relationships with parents, friendships, love lives, creative activities, philosophical and religious views. Based on these interviews, she created a voluminous questionnaire that she gave to several large groups of people. Then she boiled their responses down to a constellation of twenty-seven attributes. She named the people who embodied these attributes "highly sensitive.'"  
+  
+Some of these twenty-seven attributes were familiar from Kagan and others' work. For example, highly sensitive people tend to be keen observers who look before they leap. They arrange their lives in ways that limit surprises. They're often sensitive to sights, sounds, smells, pain, coffee. They have difficulty when being observed (at work, say, or performing at a music recital) or judged for general worthiness (dating, job interviews).  
+  
+But there were also new insights. The highly sensitive tend to be philosophical or spiritual in their orientation, rather than materialistic or hedonistic. They dislike small talk. They often describe themselves as creative or intuitive (just as Aron's husband had described her). They dream vividly, and can often recall their dreams the next day. They love music, nature, art, physical beauty. They feel exceptionally strong emotionssometimes acute bouts of joy, but also sorrow, melancholy, and fear.  
+  
+Highly sensitive people also process information about their environments-both physical and emotional-unusually deeply. They tend to notice subtleties that others missanother person's shift in mood, say, or a lightbulb burning a touch too brightly. (Page 136)
+
+***
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## Index
