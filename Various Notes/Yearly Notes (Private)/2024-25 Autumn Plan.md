@@ -1,7 +1,7 @@
 - **Note:** Add events into calendar.
 - ### Activities
 	- **Notes**
-		- Make sure to spent time with Natalie. 
+		- Make sure to spend time with Natalie. 
 			- ![[IMG_3934.jpeg]]
 		- Make sure to allot codeine and alcohol time for Christmas.
 		- Don’t buy new Yankee Candles? Check what I’ve got and use those?
@@ -62,6 +62,8 @@
 	- **Meals**
 		- [ ] Roast dinner
 		- [ ] Tring farm steak pie
+		- [ ] Use up food in pantry
+			- Curry, soy milk, etc
 	- **Snacks**
 		- [ ] Nerds
 			- With Stranger Things.
