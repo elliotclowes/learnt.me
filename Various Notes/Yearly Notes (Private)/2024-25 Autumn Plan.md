@@ -1,6 +1,7 @@
 - **Note:** Add events into calendar.
 - ### Activities
 	- **Notes**
+		- Remove just winter TV/films from Christmas list and put
 		- Make sure to spend time with Natalie. 
 			- ![[IMG_3934.jpeg]]
 		- Make sure to allot codeine and alcohol time for Christmas.
@@ -62,6 +63,7 @@
 	- **Meals**
 		- [ ] Roast dinner
 		- [ ] Tring farm steak pie
+		- [ ] Grilled cheese
 		- [ ] Use up food in pantry
 			- Curry, soy milk, etc
 	- **Snacks**
@@ -131,6 +133,7 @@
 		- Harry Potter and the Deathly Hallows – Part 2
 	- **November 23rd, 2024** 🌲
 		- ???
+		- **Thursday, Thanksgiving**: [[Planes, Trains & Automobiles (1987)]]
 	- **November 30th, 2024** 🎄
 		- Christmas
 	- **December 7th, 2024** 🎅

@@ -157,6 +157,15 @@
 
 ### Autumn
 - [Trakt](https://trakt.tv/users/ejclowes/lists/autumn?sort=title,asc)
+- **Haven't watched yet**
+	- Fantastic Mr. Fox
+	- You've Got Mail
+	- Home for the Holidays
+	- Rudy (1993) (need to download)
+	- Autumn in New York
+	- Stepmom (1998) (need to download)
+	- Dead Poets Society
+	- Remember the Titans (need to download)
 - Alan Partridge: Alpha Papa
 - Barry Lyndon
 - The BFG
@@ -181,6 +190,7 @@
 - The Invisible Woman
 - King Arthur
 - The King's Speech
+- Knives Out
 - The Lighthouse
 - LOTR
 - A Monster Calls
@@ -192,11 +202,14 @@
 - Outlaw King
 - Paddington
 - Pilgrimage
+- [[Planes, Trains & Automobiles (1987)]]
 - Robin Hood
 - Stardust
 - Tinker Tailor Soldier Spy
 - Victor Frankenstein
+- The Village
 - Wallace & Gromit: The Curse of the Were-Rabbit
+- When Harry Met Sally... (1989)
 - The Young Victoria
 - **TV**
 	- [Trakt](https://trakt.tv/users/ejclowes/lists/autumn-winter-tv?sort=title,asc)
@@ -234,14 +247,64 @@
 	- Vicious
 	- Vikings
 
+
+### Winter (NEED TO ADD ONES OVER FROM CHRISTMAS LIST)
+- A Most Violent Year
+- An Inspector Calls
+- The Assassination of Jesse James by the Coward Robert Ford
+- Anna Karenina
+- Black Death
+- Burke & Hare
+- Can You Ever Forgive Me?
+- Dorian Gray
+- Eastern Promises
+- Gangs of New York
+- In Bruges
+- Ironclad
+- King Arthur
+- Les Misérables
+- Peter & the Wolf
+- Sherlock Holmes
+- Sherlock Holmes: A Game of Shadows
+- Solomon Kane
+- Sweeney Todd: The Demon Barber of Fleet Street
+- The Girl with the Dragon Tattoo
+- The King
+- The Libertine
+- The Limehouse Golem
+- The Nightmare Before Christmas
+- The Raven
+- The Revenant
+- The Wolfman
+- Van Helsing
+- Withnail & I
+- Wind River
+- Zack and Miri Make a Porno
+- xXx (2002)
+
+### Snow
+- Anna Karenina
+- Les Misérables
+- Peter & the Wolf
+- Solomon Kane
+- The Assassination of Jesse James by the Coward Robert Ford
+- The Girl with the Dragon Tattoo
+- The Hateful Eight
+- The Revenant
+- Wind River
+- xXx
+- Zack and Miri Make a Porno
+
 ### [[Halloween]]
+- **To watch**
+	- Haunted Mansion (2023)
+	- Practical Magic
+	- The Craft
 - Hubie Halloween
 - Mean Girls
 - ParaNorman
 - Hocus Pocus
-- Practical Magic (to watch)
 - Sleepy Hollow
-- The Craft (to watch)
 - Corpse Bride
 - **TV**
 	- Stranger Things

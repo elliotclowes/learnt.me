@@ -1,6 +1,10 @@
 
 
 
+> "The 8-hour workday is too profitable for big business, not because of the amount of work people get done in eight hours but because it makes for such a purchase-happy public. Keeping free time scarce means people pay a lot more for convenience, gratification, and any other relief they can buy. It keeps them watching television, and its commercials. It keeps them unambitious outside of work.'" – [David Cain](https://www.raptitude.com/2010/07/your-lifestyle-has-already-been-designed/)
+
+***
+
 > “One hour solving the right problem beats ten hours on the wrong one.” – [[Shane Parrish]] ([source](https://fs.blog/brain-food/july-21-2024/#:~:text=%E2%80%9CIt's%20not%20enough%20to%20simply,about%20what%20to%20focus%20on.%E2%80%9D))
 
 ***

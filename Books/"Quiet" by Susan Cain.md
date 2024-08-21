@@ -1,6 +1,6 @@
 Started: [[2024-07-07]]
 Finished: [[2024-08-20]]
-
+Averaged 6 pages a day.
 ## New words
 
 - misanthrope
