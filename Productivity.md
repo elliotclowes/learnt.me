@@ -1,8 +1,7 @@
 ## My productivity advice
 
 - Unless it's vital for your job, only process emails and Slack messages at specific points during the day. I do it in the post-lunch energy crash around 14:00.
-- Learn keyboard shortcuts. And use tools like [TextExpander](https://textexpander.com/) or [Typinator](https://ergonis.com/typinator) to
-- 
+- Learn keyboard shortcuts. And use tools like [TextExpander](https://textexpander.com/) or [Typinator](https://ergonis.com/typinator) to speed up frequently typed words.
 - **ADHD-specific**
 	- Don't keep any to-dos just in your head. Ever.
 	- It's always best if to-dos can avoid your to-do list altogether. Sometimes adding things to a to-do list is a way of putting things off.
