@@ -5,7 +5,8 @@
 		- Make sure to spend time with Natalie. 
 			- ![[IMG_3934.jpeg]]
 		- Make sure to allot codeine and alcohol time for Christmas.
-		- Don’t buy new Yankee Candles? Check what I’ve got and use those?
+		- Plan autumn candles
+		- Don’t buy new Yankee Candles for Christmas? Check what I’ve got and use those?
 		- Windsor Castle
 		- See if [Prince Charles Cinema](https://princecharlescinema.com/whats-on/) Christmas listings have been released.
 		- It looks like last year I already separated Autumn and Christmas a bit. See [Autumn-Winter 2023-24](roam://#/app/clowes/page/huO8dWa5B) in Roam.

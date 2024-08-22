@@ -1,5 +1,18 @@
 Started: [[2024-08-20]]
 
+
+## New words
+
+- primogeniture
+	- 1. the state of being the [firstborn](https://www.google.com/search?client=safari&sca_esv=8f49df3e5247a172&hl=en-gb&sxsrf=ADLYWILN0AWofsNENJ9MtnWfzV9pAiFwhQ:1724309563567&q=firstborn&si=ACC90nytWkp8tIhRuqKAL6XWXX-NRk2UM7_f8V0nb3OozmREqfJhn6skzbPqclKyUO1593mgrIRHb1SODvjgZoNoYygEru_-ghLXzSvhTYztYQLEYlu9yqA%3D&expnd=1&sa=X&ved=2ahUKEwietZPYgYiIAxXAXEEAHYDsAZEQyecJegQIHxAM) child.
+	- the right of succession belonging to the firstborn child, especially the [feudal](https://www.google.com/search?client=safari&sca_esv=8f49df3e5247a172&hl=en-gb&sxsrf=ADLYWILN0AWofsNENJ9MtnWfzV9pAiFwhQ:1724309563567&q=feudal&si=ACC90nwzNcbSj6HKgPz_Y9fzn5jcfybJviqgBqRk_TpJlQe6Rfz5NnPhRK7OMQvAy19CaUL9BqB_zGzq5l2thwm8GirE_sxxXA%3D%3D&expnd=1&sa=X&ved=2ahUKEwietZPYgYiIAxXAXEEAHYDsAZEQyecJegQIHxAO) rule by which the whole real estate of an [intestate](https://www.google.com/search?client=safari&sca_esv=8f49df3e5247a172&hl=en-gb&sxsrf=ADLYWILN0AWofsNENJ9MtnWfzV9pAiFwhQ:1724309563567&q=intestate&si=ACC90nytWkp8tIhRuqKAL6XWXX-NC0En62w3-FLglJ0-nWfcDMHeAhyE4uEHJRvrLf37ISbz6WeBEecJs8np6IdKY3OjZ6mSoruz9rc90m5JT5WsCqb-xdY%3D&expnd=1&sa=X&ved=2ahUKEwietZPYgYiIAxXAXEEAHYDsAZEQyecJegQIHxAP) passed to the [eldest](https://www.google.com/search?client=safari&sca_esv=8f49df3e5247a172&hl=en-gb&sxsrf=ADLYWILN0AWofsNENJ9MtnWfzV9pAiFwhQ:1724309563567&q=eldest&si=ACC90nwzNcbSj6HKgPz_Y9fzn5jc3VAhbjeg0ACIzLFI-BZvpga9sI2hB77TmzPi-vsCPCuNtnayZ3ugrBPV-Qw8mSncE9EmZg%3D%3D&expnd=1&sa=X&ved=2ahUKEwietZPYgYiIAxXAXEEAHYDsAZEQyecJegQIHxAQ) son.
+## New things
+
+- Hanseatic League
+- Pastoralism
+	- “Pastoralism is a traditional livelihood and social system centered around the raising and herding of livestock such as cattle, sheep, goats, and camels. It often involves a nomadic or semi-nomadic lifestyle, where communities move seasonally to find fresh grazing land and water resources for their animals. This adaptation allows pastoralists to thrive in environments that are typically unsuitable for agriculture, such as arid or mountainous regions. The practice is deeply intertwined with cultural and economic aspects, influencing social structures, traditions, and trade within pastoral communities. Pastoralism plays a crucial role in maintaining biodiversity and managing ecosystems, as it often involves sustainable land use practices.”
+
+
 ## Notes
 
 ### Introduction
@@ -11,6 +24,8 @@ In the 1500s, The dried figs and currents, citrus fruits, almonds and spices tha
 > “For most of the eighteenth century the term 'empire' did not denote the possession of territory but the power to dominate trade. The first British Empire was an 'empire of the seas'.” p xix
 
 ---
+
+### 1. How the trade in Newfoundland salt cod laid the foundations of the Empire
 
 Britain has had more than one empire, apparently.  
 
@@ -50,5 +65,65 @@ Since the Middle Ages, England relied on its cloth industry to fund its luxury f
 
 The economic depression of the 1550s and 1560s led to the collapse of the European market for woollens. But the English still wanted their luxury food. The Newfoundland cod could remedy this inbalance.
 
-Dutch, French, and a few Spanish vessels would sail to Newfoundland and exchange their onboard goods of wine for salt cod. By the 1620s only 10% of the cod was bo
+Dutch, French, and a few Spanish vessels would sail to Newfoundland and exchange their onboard goods of wine for salt cod. By the 1620s only 10% of the cod was brought back to England.
+
+With time the southern Europeans appetite for cod outweighed the Englishes appetite for European consumables. So they started paying with cash. P12
+
+---
+
+A 250-ton freighter that voyaged from Newfoundland to southern Europe in the 1630s and sold salt cod could expect a 14% return on investment. The sale of the return cargo, bought with the money from selling the fish, could get another 14% return. P12
+
+---
+
+Before the economic downturn of the 1550s England was mostly a cog in the global commerce machine, and had a passive role. They would trade with Antwerp merchants, but had no direct contact with the people or places where these exotic goods came from.
+
+But when Antwerp failed to recover in the 1570s England sought direct contact with distant markets and they used the Spanish silver received from the sale of cod to good use finding trading ventures to Levant, Muscovy and East India.
+
+The British Empire was born on Newfoundland’s stony beaches and its cod. P13
+
+---
+
+### 2. How Ireland was planted with English, became a centre of the provisions trade and fed the emerging Empire
+
+The Irish practised pastoralism, which was looked down upon by the English, who wanted to introduce tillage agriculture. They planned to do this by introducing English settlers. P19-20
+
+“Under Edward VI, English soldiers who had finished their term of service were granted land in Ireland.” But the Tudors didn’t want the effort and cost to subdue Ireland.  Under Elizabeth I a more concerted effort was made. 
+
+In northern Ireland [[Hugh O'Neill, Earl of Tyrone]], who at first had Elizabeth’s trust, got too big for his boots in her eyes and the [[Nine Years' War (Ireland)]] began. It ended with English victory in [[1601]] with the Battle of Kinsale. The Irish leaders felt to the Continent and the Crown confiscated 500,000 acres of land. The Ulster Plantation was created on this land.
+
+“A mix of wealthy English adventurers and disbanded ex-soldiers who had fought to put down the rebellions were given them the land on the Plantation”. They were meant to import English tenants to farm the land, but it tough to entice settlers. However between 1580 and 1650 at least 100,000 English, Scottish and Dutch emigrants settled in Ireland. P21-22
+
+---
+
+Between 1560 and 1630 trade between Ireland and England expanded. And in the 1500s the English economy suffered from inflation, whereas Ireland didn’t.
+
+Irish beef became known for its sweet and savoury flavour. And the potato became a popular subsistence crop. In the past the Irish relied on butter as their staple food. But they now sold the butter and ate the potatoes. P22
+
+---
+
+By the 1630s southern Ireland was prosperous and Munster was ‘probably the wealthiest of any of England’s overseas settlements’. 
+
+> “In the early decades of the 1600s, Ireland fulfilled the role of a model overseas plantation: it produced commercially desirable raw commodities for export to England and in return acted as a market for English manufactured goods.”
+
+*** 
+
+“By 1641 Ireland was plunged into more than a decade of warfare when the English conflict between Charles I and Parliament spilled over into Ireland and sparked rebellion”.
+
+The Irish Confederation ruled over the rebellious parts of Ireland and pushed out protestants and aligned itself with the English royalists.
+
+Oliver Cromwell came over and his campaign of reconquest was merciless. About 40% of Irelands land, which was previously owned by Catholic landowners, was confiscated. 
+
+After 1652 Protestant settlers were a quarter of the population but had 3/4 of the land and dominated 2/3 of the trade. P24
+
+*** 
+
+In the West Indies [[sugar]] was such a valuable crop that they didn’t want to waste any land growing food. So nearly all food was imported. P26
+
+---
+
+In English West Indies the slaves were fed redshanks, the spoiled salt cod, from Newfoundland.
+
+In French West Indies they were fed barrelled ‘small beef’ from Ireland. This was made from old dairy crows and oxen and often their hooves and hide were mixed in. P26-27
+
+### 3. How the English chased the dream of the yeoman farmer but were forced to compromise
 
