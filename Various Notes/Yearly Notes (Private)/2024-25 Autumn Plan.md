@@ -34,6 +34,7 @@
 		- [ ] The Craft (1996)
 		- [ ] Dead Poets Society
 		- [ ] You’ve Got Mail
+		- [ ] The Da Vinci Code
 	- **Music**
 		- [ ] Sherlock Holmes audiobook
 		- [ ] [Mazzy Star - Among My Swan](https://open.spotify.com/album/4mhpbf7jYc0L1nBceoebIE?si=hfSl7eZqSgyka5W1tyoLYg)

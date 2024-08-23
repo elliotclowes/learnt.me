@@ -176,6 +176,7 @@
 - Cirque de Freak: The Vampire's Assistant
 - Creation
 - Crimson Peak
+- The Da Vinci Code
 - The Duchess
 - The Eagle
 - Enola Holmes
