@@ -91,11 +91,12 @@
 	- **August 10th, 2024**
 		- Curry
 	- **August 17th, 2024**
-		- Nando's for lunch. [[Deadpool & Wolverine (2024)]] after
-		- Walk with Ryan in the morning. Then family barbecue.
-- ### Future dates
+		- Nando's for lunch. [[Deadpool & Wolverine (2024)]] after walk with Ryan in the morning. Then family barbecue.
 	- **August 24th, 2024**
-		- 🗓️ Malta Holiday
+		- Friday: Was due to go to the Friends experience with Natalie, but she didn't fancy it. Booked for 22 September instead.
+		- Saturday: Preparing for holiday.
+		- Sunday: 🗓️ Malta Holiday
+- ### Future dates
 	- **August 31st, 2024**
 		- 🗓️ Malta Holiday
 	- **September 7th, 2024**
@@ -106,6 +107,7 @@
 		- The Hobbit
 	- **September 21st, 2024** 🍁
 		- *Note: A break from codeine is important this week as next week I'm having both codeine and alcohol.*
+		- Friends Experience with [[Natalie]]
 		- Tinker Tailor Soldier Spy OR The Hobbit
 	- **September 28th, 2024** 💊 🍂
 		- 🗓️ Reuben Kaye
