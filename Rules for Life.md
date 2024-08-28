@@ -104,3 +104,7 @@ Eating meat is quite plainly immoral. Unless it will be detrimental to your heal
 
 One of the biggest takeaways you’ll learn from reading history is the constant cycles. 
 
+---
+
+If a war every breaks out, take what the general consensus is on how long it will last and times it by 50-1000. [[2024-08-25]]
+

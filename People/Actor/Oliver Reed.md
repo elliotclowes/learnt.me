@@ -6,7 +6,7 @@ If you want to learn more about his exploits I recommend the book [["Hellraisers
 
 ## My Yearly Pilgrimage To The Pub Where He Died
 
-My girlfriend's family is from [[Malta]], so we usually holiday there every year. And it was in Malta whilst filming [[Gladiator (2000)]] that he [suffered a heart attack](https://en.wikipedia.org/wiki/Oliver_Reed#Death) in a pub (called [[The Pub]]) after a drinking with some sailors.
+My girlfriend's family is from [[Places/Countries/Malta]], so we usually holiday there every year. And it was in Malta whilst filming [[Gladiator (2000)]] that he [suffered a heart attack](https://en.wikipedia.org/wiki/Oliver_Reed#Death) in a pub (called [[The Pub]]) after a drinking with some sailors.
 
 The pub has become a kind of shrine to Reed and is a pilgrimage destination for his fans. So me being one of them, every year I make way to the pub and drink in his honour.
 

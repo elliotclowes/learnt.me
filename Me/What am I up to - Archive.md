@@ -24,4 +24,4 @@ Updated: **October 17th, 2023**.
 
 - On October 4th I'll be starting a new job at [News UK](https://en.wikipedia.org/wiki/News_UK) as a Business Analyst.
 - I'm back from a holiday in Malta with my girlfriend (if you want to see some pictures/video feel free to follow me on [Instagram](https://www.instagram.com/elliotontoast)).
-- After two weeks in sunny [[Malta]] I'm excited for the arrival of Autumn and all that brings. Rain, clouds, leafy walks, cosy TV/movies and homely food.
+- After two weeks in sunny [[Places/Countries/Malta]] I'm excited for the arrival of Autumn and all that brings. Rain, clouds, leafy walks, cosy TV/movies and homely food.
