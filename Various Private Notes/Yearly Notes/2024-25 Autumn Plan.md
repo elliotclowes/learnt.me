@@ -103,6 +103,7 @@
 		- 🗓️ Malta Holiday
 	- **September 14th, 2024** 💊
 		- **Plan Autumn and preliminary plan Christmas**
+		- Watch what Abigail wants this week as I want to watch Stranger Things next week.
 		- Stranger Things (eat Nerds)
 		- The Hobbit
 	- **September 21st, 2024** 🍁
