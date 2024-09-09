@@ -1,5 +1,9 @@
 - **Note:** Add events into calendar.
 - ### Activities
+	- **Food to get through**
+		- Heinz Vegetable soup (x 3)
+		- Curry sauces
+		- Fajitas
 	- **Notes**
 		- Remove just winter TV/films from Christmas list and put
 		- Make sure to spend time with Natalie. 
@@ -21,6 +25,7 @@
 		- Plan books
 			- Village Christmas book. The thin one with kids playing in snow on the cover.
 			- Peter Jackson book
+		- Do homemade Apple Crumble with Custard
 	- **TV**
 		- [ ] Stranger Things
 		- [x] Gilmore Girls
@@ -51,6 +56,7 @@
 			- [ ] Another Day in Paradise
 		- [ ] Byrd: Mass for five voices; Choral works
 		- [ ] Sade
+		- [ ] Ommadawn
 	- **Baking**
 		- [x] Cookies
 		- [x] Muffins
@@ -65,6 +71,7 @@
 		- [ ] Primark
 		- [ ] Next
 		- [ ] B&M
+		- [ ] Wilko (St Albans)
 	- **Restaurant**
 		- [ ] Travellers Rest after walk.
 	- **Meals**
@@ -73,7 +80,7 @@
 		- [x] Grilled cheese
 		- [ ] Use up food in pantry
 			- Curry, soy milk, etc
-		- [ ] Jacket potatoes (cheese & beans, chilli, etc)
+		- [x] Jacket potatoes (cheese & beans, chilli, etc)
 		- [ ] [Five recipes that John Torode and Lisa Faulkner cook at home](https://www.thetimes.com/magazines/the-times-magazine/article/john-torode-lisa-faulkner-recipes-cook-home-t38jrjd3n)
 		- [ ] [Yotam Ottolenghi: my ultimate comfort food recipes](https://www.thetimes.com/life-style/food-drink/article/yotam-ottolenghi-comfort-recipes-cookbook-extract-food-j2tfzkf9t)
 	- **Snacks**

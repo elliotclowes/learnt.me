@@ -6,9 +6,12 @@
 			- 🍿 The Oxford Murders?
 			- 📺 Stranger Things?
 				- Eat Nerds and popcorn
+			- Plan Christmas?
 		- **Saturday**
+			- 🍽️ Nandos
 			- 🍿 Dead Poets Society
 		- **Sunday**
+			- [[Chilli con carne]] and jacket potato
 	- **September 21st, 2024** 🍁
 		- *Note: A break from codeine is important this week as next week I'm having both codeine and alcohol.*
 		- Tinker Tailor Soldier Spy OR The Hobbit
@@ -26,26 +29,30 @@
 		- **Sunday**
 			- 🍿 Van Helsing
 			- 🍽️ Windmill
+			- 🍽️ Jacket potato, cheese and beans
 	- **October 5th, 2024** 💊 🥮
 		- **Saturday**
 			- 🗓️ Windsor Castle
 			- 🍽️ Cottage Pie
 		- **Sunday**
-			- 🍽️ Grilled cheese
+			- 🍽️ Toad in the Hole
 	- **October 12th, 2024** 💊 🍁
 		- *See [[My Birthday Plan]]*
 		- **Friday**
 			- 🍽️ Prime, Chandlers Cross
 		- **Saturday**
 			- 🥾 Family(?) Walk
+			- 🍽️ Soup
 			- 🍪 Bake cookies
 			- 🍽️ Natalie Steak pie
 			- 🍿 LOTR 1
 		- **Sunday**
+			- 🍽️ [[Ploughman's lunch]]
 			- 🍽️ Curry
 			- 🍿 LOTR 2
 	- **October 19th, 2024** 🍂
 		- **Saturday**
+			- 🍽️ [[Black Bean Soup]]
 			- 🍽️ Chinese
 			- 🍿 LOTR 3
 		- **Sunday**
@@ -59,20 +66,24 @@
 			- 🍿 Practical Magic
 			- 🍿 Hubie Halloween
 		- **Saturday**
-			- 🍩 Bake muffins
+			- 🥾 Walk at Tring
+			- 🍽️ Beans on Toast
+			- 🍽️ Steak Pie, Tring Farm
 			- 🍬 Make my own pick'n'mix
 			- 🍿 Harry Potter and the Philosopher's Stone
 				- Have sweets at same time as trolly train sweet scene.
 		- **Sunday**
-			- 🍽️ Steak Pie, Tring Farm
+			- 🍩 Bake muffins
+			- 🍽️ Fry-up
 			- 🍿 Harry Potter and the Chamber of Secrets
 	- **November 2nd, 2024** 🍁
 		- **Tuesday, Guy Fawkes night**
 			- 🍿 [[V for Vendetta (2006)]]
 		- **Saturday**
-			- 🍽️ Roast dinner
+			- 🍽️ Roast dinner (with family)
 			- 🍿 Harry Potter and the Prisoner of Azkaban
 		- **Sunday**
+			- 🍽️ McDonalds
 			- 🍿 Harry Potter and the Goblet of Fire
 	- **November 9th, 2024** 🍂
 		- **Saturday**
@@ -80,11 +91,14 @@
 			- 🍽️ The Royal Standard
 			- 🍿 Harry Potter and the Order of the Phoenix
 		- **Sunday**
+			- 🍽️ Sausages and mash
 			- 🍿 Harry Potter and the Half-Blood Prince
 	- **November 16th, 2024** 🥮
 		- **Saturday**
+			- 🍽️ Beef stew and mash (leftovers)
 			- 🍿 Harry Potter and the Deathly Hallows – Part 1
 		- **Sunday**
+			- 🍽️ Lasagne
 			- 🍿 Harry Potter and the Deathly Hallows – Part 2
 	- **November 23rd, 2024** 🌲
 		- ???

@@ -217,23 +217,29 @@ Shopping list week 1 (£80-£90)
 - Turkey chili con carne and rice/jacket ✔ ✔ ✔
 - Mackerel and rice ✔
 - Chickpea curry
-- Chicken thigh fillet roast dinner ✔
+- Chicken thigh fillet roast dinner  🍁
+- Roast dinner  🍁
 - Cottage Pie (swap out stew?)
 - Chicken thigh fillet fino pita ✔ ✔
-- Beef stew and mash ✔ ✔ ✔
+- Beef stew and mash  🍁
 - Chicken burrito (with avocado) ✔ ✔ ✔
 - Steak and potato/chips ✔
 - Spag bowl ✔ ✔
 - Pasta dish with bacon and egg
-- Steak pie
+- Steak pie 🍁
 - Chicken thigh fillets and med veg ✔
-- Lamb shank
+- Lamb shank 🍁
 - Chicken burger (frozen Iceland southern fried)
+- Sausages and mash 🍁
+- Toad in the Hole 🍁
+- Lancashire hotpot 🍁
+- Lasagne
+- Fry-up 🍁
 
 **Breakfast/lunch**
-- Beans on toast ✔
+- Beans on toast 🍁
 - Spam and egg muffins
-- Spam and vegetable omlette ✔ ✔
+- Spam and vegetable omlette
 - Ham and vegetable omelette (WEEK 4)
 - Vegetable omelette
 - Greek yogurt granola bowl ✔ ✔
@@ -241,17 +247,18 @@ Shopping list week 1 (£80-£90)
 - Overnight oats (for work)
 - Eggs on toast with turkey bacon
 - Peanut butter toast/sandwich ✔
-- Ham and cheese toastie (HAVE WEEK 4)
+- Ham and cheese toastie (grilled cheese) 🍁
 - Tuna sandwich ✔
 - Smoked salmon bagel ✔
 - Eggs, smoked salmon, toast ✔ ✔
-- Jacket potato, cheese, beans ✔
+- Jacket potato, cheese, beans 🍁
 - All-bran  ✔ ✔
 - Feta salad ✔ ✔
-- Jacket potato, spam, beans
+- Jacket potato, spam, beans 🍁
 - Tuna jacket ✔
-- [[Black Bean Soup]]
+- [[Black Bean Soup]] 🍁
 - Halloumi, smoked salmon, avocado, eggs, toast
+- [[Ploughman's lunch]]
 
 **Snacks**
 - Smoothie ✔ ✔ ✔ ✔ ✔
