@@ -16,9 +16,9 @@ Whatever percentage your employer matches when it comes to adding to your pensio
 
 ### Make sure it's invested properly
 
-Make sure it's invested. And properly. It likely is by default. But double check. Then make sure it's invested properly. 
+Make sure it's invested. It likely is by default. But double check. Then make sure it's invested properly. 
 
-First things first you need to try and avoid any 'actively managed' funds. These are essentially run by well paid investment people. They charge you a lot and nearly always make you less money than a 'passive' [[Index fund]].
+First things first you need to try and avoid any 'actively managed' funds. These are essentially run by well-paid investment people. They charge you a lot and nearly always make you less money than a 'passive' [[Index fund]].
 
 Most companies that employers use to manage your pension will put it into something actively managed. So you need to login to where ever your pension is managed and make sure it's invested in something as passive as possible *(I understand for some of you that this step alone is tough. You might not have ever logged in or looked at your pension before. You don't even know how. But you need to push through. It's vital. Find out how to log in. Please, please, please).*
 
@@ -28,7 +28,7 @@ This can be where it gets confusing for people. There's a long list of funds tha
 - Invests in the whole world, not just your country.
 - Invests nearly entirely in stocks, not bonds (debt).
 
-Maybe your pension provider makes it really easy for you and you can filter out the rubbish. But if not just work your way through the list of fund options. Some things to look for: 
+Maybe your pension provider makes it really easy for you and you can filter out the actively managed rubbish. But if not just work your way through the list of fund options. Some things to look for: 
 - 'World' or 'All Word' in the name.
 - The details of the fund might list a % or show a pie chart. This is likely the % of types of assets. Things like equities/stocks, bonds/debt/fixed income, commodities or cash. You're looking for one that has the highest % of equities/stocks (unless you're within 10-15 years of retirement. See 'withdrawing' below instead).
 - The fee should be listed somewhere. If it's below 0.50% it's likely a passive fund. If it's above 1% it's almost certainly actively managed and you should avoid it.

@@ -1,10 +1,26 @@
 ## You
 
+[[Ran Prieur]] said (September 5, 2024) that motivation is a human problem. Because we don’t fit our environment. Wild animals don’t have this problem. Think of it like this. There’s bears in the wild, who require no prodding to hunt for salmon. And then there’s depressed circus bears, who need constant prodding to ‘wave’ to an audience, because it’s not their natural environment. Most of us are circus bears. [[2024-09-07]]
+
+*** 
+
+> Honesty without kindness is brutality.
+
+---
+
+It’s a mind-numbing cliche, but your health is truly the most important thing. [[2024-09-04]]
+
+---
+
+If you’re overly worried about being cringy or embarrassing you’ll never live fully. You need to get over it. And accept that, yes, every now and then you may be cringe, but that’s the risk you take to exist with joy. [[2024-09-04]]
+
+---
+
 Make sure you listen to your favourite music regularly. Your soul needs it. It's a happiness cheat code. ([[2024-08-16]])
 
 ***
 
-The lazy person works twice as hard.
+> The lazy person works twice as hard.
 
 ***
 
@@ -20,7 +36,7 @@ Default to kindness. But know when to be firm.
 
 ***
 
-Expect no applause for telling the truth. It's a rightful, but often thankless task. And sometimes doing the right thing carries a heavy price.
+Expect no applause for telling the truth. It's a rightful, but often thankless task. And sometimes doing the right thing carries a heavy price – whether it be violence, awkward moments, or lost friendships. But it’s a price you have to learn to pay without question. 
 
 ***
 
@@ -48,6 +64,15 @@ Think of each of your beliefs as a brick. Ideally, your collection of beliefs sh
 
 ### Health
 
+
+Youth is the most valuable thing you own. Ask any older person. From changing careers, finding a new love, the ability to do anything, and years of opportunity and life. Of all the advice I can give, one of my biggest is too occasionally sit back and be mindful of your youthful blessings. I get it, it’s tough. “But I’m having a miserable time at school right now.” “My parents are stressing me out.” “I don’t know what I want to do for a career.” “Girls/boys don’t like me.” *But*, if you can be one of the very few young people who appreciates their youth for the wonderful thing it is, you’ll be in a wonderful position. 99.9% of people don’t appreciate it until it’s gone. Speak to older people around you. Ask them if they miss their youth. Live their riper age through them, so you can understand what you have. Seize your youth.
+
+---
+
+One day – somewhere between 28 and 38 – you’ll wake up and just feel ‘off’. You’ll feel a bit sore and tired. And that feeling never leaves you. *Be grateful and useful of your youth.*
+
+---
+
 Improving your health is about focusing on the simple things and ignoring the rest. Just get good sleep, regular exercise, a balanced diet and have a vibrant social life. All the rest is are distractions until you’ve totally nailed the simple things.
 
 ***
@@ -61,11 +86,26 @@ But if you are then you can also focus on including nuts, lots of fatty fish, le
 
 ### Money
 
+
+You’ll lose money playing the stock market game. Maybe not right away. But you will. Treat it as gambling. Do it in small amounts, for fun. The stock market is the best passive thing to enhance your wealth (especially in your pension). But you should only invest in low-cost index trackers.
+
+---
+
+Your private pension should be in 100% stocks until 5-10 years away from retirement. ‘Risk’ just means volatility. It’s not the risk of you losing all your money. Look for a fund that is an all-world index tracker, and is not ‘actively managed’. [[2024-07-04]]
+
+---
+
+Start contributing to your (private) pension as soon as you get your first ever pay cheque (no matter how small). And at the very least contribute what your employer matches. But you should be contributing even more. 10% minimum. Adding a decent amount to your pension is likely the best financial decision you’ll make in your life.
+
+---
+
 Getting a great deal on something you don't need is far costlier than overpaying for something you do need.
 
 ***
 
 The wealthy utilise debt to make more money. The poor abuse debt to lose money. Taking on debt can be a useful tool, but outside of large essential purchases likes homes and cars or for sensible business investing, it’s best avoided.
+
+---
 
 And be extra wary when interest lates are low. Because of the differences in how classes use debt, times of low interest rates can cause huge divides in equality and even lead to national/global financial issues or societal issues. (2024-03-20)
 
@@ -102,7 +142,13 @@ Eating meat is quite plainly immoral. Unless it will be detrimental to your heal
 
 ## General
 
-One of the biggest takeaways you’ll learn from reading history is the constant cycles. 
+
+
+I don’t care how ‘advanced’ your society is or how many decades of relative peace you’ve had, a large or world war is always potentially just around the corner. Act accordingly and don’t take life for granted.
+
+---
+
+One of the biggest takeaways you’ll learn from reading history is the constant cycles and repeating patterns. You’re unlikely to be experiencing anything new. By reading history you learn to spot these past patterns in your own time and react accordingly.
 
 ---
 

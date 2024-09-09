@@ -7,7 +7,6 @@
 		- Make sure to allot codeine and alcohol time for Christmas.
 		- Plan autumn candles
 		- Don’t buy new Yankee Candles for Christmas? Check what I’ve got and use those?
-		- Windsor Castle
 		- See if [Prince Charles Cinema](https://princecharlescinema.com/whats-on/) Christmas listings have been released.
 		- It looks like last year I already separated Autumn and Christmas a bit. See [Autumn-Winter 2023-24](roam://#/app/clowes/page/huO8dWa5B) in Roam.
 		- **Add to Autumn list**
@@ -21,20 +20,26 @@
 		- More Huel’s in lead up.
 		- Plan books
 			- Village Christmas book. The thin one with kids playing in snow on the cover.
+			- Peter Jackson book
 	- **TV**
 		- [ ] Stranger Things
-		- [ ] Gilmore Girls
+		- [x] Gilmore Girls
 		- [ ] Twin Peaks (to watch)
 			- There’s a film too.
 		- [ ] Over The Garden Wall
 		- [ ] X-Files
 		- [ ] Add Social Network to autumn/winter films
+		- [ ] Slow Horses (not autumn)
+		- [ ] Penny Dreadful
 	- **Films**
-		- [ ] Practical Magic
+		- [x] Practical Magic
 		- [ ] The Craft (1996)
-		- [ ] Dead Poets Society
-		- [ ] You’ve Got Mail
-		- [ ] The Da Vinci Code
+		- [x] Dead Poets Society
+		- [x] You’ve Got Mail
+		- [x] The Da Vinci Code
+		- [ ] Operation Mincemeat
+		- [x] Hot Fuzz
+		- [x] The Oxford Murders
 	- **Music**
 		- [ ] Sherlock Holmes audiobook
 		- [ ] [Mazzy Star - Among My Swan](https://open.spotify.com/album/4mhpbf7jYc0L1nBceoebIE?si=hfSl7eZqSgyka5W1tyoLYg)
@@ -47,8 +52,8 @@
 		- [ ] Byrd: Mass for five voices; Choral works
 		- [ ] Sade
 	- **Baking**
-		- [ ] Cookies
-		- [ ] Muffins
+		- [x] Cookies
+		- [x] Muffins
 	- **Shopping**
 		- [ ] The Range
 		- [ ] Ikea
@@ -63,24 +68,32 @@
 	- **Restaurant**
 		- [ ] Travellers Rest after walk.
 	- **Meals**
-		- [ ] Roast dinner
-		- [ ] Tring farm steak pie
-		- [ ] Grilled cheese
+		- [x] Roast dinner
+		- [x] Tring farm steak pie
+		- [x] Grilled cheese
 		- [ ] Use up food in pantry
 			- Curry, soy milk, etc
+		- [ ] Jacket potatoes (cheese & beans, chilli, etc)
+		- [ ] [Five recipes that John Torode and Lisa Faulkner cook at home](https://www.thetimes.com/magazines/the-times-magazine/article/john-torode-lisa-faulkner-recipes-cook-home-t38jrjd3n)
+		- [ ] [Yotam Ottolenghi: my ultimate comfort food recipes](https://www.thetimes.com/life-style/food-drink/article/yotam-ottolenghi-comfort-recipes-cookbook-extract-food-j2tfzkf9t)
 	- **Snacks**
 		- [ ] Nerds
 			- With Stranger Things.
 			- Maybe eat alone as it's noisy to eat them.
-		- [ ] Make my own pick'n'mix
+		- [x] Make my own pick'n'mix
 			- Buy jar for it from Ikea?
 	- **Activities**
+		- [ ] Plan Berry Bros. etc (just me, Dad and Natalie?)
 		- [ ] Bonfire night
 		- [ ] Pumpkin picking
+		- [ ] Go to Ian McKellen’s pub with Abigail
+		- [ ] See Grandmum
+		- [ ] Spend time with Natalie
+		- [ ] Birthday ideas: see [[NB0005]]
 	- **Walking**
 		- [ ] Walk with coffee
 	- **Videos**
-		- [Intellectual YouTube playlist](https://youtube.com/playlist?list=PLvA0caarRB0Mm9RMwGZGQl-adAJ-utL57&si=SbQ914Jy_kXJPPHL)
+		- [ ] [Intellectual YouTube playlist](https://youtube.com/playlist?list=PLvA0caarRB0Mm9RMwGZGQl-adAJ-utL57&si=SbQ914Jy_kXJPPHL)
 		- [ ] [huge halloween haul || summerween vlog - decor, home, clothes, & books](https://youtu.be/k6DSs8ICrDM?si=3RUYbcPGVC1anLVl)
 		- [ ] https://youtube.com/watch?v=BhhBSUmdgmo&si=SbZwrsqmftFE0AYw
 	- **Links**
@@ -104,7 +117,7 @@
 	- **September 14th, 2024** 💊
 		- **Plan Autumn and preliminary plan Christmas**
 		- Watch what Abigail wants this week as I want to watch Stranger Things next week.
-		- Stranger Things (eat Nerds)
+		- Stranger Things (eat Nerds and popcorn)
 		- The Hobbit
 	- **September 21st, 2024** 🍁
 		- *Note: A break from codeine is important this week as next week I'm having both codeine and alcohol.*

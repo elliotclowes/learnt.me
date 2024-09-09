@@ -171,6 +171,7 @@
 - The BFG
 - Braveheart
 - Bright Star
+- [[Catherine Called Birdy (2022)]]
 - Centurion
 - Chicken Run
 - Cirque de Freak: The Vampire's Assistant
@@ -201,6 +202,7 @@
 - Nightmare Alley
 - The Nightmare Before Christmas
 - Outlaw King
+- Operation Mincemeat
 - Paddington
 - Pilgrimage
 - [[Planes, Trains & Automobiles (1987)]]

@@ -1,0 +1,112 @@
+- ### Future dates
+	- **September 14th, 2024** 💊
+		- **Friday (Abigail away)**
+			- 🍿 The Da Vinci Code?
+			- 🍿 The Hobbit (fan edit)?
+			- 🍿 The Oxford Murders?
+			- 📺 Stranger Things?
+				- Eat Nerds and popcorn
+		- **Saturday**
+			- 🍿 Dead Poets Society
+		- **Sunday**
+	- **September 21st, 2024** 🍁
+		- *Note: A break from codeine is important this week as next week I'm having both codeine and alcohol.*
+		- Tinker Tailor Soldier Spy OR The Hobbit
+		- **Saturday**
+			- 🗓️ Friends Experience with [[Natalie]]
+			- 🍽️ McDonalds
+			- 🍿 Hot Fuzz
+		- **Sunday**
+			- 🍽️ Spaghetti bolognese
+			- 🍿 You’ve Got Mail
+	- **September 28th, 2024** 💊 🍂
+		- **Saturday**
+			- BOOK RESTAURANT
+			- 🗓️ Reuben Kaye
+		- **Sunday**
+			- 🍿 Van Helsing
+			- 🍽️ Windmill
+	- **October 5th, 2024** 💊 🥮
+		- **Saturday**
+			- 🗓️ Windsor Castle
+			- 🍽️ Cottage Pie
+		- **Sunday**
+			- 🍽️ Grilled cheese
+	- **October 12th, 2024** 💊 🍁
+		- *See [[My Birthday Plan]]*
+		- **Friday**
+			- 🍽️ Prime, Chandlers Cross
+		- **Saturday**
+			- 🥾 Family(?) Walk
+			- 🍪 Bake cookies
+			- 🍽️ Natalie Steak pie
+			- 🍿 LOTR 1
+		- **Sunday**
+			- 🍽️ Curry
+			- 🍿 LOTR 2
+	- **October 19th, 2024** 🍂
+		- **Saturday**
+			- 🍽️ Chinese
+			- 🍿 LOTR 3
+		- **Sunday**
+			- 🍽️ Beef stew and mash
+			- 🍿 Haunted Mansion (2023)?
+			- 🍿 Practical Magic?
+			- 🍿 Sleepy Hollow?
+	- **October 26th, 2024** 🎃 💊
+		- **Plan Christmas?**
+		- **Thursday**: 🎃
+			- 🍿 Practical Magic
+			- 🍿 Hubie Halloween
+		- **Saturday**
+			- 🍩 Bake muffins
+			- 🍬 Make my own pick'n'mix
+			- 🍿 Harry Potter and the Philosopher's Stone
+				- Have sweets at same time as trolly train sweet scene.
+		- **Sunday**
+			- 🍽️ Steak Pie, Tring Farm
+			- 🍿 Harry Potter and the Chamber of Secrets
+	- **November 2nd, 2024** 🍁
+		- **Tuesday, Guy Fawkes night**
+			- 🍿 [[V for Vendetta (2006)]]
+		- **Saturday**
+			- 🍽️ Roast dinner
+			- 🍿 Harry Potter and the Prisoner of Azkaban
+		- **Sunday**
+			- 🍿 Harry Potter and the Goblet of Fire
+	- **November 9th, 2024** 🍂
+		- **Saturday**
+			- 🗓️ Harry Potter Studio Tour
+			- 🍽️ The Royal Standard
+			- 🍿 Harry Potter and the Order of the Phoenix
+		- **Sunday**
+			- 🍿 Harry Potter and the Half-Blood Prince
+	- **November 16th, 2024** 🥮
+		- **Saturday**
+			- 🍿 Harry Potter and the Deathly Hallows – Part 1
+		- **Sunday**
+			- 🍿 Harry Potter and the Deathly Hallows – Part 2
+	- **November 23rd, 2024** 🌲
+		- ???
+		- **Thursday, Thanksgiving**: [[Planes, Trains & Automobiles (1987)]]
+		- **Saturday**
+		- **Sunday**
+	- **November 30th, 2024** 🎄
+		- **Saturday**
+		- **Sunday**
+	- **December 7th, 2024** 🎅
+		- Tower of London (to book) (with Natalie)
+		- **Saturday**
+		- **Sunday**
+	- **December 14th, 2024** 🌲
+		- Christmas
+		- **Saturday**
+		- **Sunday**
+	- **December 21st, 2024** 🎄
+		- **Saturday**
+			- 🗓️ Kew Gardens
+		- **Sunday**
+	- **December 28th, 2024** 🎅
+		- Christmas
+		- **Saturday**
+		- **Sunday**

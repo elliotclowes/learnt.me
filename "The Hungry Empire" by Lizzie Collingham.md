@@ -127,3 +127,16 @@ In French West Indies they were fed barrelled ‘small beef’ from Ireland. Thi
 
 ### 3. How the English chased the dream of the yeoman farmer but were forced to compromise
 
+When the English Puritans first started their successful communities in America they did their best to grow the same crops and keep the same diet. But that proved close to impossible. It required a lot of work, and most farmers were family farmers with no staff. Crops failed. They had to adopt the techniques of the Native American’s instead. They stopped attempting to grow wheat and started growing maize instead.
+
+> Bread, milk, butter, cheese, beef and a good mug of beer were the staples of the seventeenth-century English diet. p30
+
+*** 
+
+When the English landed in the US, one of the reasons they felt they were entitled to take the land from the Native American’s was because it wasn’t ‘cultivated’.
+
+> John Winthrop applied the same reasoning that the English used to justify their colonisation of Ireland, arguing that because they 'inclose noe Land, neither have they any setled habytation, nor any tame Cattle to improve the Land by', they had not earned the right to own the land. The English settlers in America were, he argued, performing a Christian duty by taming the American wilderness.
+
+
+[…] The Native Americans were cast as versions of the barbarous Irish, who had forfeited their right to the country by their failure to properly order the landscape and realise its potential.
+
