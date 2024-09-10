@@ -30,6 +30,7 @@
 			- Village Christmas book. The thin one with kids playing in snow on the cover.
 			- Peter Jackson book
 		- Do homemade Apple Crumble with Custard
+		- Add [[The Holdovers (2023)]] to list of films.
 	- **TV**
 		- [ ] Stranger Things
 		- [x] Gilmore Girls
@@ -52,7 +53,7 @@
 	- **Music**
 		- [ ] Sherlock Holmes audiobook
 		- [ ] [Mazzy Star - Among My Swan](https://open.spotify.com/album/4mhpbf7jYc0L1nBceoebIE?si=hfSl7eZqSgyka5W1tyoLYg)
-		- [ ] Bon Iver
+		- [x] Bon Iver
 		- [ ] Phil Collins 
 			- [ ] One More Night
 			- [ ] Against All Odds
@@ -60,10 +61,12 @@
 			- [ ] Another Day in Paradise
 		- [ ] [Byrd: Mass for five voices; Choral works](https://www.hyperion-records.co.uk/dc.asp?dc=D_CDA68416)
 		- [ ] Sade
-		- [ ] Ommadawn
-		- [ ] Fairport Convention
+		- [x] Ommadawn
+		- [x] Fairport Convention
 		- [ ] The Lighthouse Family
 		- [ ] The Hobbit Soundtrack
+		- [ ] Unbunny
+		- [ ] Nick Drake
 	- **Baking**
 		- [x] Cookies
 		- [x] Muffins

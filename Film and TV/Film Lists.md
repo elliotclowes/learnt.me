@@ -183,6 +183,7 @@
 - Enola Holmes
 - Extra Ordinary
 - The Fifth Estate
+- [[Firebrand (2024)]]
 - From Hell
 - The Ghost Writer
 - Hansel & Gretel
