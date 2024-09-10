@@ -310,6 +310,7 @@
 - Hocus Pocus
 - Sleepy Hollow
 - Corpse Bride
+- The Woman in Black
 - **TV**
 	- Stranger Things
 	- Wednesday

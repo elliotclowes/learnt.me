@@ -1,12 +1,16 @@
 - **Note:** Add events into calendar.
 - ### Activities
+	- **To book**
+		- [Fairport Convention](https://www.exchangetwickenham.co.uk/show/fairport-convention/)
+	- The place that Dad went that has lots of cover bands
+	- Plan out snacks
 	- **Food to get through**
 		- Heinz Vegetable soup (x 3)
 		- Curry sauces
 		- Fajitas
 	- **Notes**
-		- Remove just winter TV/films from Christmas list and put
-		- Make sure to spend time with Natalie. 
+		- [ ] Remove just winter TV/films from Christmas list.
+		- [ ] Make sure to spend time with Natalie.
 			- ![[IMG_3934.jpeg]]
 		- Make sure to allot codeine and alcohol time for Christmas.
 		- Plan autumn candles
@@ -54,9 +58,12 @@
 			- [ ] Against All Odds
 			- [ ] A Groovy Kind of Love
 			- [ ] Another Day in Paradise
-		- [ ] Byrd: Mass for five voices; Choral works
+		- [ ] [Byrd: Mass for five voices; Choral works](https://www.hyperion-records.co.uk/dc.asp?dc=D_CDA68416)
 		- [ ] Sade
 		- [ ] Ommadawn
+		- [ ] Fairport Convention
+		- [ ] The Lighthouse Family
+		- [ ] The Hobbit Soundtrack
 	- **Baking**
 		- [x] Cookies
 		- [x] Muffins

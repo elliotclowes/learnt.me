@@ -140,3 +140,41 @@ When the English landed in the US, one of the reasons they felt they were entitl
 
 […] The Native Americans were cast as versions of the barbarous Irish, who had forfeited their right to the country by their failure to properly order the landscape and realise its potential.
 
+
+### 4. How the West Indian sugar islands drove the growth of the First British Empire
+
+Colonel James Drax was the wealthiest man on Barbados in the 1640s, making his fortune via sugar.
+
+When he imported food from England it had a long journey, crossing the Atlantic via boat. Before then being carried from the port of Bridgetown to his house on the backs of black slaves. This was done at night to avoid the food spoiling in the heat. P42
+
+---
+
+The English in Barbados originally grew tobacco, cotton and other crops. But the tobacco quality was poor. Cotton worked for a while. But the market became saturated thanks to cotton being grown elsewhere around the world too. So in the 1640s and 1650s they switched to sugar and it became a cash cow crop – after 10-15 years of learning how to make it properly. In the 1630s the north-eastern coast of Brazil was the sugar making capital:
+
+> The world centre of sugar manufacture had gradually moved from northern India to the Levant in the early medieval period, and by the fifteenth century Cyprus and Sicily were Europe's main suppliers. But when the Portuguese discovered the Azores in 1427 and Madeira in 1455, they found that the climate of these Atlantic islands was better suited to growing sugar than the Mediterranean, and when they took Brazil in the 1540s, they expanded production into their new colony. One hundred years later, as Portugal's position as the pre-eminent European maritime power was on the wane, the Dutch West India Company seized control of the Brazilian sugar plantations as well as Portugal's slave-trading forts dotted along the West African coastline. Dutch vessels now criss-crossed the Atlantic Ocean, bringing African slaves to work on the plantations, and returning laden down with huge cargoes of sugar destined for Antwerp's refineries. Drax and his associates would have been aware of this trade, and it was reportedly a Dutch visitor to Barbados who persuaded him and some other planters to try their hands at cultivating this potentially lucrative crop.
+
+Barbados was small. So the value of land increased massively. P43 + p46
+
+---
+
+The English discovered Barbados in 1625 thanks to Captain John Powell as he was sailing home to England from South America. He returned two years later, along with 50 other settlers. P43-44
+
+---
+
+One of the things I’ve noticed is how reliant the English were on the local inhabitants of places they colonised when it came to surviving. There’s this image I have of the English bringing over technology and know-how to these places. But generally speaking there ideas didn’t work in these new places and crops failed. They relied on local knowledge to learn how to live off the land. Whether that be via the Native Americans in America. Or here again in Barbados, where three canoe-loads of Arawak Indians were brought along as they had the agricultural knowledge needed. P44
+
+---
+
+The Barbados sugar factories were just that. And they were a precursor to the factories of industrial Britain. Each person had a specific job and that was all they did – they were a cog in the machine. And production ran 24 hours a day, except on Sunday it seems. But only barely. Production started at 01:00 on Monday morning and didn’t stop until Saturday night. P47
+
+---
+
+In the 1620s, 1630s and 1640s a lot of the work was done via indentured whites from England and Ireland. Between 1530 and 1630 about half the rural peasantry in England were pushed off the land because of Enclosure. Some developed new skills, worked as artisans or hired themselves out to enclosed estates. But many roamed the countryside looking for work. America took advantage. English merchants would transport them to America where they were sold to a planter for a 4-5 period. At the end of the contract the workers were due to get £10 to set themselves up in the New World.  But it was essentially temporary slavery. They could be bought and sold. Conditioners were often bad. And planters referred to them as ‘white slaves’. Later on people had the delusion that whites couldn’t work in the tropics. In the 1600s there was no delusion, they just wanted workers to make money. 
+
+The Cromwellian state ‘Barbadosed’ 12,000 Irish rebels and royalists, transporting them to the West Indies and forbidding them to return.
+
+The first black slave ship arrived in 1641. African slaves cost more than indentured white workers, costing £25-£30 versus £12. But slaves would be kept forever, so they were a worthy investment if you had the cash. Often planters would start with indentured workers, before switching to black slaves once they had the capital.
+
+> 
+
+P50-51
