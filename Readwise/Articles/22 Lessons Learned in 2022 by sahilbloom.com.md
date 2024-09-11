@@ -101,5 +101,5 @@ Tags: [[work.advice]]
 > 30 days is a real commitment, but 30 minutes each day is small enough to mentally take it on.
 > 900 minutes of accumulated effort yields surprisingly significant results ([View Highlight](https://read.readwise.io/read/01he504pn2f5abb3exs9vwdqkb))
 
-Tags: [[work.advice]] [[productivity]] 
+Tags: [[work.advice]] [[Productivity]] 
 

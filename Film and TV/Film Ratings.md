@@ -54,6 +54,7 @@
 - 74% – Bridge of Spies
 - 71% – [[Air (2023)]]
 - 68% – Role Models
+- 66% - [[Catherine Called Birdy (2022)]]
 - 66% – [[Bullet Train (2022)]]
 - 65% - [[Deadpool & Wolverine (2024)]]
 - 62% – [[Jackass Forever (2022)]]
@@ -63,5 +64,7 @@
 - 61% – [[Dumb Money (2024)]]
 - 58% – [[The Ministry of Ungentlemanly Warfare (2024)]]
 - 53% – [[Your Christmas Or Mine? (2022)]]
+- 53% - [[Firebrand (2024)]]
 - 48% – [[Wonka (2023)]]
+- 42% - [[Twisters (2024)]]
 - 34% – Avatar: The Way of Water

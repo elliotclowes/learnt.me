@@ -19,7 +19,7 @@
 
 > Meetings started in silence as attendees read a prepared note and added written questions for debate ([View Highlight](https://instapaper.com/read/1510256485/19747147))
 
-Tags: [[work]] [[management]] [[productivity]] 
+Tags: [[work]] [[management]] [[Productivity]] 
 
 ***
 

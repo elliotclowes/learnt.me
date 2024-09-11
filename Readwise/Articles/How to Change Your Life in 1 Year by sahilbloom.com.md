@@ -12,5 +12,5 @@
 
 > Most people overestimate what they can achieve in a year and underestimate what they can achieve in ten years.” - Bill Gates ([View Highlight](https://read.readwise.io/read/01he507a9pf1wp7x5zajpwc1bq))
 
-Tags: [[productivity]] [[quote]] 
+Tags: [[Productivity]] [[quote]] 
 
