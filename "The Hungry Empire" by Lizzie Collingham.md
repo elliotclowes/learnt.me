@@ -175,6 +175,6 @@ The Cromwellian state ‘Barbadosed’ 12,000 Irish rebels and royalists, transp
 
 The first black slave ship arrived in 1641. African slaves cost more than indentured white workers, costing £25-£30 versus £12. But slaves would be kept forever, so they were a worthy investment if you had the cash. Often planters would start with indentured workers, before switching to black slaves once they had the capital.
 
-> 
+> By 1660, there were around 20,000 enslaved Africans on Barbados. The appalling working conditions, malnutrition and disease led to such a high mortality rate among the slaves that in 1688, English sugar islands needed 20,000 new slaves a year just to maintain their labour force. This constant demand for new workers for the sugar plantations stimulated the growth of the English slave trade.
 
 P50-51
