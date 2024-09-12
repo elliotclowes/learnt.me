@@ -3,6 +3,16 @@
 
 [[Shakshouka]]
 
+## Other recipes
+
+- [ICS World Champion Chili Cook-Off winner recipes](https://www.chilicookoff.com/winning-recipes)
+- [BudgetBytes](https://www.budgetbytes.com/basic-chili/)
+- [Serious Eats](https://www.seriouseats.com/the-best-chili-recipe) - [[J. Kenji López-Alt]]
+- [Serious Eats - Texas Chili](https://www.seriouseats.com/real-texas-chili-con-carne) - [[J. Kenji López-Alt]]
+- [Cooking Comically](https://cookingcomically.com/?page_id=33)
+- [reddit](https://www.reddit.com/r/recipes/comments/5rrobs/my_award_winning_chili_recipe_which_is_my_first/)
+- [reddit](https://www.reddit.com/r/recipes/comments/7gw8eo/request_please_loan_me_the_best_chili_recipe_you/dqmj7c0/)
+
 ## Ingredients (7 servings)
 
 - 2 tablespoons olive oil
@@ -42,7 +52,7 @@
 
 5. **Add Tomatoes and Beans**: Mix in the diced tomatoes, tomato paste, and kidney beans.
 
-6. **Pour in Stock**: Add the beef stock and bay leaves. If using, add the dark chocolate (or cocoa powder) at this stage. It deepens the flavor.
+6. **Pour in Stock**: Add the beef stock and bay leaves. If using, add the dark chocolate (or cocoa powder) at this stage. It deepens the flavour.
 
 7. **Simmer**: Bring the chili to a boil, then reduce the heat to low. Let it simmer, uncovered, for at least 1 hour. The longer it simmers, the more the flavors will develop. If the chili gets too thick, add a bit more stock or water.
 

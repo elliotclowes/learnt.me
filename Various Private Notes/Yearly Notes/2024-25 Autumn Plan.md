@@ -71,6 +71,8 @@
 	- **Baking**
 		- [x] Cookies
 		- [x] Muffins
+		- [ ] [Millionaire's Shortbread](https://www.seriouseats.com/millionaires-shortbread-recipe-8709817)
+		- [ ] Apple Crumble ([NY Times](https://cooking.nytimes.com/recipes/1018638-apple-crumble) or [GPT-4o](https://poe.com/chat/3l1t5q7wkrtl0313tcs) or [Claude](https://poe.com/chat/3l1t5ycbjqlq3vr6oz0))
 	- **Shopping**
 		- [ ] The Range
 		- [ ] Ikea
