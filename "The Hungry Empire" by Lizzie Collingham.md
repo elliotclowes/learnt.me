@@ -178,3 +178,51 @@ The first black slave ship arrived in 1641. African slaves cost more than indent
 > By 1660, there were around 20,000 enslaved Africans on Barbados. The appalling working conditions, malnutrition and disease led to such a high mortality rate among the slaves that in 1688, English sugar islands needed 20,000 new slaves a year just to maintain their labour force. This constant demand for new workers for the sugar plantations stimulated the growth of the English slave trade.
 
 P50-51
+
+---
+
+By the 1690s sugar had gone down in price enough that a skilled craftsman could afford a sugary treat every now and then. P54
+
+---
+
+### 5. How West Africa exchanged men for maize and manioc
+
+The vast majority of slaves purchased from West Africa were sent to the West Indies sugar trade. Conditions were so bad that the average life expectancy was 7 years after they arrived. P61
+
+---
+
+West Africa proved tougher to dominate that the Americas. 
+
+> Even in 1800, after 300 years of interaction, the European presence in West Africa was confined to around 60 forts and factories dotted along a 3000 mile coastline. The Europeans hardly penetrated into the interior of the continent.
+
+The Africans and their rulers could be violent, and they were good at playing the various European nations off each other. P62
+
+---
+
+In order to develop a relationship with African chiefs the English would pay them, or give them gifts, to get first choice of slaves.
+
+The Portuguese on the other hand married women from the Chief’s wider family.
+
+> The women who entered into these alliances were known as nharas (a corruption of the Portuguese senhorita). No mere pawns, they were often active participants in their husbands' affairs, translating and mediating for the men, who were ignorant not only of African languages but also the nuances of African politics and culture. 
+
+P63
+
+---
+
+Surprisingly the population of West Africa held steady during the 300 years years of the slave trade. This was because female slaves were usually not sold the Europeans. They were often used as concubines, which allowed the men that were left in Africa to maximise the number of children they would father. P65-66
+
+---
+
+### 6. How pepper took the British to India, where they discovered calicoes and tea
+
+In England pepper had always been the most popular of all spices. Drowned sailors on the Mary Rise had a stash of peppercorns in their baggage and pockets.
+
+Medieval cooks associated the colour black with melancholy, so preference I use a combination of saffron and ginger, instead of pepper.
+
+But in the 1600s pepper became the everyday all-purpose spice.
+
+In the past it had been an exotic, expensive spice. Now it was cheap, and salt and pepper became the default spice for nearly every dish. P75-76
+
+---
+
+Spices fell out of favour after the medieval and Renaissance eras. English food became increasingly plain, dominated by roast and boiled meats, pastries and pies. However, condiments became more popular. Mustard, horseradish sauce, pickles or fruit jellies. P75

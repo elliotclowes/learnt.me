@@ -61,6 +61,12 @@
 	- “The Rum Diary” by [[Hunter S. Thompson]].
 	- James Bond book series by Ian Fleming.
 	- [["Hellraisers" by Robert Sellers]]
+	- **To read**
+		- [Don't Let the Bastards Grind You Down: How One Generation of British Actors Changed the World by Robert Sellers](https://www.amazon.co.uk/Dont-Let-Bastards-Grind-Down/dp/0099569329/ref=tmm_pap_swatch_0)
+		- [Hollywood Hellraisers: The Wild Lives and Fast Times of Marlon Brando, Dennis Hopper, Warren Beatty and Jack Nicholson by Robert Sellers](https://www.amazon.co.uk/Hollywood-Hellraisers-Marlon-Brando-Nicholson-ebook/dp/B00352B45K)
+		- [An A-Z of Hellraisers: A Comprehensive Compendium of Outrageous Insobriety by Robert Sellers](https://www.amazon.co.uk/Hellraisers-Comprehensive-Compendium-Outrageous-Insobriety/dp/1848092466/ref=tmm_pap_swatch_0)
+		- [Peter O'Toole: The Definitive Biography by Robert Sellers](https://www.amazon.co.uk/Peter-OToole-Definitive-Robert-Sellers-ebook/dp/B00UXKJ0R6)
+		- [What Fresh Lunacy is This?: The Authorized Biography of Oliver Reed by Robert Sellers](https://www.amazon.co.uk/What-Fresh-Lunacy-This-Authorized/dp/1472112636/ref=tmm_pap_swatch_0)
 
 *Created: [[2024-06-02]]*
 

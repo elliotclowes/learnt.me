@@ -305,6 +305,7 @@
 	- Haunted Mansion (2023)
 	- Practical Magic
 	- The Craft
+	- The Others
 - Hubie Halloween
 - Mean Girls
 - ParaNorman
@@ -312,6 +313,7 @@
 - Sleepy Hollow
 - Corpse Bride
 - The Woman in Black
+- Crimson Peak
 - **TV**
 	- Stranger Things
 	- Wednesday
