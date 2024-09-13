@@ -3,7 +3,10 @@
 [GPT-4](https://poe.com/chat/3l57ixw1ktk0tckp8xg)
 
 92 - NVIDIA
+85 / 85 - PepsiCo
+?? / 85 - Amazon
 85 / 80 / 88 - Nintendo 
+85 / 80 - BlackRock
 85 / 85 / 83 - Waste Management
 85 / 70 / 83 - Toll Brothers
 82 / 75 / 77 - Boise Cascade
@@ -18,9 +21,12 @@
 75 - Forestar Group Inc
 70 / 75 / 77 - Walt Disney
 70 / 65 / 65 - G-III Apparel Group, Ltd
+65 / 60 - Photronics
+65 / 65 - Netflix
 65 - Centrica
 65 - Shanghai Electric Group Company
 65 - Solvay
+60 / 70 - Quanex Building Products Corporation
 55 / 65 / 76 - Altria Group, Inc. (MO)
 55 - Boeing
 45 / 50 / 44 - Bombardier Inc
