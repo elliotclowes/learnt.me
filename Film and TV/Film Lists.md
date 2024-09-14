@@ -325,3 +325,14 @@
 ### Summer
 - **TV**
 	- Rome
+
+
+### Money
+- **Films**
+	- The Big Short
+	- Margin Call
+	- The Wolf of Wall Street
+	- Too Big To Fail
+	- Arbitrage
+- **Documentaries**
+	- 
