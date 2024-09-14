@@ -13,7 +13,69 @@
 - [reddit](https://www.reddit.com/r/recipes/comments/5rrobs/my_award_winning_chili_recipe_which_is_my_first/)
 - [reddit](https://www.reddit.com/r/recipes/comments/7gw8eo/request_please_loan_me_the_best_chili_recipe_you/dqmj7c0/)
 
-## Ingredients (7 servings)
+## New recipe
+
+### Ingredients
+
+- **500g ground beef**
+- **1 tablespoon olive oil**
+- **1 large onion, diced** (around 200g)
+- **2 cloves garlic, minced**
+- **2 bell peppers, chopped** (around 200g)
+- **2 tablespoons tomato paste**
+- **1 can (400g) diced tomatoes**
+- **1 can (400g) kidney beans, drained and rinsed**
+- **1 can (400g) black beans, drained and rinsed**
+- **2 teaspoons ground cumin**
+- **2 teaspoons smoked paprika**
+- **1 teaspoon cayenne pepper** (adjust for spiciness)
+- **1.5 teaspoon hot chili powder**
+- **1 teaspoon dried oregano**
+- **Salt and pepper, to taste**
+- **500ml beef stock**
+- **1 tablespoon Worcestershire sauce**
+- **1 tablespoon brown sugar**
+- **1 square dark chocolate**
+- **Juice of 1 lime**
+- **Fresh coriander, chopped (for garnish)**
+- **Sour cream (optional, for serving)**
+- **Grated cheese (optional, for serving)**
+
+### Instructions
+
+1. **Heat the Oil:**
+   In a large pot or Dutch oven, heat the olive oil over medium heat.
+
+2. **Cook the Beef:**
+   Add the ground beef and cook until browned. Break it apart with a spoon as it cooks. Remove excess fat if necessary.
+
+3. **Sauté Vegetables:**
+   Add the onion, garlic, and bell peppers. Cook until the vegetables are soft, about 5 minutes.
+
+4. **Add Tomato Paste and Spices:**
+   Stir in the tomato paste, cumin, smoked paprika, cayenne pepper, chili powder, and oregano. Cook for another 2 minutes until fragrant.
+
+5. **Add Tomatoes and Beans:**
+   Pour in the diced tomatoes, kidney beans, and black beans. Stir to combine.
+
+6. **Season and Simmer:**
+   Add the beef stock, Worcestershire sauce, brown sugar, salt, and pepper. Bring to a boil, then reduce the heat to low and let it simmer uncovered for about 45-60 minutes, stirring occasionally.
+
+7. **Adjust Seasoning:**
+   Taste and adjust seasoning if needed. Add chocolate and more cayenne pepper or chili powder for extra heat.
+
+8. **Finish with Lime:**
+   Stir in the lime juice just before serving.
+
+9. **Garnish and Serve:**
+   Serve hot, garnished with fresh coriander. Add sour cream and grated cheese if desired.
+
+Enjoy your hearty, spicy chili con carne!
+
+
+## Old recipe
+
+### Ingredients (7 servings)
 
 - 2 tablespoons olive oil
 - 300g onions (2 onions) diced
@@ -32,7 +94,7 @@
 - 1 tablespoon dried oregano
 - 1 teaspoon cayenne pepper (adjust for heat preference)
 
-## Optional Garnishes
+### Optional Garnishes
 
 - Sour cream
 - Shredded cheddar cheese
@@ -40,7 +102,7 @@
 - Fresh cilantro, chopped
 - Diced avocado
 
-## Instructions
+### Instructions
 
 1. **Cook Onions and Garlic**: Heat the olive oil in a large pot over medium heat. Add the onions and garlic, cooking until they are soft and translucent.
 
