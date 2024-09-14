@@ -335,5 +335,14 @@
 	- Too Big To Fail
 	- Arbitrage
 	- The Hummingbird Project
+	- The Wizard of Lies
+	- Rogue Trader
+	- Limitless
 - **Documentaries**
 	- GameStop: Rise of the Players
+	- The China Hustle
+	- The Kleptocrats
+	- The Corporation
+	- Capitalism: A Love Story
+	- Invisible Hands (2018)
+	- Betting on Zero

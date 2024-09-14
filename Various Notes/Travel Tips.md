@@ -43,6 +43,10 @@
 - Bring something warm like a jumper. Not only for when you land back in the UK, but also because you never know if they’ll be a cold snap on holiday. Or some countries crank up the air conditioning.
 - Fly and travel with a [chronograph](https://en.wikipedia.org/wiki/Chronograph). I like timing things.
 - A bottle of [[aftershave]] can be heavy and I'm always scared it will leak into my suitcase. But just bring one. But spraying some aftershave on yourself once you're all dressed up and ready to go for dinner feels *good*.
+- Good sun cream [according to Which magazine](https://www.threads.net/@whichuk/post/C-2gEO4oJth/?xmt=AQGzaeF58edSVtDQcX20dUUcDs5hkB1AY7-9xLBz3WuElw):
+	- Aldi Lacura SPF30 Sun Lotion, £2.49/200ml
+	- Lidl Cien Sun Spray SPF30, £3.29/200ml
+	- Lidl Cien Kids Sensitive Sunscreen Spray SPF50+ , £3.29/200ml
 
 ### Film and TV
 

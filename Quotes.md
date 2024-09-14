@@ -1,5 +1,6 @@
+> "The greatest burden a child must bear is the unlived life of the parents." – Carl Jung
 
-
+***
 
 > "The 8-hour workday is too profitable for big business, not because of the amount of work people get done in eight hours but because it makes for such a purchase-happy public. Keeping free time scarce means people pay a lot more for convenience, gratification, and any other relief they can buy. It keeps them watching television, and its commercials. It keeps them unambitious outside of work.'" – [David Cain](https://www.raptitude.com/2010/07/your-lifestyle-has-already-been-designed/)
 

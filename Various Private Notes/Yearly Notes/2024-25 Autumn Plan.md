@@ -68,6 +68,7 @@
 		- [ ] The Hobbit Soundtrack
 		- [ ] Unbunny
 		- [ ] Nick Drake
+		- [ ] The Police—Synchronicity
 	- **Baking**
 		- [x] Cookies
 		- [x] Muffins
