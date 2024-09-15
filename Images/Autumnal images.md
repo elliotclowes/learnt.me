@@ -1,3 +1,8 @@
+
+See also [[Cosy]]
+
+***
+
 ![[IMG_4109.jpeg]]
 
 ![[IMG_4110.jpeg]]

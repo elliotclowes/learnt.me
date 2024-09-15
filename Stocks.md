@@ -5,6 +5,7 @@
 92 - NVIDIA
 85 / 85 - PepsiCo
 ?? / 85 - Amazon
+85 - Alphabet
 85 / 80 / 88 - Nintendo 
 85 / 80 - BlackRock
 85 / 85 / 83 - Waste Management
@@ -13,9 +14,10 @@
 82 - Green Brick Partners, Inc
 82 - Valero Energy Corporation
 80 / 80 / 85 - Tesla
-78 / 75 / 72 - Sanmina Corporation
+78 / 75 / 72 - **Sanmina Corporation**
 78 - Bunge Limited
 78 - PageGroup
+75 - CF Industries
 75 / 60 / 74 - Dillard's
 75 - Hormel Foods
 75 - Forestar Group Inc

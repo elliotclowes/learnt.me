@@ -1,3 +1,14 @@
+---
+aliases:
+  - Paris
+---
+
+## Places to go on my next visit
+- **Musée de Cluny**.
+	- I'm gutted I didn't go here on my trip in [[2023]]. This houses my favourite [[Tapestries]], [[The Lady and the Unicorn]].
+
+## Overview
+
 I was surprised by how much I enjoyed Paris, as I’d heard mostly bad things.
 
 The secret to having a good experience is not to go on a budget. Money must be spent. You need a hotel in a good area.

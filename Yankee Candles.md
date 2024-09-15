@@ -1,0 +1,4 @@
+---
+aliases:
+  - Yankee Candle
+---

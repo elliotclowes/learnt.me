@@ -1,3 +1,9 @@
+
+![[gryffindor-common-room.jpg]]
+[Photo by Adrian Court](https://www.flickr.com/photos/adriancourt/24910939042/)
+
+***
+
 ![[9VHBc7N.gif]]
 
 ![[jpijZTH.jpg]]

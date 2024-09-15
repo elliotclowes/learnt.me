@@ -1,4 +1,14 @@
 
+
+
+
+How We Got to Now: Six Innovations That Made the Modern World - https://amzn.to/3XoTVQp
+
+Recommended by Ben Carlson - [Air Conditioning: An Economic Wonder - A Wealth of Common Sense
+](https://awealthofcommonsense.com/2024/09/air-conditioning-one-of-the-most-important-economic-innovations/)
+
+---
+
 Creative Selection: Inside Apple's Design Process During the Golden Age of Steve Jobs. Via John Gruber: https://daringfireball.net/linked/2024/06/15/kocienda-humane
 
 ![](https://m.media-amazon.com/images/I/61WY2NtY6TL._SL1500_.jpg)

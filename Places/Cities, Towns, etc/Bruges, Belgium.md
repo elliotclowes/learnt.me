@@ -1,3 +1,8 @@
+---
+aliases:
+  - Bruges
+---
+
 ![[bruge.jpg|300]] ![[bruge-flemmish-stew.jpg|300]]
 ## Places
 
@@ -35,7 +40,7 @@
 
 ![[Mille-Fleurs-Tapestries.jpg|300]]
 
-**[Mille Fleurs Tapestries](https://www.google.com/maps/place/Mille+Fleurs+Tapestries/@51.2074927,3.2235646,17z/data=!3m1!4b1!4m6!3m5!1s0x47c350c5423507dd:0x82de5a0066f418ec!8m2!3d51.2074927!4d3.2261395!16s%2Fg%2F1tk8mrr4?entry=ttu)**: A great shop if you love tapestries like me.
+**[Mille Fleurs Tapestries](https://www.google.com/maps/place/Mille+Fleurs+Tapestries/@51.2074927,3.2235646,17z/data=!3m1!4b1!4m6!3m5!1s0x47c350c5423507dd:0x82de5a0066f418ec!8m2!3d51.2074927!4d3.2261395!16s%2Fg%2F1tk8mrr4?entry=ttu)**: A great shop if you love [[Tapestries]] like me.
 
   
 
