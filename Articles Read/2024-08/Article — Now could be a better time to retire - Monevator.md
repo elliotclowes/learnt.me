@@ -10,7 +10,7 @@ original_url: https://monevator.com/now-could-be-a-better-time-to-retire/
 omnivore_url: https://omnivore.app/me/now-could-be-a-better-time-to-retire-monevator-191a89031dd
 ---
 
- - Site: Monevator
+ - Site: [[Monevator]]
  - By: The Investor
  - Date published: 2024-08-15
  - Date read: [[2024-08-31]]

@@ -4,6 +4,7 @@ aliases:
 ---
 
 ## Places to go on my next visit
+- See ['Paris' tag on Pinboard](https://pinboard.in/u:elliot/t:paris/).
 - **Musée de Cluny**.
 	- I'm gutted I didn't go here on my trip in [[2023]]. This houses my favourite [[Tapestries]], [[The Lady and the Unicorn]].
 

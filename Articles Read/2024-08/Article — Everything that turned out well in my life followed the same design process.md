@@ -10,7 +10,7 @@ original_url: https://www.henrikkarlsson.xyz/p/unfolding?isFreemail=false&post_i
 omnivore_url: https://omnivore.app/me/everything-that-turned-out-well-in-my-life-followed-the-same-des-1914034e0ae
 ---
 
- - Site: Escaping Flatland
+ - Site: [[Escaping Flatland]]
  - By: Henrik Karlsson
  - Date published: 2024-08-05
  - Date read: [[2024-08-11]]

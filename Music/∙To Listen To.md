@@ -75,6 +75,7 @@
 	- Arabic pop. Via FT: https://www.ft.com/content/c5c878c4-3de6-4242-b68c-b5779f18d50f
 - Elyanna
 	- Arabic pop. Via FT: https://www.ft.com/content/c5c878c4-3de6-4242-b68c-b5779f18d50f
+- Jethro Tull
 
 ## Albums
 - Richard Thompson - Rumor and Sigh

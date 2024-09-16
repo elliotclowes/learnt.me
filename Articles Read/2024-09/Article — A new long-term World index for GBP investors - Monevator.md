@@ -10,13 +10,13 @@ original_url: https://monevator.com/world-index/
 omnivore_url: https://omnivore.app/me/https-monevator-com-world-index-191518f08ab
 ---
 
- - Site: Monevator
+ - Site: [[Monevator]]
  - By: The Accumulator
  - Date published: 2024-08-13
  - Date read: [[2024-09-01]]
  - [Read Original](https://monevator.com/world-index/)
  - [Read on Omnivore](https://omnivore.app/me/https-monevator-com-world-index-191518f08ab)
- - Tags:  #Investing  #Money 
+ - Tags:  #Investing  #Money [[Index fund]]
  - Notes: 
 
 **Note:** Below is the text from the article, with any ==highlights== done by me. None of the writing below is by me.

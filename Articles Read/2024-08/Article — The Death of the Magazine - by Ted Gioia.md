@@ -10,8 +10,8 @@ original_url: https://www.honest-broker.com/p/the-death-of-the-magazine
 omnivore_url: https://omnivore.app/me/the-death-of-the-magazine-by-ted-gioia-1914abce415
 ---
 
- - Site: The Honest Broker
- - By: Ted Gioia
+ - Site: [[The Honest Broker]]
+ - By: [[Ted Gioia]]
  - Date published: 2024-08-09
  - Date read: [[2024-08-13]]
  - [Read Original](https://www.honest-broker.com/p/the-death-of-the-magazine)
@@ -217,7 +217,7 @@ Imagine if you owned the Lakers or the Yankees, and put all the emphasis on the 
 
 Just saying _BuzzFeed_ over and over again isn’t enough. You can even slap the _National Geographic_ name on all sorts of merchandise—but it will still be a dying brand. 
 
-Magazine publishers should already know this. But they don’t. And the best they can hope for, if they persist down the current path, is to sell out eventually to a private equity fund—who will manage the endgame with ruthless efficiency. 
+[[Magazine]] publishers should already know this. But they don’t. And the best they can hope for, if they persist down the current path, is to sell out eventually to a private equity fund—who will manage the endgame with ruthless efficiency. 
 
 That’s already happened to much of the newspaper industry. 
 

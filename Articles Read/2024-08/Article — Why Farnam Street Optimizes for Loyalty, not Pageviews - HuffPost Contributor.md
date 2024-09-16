@@ -10,7 +10,7 @@ original_url: https://www.huffpost.com/entry/why-farnam-street-optimizes-for-loy
 omnivore_url: https://omnivore.app/me/why-farnam-street-optimizes-for-loyalty-not-pageviews-huff-post--1913b48279d
 ---
 
- - Site: HuffPost
+ - Site: [[HuffPost]]
  - By: Herbert Lui
  - Date published: 2016-06-13
  - Date read: [[2024-08-10]]
@@ -22,7 +22,7 @@ omnivore_url: https://omnivore.app/me/why-farnam-street-optimizes-for-loyalty-no
 **Note:** Below is the text from the article, with any ==highlights== done by me. None of the writing below is by me.
 
 # Article text
-When Shane Parrish started his blog in July 2009, with a post entitled, “[The Present Mess](https://www.farnamstreetblog.com/2009/07/the-present-mess/),” he wanted to collect his thoughts and lessons from self-teaching. He was dissatisfied with his MBA education, so he spent less time doing homework and more of it reading academic journals, books, and all types of literature. Farnam Street was originally known as 68131.blogger.com — a URL based on Berkshire Hathaway’s zip code. Parrish hadn’t meant for other people to see it, so he saw no need to make it memorable. 
+When [[Shane Parrish]] started his blog in July 2009, with a post entitled, “[The Present Mess](https://www.farnamstreetblog.com/2009/07/the-present-mess/),” he wanted to collect his thoughts and lessons from self-teaching. He was dissatisfied with his MBA education, so he spent less time doing homework and more of it reading academic journals, books, and all types of literature. [[Farnam Street]] was originally known as 68131.blogger.com — a URL based on Berkshire Hathaway’s zip code. Parrish hadn’t meant for other people to see it, so he saw no need to make it memorable. 
 
 “It was all about chronicling my personal journey of learning and life, and it’s become so much more,” he said. “A lot of people think that we’ve set out to do exactly what we’ve done today, but that isn’t the case at all.” 
 

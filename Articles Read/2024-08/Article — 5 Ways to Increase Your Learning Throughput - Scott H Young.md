@@ -11,7 +11,7 @@ omnivore_url: https://omnivore.app/me/5-ways-to-increase-your-learning-throughpu
 ---
 
  - Site: Scott H Young
- - By: Scott Young
+ - By: [[Scott Young]]
  - Date published: 2024-08-13
  - Date read: [[2024-08-16]]
  - [Read Original](https://www.scotthyoung.com/blog/2024/08/13/5-ways-increase-your-learning/?ck_subscriber_id=2697299274)

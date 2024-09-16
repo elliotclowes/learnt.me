@@ -1,1 +1,0 @@
-Millefleur, derived from the French term meaning "thousand flowers, is a style of [[tapestry]] that features lots of small flowers and plants and was popular during the [[Middle Ages]]

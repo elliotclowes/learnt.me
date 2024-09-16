@@ -10,7 +10,7 @@ original_url: https://pitchfork.com/reviews/albums/hiroshi-yoshimura-surround/
 omnivore_url: https://omnivore.app/me/hiroshi-yoshimura-surround-album-review-pitchfork-191642e49aa
 ---
 
- - Site: Pitchfork
+ - Site: [[Pitchfork]]
  - By: Joshua Minsoo Kim
  - Date published: 2023-10-14
  - Date read: [[2024-08-18]]

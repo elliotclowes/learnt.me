@@ -10,8 +10,8 @@ original_url: https://therealadam.com/2024/08/11/methods-of-production.html
 omnivore_url: https://omnivore.app/me/https-therealadam-com-2024-08-11-methods-of-production-html-191455ad636
 ---
 
- - Site: therealadam.com
- - By: Adam Keys
+ - Site: [[therealadam.com]]
+ - By: [[Adam Keys]]
  - Date published: 2024-08-12
  - Date read: [[2024-08-12]]
  - [Read Original](https://therealadam.com/2024/08/11/methods-of-production.html)

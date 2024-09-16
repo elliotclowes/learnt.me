@@ -10,8 +10,8 @@ original_url: https://jakeseliger.com/2024/08/05/no-salt/
 omnivore_url: https://omnivore.app/me/https-jakeseliger-com-2024-08-05-no-salt-1912e007246
 ---
 
- - Site: The Story's Story
- - By: Jake Seliger
+ - Site: [[The Story's Story]]
+ - By: [[Jake Seliger]]
  - Date published: 2024-08-05
  - Date read: [[2024-08-19]]
  - [Read Original](https://jakeseliger.com/2024/08/05/no-salt/)

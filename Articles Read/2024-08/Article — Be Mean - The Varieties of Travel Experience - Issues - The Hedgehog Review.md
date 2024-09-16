@@ -8,7 +8,7 @@ original_url: https://hedgehogreview.com/issues/the-varieties-of-travel-experien
 omnivore_url: https://omnivore.app/me/be-mean-the-varieties-of-travel-experience-issues-the-hedgehog-r-1914579b5cb
 ---
 
- - Site: The Hedgehog Review
+ - Site: [[The Hedgehog Review]]
  - By: 
  - Date published: 
  - Date read: [[2024-08-12]]
