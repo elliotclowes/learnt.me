@@ -42,7 +42,11 @@
 		- [ ] Add Social Network to autumn/winter films
 		- [ ] Slow Horses (not autumn)
 		- [ ] Penny Dreadful
+		- [ ] The Terror (with Abigail)
 	- **Films**
+		- **Abigail Christmas films**
+			- Meet the Parents
+			- 29th Street
 		- [x] Practical Magic
 		- [ ] The Craft (1996)
 		- [x] Dead Poets Society
@@ -51,6 +55,7 @@
 		- [ ] Operation Mincemeat
 		- [x] Hot Fuzz
 		- [x] The Oxford Murders
+		- [ ] Pride and Prejudice (Abigail)
 	- **Music**
 		- [ ] Sherlock Holmes audiobook
 		- [ ] [Mazzy Star - Among My Swan](https://open.spotify.com/album/4mhpbf7jYc0L1nBceoebIE?si=hfSl7eZqSgyka5W1tyoLYg)

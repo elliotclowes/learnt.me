@@ -7,6 +7,9 @@ aliases:
 - See ['Paris' tag on Pinboard](https://pinboard.in/u:elliot/t:paris/).
 - **Musée de Cluny**.
 	- I'm gutted I didn't go here on my trip in [[2023]]. This houses my favourite [[Tapestries]], [[The Lady and the Unicorn]].
+- [L'Hôtel](https://www.google.com/maps/place/L'H%C3%B4tel/@48.8563247,2.3352268,17z/data=!3m1!4b1!4m9!3m8!1s0x47e671d8760ca8bb:0xf05a34da04f76b63!5m2!4m1!1i2!8m2!3d48.8563247!4d2.3352268!16zL20vMDl5amI0?entry=ttu&g_ep=EgoyMDI0MDkxMS4wIKXMDSoASAFQAw%3D%3D)
+	- This is the hotel where [[Oscar Wilde]] died.
+	- ![](https://elliotclowes.com/cold/2024/image-hotel.jpg)
 
 ## Overview
 
