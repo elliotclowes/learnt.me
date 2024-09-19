@@ -3,7 +3,7 @@
 - Poe: $20/**mo** | $240/yr
 	- I use AI quite a lot and think the cost is worth it, despite the high price.
 - Linode: $19/**mo** | $228/yr
-	- This for a small little server than a lot of my websites are hosted on (the other ones are hosted on AWS). I really hope I can stay with this plan for as long as possible because the next size up (that isn't just some extra RAM) would cost me about $28.
+	- This for a small little server that a lot of my websites are hosted on (the other ones are hosted on AWS). I really hope I can stay with this plan for as long as possible because the next size up (that isn't just some extra RAM) would cost me about $28.
 - Dropbox: £10/**mo** | £120/yr
 - Feral: £10/**mo** | £120/yr
 - iCloud+: £9/**mo** | £108/yr

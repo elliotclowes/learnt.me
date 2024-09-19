@@ -74,6 +74,7 @@
 		- [ ] Unbunny
 		- [ ] Nick Drake
 		- [ ] The Police—Synchronicity
+		- [ ] Dire Straits
 	- **Baking**
 		- [x] Cookies
 		- [x] Muffins
