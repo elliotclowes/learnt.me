@@ -25,6 +25,9 @@
 			- Good Will Hunting
 			- When Harry Met Sally
 	- **Christmas**
+		- [Yankee Candle - 2024 Holiday Collection](https://www.reddit.com/r/YankeeCandles/comments/1f85ser/preview_of_the_holiday_2024_collection/)
+			- I think [Munich Christmas Market](https://www.yankeecandle.co.uk/yankee-candle/candles/shop-by-type/signature-large-jar-candles/munich-christmas-market/ORCL_1759288E.html) might be best.
+			- [Scent notes](https://www.reddit.com/r/YankeeCandles/comments/1f85ser/preview_of_the_holiday_2024_collection/llvpb6z/).
 		- [Amy Grant & Vince Gill - When I Think Of Christmas](https://store.acousticsounds.com/d/189614/Amy_Grant__Vince_Gill-When_I_Think_Of_Christmas-Vinyl_Record)
 		- See what wines I've got in cupboard.
 		- [Berry Bros. Claret](https://www.bbr.com/products-20208004165-2020-berry-bros-and-rudd-good-ordinary-claret-by-dourthe-bordeaux)
