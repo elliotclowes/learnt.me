@@ -1001,8 +1001,10 @@
 - 5620: Kick-Ass 2
 - 4220: Zoolander 2
 - 3010: The Danish Girl
-- 7500: Tinker, Tailor, Soldier, Spy = 90
+- 7605: Tinker, Tailor Soldier, Spy = 91
     - VP9: 404 = 86
+    - Old H264: 7500 = 90
+    - AV1: 5255 = 93
 - 7500: Alexander: The Ultimate Cut
 - 5630: The Inbetweeners 2
 - 7500: Rust and Bone
