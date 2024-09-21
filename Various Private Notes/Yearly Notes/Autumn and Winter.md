@@ -1,0 +1,204 @@
+- **Films**
+    - [ ] LOTR
+    - [ ] [[Harry Potter]]
+    - [ ] The Hobbit
+    - [ ] Hot Fuzz
+    - [ ] Alan Partridge: Alpha Papa
+    - [ ] Tinker Tailor Soldier Spy
+    - [ ] The King's Speech
+    - [ ] Van Helsing
+    - [ ] Shaun of the Dead
+    - [ ] Wallace & Gromit
+    - [ ] Solomon Kane
+    - [ ] Paddington
+    - [ ] Paddington 2
+    - [ ] Barry Lyndon
+    - [ ] Black Death
+    - [ ] Brotherhood of the Wolf
+    - [ ] Stardust
+    - [ ] The Limehouse Golem
+    - [ ] The Banshees of Inirishin
+    - [ ] Anna Karenina
+    - [ ] The Assassination of Jesse James by the Coward Robert Ford
+    - [ ] Ironclad
+    - [ ] King Arthur (2004)
+    - [ ] King Arthur: Legend of the Sword
+    - [ ] Eastern Promises
+    - [ ] Kind Hearts and Coronets
+    - [ ] Victor Frankenstein
+    - [ ] A Monster Calls
+    - [ ] The Duchess
+    - [ ] Enola Holmes
+    - [ ] Chicken Run
+    - [ ] Knives Out
+    - [ ] The Village
+    - [ ] The Da Vinci Code
+    - [ ] Hot Fuzz
+    - [ ] Planes, Trains & Automobiles
+    - [ ] Hansel & Gretel: Witch Hunters
+    - [ ] The Libertine
+    - [ ] Operation Mincemeat
+    - [ ] The Oxford Murders
+    - [ ] Nightmare Alley
+    - [ ] Social Network
+    - [ ] Knives Out
+    - [ ] Twilight
+    - [ ] The Imitation Game
+    - [ ] The Theory of Everything
+    - [ ] Good Will Hunting
+    - [ ] When Harry Met Sally
+    - [ ] Notting Hill
+    - [ ] Four Weddings and a Funeral
+    - [ ] Pride and Prejudice
+    - [ ] The Princess Bride
+    - [ ] Jane Eyre
+    - [ ] Pride & Prejudice
+    - [ ] The History Boys
+    - **New**
+        - [ ] Maurice
+        - [ ] Dead Poets Society
+        - [ ] From Hell
+        - [ ] When Harry Met Sally...
+        - [ ] You've Got Mail
+        - [ ] Autumn in New York
+        - [ ] Practical Magic
+        - [ ] Twilight
+        - [ ] Little Women
+        - [ ] Far from the Madding Crowd
+        - [ ] Wuthering Heights (1992)
+        - [ ] Underworld (2003)
+        - [ ] Season of the Witch (2011)
+        - [ ] The Last Witch Hunter (2015)
+        - [ ] [The Last Confession of Alexander Pearce](https://passthepopcorn.me/torrents.php?id=7409)
+        - [ ] The Brothers Grimm
+        - [ ] Quills
+        - [ ] Bram Stoker's Dracula
+        - [ ] The Name of the Rose
+        - [ ] The Craft (1996)
+        - [ ] First Knight [1995]
+- **TV**
+    - **To Watch**
+        - Wolf Hall
+        - The North Water
+        - The Woman in White
+        - The Last Kingdom
+        - The Secret Agent
+    - __Ordered from least to most 'cold'.__
+    - [ ] Saxondale
+    - [ ] Qi
+    - [ ] Over the Garden Wall
+    - [ ] London Spy
+    - [ ] Fleabag
+    - [ ] Friday Night Dinner
+    - [ ] Ghosts 
+    - [ ] Alan Partridge
+    - [ ] Mid Morning Matters with Alan Partridge
+    - [ ] This Time with Alan Partridge
+    - [ ] [[The Old Guys]]
+    - [ ] Vicious
+    - [ ] Downton Abbey
+    - [ ] House of Cards
+    - [ ] Sherlock Holmes
+    - [ ] The Crown
+    - [ ] Slow Horses
+    - [ ] Ripper Street
+    - [ ] The Witness for the Prosecution
+    - [ ] The Trip
+    - [ ] Only Fools & Horses
+    - [ ] Wednesday
+    - [ ] Witcher
+    - [ ] Game of Thrones
+    - [ ] The Alienist
+    - [ ] The Last Kingdom
+    - [ ] Flowers
+    - [ ] Sherlock
+    - [ ] The Frankenstein Chronicles
+    - [ ] Quacks
+    - [ ] Dracula (2020)
+    - [ ] The Knick
+    - [ ] Shardlake
+    - [ ] Penny Dreadful
+    - [ ] Taboo
+    - [ ] Fargo
+    - [ ] The Terror
+- **Reality TV**
+    - Stephen Fry's Key to the City
+    - Stephen Fry in America
+    - Qi
+    - Top Gear
+    - Brian Sewell's Grand Tour
+    - Addicted to Pleasure
+    - [[Lucy Worsley]]
+    - James Martin Home Comforts
+    - Melvyn Bragg's Radical Lives
+- ### Activities
+	- **Walks**
+	- **Shopping**
+		- The Range
+		- Ikea
+		- Matalan
+		- Next
+		- Dunelm
+		- TKMaxx
+		- Home Bargains
+		- Primark
+		- Next
+		- B&M
+		- Wilko (St Albans)
+	- Guy Fawkes night
+	- Pumpkin picking
+	- Prince Charles Cinema (ADD TO CHRISTMAS INSTEAD)
+- ### Food
+    - **Baking**
+        - [ ] Cookies
+        - [ ] Muffins
+        - [ ] Apple Crumble ([NY Times](https://cooking.nytimes.com/recipes/1018638-apple-crumble) or [GPT-4o](https://poe.com/chat/3l1t5q7wkrtl0313tcs) or [Claude](https://poe.com/chat/3l1t5ycbjqlq3vr6oz0))
+        - [ ] [Millionaire's Shortbread](https://www.seriouseats.com/millionaires-shortbread-recipe-8709817)
+    - **Restaurants**
+        - [ ] The Alford Arms
+        - [ ] The Royal Standard of England
+    - **Recipes**
+        - [Budget Bytes - Fall Recipes](https://www.budgetbytes.com/category/recipes/seasonal/fall-recipes/)
+        - [Budget Bytes - Winter Recipes](https://www.budgetbytes.com/category/recipes/seasonal/winter-recipes/)
+        - [Five recipes that John Torode and Lisa Faulkner cook at home](https://www.thetimes.com/magazines/the-times-magazine/article/john-torode-lisa-faulkner-recipes-cook-home-t38jrjd3n)
+        - [Yotam Ottolenghi: my ultimate comfort food recipes](https://www.thetimes.com/life-style/food-drink/article/yotam-ottolenghi-comfort-recipes-cookbook-extract-food-j2tfzkf9t)
+    - **Meals**
+        - [ ] Roast Dinner
+        - [ ] Tring Farm Steak Pie
+        - [ ] Grilled Cheese
+        - [ ] Jacket Potato Cheese & Beans
+        - [ ] Soup
+    - **Snacks**
+        - [ ] Pretzels
+- ### Music
+    - [ ] Fairport Convention
+    - [ ] The Lighthouse Family
+    - [ ] The Hobbit Soundtrack
+    - [ ] Nick Drake
+    - [ ] Unbunny
+    - [ ] Sade
+    - [ ] Dire Straits
+    - [ ] Phill Collins
+        - One More Night
+        - Against All Odds
+        - A Groovy Kind of Love
+        - Another Day in Paradise
+    - **Albums**
+        - [ ] Mike Oldfield - Ommadawn
+        - [ ] The Hobbit Soundtrack
+        - [ ] [Mazzy Star - Among My Swan](https://open.spotify.com/album/4mhpbf7jYc0L1nBceoebIE?si=hfSl7eZqSgyka5W1tyoLYg)
+        - [ ] Bon Iver - For Emma, Forever Ago
+        - [ ] [Byrd: Mass for five voices; Choral works](https://www.hyperion-records.co.uk/dc.asp?dc=D_CDA68416)
+        - [ ] The Police 0 Synchronicity
+- ### Links
+    - [Sophie Allport](https://www.sophieallport.com/collections/new)
+    - [Next Autumn collection](https://www.next.co.uk/shop/promotion-autumndecor/0-editpage?p=3#141.0078125)
+    - [Craghoppers](https://www.craghoppers.com/)
+    - [Filson](https://www.filson.com/)
+    - [/r/filson](https://www.reddit.com/r/filson/top/?sort=top&t=year)
+    - Barbour
+    - [Anthropologie](https://www.anthropologie.com/en-gb/home)
+- ### Videos
+	- [ ] [Intellectual YouTube playlist](https://youtube.com/playlist?list=PLvA0caarRB0Mm9RMwGZGQl-adAJ-utL57&si=SbQ914Jy_kXJPPHL)
+	- [ ] [huge halloween haul || summerween vlog - decor, home, clothes, & books](https://youtu.be/k6DSs8ICrDM?si=3RUYbcPGVC1anLVl)
+	- [ ] [You'll never get it if you don't slow down (Hotline XXIII)](https://youtube.com/watch?v=BhhBSUmdgmo&si=SbZwrsqmftFE0AYw)

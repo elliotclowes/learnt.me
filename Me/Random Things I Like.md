@@ -2,7 +2,7 @@
 
 ## Candles
 
-Once [[autumn]] arrives I like to make my environment as cosy as possible. And nothing adds instant cosiness like a candle. I'm sure they're not very good for a my health and I'm breathing in a lot of gunk. But I'm still happy to light them.
+Once [[Autumn]] arrives I like to make my environment as cosy as possible. And nothing adds instant cosiness like a candle. I'm sure they're not very good for a my health and I'm breathing in a lot of gunk. But I'm still happy to light them.
 
 I like plain 'church' candles – the bigger the better. And when it comes to scented ones, I like [[Yankee Candles]] and I choose which to buy based on the artwork on the front, rather than the smell. The artwork has to make me feel cosy – I'd never buy a summer-sounding one.
 
