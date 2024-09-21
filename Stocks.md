@@ -1,6 +1,9 @@
 [Custom Claude](https://poe.com/chat/3l5c9rsmktr0bbmd73l)
 [Gemini](https://poe.com/chat/3l57u8pexcgbn26grt5)
+[Gemini (new)](https://poe.com/chat/3lag9hs5z3rxh7oa2jc)
 [GPT-4](https://poe.com/chat/3l57ixw1ktk0tckp8xg)
+
+[Financials](https://discountingcashflows.com/company/META/earnings/)
 
 92 - NVIDIA
 85 / 85 - PepsiCo
@@ -17,6 +20,7 @@
 78 / 75 / 72 - **Sanmina Corporation**
 78 - Bunge Limited
 78 - PageGroup
+?? / 75 / 78 - Meta
 75 - CF Industries
 75 / 60 / 74 - Dillard's
 75 - Hormel Foods
