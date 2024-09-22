@@ -63,6 +63,7 @@
 - 61% – [[The Fall Guy (2024)]]
 - 61% – [[Dumb Money (2024)]]
 - 58% – [[The Ministry of Ungentlemanly Warfare (2024)]]
+- 55% – [[Solomon Kane (2009)]]
 - 53% – [[Your Christmas Or Mine? (2022)]]
 - 53% – [[Firebrand (2024)]]
 - 52% – [[The Others (2001)]]

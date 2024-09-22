@@ -21,10 +21,12 @@
 78 - Bunge Limited
 78 - PageGroup
 ?? / 75 / 78 - Meta
+75 / 85 / 88 - Johnson & Johnson
 75 - CF Industries
 75 / 60 / 74 - Dillard's
 75 - Hormel Foods
 75 - Forestar Group Inc
+70 / 70 / 83 - AMD
 70 / 75 / 77 - Walt Disney
 70 / 65 / 65 - G-III Apparel Group, Ltd
 65 / 60 - Photronics
@@ -33,6 +35,7 @@
 65 - Shanghai Electric Group Company
 65 - Solvay
 60 / 70 - Quanex Building Products Corporation
+55 / 70 / 76 - Franklin Resources, Inc.
 55 / 65 / 76 - Altria Group, Inc. (MO)
 55 - Boeing
 45 / 50 / 44 - Bombardier Inc
