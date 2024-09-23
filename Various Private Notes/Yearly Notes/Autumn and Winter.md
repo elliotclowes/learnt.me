@@ -131,6 +131,7 @@
 - [ ] The Frankenstein Chronicles
 - [ ] The Knick
 - [ ] The Last Kingdom
+- [ ] The Suspicions of Mr. Whicher
 - [ ] The Terror
 - [ ] The Trip
 - [ ] The Witness for the Prosecution
@@ -151,6 +152,7 @@
 - [ ] Stephen Fry in America
 - [ ] Stephen Fry's Key to the City
 - [ ] The Country House Revealed
+- [ ] The Trip
 - [ ] Lucy Worsley
 	- [ ] If Walls Could Talk: The History of the Home
 	- [ ] Elegance and Decadence: The Age of the Regency
@@ -201,7 +203,7 @@
 
 ### Pubs
 - [ ] The Alford Arms
-- [ ] The Royal Standard of England
+- [ ] The Royal Standard of England ✅
 - [ ] The Sherlock Holmes
 
 ### Recipes
@@ -213,6 +215,7 @@
 ### Meals
 - [ ] Roast Dinner
 - [ ] Tring Farm Steak Pie
+- [ ] Homemade Steak Pie
 - [ ] Grilled Cheese
 - [ ] Jacket Potato Cheese & Beans
 - [ ] Soup

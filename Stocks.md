@@ -1,4 +1,5 @@
 [Custom Claude](https://poe.com/chat/3l5c9rsmktr0bbmd73l)
+[Claude (new)](https://poe.com/chat/3lth1xqzvyv9iibw38v)
 [Gemini](https://poe.com/chat/3l57u8pexcgbn26grt5)
 [Gemini (new)](https://poe.com/chat/3lag9hs5z3rxh7oa2jc)
 [GPT-4](https://poe.com/chat/3l57ixw1ktk0tckp8xg)
@@ -17,9 +18,12 @@
 82 - Green Brick Partners, Inc
 82 - Valero Energy Corporation
 80 / 80 / 85 - Tesla
+78 / 55 / 78 - Owens Corning
 78 / 75 / 72 - **Sanmina Corporation**
 78 - Bunge Limited
 78 - PageGroup
+75 / 60 / ?? - American Express
+75 / 60 / 82 - Nike
 ?? / 75 / 78 - Meta
 75 / 85 / 88 - Johnson & Johnson
 75 - CF Industries
@@ -29,6 +33,8 @@
 70 / 70 / 83 - AMD
 70 / 75 / 77 - Walt Disney
 70 / 65 / 65 - G-III Apparel Group, Ltd
+65 / 60 / 74 - Lloyds Banking Group
+65 / 65 / 78 - Mercedes-Benz Group AG
 65 / 60 - Photronics
 65 / 65 - Netflix
 65 - Centrica
