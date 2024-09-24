@@ -24,6 +24,7 @@
 
 - Load up more reading and movies that you think you'll need. You don’t want to run out.
 - Bring a book. Even on a city break. They’ll be some time to read it here and there. Often between lunch and dinner.
+- Don’t bring too demanding non-fiction book. Bring something fairly light. I like to highlight things and makes note, which is difficult on a beach when I don’t want to use my phone. And the chances of me scanning all the highlights and making notes from them when I get back from holiday are very slim. 
 - Bring ‘travel’ content or consume it before. [[Anthony Bourdain]], [[James Bond]], Air Mail, [[Monocle Magazine]]. All these things put me in the mood. I love it. For my [[Seville, Spain|Seville]] trip I didn’t think I needed the Monocle. But I would have preferred to have had it.
 - Check what events are happening before you travel. Firstly because you might accidentally book a very busy time. But secondly there might be a great one-off event happening. When I went to [[Seville, Spain|Seville]] I didn't realise until I got there that [[AC-DC]] were playing. It would have been nice to have gone.
 

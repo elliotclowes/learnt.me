@@ -1,5 +1,9 @@
 ## You
 
+Life as a whole doesn’t live up to the expectations you had for it as a youth. It’s disappointing. But if you can’t get over that and learn to find joy and fulfilment in small moments and wonders then it becomes doubly disappointing. [[2024-09-23]]
+
+---
+
 [[Ran Prieur]] said (September 5, 2024) that motivation is a human problem. Because we don’t fit our environment. Wild animals don’t have this problem. Think of it like this. There’s bears in the wild, who require no prodding to hunt for salmon. And then there’s depressed circus bears, who need constant prodding to ‘wave’ to an audience, because it’s not their natural environment. Most of us are circus bears. [[2024-09-07]]
 
 *** 

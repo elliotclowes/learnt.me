@@ -226,3 +226,33 @@ In the past it had been an exotic, expensive spice. Now it was cheap, and salt a
 ---
 
 Spices fell out of favour after the medieval and Renaissance eras. English food became increasingly plain, dominated by roast and boiled meats, pastries and pies. However, condiments became more popular. Mustard, horseradish sauce, pickles or fruit jellies. P75
+
+---
+
+At first the East India Company made its money in India via pepper. But by the 1660s it was Indian textile pieces that made up 75% of their trade. Pepper had been relegated to a ballast cargo, “poured into the holds to help stabilise the ships”. Tea then eventually took over from textiles. P78 and P81
+
+---
+
+“Tea was the last of the new colonial groceries to arrive on the English market.” It was first sold in 1658 and Pepys tries it in 1660. Though at first it was mostly taken for medicinal reasons, not pleasure.
+
+> But it soon became fashionable among gentlewomen, who revelled in the beauty of the paraphernalia that surrounded its consumption: the lockable polished wooden tea caddies; the delightfully patterned china teapots; delicate porcelain cups and saucers; sugar bowls, silver strainers and silver spoons. p79
+
+As sugar become less popular with cooks and the medical profession it found a new home in tea. The English drank their tea heavily sweetened by sugar.
+
+> Between 1663 and 1773, the amount of sugar consumed per head of the population increased twentyfold, while that of tea increased fifteenfold. P81
+
+---
+
+### 7. How the impoverishment of the English rural labourer gave rise to the industrial ration
+
+> In the eighteenth century, the English, Scots and Welsh were united into a single state and began to define themselves as British. This new identity derived from a sense of a shared Protestantism, which was highlighted by their opposition to Catholic France. With the British triumph over the French in Canada and India during the Seven Years War (1756-63), public pride in Britain's navy and imperial strength grew. Victories at sea were now marked by the ringing of church bells, and there was a populist dimension to the celebration of empire - merchants, artisans, people in the provinces all took pride in Britain's overseas triumphs. National morale was affected by imperial success (or failure). And Britain's military might was financed by its empire. In the 1760s, the duty the government made on sugar imports was roughly equivalent to the cost of  maintaining all the ships in the British navy. More directly, the government raised loans from the East India Company to finance its wars. The consumption of colonial goods became linked to pride in Britain's imperial greatness, and both became an integral part of what it meant to be British. p92-93
+
+---
+
+> Tea sweetened with sugar eventually displaced beer as the primary drink of the poor. Tea itself does not seem an obvious alternative to beer until the sweetness of the eighteenth-century brew is taken into account: the amount of malt it contained would have produced a heady, sweet beer that may have predisposed people to develop a liking for strong, sugary tea. p94
+
+---
+
+As the poor moved from consuming beer to tea it actually had negative health effects. The beer was healthier, bizarrely. In many ways it was liquid bread and was a way of turning grain into edible food. It had protein, vitamin B and about 350 calories per pint. Tea had no vitamins or protein and even when plied with sugar had less calories. And of course sugar isn’t good for a person.
+
+However tea probably would have felt healthier. It has no alcohol, so wouldn’t have made them feel lethargic. And the sugar would have given been an instant energy release, unlike the slower releasing beer. It also was hot, which would have been a welcomed thing to a labourer on a cold day. P85
