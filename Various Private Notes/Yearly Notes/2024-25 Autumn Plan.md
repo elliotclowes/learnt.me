@@ -97,6 +97,7 @@
 		- [ ] Next
 		- [ ] B&M
 		- [ ] Wilko (St Albans)
+		- [ ] The Range (St Albans)
 	- **Restaurant**
 		- [ ] Travellers Rest after walk.
 	- **Meals**
