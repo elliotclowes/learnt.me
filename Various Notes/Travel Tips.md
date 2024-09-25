@@ -1,5 +1,10 @@
 **Note**: a lot of these are personal to me. Pick and choose them as you see fit.
 
+## Before
+
+- Don’t go too late in the year. By that time I’m in autumn mode.
+- Get healthy before the holiday. I know, you’ll get healthy whilst there. But if you aren’t healthy before hand it takes a week or so for my body to ‘come round’ and feel ‘alive’. Which affects things. Low energy, poor boozing appetite, etc.
+
 ## Airport
 
 - Take you jumper off the *moment* you get hot. Otherwise before you know it you're baking and you can't cool down. It seems like the deeper into the airport you go the hotter it gets.
@@ -49,7 +54,7 @@
 	- Lidl Cien Sun Spray SPF30, £3.29/200ml
 	- Lidl Cien Kids Sensitive Sunscreen Spray SPF50+ , £3.29/200ml
 
-### Film and TV
+## Film and TV
 
 - Stuff I like to watch before holiday or on the plane:
 	- Pirates of the Caribbean
@@ -72,6 +77,7 @@
 		- [An A-Z of Hellraisers: A Comprehensive Compendium of Outrageous Insobriety by Robert Sellers](https://www.amazon.co.uk/Hellraisers-Comprehensive-Compendium-Outrageous-Insobriety/dp/1848092466/ref=tmm_pap_swatch_0)
 		- [Peter O'Toole: The Definitive Biography by Robert Sellers](https://www.amazon.co.uk/Peter-OToole-Definitive-Robert-Sellers-ebook/dp/B00UXKJ0R6)
 		- [What Fresh Lunacy is This?: The Authorized Biography of Oliver Reed by Robert Sellers](https://www.amazon.co.uk/What-Fresh-Lunacy-This-Authorized/dp/1472112636/ref=tmm_pap_swatch_0)
+		- "Reed All About Me" by [[Oliver Reed]]
 
 *Created: [[2024-06-02]]*
 
