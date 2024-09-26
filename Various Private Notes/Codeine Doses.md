@@ -1,3 +1,4 @@
 - 2024-09-26
-	- 178 mg (89 ml liquid) + 30 mg tablet (about 45 mins after liquid dose)
-	- Last dose was 48 hours prior and was 84 liquid + 30 mg tablet. I didn't feel this too much. No euphoria or anything like that. If I was to do it again I'd take 100 ml liquid.
+	- **220mg**: 160 mg (80 liquid) + 60 mg tablets.
+	- **208mg**: 178 mg (89 ml liquid) + 30 mg tablet (about 45 mins after liquid dose)
+		- Last dose was 48 hours prior and was 84 liquid + 30 mg tablet. I didn't feel this too much. No euphoria or anything like that. If I was to do it again I'd take 100 ml liquid.

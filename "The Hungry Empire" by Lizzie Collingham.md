@@ -255,4 +255,9 @@ As sugar become less popular with cooks and the medical profession it found a ne
 
 As the poor moved from consuming beer to tea it actually had negative health effects. The beer was healthier, bizarrely. In many ways it was liquid bread and was a way of turning grain into edible food. It had protein, vitamin B and about 350 calories per pint. Tea had no vitamins or protein and even when plied with sugar had less calories. And of course sugar isn’t good for a person.
 
-However tea probably would have felt healthier. It has no alcohol, so wouldn’t have made them feel lethargic. And the sugar would have given been an instant energy release, unlike the slower releasing beer. It also was hot, which would have been a welcomed thing to a labourer on a cold day. P85
+However tea probably would have felt healthier. It has no alcohol, so wouldn’t have made them feel lethargic. And the sugar would have given been an instant energy release, unlike the slower releasing beer. It also was hot, which would have been a welcomed thing to a labourer on a cold day. P95
+
+---
+
+
+
