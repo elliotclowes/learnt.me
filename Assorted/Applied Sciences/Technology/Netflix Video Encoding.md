@@ -15,6 +15,40 @@
 ## Movie Bitrates
 
 - AT = Already Transcoded
+- The Informer
+	- H264: 6181 = 96
+	- AV1: 825 = 96
+-  Pulp Fiction
+	- Old H264: 3830
+	- HEVC: 1749 = 83
+	- AV1: 1045 = 97
+- Æon Flux
+	- H264: 5207 = 96
+	- AV1: 2937 = 97
+- [[Back to Black (2024)]]
+	- HEVC: 3524 = 94
+	- AV1: 1064 = 97
+- Plane (2023)
+	- H264: 2944 = 90
+	- AV1: 1081 = 97
+- Tag
+	- H264: 4349 = 96
+	- AV1: 1817 = 97
+- Fast & Furious Presents: Hobbs & Shaw
+	- H264: 1868 = 82
+- Blood Diamond
+	- Old H264: 7500
+	- H264: 7557 = 96
+	- AV1: 2980 = 97
+- The Day After Tomorrow
+	- H264: 5525 = 96
+- Fist Fight
+	- Old H264: 7500 = 95
+	- H264: 5197 = 94
+	- AV1: 2344 = 97
+- Mothers' Instinct
+	- H264: 2534 = 93
+	- AV1: 827 = 98
 - Babel
 	- H264: 6524 = 92
 	- AV1: 3661 = 94
@@ -393,7 +427,6 @@
 - 7500: Kong: Skull Island = 94
     - VP9: 2229 = 94
 - 5620: Hotel Transylvania = 97
-- 7500: Fist Fight = 95
 - 7150: Lawless = 93
 - 6490: The World’s End = 95
 - 3232: Paul = 94
@@ -622,6 +655,9 @@
 - 4420: Shaun the Sheep Movie
 - 7500: T2: Trainspotting
 - 6190: Aloha
+	- Old H264: 6190
+	- H264: 4072 = 92
+	- AV1: 1788 = 94
 - 3830: Birdman
 - 406 / 2610: Gone Girl
 - 5800: Legally Blonde = 94
@@ -762,7 +798,6 @@
 - 3160: Hostiles
 - 3160: [[The Nice Guys (2016)]]
 - 3650: Nightcrawler
-- 3830: Pulp Fiction
 - 4491: Se7en = 93
     - Old: 7150
     - VP9: 1830 = 94 [[December 16th, 2022]]
@@ -917,7 +952,6 @@
     - Old: 3830
 - 5620: Despicable Me 3
 - 6810: Along Came Polly
-- 7500: Blood Diamond
 - 6490: Body of Lies
 - 4420: Cold Mountain
 - 5360: La La Land = 95

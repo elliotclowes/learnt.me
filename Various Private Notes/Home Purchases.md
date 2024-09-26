@@ -1,0 +1,2 @@
+- £700: Denon - AVR-S770H AV receiver
+	- I could go for the £600 [AVR-S670H](https://www.denon.com/en-gb/product/av-receivers/avr-s670h/AVRS670HGB.html). But the more expensive one is 7.2, not 5.2. It also has Dolby Vision and AirPlay support.
