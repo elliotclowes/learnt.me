@@ -28,7 +28,7 @@
 - [ ] Paddington
 - [ ] Paddington 2
 - [ ] Planes, Trains & Automobiles ✅
-- Pride & Prejudice (2005)
+- [ ] Pride & Prejudice (2005)
 - [ ] Shaun of the Dead
 - [ ] Stardust
 - [ ] The Banshees of Inirishin
@@ -47,10 +47,10 @@
 - [ ] The Theory of Everything
 - [x] The Village
 - [x] Tinker Tailor Soldier Spy
-- [ ] Twilight
+- [ ] Twilight Film Series
 - [ ] Van Helsing ✅
 - [ ] Victor Frankenstein
-- [ ] Wallace & Gromit
+- [ ] Wallace & Gromit: The Curse of the Were-Rabbit
 - [ ] When Harry Met Sally
 
 ### Winter

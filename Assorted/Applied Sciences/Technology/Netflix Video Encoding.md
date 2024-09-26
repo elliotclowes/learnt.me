@@ -15,6 +15,11 @@
 ## Movie Bitrates
 
 - AT = Already Transcoded
+- Babel
+	- H264: 6524 = 92
+	- AV1: 3661 = 94
+- Money Monster
+	- H264: 1626 = 96
 - Dune
 	- H264 High: 3777 = 95
 	- VP9: 483 = 94
