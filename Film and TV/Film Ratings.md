@@ -31,6 +31,7 @@
 - 91% – [[Good Will Hunting (1997)]]
 - 85% – The Girl with the Dragon Tattoo
 - 85% – Sicario
+- 83% – [[The Dark Knight Rises (2012)]]
 - 83% – Ex Machina
 - 82% – [[The Holdovers (2023)]]
 - 82% – A Star is Born (2018)

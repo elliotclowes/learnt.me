@@ -1,5 +1,9 @@
 
 
+Find out what the weather was like on the day you were born. https://bdayweather.com/
+
+***
+
 > its crazy to me how many people wear a whoop/oura/etc and unconsciously let their "readiness score" tell them how to feel that day. 
 > 
 > we've outsourced "knowing your body" to an arbitrary metric that might as well be a random number generator. health hyperstition is the final form
