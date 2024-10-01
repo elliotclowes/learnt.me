@@ -1,3 +1,6 @@
+- **2024-10-01**
+	- **225mg** - 100ml liquid + 2 x 12.8 mg Ibuprofen
+- Didn't track
 - 2024-09-26
 	- **220mg**: 160 mg (80 liquid) + 60 mg tablets.
 	- **208mg**: 178 mg (89 ml liquid) + 30 mg tablet (about 45 mins after liquid dose)
