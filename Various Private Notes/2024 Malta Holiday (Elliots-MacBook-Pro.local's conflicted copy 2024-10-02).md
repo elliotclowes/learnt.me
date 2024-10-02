@@ -1,4 +1,0 @@
-- RyanAir Express Bag Drop might be worth it.
-- Take off jumper once baggage has been dropped off.
-- Use the Priorty Pass AMEX thing. Worth it.
-- Don’t forget to get spirit miniatures before going to [[The Pub]]. I forgot this year.
