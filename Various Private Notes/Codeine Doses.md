@@ -1,3 +1,6 @@
+- BLANK LINE
+- 2024-10-02
+	- 247mg - 111ml liquid + 2 x 12.8 mg Ibuprofen 
 - **2024-10-01**
 	- **225mg** - 100ml liquid + 2 x 12.8 mg Ibuprofen
 - Didn't track
