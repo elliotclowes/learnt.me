@@ -1,3 +1,11 @@
+
+
+
+> “Everything in moderation, including moderation.” – Oscar Wilde
+
+---
+
+
 > "The greatest burden a child must bear is the unlived life of the parents." – Carl Jung
 
 ***

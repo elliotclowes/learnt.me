@@ -2,6 +2,7 @@
 - [Oore jewelry](https://oorejewelry.com/)
 
 **Dad**
+- [Richard Manuel book](https://amzn.eu/d/a6bruDQ)
 
 **Mum**
 
