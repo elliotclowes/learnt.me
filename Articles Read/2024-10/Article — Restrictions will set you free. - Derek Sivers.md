@@ -3,6 +3,7 @@ id: cc35dbec-f4cf-4e91-ad1d-d278cd5e24ee
 site_name: sive.rs
 date_published: 2008-04-29
 date_saved: 2024-10-03
+date_read: 2024-10-04
 date_archived: 2024-10-04T06:56:52.000Z
 original_url: https://sive.rs/restr
 omnivore_url: https://omnivore.app/me/restrictions-will-set-you-free-derek-sivers-1925272a618
@@ -11,7 +12,7 @@ omnivore_url: https://omnivore.app/me/restrictions-will-set-you-free-derek-siver
  - Site: sive.rs
  - By: 
  - Date published: 2008-04-29
- - Date read: [[]]
+ - Date read: [[2024-10-04]]
  - [Read Original](https://sive.rs/restr)
  - [Read on Omnivore](https://omnivore.app/me/restrictions-will-set-you-free-derek-sivers-1925272a618)
  - Tags:  #Better_Living  #Productivity  #Smarter_Living 

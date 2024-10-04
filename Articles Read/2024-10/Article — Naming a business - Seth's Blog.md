@@ -3,6 +3,7 @@ id: ed15f624-1021-4cda-ac8e-57c332835923
 site_name: Seth's Blog
 date_published: 2003-06-22
 date_saved: 2024-10-03
+date_read: 2024-10-04
 date_archived: 2024-10-04T06:56:25.000Z
 original_url: https://seths.blog/2003/06/naming_a_busine/
 omnivore_url: https://omnivore.app/me/naming-a-business-seth-s-blog-19252738383
@@ -11,7 +12,7 @@ omnivore_url: https://omnivore.app/me/naming-a-business-seth-s-blog-19252738383
  - Site: Seth's Blog
  - By: 
  - Date published: 2003-06-22
- - Date read: [[]]
+ - Date read: [[2024-10-04]]
  - [Read Original](https://seths.blog/2003/06/naming_a_busine/)
  - [Read on Omnivore](https://omnivore.app/me/naming-a-business-seth-s-blog-19252738383)
  - Tags:  #Business  #Business_Analysis 
