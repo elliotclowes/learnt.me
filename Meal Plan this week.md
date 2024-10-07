@@ -8,13 +8,13 @@
 	- Chili con carne
 - **Wednesday** (office)
 	- Huel
-	- 
+	- Chicken fajitas
 - **Thursday (Abigail in office)**
 	- ?
 	- Chicken breast fino pita
 - **Friday**
 	- ?
-	- Chicken fajitas
+	- Prime
 - **Saturday**
 	- Eggs, smoked salmon, toast
 	- Chili con carne
