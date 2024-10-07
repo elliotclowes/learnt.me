@@ -96,6 +96,8 @@ Townsend was liked by his fellow actors. He enjoyed the social life. But he had 
 
 On the second day of shooting, a few weeks before Aragorns scenes were due to be shot, Jackson told producer Barrie Osbourne ‘I don’t think I can work with Stuart. I don’t think it is going to work out’. He was fired. P174-176
 
+In the scene where the hobbits are in the Prancing Pony and Samwise says ‘that fellow has done nothing but stare at you since we’ve arrived’ there was no Aragorn there. He had been fired and a new one was yet to be cast. P177
+
 ---
 
 Sean Connery was offered the role of Gandalf. New Line wanted at least one big name in the film to help sell it to audiences. They offered him $6-10 million up front and then 15-20% of the gross. With the films eventually bringing in around $3 billion, Connery would have made at least $450 million. But after they sent him a script New Line and Jackson never heard back from him. They looked to Ian McKellen instead.
@@ -124,7 +126,7 @@ I very much agree. Gandalf doesn’t feel like a silly, whimsical wizard. He has
 
 ---
 
-For Boromir they met with a pre-[[Gladiator (2000)]] Russell Crowe and auditioned Daniel Craig. Bruce Willis, apparently a fan of the book, was suggested by New Line, but Jackson didn’t want him. They sent scripts to Liam Neeson, who turned down the role.
+For Boromir they met with a pre-[[Gladiator (2000)]] Russell Crowe and auditioned Daniel Craig. Bruce Willis, apparently a fan of the book, was suggested by New Line, but Jackson didn’t want him. They sent scripts to Liam Neeson, who turned down the role. Crowe turned it down because he did a ‘swords’ film a few months prior called [[Gladiator (2000)]], and he didn’t want to do another. 
 
 ---
 
@@ -157,5 +159,57 @@ But Thurman turned down the role. Years later on the Colbert show said said ‘I
 Vin Diesel sent a homemade audition tape of himself dressed up as Aragorn. P173
 
 ---
+
+> Jackson thought of going back to Crowe and between them Boyens and Walsh brought up Mortensen. They immediately plunged into his back catalogue Daylight, The Portrait of a Lady, G.I. Jane, A Perfect Murder-assured by the intensity of his blue eyes, chiselled cheekbones and the way he commanded your attention with minimal effort.
+> 
+'Fran's a great believer in fate,' says Boyens. 'The person who needs to play this role will come to us.'
+>
+He wasn't in any way British, but both Boyens and Jackson liked that his Scandinavian heritage chimed with the Nordic sagas from which Tolkien had drawn.
+>
+Everything about Mortensen seemed to add up. He was an actor for whom the idea of celebrity carried little value. He lived - and would place even further distance apart from Hollywood between them once the films had bequeathed him superstardom. He had romance written into the pages of his life. Born in New York raised in South America, schooled in the foothills of Argentina, returning to graduate from a New York high school, then off to find a purpose in the Denmark of his father's upbringing. There he took to writing poetry and short stories, odd jobbing as a dockworker and selling flowers. Back then to New York and acting classes, before moving to Los Angeles where a small part in Witness began a career in earnest. During which time he never stopped filling his mind and soul with music (he possesses a fine singing voice), photography, painting and publishing books of his own pictures and poetry.
+
+This is before you considered his outdoor side. How he loved to lose himself in the wilderness for days, ride horses, fish, sleep beneath the stars and generally unbuckle himself from civilization. On his mother's side he was related to Buffalo Bill. If he had a credo, then it was 'go see for yourself'. He spoke Danish, Spanish, French and English fluently, travelled the world, read the greats, including the Nordic and Icelandic sagas, and never wasted a word.
+
+To which one can only wonder why had they ever wanted anyone else to play Aragorn?
+
+'He cared, you know?' says Boyens. 'And he was really smart.
+
+Yeah, he was gorgeous, but beyond that he's a poet. He's a Renaissance man. All that physicality he did standing on his head. That's who he was. But the other stuff was just a gift. That he had that soul. That he loved language. That he was meticulous, even though sometimes to the point where it drove you crazy. We'd see Viggo coming at you with the book in his hand, and you'd go, "Oh God."
+
+***
+
+His agent warned that usually Viggo takes a long time with a script before deciding on a project. But they managed to hire Viggo in two days. And he was on camera within two days of landing in New Zealand.
+
+With Jackson on set there was phone call with with Boyens, Walsh and Viggo. He said ‘how old was I when I was taken to the Elves?’. ‘You were two’ replied Boyens. She took that question as a great sign. Both of his interest in the role, but also potential passion for it.
+
+The next phone call was with him and Jackson, who thought it was going terribly. Viggo has a glacial conversational pace, which the director wasn’t familiar with. So he thought he wasn’t interested. Only at the end of the conversation when he said ‘Well, I’ll guess I’ll see you next Tuesday’ did he realise he was interested.
+
+The budget for the films was $207 million. This went up to $211 million when Viggo was hired, as he would be payed more highly than Townsend was due to be. P180-182
+
+***
+
+After Viggo was hired there was fears from New Line that Liv Tyler was too young as a love interest for him. Jackson and co. explained that she’s an ageless Elf and Aragorn is a Numenorean who is very long lived. That’s how they convinced them it was okay. P182
+
+---
+
+Viggo arrived on day 12 of production. His first scene was where he explains what the Nazgûl are to the hobbies in the Prancing Pony. 
+
+Peter Jackson:
+
+> “When I saw that first scene he shot at the premiere I could see he was not yet Aragorn. He is sort of a Method-type guy who really likes to get into the head of a character. He was literally off the plane putting on Stuart's outfit. And he didn't complain, he knew what he was signing up for. But he hadn't found Aragorn yet. It is the scene where he is in the Prancing Pony bedroom, telling the hobbits about the Nazgûl. That scene was Day One of Viggo, and I remember thinking he hasn't got Aragorn yet. Have a look at it again in that context. Then we shot the stuff of him smoking in the corner. Weathertop was when he got into it completely.“ p183
+
+---
+
+The first shot filmed for the films was the hobbits dashing to hide from the Ringwraith behind the roots of a tree. The tree and its roots was a physical prop, brought to the location. Many fans look for it in vain. P184
+
+---
+
+The first day of filming was October 11 1999. Jackson hadn’t been on a shooting movie set for four years. P185 + 
+
+---
+
+
+
+
 
 

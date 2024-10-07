@@ -4,4 +4,4 @@
 - Visit Hobbiton and other [[The Lord of the Rings]] filming locations.
 - Visit the filming location from [[Gladiator (2000)]] where he’s walking through the field as he dies.
 	- https://vm.tiktok.com/ZGeqGPHDk/
-- Watch [[Withnail & I (1987)]] on a rainy night in a Lake District cottage. Whisky is 
+- Watch [[Withnail & I (1987)]] on a rainy night in a Lake District cottage. Whisky is required.
