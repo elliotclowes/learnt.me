@@ -1,7 +1,7 @@
 
 ## Switched from Dropbox to Syncthing
 [[2024-10-07]]
-I'm trying to switch from Dropbox to Syncthing. It will sync between my MacBook Pro, Mac mini and Zola (Unraid server). The data won't be accessable remotely on my phone.
+I'm trying to switch from Dropbox to Syncthing. It will sync between my MacBook Pro, Mac mini and Zola (Unraid server). The data won't be accessible remotely on my phone.
 
 ## [[Seafile]]
 [[2024-10-04]]
