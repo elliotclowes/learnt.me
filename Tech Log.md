@@ -1,6 +1,11 @@
 
+## Switched from Dropbox to Syncthing
+[[2024-10-07]]
+I'm trying to switch from Dropbox to Syncthing. It will sync between my MacBook Pro, Mac mini and Zola (Unraid server). The data won't be accessable offline or
+
 ## [[Seafile]]
 [[2024-10-04]]
+I tried this out. It was easy to set up. The UI is rather outdated. But I didn't really look too much into it as I couldn't download files (I think). They just wouldn't download in the browser.
 
 ## Getting rid of Dropbox, Backblaze, Linode and my small dedicated server
 [[2024-10-04]]
