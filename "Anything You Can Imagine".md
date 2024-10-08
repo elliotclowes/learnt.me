@@ -204,7 +204,7 @@ The first shot filmed for the films was the hobbits dashing to hide from the Rin
 
 ---
 
-The first day of filming was October 11 1999. Jackson hadn’t been on a shooting movie set for four years. P185 + 
+The first day of filming was October 11 1999. Jackson hadn’t been on a shooting movie set for four years. P185 + p187
 
 ---
 

@@ -1,5 +1,9 @@
 ## You
 
+At any given point in time there are dozens of things in the world you can point to as why it’s ’messed up’. It’s always been that way. Don’t use that as an excuse for despair. [[2024-10-07]]
+
+---
+
 Life as a whole doesn’t live up to the expectations you had for it as a youth. It’s disappointing. But if you can’t get over that and learn to find joy and fulfilment in small moments and wonders then it becomes doubly disappointing. [[2024-09-23]]
 
 ---

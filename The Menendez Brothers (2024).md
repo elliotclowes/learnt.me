@@ -1,0 +1,3 @@
+### [[2024-10-07]]
+
+This wasn’t quite as intriguing as I was hoping. It was a solidly and well put together documentary, running at two hours. But they didn’t seem to be much new here. Just a good overview. It will be less interesting to those who are already familiar with the case. The fact that they managed to get the Menendez brothers to narrate it via phone call interviews from jail was good, but didn’t elevate this documentary into anything outstanding.
