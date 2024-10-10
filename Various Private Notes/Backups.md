@@ -1,0 +1,44 @@
+- ## MacBook Pro
+	- **MacBook**
+		- Synology / Time Machine / MacBook
+	- **MacBook/elliotclowes**
+		- News Google Drive / Arq / MacBook
+	- **MacBook/elliotclowes/Dropbox**
+		- Mac mini / Syncthing / MacBook
+
+
+- ## Zola
+	- ### Backed Up
+		- **4K TV Transcoded**
+			- Ext 2310 / backups.sh / Mac mini
+		- **Concerts Transcoded**
+			- Ext 2310 / backups.sh / Mac mini
+		- **Files**
+			- Ext 2310 / backups.sh / Mac mini
+		- **Internet Videos**
+			- Ext 2310 / backups.sh / Mac mini
+		- **Movies**
+			- Synology / backups.sh / Mac mini
+		- **Music**
+			- Ext 2310 / backups.sh / Mac mini
+	- ### Not Backed Up
+		- Concerts
+		- Documentries
+		- Dropbox
+		- Handbrake
+		- Home Videos
+		- Lampard
+		- Movies 4K
+		- Movies Auto
+		- Mum TV
+		- Mum TV Transcoded
+		- Process
+		- Reality TV
+		- Reality TV Transcoded
+		- Sport
+		- Temp
+		- Torrents
+		- Torrents - old
+		- Transmission
+		- TV
+		- TV Transcoded
