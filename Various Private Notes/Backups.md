@@ -1,6 +1,7 @@
 - ## MacBook Pro
 	- **MacBook**
-		- Synology / Time Machine / MacBook
+		- SHR / Time Machine / MacBook
+		- Red1 / Time Machine / MacBook
 	- **MacBook/elliotclowes**
 		- News Google Drive / Arq / MacBook
 	- **MacBook/elliotclowes/Dropbox**
@@ -18,7 +19,7 @@
 		- **Internet Videos**
 			- Ext 2310 / backups.sh / Mac mini
 		- **Movies**
-			- Synology / backups.sh / Mac mini
+			- SHR / backups.sh / Mac mini
 		- **Music**
 			- Ext 2310 / backups.sh / Mac mini
 	- ### Not Backed Up
