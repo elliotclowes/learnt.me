@@ -208,8 +208,14 @@ The first day of filming was October 11 1999. Jackson hadn’t been on a shootin
 
 ---
 
+The code name for the film all throughout production was “Jamboree”.
 
+---
 
+> Ian Holm was amazed that between scenes small beads were loaded into the hip pocket of Bilbo's waistcoat to maintain the bagginess (or maybe that is 'bagginsiness') that has come from endless fiddling with the Ring. p191
 
+---
+
+Ian McKellen had days playing both Gandalf the grey and Gandalf the white.
 
 
