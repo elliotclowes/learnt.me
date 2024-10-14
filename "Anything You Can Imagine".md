@@ -216,6 +216,34 @@ The code name for the film all throughout production was “Jamboree”.
 
 ---
 
-Ian McKellen had days playing both Gandalf the grey and Gandalf the white.
+Ian McKellen had days playing both Gandalf the Grey and Gandalf the White. P191
+
+---
+
+The scene where Pippin makes the case to Aragorn about “second breakfast” was shot at Bog Pine Paddock.
+
+It was spring in NZ, but heavy snow started to fall. The Hobbit actors and Viggo got cold and wet. After the snow got worse the police told the production to finish for the day, much to the Hobbits relief. But not to Viggo’s. He was loving the weather and in his element. He had to be dragged away.
+
+Back in the warmth of the hotel the Hobbits started to relax and warm up, drinking red wine as their feet was taken off and costumes removed. Viggo refused though. He remained in costume, “prancing around the hotel lobby like a cat, startling other guests, hoping the snow would relent enough for them to finish the shot.” P195
+
+---
+
+As the Fellowship paddles through their journey the script originally has them fight off a Uruk-Hai attack, with arrows raining down, and a fight amongst some waterside ruins.
+
+However, an awful, awful storm had battered Queenstown. And the ruins has been ruined.
+
+So Jackson and co, wary of already running behind schedule, decided to just remove it from the script. P198-199
+
+During the same Queenstown storm, Sean Bean and Orlando Bloom shared a car for the drive down to the river shooting location. A landslide had blocked the road. And when they turned around the other side had been blocked by another landslide. Trapped on the road in awful condition and without phone signal, they were trapped.
+
+Luckily they spotted a small cottage. They knocked, and an old woman answered. She let them stay.
+
+It took four days and a helicopter to rescue them. P198-199
+
+---
+
+
+
+
 
 
