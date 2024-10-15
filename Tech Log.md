@@ -1,3 +1,11 @@
+## Mountain Duck
+[[2024-10-15]]
+I tried this, and it worked well and synced fast after I updated a file.
+
+But, it really blocks up the sidebar.
+
+Also, the Group Container for it used up 75 GB (basically all my free storage).
+
 
 ## Switched from Dropbox to Syncthing
 [[2024-10-07]]
