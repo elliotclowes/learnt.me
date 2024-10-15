@@ -1022,7 +1022,9 @@
 - 4420: Me Before You
 - 5110: The Notebook
 - 7500: When Harry Met Sally
-- 4020: American Gangster = 94
+- American Gangster
+	- H264: 7225 = 96
+	- Old: 4020 = 94
 - 5110: Donnie Brasco
 - 4870: Mean Streets
 - 2740: From Dusk Till Dawn
