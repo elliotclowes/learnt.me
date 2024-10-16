@@ -242,6 +242,27 @@ It took four days and a helicopter to rescue them. P198-199
 
 ---
 
+When bad weather caused them to be unable to shoot anything 8 weeks and with Ian McKellen not yet arrived on set they realised they could only shoot one thing: the dramatic scene on the Path of Cirith Ungol where Gollum turns Frodo against Sam.
+
+The convinced the hotel they were holed up in to allow them to take over the squash court for build the set. For Elijah and Sean Astin it was nerve racking. Not only were they having to shoot scenes from the last film, but they were some of the most dramatic scenes.
+
+They flipped a coin on how went first. So on day one they shot Sam’s scenes first, from Frodo’s POV. However, when day two and Frodo’s scenes arrived, the weather had cleared and they went back to Fellowship scenes.
+
+They convinced the hotel to let them leave their set on the squash court. It was a year later that they shot Frodo’s scenes.
+
+---
+
+They didn’t shoot the Shire scenes until the New Year. And as they needed to finish up there as soon as, they had to shot the scenes where the Hobbits return to the Shire in the last film. Including Sam getting married. Jackson said to Sean Astin: ‘You realise what we’re shooting won’t be seen for four years.’
+
+---
+
+Viggo took his sword home with him for Christmas break. Sean Astin said that in all the many months of shooting he never saw Viggo out of costume. 
+
+Viggo’s favourite spot to eat in New Zealand was The Green Parrot.
+
+---
+
+The small-scale Bag End set was kept by Jackson. He built it into his 1930s estate at Masterton. It’s a guest 
 
 
 
