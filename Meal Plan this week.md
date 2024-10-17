@@ -1,7 +1,7 @@
 
 
 - **Monday**
-	- Protein Yogurt
+	- Protein Yogurt / Fruit
 	- Bagel / Smoked Salmon / Horseradish / Cucumber / Capers / Crisps
 	- *LEFTOVERS*
 - **Tuesday**
@@ -9,12 +9,12 @@
 	- Scrambled Eggs / Smoked Salmon / Toast
 	- Chicken Fajitas
 - **Wednesday** (office)
-	- Greek Yogurt / Granola / Fruit / Fibre Bar
-	- Tuna Sandwich / Crisps
+	- Greek Yogurt / Fruit / Fibre Bar
+	- Tuna Sandwich / Cucumber / Crisps
 	- Chili con carne / Jacket Potato
 - **Thursday**
 	- [[The General Smoothie]]
-	- Steak / Jacket Potato / Broccoli
+	- Cheese Omelette
 	- CHOOSE
 - **Friday**
 	- Hummus / Crackers
@@ -32,23 +32,60 @@
 - **Monday**
 	- Protein Yogurt
 	- Tuna Sandwich / Crisps
-	- *LEFTOVERS*
+	- *LEFTOVERS* <<<<<<<<<
 - **Tuesday**
-	- [[The General Smoothie]]
+	- Fibre Bar
 	- Jacket / Tuna
 	- Nandos Chicken / Rice / Med Veg
 - **Wednesday** (office)
 	- Protein Yogurt / Fibre Bar
-	- Burrito
+	- Burrito <<<<<<<<<<
 	- Chicken Burger / Chips
 - **Thursday**
 	- [[The General Smoothie]]
 	- Jacket / Beans / Cheese
-	- *CHOOSE*
+	- *CHOOSE* <<<<<<<<
 - **Friday**
 	- Soup
 	- All-Bran
 	- Roast Dinner
+- **Saturday**
+	- *CHOOSE*
+	- Takeaway
+- **Sunday**
+	- *CHOOSE*
+	- *CHOOSE*
+
+
+
+## This week
+
+- **Sunday**
+	- Eating out
+	- *CHOOSE*
+
+
+
+- **Monday**
+	- Protein Yogurt
+	- Tuna Sandwich / Crisps
+	- Chicken Burger / Chips
+- **Tuesday**
+	- Fibre Bar
+	- Jacket / Tuna
+	- Beef Stew with roast potatoes
+- **Wednesday** (office)
+	- Protein Yogurt / Fibre Bar
+	- Eggs on toast
+	- Beef stew leftovers with mash
+- **Thursday**
+	- [[The General Smoothie]]
+	- Jacket / Beans / Cheese
+	- Nandos Chicken / Home made chips / Med Veg
+- **Friday**
+	- Soup
+	- All-Bran
+	- Freezer stuff OR Sausages / Mash
 - **Saturday**
 	- *CHOOSE*
 	- Takeaway
