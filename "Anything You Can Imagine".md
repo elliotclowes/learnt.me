@@ -262,7 +262,11 @@ Viggo’s favourite spot to eat in New Zealand was The Green Parrot.
 
 ---
 
-The small-scale Bag End set was kept by Jackson. He built it into his 1930s estate at Masterton. It’s a guest 
+The small-scale Bag End set was kept by Jackson. He built it into his 1930s estate at Masterton. It’s a guest house for any small people who visit his home.
+
+---
+
+
 
 
 
