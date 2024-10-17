@@ -1,8 +1,8 @@
 ## Week 1
 
 ### [Monday](https://www.myfitnesspal.com/food/diary/ejclowes?date=2023-08-07)
-- All-Bran + Banana
-- [[Sesame Glazed Salmon]] + [[The General Smoothie]]
+- All-Bran / Banana
+- [[Sesame Glazed Salmon]] / [[The General Smoothie]]
 
 
 ### Week 1
@@ -61,13 +61,13 @@ Shopping list week 1 (£80-£90)
 
 
 - **Monday (office)**
-	- Tuna sandwich + wholegrain crisps
-	- Turkey chili con carne + rice + broccoli (MAKE WEEK BEFORE)
+	- Tuna sandwich / wholegrain crisps
+	- Turkey chili con carne / rice / broccoli (MAKE WEEK BEFORE)
 - **Tuesday (wfh)**
 	- Eggs, smoked salmon, toast
 	- [[Sesame Glazed Salmon]] / Smoothie
 - **Wednesday (office)**
-	- Smoked Salmon Bagel + wholegrain crisps
+	- Smoked Salmon Bagel / wholegrain crisps
 	- Beef stew and mash
 - **Thursday (wfh)**
 	- Eggs, smoked salmon, toast / Smoothie
@@ -183,7 +183,7 @@ Shopping list week 1 (£80-£90)
 ### Week 6
 
 - **Monday (office)**
-	- Protein shake + fibre bar
+	- Protein shake / fibre bar
 	- Chicken burrito
 	- 
 - **Tuesday (wfh)**
@@ -191,14 +191,14 @@ Shopping list week 1 (£80-£90)
 	- Eggs, smoked salmon, toast
 	- 
 - **Wednesday (office)**
-	- Protein shake + fibre bar
+	- Protein shake / fibre bar
 	- Chicken burrito
 	- 
 - **Thursday (wfh)**
 	- Nuts, greek yogurt
 	- 
 - **Friday (office)**
-	- Protein shake + fibre bar
+	- Protein shake / fibre bar
 	- Chicken burrito
 	- Spaghetti bolognese
 - **Saturday**
@@ -211,23 +211,20 @@ Shopping list week 1 (£80-£90)
 **Dinner**
 - Turkey breast and bacon salad with coleslaw and roast potatoes
 - Minced meat in a pitta (Greek thing)
-- Chicken burger and home made chips
-- Chicken fajitas
-- [[Sesame Glazed Salmon]] ✔ ✔ ✔
-- Turkey chili con carne and rice/jacket ✔ ✔ ✔
-- Mackerel and rice ✔
-- Chickpea curry
+- Chicken burger and home made chips ✅
+- [[Sesame Glazed Salmon]]
+- Turkey chili con carne and rice/jacket 
+- Mackerel and rice 
 - Chicken thigh fillet roast dinner  🍁
 - Roast dinner  🍁
 - Cottage Pie (swap out stew?)
-- Chicken thigh fillet fino pita ✔ ✔
+- Chicken thigh fillet fino pita 
 - Beef stew and mash  🍁
-- Chicken burrito (with avocado) ✔ ✔ ✔
-- Steak and potato/chips ✔
-- Spag bowl ✔ ✔
+- Steak and potato/chips  ✅
+- Spag bowl 
 - Pasta dish with bacon and egg
 - Steak pie 🍁
-- Chicken thigh fillets and med veg ✔
+- Chicken thigh fillets and med veg 
 - Lamb shank 🍁
 - Chicken burger (frozen Iceland southern fried)
 - Sausages and mash 🍁
@@ -235,37 +232,41 @@ Shopping list week 1 (£80-£90)
 - Lancashire hotpot 🍁
 - Lasagne
 - Fry-up 🍁
+- Chicken fajitas ✅
+- Nandos Chicken / Rice ✅
 
 **Breakfast/lunch**
 - Beans on toast 🍁
 - Spam and egg muffins
 - Spam and vegetable omlette
-- Ham and vegetable omelette (WEEK 4)
+- Ham and vegetable omelette
 - Vegetable omelette
-- Greek yogurt granola bowl ✔ ✔
+- Greek Yogurt / Granola / Fruit ✅
 - Greek yogurt, nuts, berries
 - Overnight oats (for work)
 - Eggs on toast with turkey bacon
-- Peanut butter toast/sandwich ✔
+- Peanut butter toast/sandwich
 - Ham and cheese toastie (grilled cheese) 🍁
-- Tuna sandwich ✔
-- Smoked salmon bagel ✔
-- Eggs, smoked salmon, toast ✔ ✔
+- Tuna Sandwich / Crisps
+- Bagel / Smoked Salmon / Horseradish / Cucumber / Capers ✅
+- Scrambled Eggs / Smoked Salmon / Toast ✅
 - Jacket potato, cheese, beans 🍁
-- All-bran  ✔ ✔
-- Feta salad ✔ ✔
+- All-bran 
+- Feta salad
 - Jacket potato, spam, beans 🍁
-- Tuna jacket ✔
+- Tuna jacket
 - [[Black Bean Soup]] 🍁
 - Halloumi, smoked salmon, avocado, eggs, toast
 - [[Ploughman's lunch]]
+- Burrito ✅
 
 **Snacks**
-- Smoothie ✔ ✔ ✔ ✔ ✔
-- Hummus ✔ ✔
+- Smoothie ✅
+- Hummus
 - Dark Chocolate
 - Kimchi
-- Protein yogurt
+- Protein yogurt ✅
 - Porridge
-- Protein shake ✔
-- Fibre bar
+- Protein shake
+- Fibre bar ✅
+- Nuts ✅

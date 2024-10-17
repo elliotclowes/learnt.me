@@ -1,24 +1,57 @@
 
+
 - **Monday**
-	- Greek yogurt, fruit, etc.
-	- Chicken breast fino pita
-		- Abigail: with sweet potato
+	- Protein Yogurt
+	- Bagel / Smoked Salmon / Horseradish / Cucumber / Capers / Crisps
+	- *LEFTOVERS*
 - **Tuesday**
-	- ?
-	- Chili con carne
+	- [[The General Smoothie]]
+	- Scrambled Eggs / Smoked Salmon / Toast
+	- Chicken Fajitas
 - **Wednesday** (office)
-	- Huel
-	- Chicken fajitas
-- **Thursday (Abigail in office)**
-	- ?
-	- Chicken breast fino pita
+	- Greek Yogurt / Granola / Fruit / Fibre Bar
+	- Tuna Sandwich / Crisps
+	- Chili con carne / Jacket Potato
+- **Thursday**
+	- [[The General Smoothie]]
+	- Steak / Jacket Potato / Broccoli
+	- Chili con carne / Jacket Potato
 - **Friday**
-	- ?
-	- Prime
+	- Hummus / Crackers
+	- Burrito
+	- Fry-up
 - **Saturday**
-	- Eggs, smoked salmon, toast
-	- Chili con carne
+	- *CHOOSE*
+	- Takeaway
 - **Sunday**
-	- Eggs, smoked salmon, toast
-	- Chicken burger and wedges
-	- test
+	- *CHOOSE*
+	- *CHOOSE*
+
+
+
+- **Monday**
+	- Protein Yogurt
+	- Tuna Sandwich / Crisps
+	- *LEFTOVERS*
+- **Tuesday**
+	- [[The General Smoothie]]
+	- Jacket / Tuna
+	- Nandos Chicken / Rice / Med Veg
+- **Wednesday** (office)
+	- Protein Yogurt / Fibre Bar
+	- Burrito
+	- Chicken Burger / Chips
+- **Thursday**
+	- [[The General Smoothie]]
+	- Jacket / Beans / Cheese
+	- *CHOOSE*
+- **Friday**
+	- Soup
+	- All-Bran
+	- Roast Dinner
+- **Saturday**
+	- *CHOOSE*
+	- Takeaway
+- **Sunday**
+	- *CHOOSE*
+	- *CHOOSE*

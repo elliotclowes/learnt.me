@@ -1,19 +1,39 @@
+- - ### V2
+	- **06:00**: 🛏️ Wake up. Water. Stretch.
+	- **06:05**: 🥾 Walk.
+	- **06:35**: ☕️ Brew [[coffee]].
+	- **06:45**: 📖 Read.
+	- **07:45**: 📝 Review reading notes. Anki revision. Readwise review.
+	- **08:15**: 🎧 Focus work time.
+	- **09:20**: 📑 [[Review & Preview]].
+	- **09:45**: 📞 Stand-up meeting.
+	- **10:00**: 🍽️ Eat.
+	- **10:10**: 🎧 Focus + meetings.
+	- **13:30**: 🍽️ Eat.
+	- 14:00: Coffee, with a tiny bit of caffeine.
+	- **14:00**: ✅ Smaller tasks and email/Slack processing.
+	- **16:00**: 🖥️ Finish work, start personal tasks.
+	- **17:00**: 🚿 Shower.
+	- **18:45**: 🍽️ Eat.
+	- **19:35**: 📺 Film/TV. Free time.
+	- **22:00**: 📖 Read. Meditation.
+	- **22:30**: 😴 Sleep.
 - ### V1
-- **06:00**: 🛏️ Wake up. Water. Stretch.
-- **06:05**: 🥾 Walk.
-- **06:35**: ☕️ Brew [[coffee]].
-- **06:45**: 📖 Read.
-- **07:45**: 📝 Review reading notes. Anki revision. Readwise review.
-- **08:15**: 🎧 Focus work time.
-- **09:20**: 📑 [[Review & Preview]].
-- **09:45**: 📞 Stand-up meeting.
-- **10:00**: 🍽️ Eat.
-- **10:10**: 🎧 Focus + meetings.
-- **13:30**: 🍽️ Eat.
-- **14:00**: ✅ Smaller tasks and email/Slack processing.
-- **16:00**: 🖥️ Finish work, start personal tasks.
-- **17:00**: 🚿 Shower.
-- **18:45**: 🍽️ Eat.
-- **19:35**: 📺 Film/TV. Free time.
-- **22:00**: 📖 Read. Meditation.
-- **22:30**: 😴 Sleep.
+	- **06:00**: 🛏️ Wake up. Water. Stretch.
+	- **06:05**: 🥾 Walk.
+	- **06:35**: ☕️ Brew [[coffee]].
+	- **06:45**: 📖 Read.
+	- **07:45**: 📝 Review reading notes. Anki revision. Readwise review.
+	- **08:15**: 🎧 Focus work time.
+	- **09:20**: 📑 [[Review & Preview]].
+	- **09:45**: 📞 Stand-up meeting.
+	- **10:00**: 🍽️ Eat.
+	- **10:10**: 🎧 Focus + meetings.
+	- **13:30**: 🍽️ Eat.
+	- **14:00**: ✅ Smaller tasks and email/Slack processing.
+	- **16:00**: 🖥️ Finish work, start personal tasks.
+	- **17:00**: 🚿 Shower.
+	- **18:45**: 🍽️ Eat.
+	- **19:35**: 📺 Film/TV. Free time.
+	- **22:00**: 📖 Read. Meditation.
+	- **22:30**: 😴 Sleep.
