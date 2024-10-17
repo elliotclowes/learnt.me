@@ -15,7 +15,7 @@
 - **Thursday**
 	- [[The General Smoothie]]
 	- Steak / Jacket Potato / Broccoli
-	- Chili con carne / Jacket Potato
+	- CHOOSE
 - **Friday**
 	- Hummus / Crackers
 	- Burrito
