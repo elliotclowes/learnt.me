@@ -62,7 +62,7 @@
 
 - **Sunday**
 	- Eating out
-	- *CHOOSE*
+	- ???
 
 
 
@@ -89,6 +89,30 @@
 - **Saturday**
 	- *CHOOSE*
 	- Takeaway
+- **Sunday**
+	- *CHOOSE*
+	- *CHOOSE*
+
+
+
+- **Monday**
+	- Tuna Sandwich / Crisps
+	- Chicken Burger / Chips
+- **Tuesday**
+	- Jacket / Tuna
+	- Beef Stew with roast potatoes
+- **Wednesday** (office)
+	- Eggs on toast
+	- Beef stew leftovers with mash
+- **Thursday**
+	- Jacket / Beans / Cheese
+	- Nandos Whole Chicken / Home made chips / Med Veg
+- **Friday**
+	- Soup / Bread
+	- Freezer stuff OR Sausages / Mash
+- **Saturday**
+	- *CHOOSE*
+	- Takeawayd
 - **Sunday**
 	- *CHOOSE*
 	- *CHOOSE*
