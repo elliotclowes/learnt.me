@@ -14,8 +14,13 @@
 
 ## New York
 
+### Flight
+
+[Flight](https://www.kayak.co.uk/flights/LON-NYC/2025-01-29/2025-02-05?fs=fdDir=true;stops=~0&sort=bestflight_a)
+
 ### Hotel
 
 - [The Beekman Tower, Trademark Collection by Wyndham](https://www.kayak.co.uk/hotels/The-Beekman-Tower,Trademark-Collection-by-Wyndham,New-York-p59560-h848675-details/2025-01-29/2025-02-05/2adults?psid=dQGEJQJCXX&pm=totaltaxes#overview): £946
+- [The William](https://www.kayak.co.uk/hotels/The-William-powered-by-Sonder,New-York-p59560-h2071861-details/2025-01-02/2025-01-09/2adults?psid=dRFEMGs31J&pm=totaltaxes#overview): £816
 - [The Washington by LuxUrban](https://www.kayak.co.uk/hotels/The-Washington-by-LuxUrban,New-York-p59560-h8136853-details/2025-01-29/2025-02-05/2adults?psid=dQGEJQJCXX&pm=totaltaxes#overview): £785
 
