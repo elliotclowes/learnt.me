@@ -4,11 +4,9 @@
 	- I use AI quite a lot and think the cost is worth it, despite the high price.
 - **Linode**: $12/**mo** | $144/yr
 	- This for a small little server that a lot of my websites are hosted on (the other ones are hosted on AWS). I really hope I can stay with this plan for as long as possible because the next size up (that isn't just some extra RAM) would cost me about $28.
-- **Dropbox**: £10/**mo** | £120/yr
 - **OneProvider**: €11.50/**mo** | €138/yr
 - **iCloud+:** £9/**mo** | £108/yr
 - **Readwise**: $9/**mo** | $108/yr
-- **Backblaze**: $8.25/mo | $99/**yr**
 - **AWS**: £3-£6/**mo** | £36-£72/yr
 - **Obsidian**: $5/**mo** | $60/yr
 - **Micro.blog**: $5/**mo** | $60/yr
@@ -26,6 +24,8 @@
 
 ## Old
 
+- [[2024-10-22]] - **Backblaze**: $8.25/mo | $99/**yr**
+- [[2024-10-22]] - **Dropbox**: £10/**mo** | £120/yr
 - [[2024-09-27]] - **[Tinylytics](https://tinylytics.app/)**: $6/**mo** | $72/yr
 - [[2024-06-15]] - Linode: $8.40/mo
 	- I've had to upgrade to the $19/mo plan as my websites were going down as the server would often run out of RAM. It's a shame. I really wanted to avoid the price increase and I've been on the same plan for years. But when your websites are crashing you don't have a choice.

@@ -1,14 +1,13 @@
-- - ### V2
-	- **06:00**: 🛏️ Wake up. Water. Stretch.
-	- **06:05**: 🥾 Walk.
-	- **06:35**: ☕️ Brew [[coffee]].
-	- **06:45**: 📖 Read.
-	- **07:45**: 📝 Review reading notes. Anki revision. Readwise review.
-	- **08:15**: 🎧 Focus work time.
-	- **09:20**: 📑 [[Review & Preview]].
+- ### V2
+	- **07:00**: 🛏️ Wake up. Water. Stretch.
+	- **07:10**: 🥾 Walk.
+	- **07:35**: ☕️ Brew [[coffee]].
+	- **07:40**: 📖 Read.
+	- **08:25**: 📝 Think about day. Review reading notes. Anki revision. Readwise review.
+	- **08:45**: 📑 [[Review & Preview]]
+	- **09:15**: 🎧 AIT/Clickstream Work Review
 	- **09:45**: 📞 Stand-up meeting.
-	- **10:00**: 🍽️ Eat.
-	- **10:10**: 🎧 Focus + meetings.
+	- **10:00: 🎧 Work
 	- **13:30**: 🍽️ Eat.
 	- 14:00: Coffee, with a tiny bit of caffeine.
 	- **14:00**: ✅ Smaller tasks and email/Slack processing.
