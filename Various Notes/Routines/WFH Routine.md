@@ -7,7 +7,7 @@
 	- **08:45**: 📑 [[Review & Preview]]
 	- **09:15**: 🎧 AIT/Clickstream Work Review
 	- **09:45**: 📞 Stand-up meeting.
-	- **10:00: 🎧 Work
+	- **10:00:** 🎧 Work
 	- **13:30**: 🍽️ Eat.
 	- 14:00: Coffee, with a tiny bit of caffeine.
 	- **14:00**: ✅ Smaller tasks and email/Slack processing.
