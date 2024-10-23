@@ -1,4 +1,7 @@
 
+> “The real problem of humanity is the following: we have Paleolithic emotions, medieval institutions, and god-like technology.” — E. O. Wilson
+
+---
 
 
 > “Everything in moderation, including moderation.” – Oscar Wilde

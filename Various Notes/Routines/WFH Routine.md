@@ -1,4 +1,4 @@
-- ### V2
+- ### V1.1 - [[2024-10-22]]
 	- **07:00**: 🛏️ Wake up. Water. Stretch.
 	- **07:10**: 🥾 Walk.
 	- **07:35**: ☕️ Brew [[coffee]].
@@ -7,12 +7,11 @@
 	- **08:45**: 📑 [[Review & Preview]]
 	- **09:15**: 🎧 AIT/Clickstream Work Review
 	- **09:45**: 📞 Stand-up meeting.
-	- **10:00:** 🎧 Work
-	- **13:15**: 🍽️ Eat.
-	- 14:00: Coffee, with a tiny bit of caffeine.
-	- **14:00**: ✅ Smaller tasks and email/Slack processing.
-	- **16:00**: 🖥️ Finish work, start personal tasks.
-	- **17:00**: 🚿 Shower.
+	- **10:00:** 🖥️ Work
+	- **13:15:** 🍽️ Eat.
+	- **14:00:** Coffee, with a tiny bit of caffeine.
+	- **16:00**: 🖥️ Start personal to-dos.
+	- **16:30**: 🚿 Shower.
 	- **18:45**: 🍽️ Eat.
 	- **19:35**: 📺 Film/TV. Free time.
 	- **22:00**: 📖 Read. Meditation.
